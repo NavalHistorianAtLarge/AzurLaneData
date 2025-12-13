@@ -15,17 +15,17 @@
         {
           "id": "ceremonial",
           "label": "Ceremonial Crane",
-          "path": "assets/spine/zuikaku/zuikaku1.json"
+          "path": "assets/spine/zuikaku1/zuikaku1.json"
         },
         {
           "id": "wind",
           "label": "The Wind's True Name",
-          "path": "assets/spine/zuikaku/zuikaku2.json"
+          "path": "assets/spine/zuikaku2/zuikaku2.json"
         },
         {
           "id": "race",
           "label": "Zoom Like the Wind",
-          "path": "assets/spine/zuikaku3.json"
+          "path": "assets/spine/zuikaku3/zuikaku3.json"
         }
       ]
     },
@@ -50,5 +50,4 @@
       ]
     }
   ]
-
 }
