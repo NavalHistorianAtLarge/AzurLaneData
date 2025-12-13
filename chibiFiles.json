@@ -10,22 +10,22 @@
         {
           "id": "default",
           "label": "Default",
-          "path": "/chibi/assets/spine/zuikaku/zuikaku.json"
+          "path": "assets/spine/zuikaku/zuikaku.json"
         },
         {
           "id": "ceremonial",
           "label": "Ceremonial Crane",
-          "path": "/chibi/assets/spine/zuikaku/zuikaku1.json"
+          "path": "assets/spine/zuikaku/zuikaku1.json"
         },
         {
           "id": "wind",
           "label": "The Wind's True Name",
-          "path": "/chibi/assets/spine/zuikaku/zuikaku2.json"
+          "path": "assets/spine/zuikaku/zuikaku2.json"
         },
         {
           "id": "race",
           "label": "Zoom Like the Wind",
-          "path": "/chibi/assets/spine/zuikaku3.json"
+          "path": "assets/spine/zuikaku3.json"
         }
       ]
     },
@@ -35,7 +35,7 @@
         {
           "id": "default",
           "label": "Default",
-          "path": "/chibi/assets/spine/shoukaku/shoukaku.json"
+          "path": "assets/spine/shoukaku/shoukaku.json"
         }
       ]
     },
@@ -45,9 +45,10 @@
         {
           "id": "default",
           "label": "Default",
-          "path": "/chibi/assets/spine/regensburg/regensburg.json"
+          "path": "assets/spine/regensburg/regensburg.json"
         }
       ]
     }
   ]
+
 }
