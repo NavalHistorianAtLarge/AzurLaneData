@@ -3,7 +3,7 @@
     {
       "id": "IronBlood",
       "name": "Ironblood",
-      "logo": "/assets/logos/ironblood.png"
+      "logo": "takeThat/assets/logos/ironblood.png"
     },
     {
       "id": "Vichya",
@@ -78,6 +78,7 @@
   ]
 
 }
+
 
 
 
