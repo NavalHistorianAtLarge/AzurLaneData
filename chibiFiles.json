@@ -18,24 +18,82 @@
           "path": "assets/spine/zuikaku1/zuikaku1.json"
         },
         {
-          "id": "wind",
-          "label": "The Wind's True Name",
-          "path": "assets/spine/zuikaku2/zuikaku2.json"
-        },
-        {
           "id": "race",
           "label": "Zoom Like the Wind",
-          "path": "assets/spine/zuikaku3/zuikaku3.json"
+          "path": "assets/spine/zuikaku2/zuikaku2.json"
         }
       ]
     },
     {
       "name": "Shoukaku",
+      "faction": "sakura",
+      "type": "CV",
+      "group": "RCF",
+      "rarity": "SR",
       "skins": [
         {
           "id": "default",
           "label": "Default",
           "path": "assets/spine/shoukaku/shoukaku.json"
+        }
+      ]
+    },
+    {
+      "name": "Enterprise",
+      "faction": "Eagle",
+      "type": "CV",
+      "group": "RCF",
+      "rarity": "SR",
+      "skins": [
+        {
+          "id": "default",
+          "label": "Default",
+          "path": "assets/spine/enterprise/enterprise.json"
+        }, 
+        {
+          "id": "santa",
+          "label": "Reindeer Master",
+          "path": "assets/spine/enterprise1/enterprise1.json"
+        },
+        {
+          "id": "japan",
+          "label": "Blooming Peony",
+          "path": "assets/spine/enterprise2/enterprise2.json"
+        },
+        {
+          "id": "road",
+          "label": "Anniversary Ride",
+          "path": "assets/spine/enterprise3/enterprise3.json"
+        },
+        {
+          "id": "blueRay",
+          "label": "Soaring Wings of Freedoom",
+          "path": "assets/spine/enterprise4/enterprise4.json"
+        },
+        {
+          "id": "formal",
+          "label": "Heroic Finery",
+          "path": "assets/spine/enterprise5/enterprise5.json"
+        },
+        {
+          "id": "beach",
+          "label": "Wind Catcher",
+          "path": "assets/spine/enterprise6/enterprise6.json"
+        },
+        {
+          "id": "travel",
+          "label": "Bon Voyage",
+          "path": "assets/spine/enterprise7/enterprise7.json"
+        },
+        {
+          "id": "diver",
+          "label": "Diving Under Blue Skies",
+          "path": "assets/spine/enterprise8/enterprise8.json"
+        },
+        {
+          "id": "wedding",
+          "label": "Starlight Oath",
+          "path": "assets/spine/enterpriseh/enterpriseh.json"
         }
       ]
     },
