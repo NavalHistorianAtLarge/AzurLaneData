@@ -42,7 +42,6 @@
       "name": "Enterprise",
       "faction": "Eagle",
       "type": "CV",
-      "group": "RCF",
       "rarity": "SR",
       "skins": [
         {
@@ -108,4 +107,5 @@
       ]
     }
   ]
+
 }
