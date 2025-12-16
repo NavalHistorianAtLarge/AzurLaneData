@@ -8,19 +8,19 @@
       "rarity": "SR",
       "skins": [
         {
-          "id": "default",
+          "id": "zuikaku",
           "label": "Default",
-          "path": "assets/spine/zuikaku/zuikaku.json"
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/zuikaku/zuikaku.json"
         },
         {
-          "id": "ceremonial",
+          "id": "zuikaku1",
           "label": "Ceremonial Crane",
-          "path": "assets/spine/zuikaku1/zuikaku1.json"
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/zuikaku1/zuikaku1.json"
         },
         {
-          "id": "race",
+          "id": "zuikaku2",
           "label": "Zoom Like the Wind",
-          "path": "assets/spine/zuikaku2/zuikaku2.json"
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/zuikaku2/zuikaku2.json"
         }
       ]
     },
@@ -32,9 +32,9 @@
       "rarity": "SR",
       "skins": [
         {
-          "id": "default",
+          "id": "Shoukaku",
           "label": "Default",
-          "path": "assets/spine/shoukaku/shoukaku.json"
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/shoukaku/shoukaku.json"
         }
       ]
     },
@@ -46,54 +46,54 @@
       "rarity": "SR",
       "skins": [
         {
-          "id": "default",
+          "id": "Enterprise",
           "label": "Default",
-          "path": "assets/spine/enterprise/enterprise.json"
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enterprise/enterprise.json"
         }, 
         {
-          "id": "santa",
+          "id": "Enterprise1",
           "label": "Reindeer Master",
-          "path": "assets/spine/enterprise1/enterprise1.json"
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enterprise1/enterprise1.json"
         },
         {
-          "id": "japan",
+          "id": "Enterprise2",
           "label": "Blooming Peony",
-          "path": "assets/spine/enterprise2/enterprise2.json"
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enterprise2/enterprise2.json"
         },
         {
-          "id": "road",
+          "id": "Enterprise3",
           "label": "Anniversary Ride",
-          "path": "assets/spine/enterprise3/enterprise3.json"
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enterprise3/enterprise3.json"
         },
         {
-          "id": "blueRay",
+          "id": "Enterprise4",
           "label": "Soaring Wings of Freedoom",
-          "path": "assets/spine/enterprise4/enterprise4.json"
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enterprise4/enterprise4.json"
         },
         {
-          "id": "formal",
+          "id": "Enterprise5",
           "label": "Heroic Finery",
-          "path": "assets/spine/enterprise5/enterprise5.json"
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enterprise5/enterprise5.json"
         },
         {
-          "id": "beach",
+          "id": "Enterprise6",
           "label": "Wind Catcher",
-          "path": "assets/spine/enterprise6/enterprise6.json"
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enterprise6/enterprise6.json"
         },
         {
-          "id": "travel",
+          "id": "Enterprise7",
           "label": "Bon Voyage",
-          "path": "assets/spine/enterprise7/enterprise7.json"
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enterprise7/enterprise7.json"
         },
         {
-          "id": "diver",
+          "id": "Enterprise8",
           "label": "Diving Under Blue Skies",
-          "path": "assets/spine/enterprise8/enterprise8.json"
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enterprise8/enterprise8.json"
         },
         {
-          "id": "wedding",
+          "id": "EnterpriseH",
           "label": "Starlight Oath",
-          "path": "assets/spine/enterpriseh/enterpriseh.json"
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enterpriseh/enterpriseh.json"
         }
       ]
     },
@@ -103,7 +103,7 @@
         {
           "id": "default",
           "label": "Default",
-          "path": "assets/spine/regensburg/regensburg.json"
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/regensburg/regensburg.json"
         }
       ]
     }
