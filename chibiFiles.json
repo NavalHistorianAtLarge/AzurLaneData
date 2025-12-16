@@ -20,7 +20,7 @@
         {
           "id": "Zuikaku3",
           "label": "Zoom Like the Wind",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/zuikaku2/zuikaku3.json"
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/zuikaku3/zuikaku3.json"
         }
       ]
     },
@@ -110,3 +110,4 @@
   ]
 
 }
+
