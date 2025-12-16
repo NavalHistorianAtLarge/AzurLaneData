@@ -8,17 +8,17 @@
       "rarity": "SR",
       "skins": [
         {
-          "id": "zuikaku",
+          "id": "Zuikaku",
           "label": "Default",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/zuikaku/zuikaku.json"
         },
         {
-          "id": "zuikaku1",
+          "id": "Zuikaku1",
           "label": "Ceremonial Crane",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/zuikaku1/zuikaku1.json"
         },
         {
-          "id": "zuikaku2",
+          "id": "Zuikaku2",
           "label": "Zoom Like the Wind",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/zuikaku2/zuikaku2.json"
         }
@@ -42,6 +42,7 @@
       "name": "Enterprise",
       "faction": "Eagle",
       "type": "CV",
+      "group": "RCF",
       "rarity": "SR",
       "skins": [
         {
@@ -107,5 +108,4 @@
       ]
     }
   ]
-
 }
