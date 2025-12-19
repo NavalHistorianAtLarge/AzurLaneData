@@ -84,17 +84,16 @@
           "id": "Enterprise7",
           "label": "Bon Voyage",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enterprise7/enterprise7.json"
+        },{
+          "id": "EnterpriseH",
+          "label": "Starlight Oath",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enterpriseh/enterpriseh.json"
         },
         {
           "id": "Enterprise8",
           "label": "Diving Under Blue Skies",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enterprise8/enterprise8.json"
-        },
-        {
-          "id": "EnterpriseH",
-          "label": "Starlight Oath",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enterpriseh/enterpriseh.json"
-        }
+        }        
       ]
     },
     {
@@ -110,4 +109,5 @@
   ]
 
 }
+
 
