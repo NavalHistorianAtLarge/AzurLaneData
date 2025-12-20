@@ -1,0 +1,201 @@
+{
+  "factions": [
+    {
+      "id": "IronBlood",
+      "name": "Ironblood",
+      "logo": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/logos/ironblood.png"
+    },
+    {
+      "id": "Vichya",
+      "name": "Vichya Dominion",
+      "logo": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/logos/vichya.png"
+    },
+    {
+      "id": "IrisLibre",
+      "name": "Iris Libre",
+      "logo": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/logos/irisLibre.png"
+    },
+    {
+      "id": "IrisOrth",
+      "name": "Iris Orthodoxy",
+      "logo": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/logos/irisOrth.png"
+    },
+    {
+      "id": "Eagle",
+      "name": "Eagle Union",
+      "logo": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/logos/eagleUnion.png"
+    },
+    {
+      "id": "Sardegna",
+      "name": "Sardegna Empire",
+      "logo": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/logos/sardegna.png"
+    },
+    {
+        "id": "northParliament",
+        "name": "Northern Parliament",
+        "logo": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/logos/northParliament.png"
+    },
+    {
+        "id": "siren",
+        "name": "Anti-X",
+        "logo": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/logos/siren.png"
+    },
+    {
+        "id": "meta",
+        "name": "META",
+        "logo": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/logos/Meta.png"
+    },
+    {
+        "id": "tulipa",
+        "name": "Tulipa",
+        "logo": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/logos/tulipa.png"
+    },
+    {
+        "id": "sakura",
+        "name": "Sakura Empire",
+        "logo": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/logos/sakura.png"
+    },
+    {
+        "id": "royalNavy",
+        "name": "royalNavy",
+        "logo": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/logos/royalNavy.png"
+    },
+    {
+      "id": "tempesta",
+      "name": "Tempesta",
+      "logo": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/logos/tempesta.png"
+    },
+    {
+      "id": "china",
+      "name": "Dragon Empery",
+      "logo": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/logos/dragonEmpiry.png"
+    },
+    {
+      "id": "x",
+      "name": "X",
+      "logo": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/logos/X.png"
+    }
+  ],
+  "types": [
+    { 
+      "id": "DD",
+      "name": "Destroyer", 
+      "logo": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/logos/DD.png" 
+    },
+    {
+      "id": "BBV",
+      "name": "Aviation Battleship",
+      "logo": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/logos/BBV.png"
+    },
+    {
+      "id": "BM",
+      "name": "Moniter",
+      "logo": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/logos/BM.png"
+    },
+    {
+      "id": "CB",
+      "name": "Large Cruiser",
+      "logo": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/logos/CB.png"
+    },
+    {
+      "id": "SSV",
+      "name": "Submarine Carrier",
+      "logo": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/logos/SSV.png"
+    },
+    {
+      "id": "SF",
+      "name": "Sailing Frigate",
+      "logo": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/logos/SF.png"
+    },
+    {
+      "id": "AR",
+      "name": "Repair Ship",
+      "logo": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/logos/AR.png"
+    },
+    {
+      "id": "AE",
+      "name": "Munition Ship",
+      "logo": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/logos/AE.png"
+    },
+    { 
+      "id": "CL", 
+      "name": "Light Cruiser", 
+      "logo": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/logos/CL.png" 
+    },
+    { 
+      "id": "CA", 
+      "name": "Heavy Cruiser", 
+      "logo": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/logos/CA.png" 
+    },
+    { 
+      "id": "BB", 
+      "name": "Battleship", 
+      "logo": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/logos/BB.png" 
+    },
+    { 
+      "id": "BC", 
+      "name": "Battlecruiser", 
+      "logo": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/logos/BC.png" 
+    },
+    { 
+      "id": "CV", 
+      "name": "Carrier", 
+      "logo": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/logos/CV.png" 
+    },
+    { 
+      "id": "CVL", 
+      "name": "Light Carrier", 
+      "logo": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/logos/CVL.png" 
+    },
+    { 
+      "id": "SS", 
+      "name": "Submarine", 
+      "logo": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/logos/SS.png" 
+    }
+  ],
+  "rarity": [
+    {
+      "id": "N",
+      "name": "Normal",
+      "logo": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/logos/N.png"
+    },
+    {
+      "id": "R",
+      "name": "Rare",
+      "logo": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/logos/R.png"
+    },
+    {
+      "id": "E",
+      "name": "Elite",
+      "logo": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/logos/E.png"
+    },
+    {
+      "id": "SR",
+      "name": "Super Rare",
+      "logo": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/logos/SR.png"
+    },
+    {
+      "id": "UR",
+      "name": "Ultra-Rare",
+      "logo": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/logos/UR.png"
+    },
+    {
+      "id": "PR",
+      "name": "Priority",
+      "logo": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/logos/PR.png"
+    },
+    {
+      "id": "DR",
+      "name": "Decisive",
+      "logo": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/logos/DR.png"
+    }
+  ]
+}
+
+
+
+
+
+
+
+
