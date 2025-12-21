@@ -125,7 +125,7 @@
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/littleEnterprise/littleEnterprise.json"
         }
       ]
-    }
+    },
     {
       "name": "Regensburg",
       "skins": [
@@ -137,4 +137,5 @@
       ]
     }
   ]
+
 }
