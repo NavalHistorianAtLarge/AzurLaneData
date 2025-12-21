@@ -18,9 +18,9 @@
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/zuikaku1/zuikaku1.json"
         },
         {
-          "id": "Zuikaku3",
+          "id": "Zuikaku2",
           "label": "Zoom Like the Wind",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/zuikaku3/zuikaku3.json"
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/zuikaku2/zuikaku2.json"
         }
       ]
     },
@@ -35,6 +35,16 @@
           "id": "Shoukaku",
           "label": "Default",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/shoukaku/shoukaku.json"
+        },
+        {
+          "id": "Shoukaku1",
+          "label": "The Crane that Dances with the Wind",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/shoukaku1/shoukaku1.json"
+        },
+        {
+          "id": "ShoukakuH",
+          "label": "White Crane of Domestic Bliss",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/shoukakuh/shoukakuh.json"
         }
       ]
     },
@@ -84,18 +94,38 @@
           "id": "Enterprise7",
           "label": "Bon Voyage",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enterprise7/enterprise7.json"
-        },{
-          "id": "EnterpriseH",
-          "label": "Starlight Oath",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enterpriseh/enterpriseh.json"
         },
         {
           "id": "Enterprise8",
           "label": "Diving Under Blue Skies",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enterprise8/enterprise8.json"
-        }        
+        },
+        {
+          "id": "EnterpriseH",
+          "label": "Starlight Oath",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enterpriseh/enterpriseh.json"
+        },
+        {
+          "id":"EnterpriseBox",
+          "label": "Enterprise Game",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enterpriseBox/enterpriseBox.json"
+        }
       ]
     },
+    {
+      "name": "Little Enterprise",
+      "faction": "Eagle",
+      "type": "CV",
+      "group": "littles",
+      "rarity": "SR",
+      "skins": [
+        {
+          "id": "LittleEnterprise",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/littleEnterprise/littleEnterprise.json"
+        }
+      ]
+    }
     {
       "name": "Regensburg",
       "skins": [
@@ -107,7 +137,4 @@
       ]
     }
   ]
-
 }
-
-
