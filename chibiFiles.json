@@ -3,7 +3,12 @@
     {
       "name": "Zuikaku",
       "faction": "sakura",
+      "hanzi": "鹤",
+      "hanziMeaning": "crane",
+      "kanji": "瑞鶴",
+      "fileName": "ruihe",
       "type": "CV",
+      "class": "Shoukaku",
       "group": "RCF",
       "rarity": "SR",
       "skins": [
@@ -27,6 +32,11 @@
     {
       "name": "Shoukaku",
       "faction": "sakura",
+      "hanzi": "鹬",
+      "hanziMeaning": "sandpiper",
+      "kanji": "翔鶴",
+      "fileName": "xianghe",
+      "class": "Shoukaku",
       "type": "CV",
       "group": "RCF",
       "rarity": "SR",
@@ -51,6 +61,11 @@
     {
       "name": "Enterprise",
       "faction": "Eagle",
+      "hanzi": "企业",
+      "hanziMeaning": "enterprise",
+      "kanji": "企业",
+      "fileName": "qiye",
+      "class": "Yorktown",
       "type": "CV",
       "group": "RCF",
       "rarity": "SR",
@@ -115,9 +130,13 @@
     {
       "name": "Little Enterprise",
       "faction": "Eagle",
+      "hanzi": "小企业",
+      "hanziMeaning": "small enterprise",
+      "fileName": "qiye_younv",
+      "class": "Yorktown",
       "type": "CV",
       "group": "littles",
-      "rarity": "SR",
+      "rarity": "E",
       "skins": [
         {
           "id": "LittleEnterprise",
@@ -127,15 +146,165 @@
       ]
     },
     {
+      "name": "Enterprise META",
+      "faction": "META",
+      "metaGroup": "torch",
+      "rarity": "MUR",
+      "type": "CV",
+      "group": "WorldAlphaSurvivors",
+      "skins": [
+        {
+          "id": "EnterpriseMETA",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enterpriseMETA/entepriseMETA.json"
+        }
+      ]
+
+
+    },
+    {
       "name": "Regensburg",
+      "faction": "IronBlood",
+      "hanzi": "雷根斯堡",
+      "hanziMeaning": "phonetic",
+      "kanji" : "雷根斯堡",
+      "fileName": "leigensibao",
+      "rarity": "SR",
+      "class": "GermanM",
+      "type": "CL",
+      "group": "namedRiggings",
+      "riggingName": "Regina",
       "skins": [
         {
           "id": "default",
           "label": "Default",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/regensburg/regensburg.json"
+        },
+        {
+          "id": "Regensburg1",
+          "label": "The Dark Dragon's Dungeon",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/regensburg1/regensburg1.json"
+        }
+      ]
+    },
+    {
+      "name": "Akagi",
+      "faction": "Sakura",
+      "class": ["Akagi", "Amagi"],
+      "type": "CV",
+      "rarity": "SR",
+      "hanzi": "凰",
+      "hanziMeaning": "phoenix",
+      "kanji": "赤城",
+      "fileName": "chicheng",
+      "group": "Akagi",
+      "skins": [
+        {
+          "name": "akagi",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/akagi/akagi.json"
+        },
+        {
+          "name": "Akagi1",
+          "label": "Paradise Amaryllis",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/akagi1/akagi1.json"
+        },
+        {
+          "name": "Akagi2",
+          "label": "Plum and Snow",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/akagi2/akagi2.json"
+        },
+        {
+          "name": "Akagi3",
+          "label": "Ruby-Laced Beauty",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/akagi3/akagi3.json"
+        },
+        {
+          "name": "Akagi4",
+          "label": "Dawn-Phoenix's Summons",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/akagi4/akagi4.json"
+        },
+        {
+          "name": "Akagi5",
+          "label": "Precipice of Sweetness",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/akagi5/akagi5.json"
+        },
+        {
+          "name": "AkagiH",
+          "label": "Deep Crimson Poppy",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/akagih/akagih.json"
+        }
+      ]
+    },
+    {
+      "name": "Akagi Muse",
+      "faction": "sakura",
+      "class": ["Akagi", "Amagi"],
+      "type": "CV",
+      "rarity": "SR",
+      "hanzi": "凰",
+      "hanziMeaning": "phoenix",
+      "kanji": "赤城",
+      "fileName": "chicheng idol",
+      "group": "muse",
+      "skins": [
+        {
+          "name": "AkagiMuse",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/akagiM/akagiM.json"
+        }
+      ]
+    },
+    {
+      "name": "Akagi-chan",
+      "faction": "sakura",
+      "class": ["Akagi", "Amagi"],
+      "type": "CV",
+      "rarity": "E",
+      "hanzi": "小凰",
+      "hanziMeaning": "little phoenix",
+      "fileName": "chicheng younv",
+      "kanji": "赤城ちゃん",
+      "group": "littles",
+      "skins": [
+        {
+          "name": "Akagi-chan",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/akagichan/akagichan.json"
+        }
+     ]
+    },
+    {
+      "name": "Akagi META",
+      "faction": "META",
+      "class": ["Akagi", "Amagi"],
+      "type": "CV",
+      "rarity": "MUR",
+      "hanzi": "凰",
+      "hanziMeaning": "phoenix",
+      "kanji": "赤城",
+      "fileName": "chicheng",
+      "group": "WorldAlphaSurvivors",
+      "skins": [
+        {
+          "name": "AkagiMETA",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/akagiMETA/akagiMETA.json"
+        }
+      ]
+    },
+    {
+      "name": "Spawn of Corruption - Crimson",
+      "faction": "X",
+      "type": "CV",
+      "group": "amagiX",
+      "skins": [
+        {
+          "name": "AkagiX",
+          "label": "Spawn of Courruption - Crimson",
+          "path":"https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/akagiX/akagiX.json"
         }
       ]
     }
   ]
-
 }
