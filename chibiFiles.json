@@ -200,7 +200,7 @@
       "group": "Akagi",
       "skins": [
         {
-          "name": "akagi",
+          "name": "Akagi",
           "label": "Default",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/akagi/akagi.json"
         },
@@ -307,4 +307,5 @@
       ]
     }
   ]
+
 }
