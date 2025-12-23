@@ -156,7 +156,7 @@
         {
           "id": "EnterpriseMETA",
           "label": "Default",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enterpriseMETA/entepriseMETA.json"
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enterpriseMETA/enterpriseMETA.json"
         }
       ]
 
@@ -309,3 +309,4 @@
   ]
 
 }
+
