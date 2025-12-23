@@ -200,37 +200,37 @@
       "group": "Akagi",
       "skins": [
         {
-          "name": "Akagi",
+          "id": "akagi",
           "label": "Default",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/akagi/akagi.json"
         },
         {
-          "name": "Akagi1",
+          "id": "Akagi1",
           "label": "Paradise Amaryllis",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/akagi1/akagi1.json"
         },
         {
-          "name": "Akagi2",
+          "id": "Akagi2",
           "label": "Plum and Snow",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/akagi2/akagi2.json"
         },
         {
-          "name": "Akagi3",
+          "id": "Akagi3",
           "label": "Ruby-Laced Beauty",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/akagi3/akagi3.json"
         },
         {
-          "name": "Akagi4",
+          "id": "Akagi4",
           "label": "Dawn-Phoenix's Summons",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/akagi4/akagi4.json"
         },
         {
-          "name": "Akagi5",
+          "id": "Akagi5",
           "label": "Precipice of Sweetness",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/akagi5/akagi5.json"
         },
         {
-          "name": "AkagiH",
+          "id": "AkagiH",
           "label": "Deep Crimson Poppy",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/akagih/akagih.json"
         }
@@ -249,7 +249,7 @@
       "group": "muse",
       "skins": [
         {
-          "name": "AkagiMuse",
+          "id": "AkagiMuse",
           "label": "Default",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/akagiM/akagiM.json"
         }
@@ -268,7 +268,7 @@
       "group": "littles",
       "skins": [
         {
-          "name": "Akagi-chan",
+          "id": "Akagi-chan",
           "label": "Default",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/akagichan/akagichan.json"
         }
@@ -287,7 +287,7 @@
       "group": "WorldAlphaSurvivors",
       "skins": [
         {
-          "name": "AkagiMETA",
+          "id": "AkagiMETA",
           "label": "Default",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/akagiMETA/akagiMETA.json"
         }
@@ -300,12 +300,11 @@
       "group": "amagiX",
       "skins": [
         {
-          "name": "AkagiX",
+          "id": "AkagiX",
           "label": "Spawn of Courruption - Crimson",
           "path":"https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/akagiX/akagiX.json"
         }
       ]
     }
   ]
-
 }
