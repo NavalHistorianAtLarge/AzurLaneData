@@ -159,8 +159,6 @@
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enterpriseMETA/enterpriseMETA.json"
         }
       ]
-
-
     },
     {
       "name": "Regensburg",
@@ -305,8 +303,79 @@
           "path":"https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/akagiX/akagiX.json"
         }
       ]
+    },
+    {
+      "name": "Kaga",
+      "class": "Kaga",
+      "faction": "sakura",
+      "hanzi": "",
+      "hanziMeaning": "bird related to a phoenix",
+      "kanji": "加贺",
+      "fileName": "jiahe",
+      "group": "Akagi",
+      "rarity": "SR",
+      "type": "CV",
+      "skins": [
+        {
+          "id": "Kaga",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kaga/kaga.json"
+        },
+        {
+          "id": "Kaga1",
+          "label": "Everlasting Killing Stone",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kaga1/kaga1.json"
+        },
+        {
+          "id": "Kaga2",
+          "label": "White Fox's New Year",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kaga2/kaga2.json"
+        },
+        {
+          "id": "Kaga3",
+          "label": "Exalted White Wings",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kaga3/kaga3.json"
+        },
+        {
+          "id": "Kaga4",
+          "label": "Gentle Blossom's Sigh",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kaga4/kaga4.json"
+        }, 
+        {
+          "id": "Kaga5",
+          "label": "Dusk-Simurgh's Vigil",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kaga5/kaga5.json"
+        },
+        {
+          "id": "Kaga6",
+          "label": "Snowsilk Fox Dance",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kaga6/kaga6.json" 
+        },
+        {
+          "id": "KagaH",
+          "label": "Sacred Blue Lily",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kagah/kagah.json"
+        }
+      ]
+    },
+    {
+      "name": "Akatsuki",
+      "class": "Kageros",
+      "faction": "Sakura",
+      "group": "Zuikaku",
+      "hanzi": "苓",
+      "hanziMeaning": "fungus, tuber",
+      "type": "DD",
+      "kanji": "野分",
+      "fileName": "yefen",
+      "rarity": "E",
+      "skins": [
+        {
+          "id": "Nowaki",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/nowaki/nowaki.json"
+        }
+      ]
     }
-  ]
-
+  ] 
 }
-
