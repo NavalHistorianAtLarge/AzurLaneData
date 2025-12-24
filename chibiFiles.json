@@ -187,7 +187,7 @@
     },
     {
       "name": "Akagi",
-      "faction": "Sakura",
+      "faction": "sakura",
       "class": ["Akagi", "Amagi"],
       "type": "CV",
       "rarity": "SR",
@@ -361,7 +361,7 @@
     {
       "name": "Akatsuki",
       "class": "Kageros",
-      "faction": "Sakura",
+      "faction": "sakura",
       "group": "Zuikaku",
       "hanzi": "苓",
       "hanziMeaning": "fungus, tuber",
