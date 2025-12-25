@@ -434,7 +434,7 @@
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/ise/ise.json"
         },
         {
-          "id": "Iseg",
+          "id": "IseG",
           "label": "Retrofit",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/iseg/iseg.json"
         }
@@ -458,7 +458,7 @@
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hyuuga/hyuuga.json"
         },
         {
-          "id": "Hyuugag",
+          "id": "HyuugaG",
           "label": "Retrofit",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hyuugag/hyuugag.json"
         }
