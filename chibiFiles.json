@@ -362,7 +362,7 @@
       "name": "Nowaki",
       "class": "Kagero",
       "faction": "sakura",
-      "group": "Zuikaku",
+      "group": ["RCF","Zuikaku"],
       "hanzi": "苓",
       "hanziMeaning": "fungus, tuber",
       "type": "DD",
@@ -374,6 +374,93 @@
           "id": "Nowaki",
           "label": "Default",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/nowaki/nowaki.json"
+        }
+      ]
+    },
+    {
+      "name": "Akatsuki",
+      "class": "Fubuki",
+      "subclass": "Akatsuki",
+      "faction": "sakura",
+      "hanzi": "枫",
+      "hanziMeaning": "maple",
+      "kanji": "暁",
+      "fileName": "xiao",
+      "rarity": "",
+      "group": ["RCF", "Zuikaku"],
+      "skins": [
+        {
+          "id": "Akatsuki",
+          "label": "Akatsuki",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/akatsuki/akatsuki.json"
+        },
+        {
+          "id": "Akatsuki1",
+          "label": "Akatsuki Goes North",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/akatsuki1/akatsuki1.json"
+        },
+        {
+          "id": "Akatsuki2",
+          "label": "Motoninja Akatsuki",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/akatsuki2/akatsuki2.json"
+        },
+        {
+          "id": "Akatsuki3",
+          "label": "Santa's Lost Helper!",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/akatsuki3/akatsuki3.json"
+        },
+        {
+          "id": "Akatsuki4",
+          "label": "Cirque de Ninjutsu!",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/akatsuki4/akatsuki4.json"
+        }
+      ]
+    },
+    {
+      "name": "Ise",
+      "faction": "sakura",
+      "class": "Ise",
+      "group": ["RCF", "Zuikaku"],
+      "hanzi": "鳌",
+      "hanziMeaning": "large mythical sea turtle",
+      "kanji": "伊勢",
+      "fileName": "yishi",
+      "rarity": "R",
+      "type": ["BB", "BBV"],
+      "skins": [
+        {
+          "id": "ise",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/ise/ise.json"
+        },
+        {
+          "id": "iseg",
+          "label": "Retrofit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/iseg/iseg.json"
+        }
+      ]
+    },
+    {
+      "name": "Hyuuga",
+      "class": "Ise",
+      "faction": "sakura",
+      "group": ["RCF", "Zuikaku"],
+      "hanzi": "螯",
+      "hanziMeaning": "pincer, claw",
+      "kanji": "日向",
+      "fileName": "rixiang",
+      "rarity": "R",
+      "type": ["BB", "BBV"],
+      "skins": [
+        {
+          "id": "hyuuga",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hyuuga/hyuuga.json"
+        },
+        {
+          "id": "hyuugag",
+          "label": "Retrofit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hyuugag/hyuugag.json"
         }
       ]
     }
