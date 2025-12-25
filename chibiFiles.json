@@ -386,7 +386,7 @@
       "hanziMeaning": "maple",
       "kanji": "暁",
       "fileName": "xiao",
-      "rarity": "",
+      "rarity": "R",
       "group": ["RCF", "Zuikaku"],
       "skins": [
         {
@@ -429,12 +429,12 @@
       "type": ["BB", "BBV"],
       "skins": [
         {
-          "id": "ise",
+          "id": "Ise",
           "label": "Default",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/ise/ise.json"
         },
         {
-          "id": "iseg",
+          "id": "Iseg",
           "label": "Retrofit",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/iseg/iseg.json"
         }
@@ -453,12 +453,12 @@
       "type": ["BB", "BBV"],
       "skins": [
         {
-          "id": "hyuuga",
+          "id": "Hyuuga",
           "label": "Default",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hyuuga/hyuuga.json"
         },
         {
-          "id": "hyuugag",
+          "id": "Hyuugag",
           "label": "Retrofit",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hyuugag/hyuugag.json"
         }
