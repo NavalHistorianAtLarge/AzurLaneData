@@ -465,6 +465,19 @@
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hyuugag/hyuugag.json"
         }
       ]
+    },
+    {
+      "name": "Tester",
+      "faction": "siren",
+      "fileName": "unknown1",
+      "type": "BB",
+      "skins": [
+        {
+          "id": "Tester",
+          "label": "Tester",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/tester/tester.json"
+        }
+      ]
     }
   ] 
 }
