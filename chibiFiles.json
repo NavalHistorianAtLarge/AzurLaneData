@@ -543,7 +543,7 @@
       "kanji": "扶桑",
       "fileName": "fusang_alter",
       "type": "BB",
-      "rarity": "E",
+      "rarity": "MELITE",
       "skins": [
         {
           "id": "FusouM",
@@ -622,7 +622,7 @@
       "faction": "meta",
       "metaClass": "flickering",
       "metaOrigin": "sakura",
-      "rarity": "E",
+      "rarity": "MELITE",
       "group": "devil",
       "skins": [
         {
