@@ -478,6 +478,231 @@
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/tester/tester.json"
         }
       ]
+    },
+    {
+      "name": "Purifier",
+      "faction": "siren",
+      "fileName": "unknown3",
+      "type": "BB", 
+      "skins": [
+        {
+          "id": "Purifier",
+          "label": "Purifier",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/purifier/purifier.json"
+        }
+      ]
+    },
+    {
+      "name": "Fusou",
+      "faction": "sakura",
+      "class": "Fusou",
+      "hanzi": "魟",
+      "hanziMeaning": "ray (fish)",
+      "kanji": "扶桑",
+      "fileName": "fusang",
+      "group": ["shrine", "Akagi"],
+      "rarity": "R",
+      "type": "BB",
+      "skins": [
+        {
+          "id": "Fusou",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/fusou/fusou.json"
+        },
+        {
+          "id": "Fusou1",
+          "label": "The Celebration of Spring",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/fusou1/fusou1.json"
+        },
+        {
+          "id": "Fusou2",
+          "label": "Perfect Partner?",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/fusou2/fusou2.json"
+        },
+        {
+          "id": "FusouH",
+          "label": "United in Heart and Soul",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/fusouh/fusouh.json"
+        },
+        {
+          "id": "FusouG",
+          "label": "Retrofit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/fusoug/fusoug.json"
+        }
+      ]
+    },
+    {
+      "name": "Fusou META",
+      "faction": "meta",
+      "class": "Fuso",
+      "group": "WorldAlphaSurvivors",
+      "metaClass": "torch",
+      "metaOrigin": "sakura",
+      "hanzi": "魟",
+      "hanziMeaning": "ray (fish)",
+      "kanji": "扶桑",
+      "fileName": "fusang_alter",
+      "type": "BB",
+      "rarity": "E",
+      "skins": [
+        {
+          "id": "FusouM",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/fusoum/fusoum.json"
+        }
+      ]
+    }, 
+    {
+      "name": "Yamashiro",
+      "faction": "sakura",
+      "class": "Fusou",
+      "group": ["shrine", "Akagi"],
+      "type": "BB",
+      "rarity": "R",
+      "hanzi": "鲼",
+      "hanziMeaning": "ray (fish)",
+      "kanji": "山城",
+      "fileName": "shancheng",
+      "skins": [
+        {
+          "id": "Yamashiro",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/yamashiro/yamashiro.json"
+        },
+        {
+          "id": "Yamashiro1",
+          "label": "Summer Offensive?",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/yamashiro1/yamashiro1.json"
+        },
+        {
+          "id": "Yamashiro2",
+          "label": "Holiday Offensive",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/yamashiro2/yamashiro2.json"
+        },
+        {
+          "id": "Yamashiro3",
+          "label": "Dressy Black Cat",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/yamashiro3/yamashiro3.json"
+        },
+        {
+          "id": "Yamashiro4",
+          "label": "Sales Clerk Offensive?!",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/yamashiro4/yamashiro4.json"
+        },
+        {
+          "id": "Yamashiro5",
+          "label": "Vacation Offensive!",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/yamashiro5/yamashiro5.json"
+        },
+        {
+          "id": "Yamashiro6",
+          "label": "Street Corner Offensive!",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/yamashiro6/yamashiro6.json"
+        },
+        {
+          "id": "YamashiroH",
+          "label": "Bridal Attack!",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/yamashiroh/yamashiroh.json"
+        },
+        {
+          "id": "YamashiroG",
+          "label": "Retrofit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/yamashirog/yamashirog.json"
+        }
+      ]
+    },
+    {
+      "name": "Yamashiro META",
+      "class": "Fuso",
+      "type": "BB",
+      "hanzi": "鲼",
+      "hanziMeaning": "ray (fish)",
+      "kanji": "山城",
+      "fileName": "shancheng_alter",
+      "faction": "meta",
+      "metaClass": "flickering",
+      "metaOrigin": "sakura",
+      "rarity": "E",
+      "group": "devil",
+      "skins": [
+        {
+          "id": "YamashiroM",
+          "label": "Default", 
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/yamashirom/yamashirom.json"
+        }
+      ]
+    },
+    {
+      "name": "Universal Bulin",
+      "class": "bulin",
+      "faction": "bulin",
+      "group": "bulin",
+      "hanzi": "泛用型布里",
+      "hanziMeaning": "universal bulin",
+      "kanji": "汎用型ブリ",
+      "fileName": "gin",
+      "rarity": "E",
+      "type": "DD",
+      "skins": [
+        {
+          "id": "UBulin",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/ubulin/ubulin.json"
+        },
+        {
+          "id": "UBulin1",
+          "label": "Universal Enhanced Rigging (Experimental) +\\u03b1",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/ubulin1/ubulin1.json"
+        }
+      ]
+    },
+    {
+      "name": "Prototype Bulin MKII",
+      "class": "bulin",
+      "faction": "bulin",
+      "group": "bulin",
+      "hanzi": "试作型布里MKII",
+      "hanziMeaning": "trial bulin",
+      "kanji" : "試作型ブリMKⅡ",
+      "fileName": "kin",
+      "rarity": "SR",
+      "type": "DD",
+      "skins": [
+        {
+          "id": "PBulin",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/pbulin/pbulin.json"
+        },
+        {
+          "id": "PBulin1",
+          "label": "Prototype Advanced Weaponry (Prop)",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/pbulin1/pbulin1.json"
+        }
+      ]
+    },
+    {
+      "name": "Specialized Bulin Custom MKIII",
+      "class": "bulin",
+      "faction": "bulin",
+      "group": "bulin",
+      "hanzi": "特装型布里MKIII",
+      "hanziMeaning": "specialized bulin",
+      "kanji": "特装型ブリMKIII",
+      "fileName": "buli_super",
+      "rarity": "UR",
+      "type": "DD",
+      "skins": [
+        {
+          "id": "SBulin",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/sbulin/sbulin.json"
+        },
+        {
+          "id": "SBulin1",
+          "label": "The Bulin Bringer of Justice",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/sbulin1/sbulin1.json"
+        }
+      ]
     }
   ] 
 }
