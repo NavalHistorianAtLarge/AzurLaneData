@@ -482,13 +482,18 @@
     {
       "name": "Purifier",
       "faction": "siren",
-      "fileName": "unknown3",
+      "fileName": ["unknown3", "sairenboss"],
       "type": "BB", 
       "skins": [
         {
           "id": "Purifier",
-          "label": "Purifier",
+          "label": "Purifier (more personality)",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/purifier/purifier.json"
+        },
+        {
+          "id": "Purifier",
+          "label": "Purifier (less personality)",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/purifier1/purifier1.json"
         }
       ]
     },
