@@ -482,7 +482,7 @@
     {
       "name": "Purifier",
       "faction": "siren",
-      "fileName": ["unknown3", "sairenboss"],
+      "fileName": "unknown3",
       "type": "BB", 
       "skins": [
         {
@@ -710,4 +710,5 @@
       ]
     }
   ] 
+
 }
