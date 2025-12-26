@@ -487,12 +487,12 @@
       "skins": [
         {
           "id": "Purifier",
-          "label": "Purifier (more personality)",
+          "label": "Purifier (less personality)",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/purifier/purifier.json"
         },
         {
           "id": "Purifier",
-          "label": "Purifier (less personality)",
+          "label": "Purifier (more personality)",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/purifier1/purifier1.json"
         }
       ]
