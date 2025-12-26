@@ -75,6 +75,11 @@
       "name": "X",
       "logo": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/logos/X.png"
     }
+    {
+      "id": "bulin",
+      "name": "Universal",
+      "logo": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/logos/univ.png"
+    }
   ],
   "types": [
     { 
@@ -191,6 +196,7 @@
     }
   ]
 }
+
 
 
 
