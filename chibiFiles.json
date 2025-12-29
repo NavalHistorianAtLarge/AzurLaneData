@@ -750,7 +750,7 @@
         },
         {
           "id":"enforcerBlob",
-          "label": "Flying Combination Blob",
+          "label": "Enforcer Axon",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enforcerBlob/enforcerBlob.json"
         }
       ]
@@ -777,7 +777,7 @@
       "class": "Enforcer",
       "faction": "siren",
       "group": "Empress",
-      "type": "",
+      "type": "BB",
       "fileName": "sairenboss12",
       "skins": [
         {
@@ -790,10 +790,10 @@
     {
       "name": "Enforcer XV: Temptation",
       "faction": "siren",
-      "group": "Devil",
+      "group": "devil",
       "class": "Enforcer",
       "fileName": "sairenboss15",
-      "type": "",
+      "type": "DD",
       "skins": [
         {
           "id": "Temptation",
@@ -805,9 +805,10 @@
     {
       "name": "Enforcer XV: Restriction",
       "faction": "siren",
-      "group": "Devil",
+      "group": "devil",
       "class": "Enforcer",
-      "type": "",
+      "fileName": "sairenboss16",
+      "type": "CA",
       "skins": [
         {
           "id": "Restriction",
@@ -820,7 +821,7 @@
       "name": "Arbiter XV: The Devil",
       "faction": "siren",
       "group": "devil",
-      "type": "",
+      "type": "BB",
       "class": "Arbiter",
       "fileName": ["sairenboss17", "sairenboss17_pao1", "sairenboss_pao2"],
       "skins": [
@@ -831,12 +832,12 @@
         },
         {
           "id": "devilDrone",
-          "label": "Devil drone 1",
+          "label": "Suppression Module",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/devilDrone/devilDrone.json"
         },
         {
           "id": "devilDrone1",
-          "label": "Devil drone 2",
+          "label": "Sniping Module",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/devilDrone1/devilDrone1.json"
         }
       ]
@@ -846,7 +847,7 @@
       "class": "Arbiter",
       "faction": "siren",
       "group": "Empress",
-      "type": "BB",
+      "type": "",
       "fileName": "sairenboss8",
       "skins": [
         {
@@ -858,6 +859,259 @@
           "id": "empressEye",
           "label": "Empress Drone",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/empressEye/empressEye.json"
+        }
+      ]
+    },
+    {
+      "name": "Arbiter IX: The Hermit",
+      "fileName": ["sairenboss5", "sairenboss5_alter"],
+      "faction": "siren",
+      "type": "BB",
+      "class": "Arbiter",
+      "rarity": "",
+      "skins": [
+        {
+          "id": "Hermit",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hermit/hermit.json"
+        },
+        {
+          "id": "hermitRed",
+          "label": "/*0x0F*/",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hermitRed/hermitRed.json"
+        }
+      ]
+    },
+    {
+      "name": "Arbiter XIV: Temperance",
+      "class": "Arbiter",
+      "group": "Temperance",
+      "faction": "sakura",
+      "fileName": "sairenboss9",
+      "type": "CL",
+      "skins": [
+        {
+          "id": "Temperance",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/temperance/temperance.json"
+        },
+        {
+          "id": "temperanceRig",
+          "label": "Autonomous Combat Module - XIV",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/temperanceRig/rig.json"
+        }
+      ]
+    },
+    {
+      "name": "Arbiter V: The Hierophant",
+      "class": "Arbiter",
+      "faction": "siren",
+      "fileName": ["sairenboss20", "sairenboss20_pao", "srjiaohuangjijia"],
+      "group": "devil",
+      "rarity": "",
+      "type": "",
+      "skins": [
+        {
+          "id": "Hierophant",
+          "label": "█X█ █ █: Incarnation of the Hierophant",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hierophant/hierophant.json"
+        },
+        {
+          "id": "hierophantEye",
+          "label": "Gazer's Eye",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hierophantEye/hierophantEye.json"
+        },
+        {
+          "id": "Gazer",
+          "label": "Oculus Dei",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/gazer/gazer.json"
+        }
+      ]
+    },
+    {
+      "name": "Strength",
+      "class": "Arbiter",
+      "faction": "siren",
+      "group": "opsi",
+      "fileName": "sairenboss6",
+      "rarity": "",
+      "type": "CA",
+      "skins": [
+        {
+          "id": "Strength",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/strength/strength.json"
+        }
+      ]
+    },
+    {
+      "name": "Enforcer XIV: Equilibrium",
+      "class": "Enforcer",
+      "faction": "siren",
+      "group": "Temperance",
+      "fileName": ["sairen_youyizhe", "shenyuanboss1"],
+      "type": "DD",
+      "rarity": "",
+      "skins": [
+        {
+          "id": "Equilibrium",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enforcer14equilibrium/equilibrium.json"
+        },
+        {
+          "id": "Equilibrium1",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enforcer14equilibrium1/equilibrium1.json"
+        }
+      ]
+    },
+    {
+      "name": "Enforcer XIV: Harmony",
+      "class": "Enforcer",
+      "faction": "siren",
+      "fileName": "shenyuanboss2",
+      "type": "CV",
+      "group": "Temperance",
+      "skins": [
+        {
+          "id": "Temperance",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enforcer14harmony.json"
+        }
+      ]
+    },
+    {
+      "name": "Enforcer V: Regulation",
+      "class": "Enforcer",
+      "faction": "siren",
+      "group": "hierophant",
+      "fileName": "sairenboss18",
+      "rarity": "",
+      "type": "CL",
+      "skins": [
+        {
+          "id": "Regulation",
+          "label": "█X█ █ 'Regulation'",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enforcerVregulation/regulation.json"
+        }
+      ]
+    },
+    {
+      "name": "Enforcer V: Orthodoxy",
+      "class": "Enforcer",
+      "fileName": "sairenboss19",
+      "type": "CA",
+      "faction": "siren",
+      "group": "hierophant",
+      "rarity": "",
+      "skins": [
+        {
+          "id": "Orthodoxy",
+          "label": "█X█ █ 'Orthodoxy'",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enforcer5orthodoxy.json"
+        }
+      ]
+    },
+    {
+      "name": "Enforcer VII: Victory",
+      "faction": "siren",
+      "group": "chariot",
+      "type": "BM",
+      "fileName": "sairenboss26",
+      "rarity": "",
+      "skins": [
+        {
+          "id": "Victory",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enforcerVIIvictory/victory.json"
+        }
+      ]
+    },
+    {
+      "name": "Enforcer VII: Pulverization",
+      "faction": "siren",
+      "group": "chariot",
+      "type": "CB",
+      "fileName": "sairenboss25",
+      "rarity": "",
+      "skins": [
+        {
+          "id": "Pulverization",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enforcerVIIpulverization/pulverization.json"
+        }
+      ]
+    },
+    {
+      "name": "MECHArbiter - Chariot",
+      "faction": "siren",
+      "fileName": ["sairenboss24_jijia", "sairenboss24_fuyoupao"],
+      "group": "mech",
+      "type": "",
+      "rarity": "",
+      "skins": [
+        {
+          "id": "Mecharbiter",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/chariotMecharbiter/mecharbiter.json"
+        },
+        {
+          "id": "aimDisc",
+          "label": "Aim Disc",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/chariotDrone/chariotDrone.json"
+        }
+      ]
+    },
+    {
+      "name": "Enforcer VIII: Determination",
+      "faction": "siren",
+      "fileName": "shenyuanboss3",
+      "class": "Enforcer",
+      "group": "hermit",
+      "rarity": "",
+      "skins": [
+        {
+          "id": "Strength",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enforcer8strength/strength.json"
+        }
+      ]
+    },
+    {
+      "name": "Enforcer IX: Concealment",
+      "class": "Enforcer",
+      "faction": "siren",
+      "fileName": ["shenyuanboss4", "shenyaunboss4_alter"],
+      "rarity": "",
+      "group": "hermit",
+      "skins": [
+        {
+          "id": "Concealment",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enforcer9concealment/concealment.json"
+        },
+        {
+          "id": "Concealment1",
+          "label": "/*0x0F*/",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enforcer9concealment1/concealment1.json"
+        }
+      ]
+    },
+    {
+      "name": "Enforcer IX: Exploration",
+      "class": "Enforcer",
+      "fileName": ["shenyuanboss5", "shenyuanboss5_alter"],
+      "faction": "siren",
+      "skins": [
+        {
+          "id": "Exploration",
+          "label": "default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enforcer9exploration/exploration.json"
+        },
+        {
+          "id": "Exploration1",
+          "label": "/*0x0F*/",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/exploration1/exploration1.json"
         }
       ]
     }
