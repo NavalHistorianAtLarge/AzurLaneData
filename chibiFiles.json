@@ -788,21 +788,6 @@
       ]
     },
     {
-      "name": "Empress Drone",
-      "faction": "siren",
-      "class": "drone",
-      "fileName": "sairenboss12_pao",
-      "group": "Empress",
-      "type": "aircraft",
-      "skins": [
-        {
-          "id": "empressEye",
-          "label": "Empress Drone",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/empressEye/empressEye.json"
-        }
-      ]
-    },
-    {
       "name": "Enforcer XV: Temptation",
       "faction": "siren",
       "group": "Devil",
@@ -857,7 +842,24 @@
       ]
     },
     {
-
+      "name": "Arbiter III: The Empress",
+      "class": "Arbiter",
+      "faction": "siren",
+      "group": "Empress",
+      "type": "BB",
+      "fileName": "sairenboss8",
+      "skins": [
+        {
+          "id": "Empress",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/empress/empress.json"
+        },
+        {
+          "id": "empressEye",
+          "label": "Empress Drone",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/empressEye/empressEye.json"
+        }
+      ]
     }
   ] 
 }
