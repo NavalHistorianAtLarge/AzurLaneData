@@ -470,6 +470,10 @@
       "name": "Tester",
       "faction": "siren",
       "fileName": "unknown1",
+      "group": "experimentalDivision",
+      "hanzi": "测试者",
+      "hanziMeaning": "Tester",
+      "kanji": "システム",
       "type": "BB",
       "skins": [
         {
@@ -483,6 +487,10 @@
       "name": "Purifier",
       "faction": "siren",
       "fileName": "unknown3",
+      "group": "experimentalDivision",
+      "hanzi": "净化者",
+      "hanziMeaning": "Purifier",
+      "kanji": "ピュリファイアー",
       "type": "BB", 
       "skins": [
         {
@@ -708,7 +716,148 @@
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/sbulin1/sbulin1.json"
         }
       ]
+    },
+    {
+      "name": "Omitter",
+      "faction": "siren",
+      "group": "experimentalDivision",
+      "type": "BB",
+      "hanzi": "清除者",
+      "hanziMeaning": "Eliminator",
+      "kanji": "オミッター",
+      "fileName": "qingchuzhe",
+      "skins": [
+        {
+          "id": "Omitter",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/omitter/omitter.json"
+        }
+      ]
+    },
+    {
+      "name": "Enforcer VI: Combination",
+      "class": "Enforcer",
+      "group": "Lovers",
+      "type": "CV",
+      "faction": "siren",
+      "hanzi": "",
+      "fileName": ["sairenboss10", "sairen10_danchuan"],
+      "skins": [ 
+        {
+          "id": "Combination",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enforcer6combination/combination.json"
+        },
+        {
+          "id":"enforcerBlob",
+          "label": "Flying Combination Blob",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enforcerBlob/enforcerBlob.json"
+        }
+      ]
+    },
+    {
+      "name": "Compiler",
+      "faction": "siren",
+      "fileName": "sairenboss11",
+      "group": "experimentalDivision",
+      "hanzi": "构建者",
+      "hanziMeaning": "Builder",
+      "kanji": "コンパイラー",
+      "type": "CV",
+      "skins": [
+        {
+          "id": "Compiler",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/compiler/compiler.json"
+        }
+      ]
+    },
+    {
+      "name": "Enforcer III: Harvest",
+      "class": "Enforcer",
+      "faction": "siren",
+      "group": "Empress",
+      "type": "",
+      "fileName": "sairenboss12",
+      "skins": [
+        {
+          "id": "Harvest",
+          "label":"Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enforcer3harvest/harvest.json"
+        }
+      ]
+    },
+    {
+      "name": "Empress Drone",
+      "faction": "siren",
+      "class": "drone",
+      "fileName": "sairenboss12_pao",
+      "group": "Empress",
+      "type": "aircraft",
+      "skins": [
+        {
+          "id": "empressEye",
+          "label": "Empress Drone",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/empressEye/empressEye.json"
+        }
+      ]
+    },
+    {
+      "name": "Enforcer XV: Temptation",
+      "faction": "siren",
+      "group": "Devil",
+      "class": "Enforcer",
+      "fileName": "sairenboss15",
+      "type": "",
+      "skins": [
+        {
+          "id": "Temptation",
+          "label": "Enforcer XV: Temptation",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enforcerXVtemptation/temptation.json"
+        }
+      ]
+    },
+    {
+      "name": "Enforcer XV: Restriction",
+      "faction": "siren",
+      "group": "Devil",
+      "class": "Enforcer",
+      "type": "",
+      "skins": [
+        {
+          "id": "Restriction",
+          "label": "Enforcer XV: Restriction",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enforcerXVrestriction/restriction.json"
+        }
+      ]
+    },
+    {
+      "name": "Arbiter XV: The Devil",
+      "faction": "siren",
+      "group": "devil",
+      "type": "",
+      "class": "Arbiter",
+      "fileName": ["sairenboss17", "sairenboss17_pao1", "sairenboss_pao2"],
+      "skins": [
+        {
+          "id": "Devil",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/devil/devil.json"
+        },
+        {
+          "id": "devilDrone",
+          "label": "Devil drone 1",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/devilDrone/devilDrone.json"
+        },
+        {
+          "id": "devilDrone1",
+          "label": "Devil drone 2",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/devilDrone1/devilDrone1.json"
+        }
+      ]
+    },
+    {
+      
     }
   ] 
-
 }
