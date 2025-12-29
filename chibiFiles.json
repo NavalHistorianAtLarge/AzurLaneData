@@ -813,7 +813,7 @@
         {
           "id": "Temptation",
           "label": "Enforcer XV: Temptation",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enforcerXVtemptation/temptation.json"
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enforcer15temptation/temptation.json"
         }
       ]
     },
@@ -827,7 +827,7 @@
         {
           "id": "Restriction",
           "label": "Enforcer XV: Restriction",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enforcerXVrestriction/restriction.json"
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enforcer15restriction/restriction.json"
         }
       ]
     },
@@ -857,7 +857,7 @@
       ]
     },
     {
-      
+
     }
   ] 
 }
