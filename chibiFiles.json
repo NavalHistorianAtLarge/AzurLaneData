@@ -868,7 +868,6 @@
       "faction": "siren",
       "type": "BB",
       "class": "Arbiter",
-      "rarity": "",
       "skins": [
         {
           "id": "Hermit",
@@ -908,7 +907,7 @@
       "faction": "siren",
       "fileName": ["sairenboss20", "sairenboss20_pao", "srjiaohuangjijia"],
       "group": "devil",
-      "rarity": "",
+      
       "type": "",
       "skins": [
         {
@@ -934,7 +933,6 @@
       "faction": "siren",
       "group": "opsi",
       "fileName": "sairenboss6",
-      "rarity": "",
       "type": "CA",
       "skins": [
         {
@@ -951,7 +949,6 @@
       "group": "Temperance",
       "fileName": ["sairen_youyizhe", "shenyuanboss1"],
       "type": "DD",
-      "rarity": "",
       "skins": [
         {
           "id": "Equilibrium",
@@ -974,9 +971,9 @@
       "group": "Temperance",
       "skins": [
         {
-          "id": "Temperance",
+          "id": "Harmony",
           "label": "Default",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enforcer14harmony.json"
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enforcer14harmony/harmony.json"
         }
       ]
     },
@@ -986,13 +983,12 @@
       "faction": "siren",
       "group": "hierophant",
       "fileName": "sairenboss18",
-      "rarity": "",
       "type": "CL",
       "skins": [
         {
           "id": "Regulation",
           "label": "█X█ █ 'Regulation'",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enforcerVregulation/regulation.json"
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enforcer5regulation/regulation.json"
         }
       ]
     },
@@ -1003,12 +999,11 @@
       "type": "CA",
       "faction": "siren",
       "group": "hierophant",
-      "rarity": "",
       "skins": [
         {
           "id": "Orthodoxy",
           "label": "█X█ █ 'Orthodoxy'",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enforcer5orthodoxy.json"
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enforcer5orthodoxy/orthodoxy.json"
         }
       ]
     },
@@ -1018,12 +1013,11 @@
       "group": "chariot",
       "type": "BM",
       "fileName": "sairenboss26",
-      "rarity": "",
       "skins": [
         {
           "id": "Victory",
           "label": "Default",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enforcerVIIvictory/victory.json"
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enforcer7victory/victory.json"
         }
       ]
     },
@@ -1033,12 +1027,11 @@
       "group": "chariot",
       "type": "CB",
       "fileName": "sairenboss25",
-      "rarity": "",
       "skins": [
         {
           "id": "Pulverization",
           "label": "Default",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enforcerVIIpulverization/pulverization.json"
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enforcer7pulverization/pulverization.json"
         }
       ]
     },
@@ -1048,7 +1041,6 @@
       "fileName": ["sairenboss24_jijia", "sairenboss24_fuyoupao"],
       "group": "mech",
       "type": "",
-      "rarity": "",
       "skins": [
         {
           "id": "Mecharbiter",
@@ -1068,12 +1060,11 @@
       "fileName": "shenyuanboss3",
       "class": "Enforcer",
       "group": "hermit",
-      "rarity": "",
       "skins": [
         {
           "id": "Strength",
           "label": "Default",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enforcer8strength/strength.json"
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enforcer8determination/determination.json"
         }
       ]
     },
@@ -1082,7 +1073,6 @@
       "class": "Enforcer",
       "faction": "siren",
       "fileName": ["shenyuanboss4", "shenyaunboss4_alter"],
-      "rarity": "",
       "group": "hermit",
       "skins": [
         {
