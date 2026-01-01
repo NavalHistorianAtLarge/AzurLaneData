@@ -96,24 +96,9 @@
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enterprise4/enterprise4.json"
         },
         {
-          "id": "Enterprise5",
-          "label": "Heroic Finery",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enterprise5/enterprise5.json"
-        },
-        {
-          "id": "Enterprise6",
-          "label": "Wind Catcher",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enterprise6/enterprise6.json"
-        },
-        {
           "id": "Enterprise7",
           "label": "Bon Voyage",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enterprise7/enterprise7.json"
-        },
-        {
-          "id": "Enterprise8",
-          "label": "Diving Under Blue Skies",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enterprise8/enterprise8.json"
         },
         {
           "id": "EnterpriseH",
@@ -204,19 +189,9 @@
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/akagi/akagi.json"
         },
         {
-          "id": "Akagi1",
-          "label": "Paradise Amaryllis",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/akagi1/akagi1.json"
-        },
-        {
           "id": "Akagi2",
           "label": "Plum and Snow",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/akagi2/akagi2.json"
-        },
-        {
-          "id": "Akagi3",
-          "label": "Ruby-Laced Beauty",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/akagi3/akagi3.json"
         },
         {
           "id": "Akagi4",
@@ -324,19 +299,9 @@
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kaga/kaga.json"
         },
         {
-          "id": "Kaga1",
-          "label": "Everlasting Killing Stone",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kaga1/kaga1.json"
-        },
-        {
           "id": "Kaga2",
           "label": "White Fox's New Year",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kaga2/kaga2.json"
-        },
-        {
-          "id": "Kaga3",
-          "label": "Exalted White Wings",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kaga3/kaga3.json"
         },
         {
           "id": "Kaga4",
@@ -1059,10 +1024,10 @@
       "faction": "siren",
       "fileName": "shenyuanboss3",
       "class": "Enforcer",
-      "group": "hermit",
+      "group": "strength",
       "skins": [
         {
-          "id": "Strength",
+          "id": "Determination",
           "label": "Default",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enforcer8determination/determination.json"
         }
@@ -1102,6 +1067,467 @@
           "id": "Exploration1",
           "label": "/*0x0F*/",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/exploration1/exploration1.json"
+        }
+      ]
+    },
+    {
+      "name": "Dewey",
+      "class": "Farragut",
+      "faction": "Eagle",
+      "rarity": "R",
+      "type": "DD",
+      "group": "lexington",
+      "hanzi": "杜威",
+      "hanziMeaning": "Dewey",
+      "kanji": "デューイ",
+      "fileName": "duwei",
+      "skins": [
+        {
+          "id": "Dewey",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/dewey/dewey.json"
+        },
+        {
+          "id": "Dewey1",
+          "label": "Summer Longing",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/dewey1/dewey1.json"
+        },
+        {
+          "id": "Dewey2",
+          "label": "A Christmas Thank-You",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/dewey2/dewey2.json"
+        }
+      ]
+    },
+    {
+      "name": "DeweyMETA",
+      "class": "Farragut",
+      "faction": "meta",
+      "metaClass": "torch",
+      "metaOrigin": "Eagle",
+      "type": "DD",
+      "group": "fifthFleet",
+      "skins": [
+        {
+          "id": "DeweyMETA",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/deweyM/deweyM.json"
+        }
+      ]
+    },
+    {
+      "name": "Cassin",
+      "class": "Mahan",
+      "faction": "Eagle",
+      "rarity": "N",
+      "type": "DD",
+      "group": "",
+      "hanzi": "卡辛",
+      "hanziMeaning": "Cassin",
+      "kanji": "カッシン",
+      "fileName": "kaxin",
+      "skins": [
+        {
+          "id": "Cassin",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/cassin/cassin.json"
+        },
+        {
+          "id": "Cassin1",
+          "label": "Shopping Carte Blanche",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/cassin1/cassin1.json"
+        },
+        {
+          "id": "CassinG",
+          "label": "Retrofit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/cassing/cassing.json"
+        }
+      ]
+    },
+    {
+      "name": "Downes",
+      "faction": "Eagle",
+      "class": "Mahan",
+      "type": "DD",
+      "hanzi": "唐斯",
+      "rarity": "N",
+      "hanziMeaning": "",
+      "kanji": "ダウンズ",
+      "fileName": "tangsi",
+      "skins": [
+        {
+          "id": "Downes",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/downes/downes.json"
+        },
+        {
+          "id": "Downes1",
+          "label": "School Girl",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/downes1/downes1.json"
+        },
+        {
+          "id": "DownesG",
+          "label": "Retrofit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/downesg/downesg.json"
+        }
+      ]
+    },
+    {
+      "name": "Gridley",
+      "class": "Gridley",
+      "faction": "Eagle",
+      "rarity": "R",
+      "type": "DD",
+      "hanzi": " 格里德利",
+      "kanji": "グリッドレイ",
+      "fileName": "gelideli",
+      "skins": [
+        {
+          "id": "Gridley",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/gridley/gridley.json"
+        },
+        {
+          "id": "Gridley1",
+          "label": "Christmas",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/gridley1/gridley1.json"
+        }
+      ]
+    },
+    {
+      "name": "Craven",
+      "class": "Gridley",
+      "faction": "Eagle",
+      "rarity": "N",
+      "hanzi": "克雷文",
+      "type": "DD",
+      "kanji": "クレイヴン",
+      "fileName": "keleiwen",
+      "skins": [
+        {
+          "id": "Craven",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/craven/craven.json"
+        },
+        {
+          "id": "Craven1",
+          "label": "Cheerleader On the Playground",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/craven1/craven1.json"
+        }
+      ]
+    },
+    {
+      "name": "McCall",
+      "class": "Gridley",
+      "faction": "Eagle",
+      "type": "DD",
+      "hanzi": "麦考尔",
+      "kanji": "マッコール",
+      "fileName": "maikaoer",
+      "rarity": "N",
+      "skins": [
+        {
+          "id": "McCall",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/mccall/mccall.json"
+        }
+      ]
+    },
+    {
+      "name": "Maury",
+      "class": "Gridley",
+      "faction": "Eagle",
+      "hanzi": "莫里",
+      "kanji": "モーリー",
+      "fileName": "moli",
+      "type": "DD",
+      "rarity": "E",
+      "skins": [
+        {
+          "id": "Maury",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/maury/maury.json"
+        }
+      ]
+    },
+    {
+      "name": "Fletcher",
+      "class": "Fletcher",
+      "faction": "Eagle",
+      "hanzi": "弗莱彻",
+      "kanji": "フレッチャー",
+      "fileName": "fulaiche",
+      "type": "DD",
+      "rarity": "R",
+      "skins": [
+        {
+            "id": "Fletcher",
+            "label": "Default",
+            "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/fletcher/fletcher.json"
+        }
+      ]
+    },
+    {
+      "name": "William D. Porter",
+      "class": "Fletcher",
+      "faction": "Eagle",
+      "type": "DD",
+      "rarity": "UR",
+      "hanzi": "威廉·D·波特",
+      "kanji": "ウィリアム・D・ポーター",
+      "fileName": "bote",
+      "group": "",
+      "skins": [
+        {
+          "id": "WilliamDPorter",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/williamdporter/williamdporter.json"
+        },
+        {
+          "id": "WilliamDPorter1",
+          "label": "",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/williamdporter1/williamdporter1.json"
+        }
+      ]
+    }, 
+    {
+      "name": "Charles Asburne",
+      "rarity": "E",
+      "class": "Fletcher",
+      "type": "DD",
+      "faction": "Eagle",
+      "hanzi": "查尔斯·奥斯本",
+      "kanji": "チャールズオースバーン",
+      "fileName": "aosiben",
+      "skins": [
+        {
+          "id": "CharlesAusburne",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/ausburne/ausburne.json"
+        },
+        {
+          "id": "CharlesAusburneG",
+          "label": "Retrofit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/ausburneg/ausburnege.json"
+        }
+      ]
+    },
+    { 
+      "name": "Thatcher",
+      "class": "Fletcher",
+      "type": "DD",
+      "rarity": "R",
+      "faction": "Eagle",
+      "group": "BeaverSquad",
+      "hanzi": "撒切尔",
+      "hanziMeaning": "Thatcher",
+      "kanji": "サッチャー",
+      "fileName": "saqieer",
+      "skins": [
+        {
+          "id": "Thatcher",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/thatcher/thatcher.json"
+        }
+      ]
+    },
+    {
+      "name": "Aulick",
+      "type": "DD",
+      "faction": "Eagle",
+      "rarity": "N",
+      "hanzi": "奥利克",
+      "hanziMeaning": "Aulick",
+      "kanji": "オーリック",
+      "fileName": "aolike",
+      "group": "BeaverSquad",
+      "skins": [
+        {
+          "id": "Aulick",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/aulick/aulick.json"
+        }
+      ]
+    },
+    {
+      "name": "Foote",
+      "class": "Fletcher",
+      "rarity": "N",
+      "faction": "Eagle",
+      "type": "DD",
+      "group": "BeaverSquad",
+      "hanzi": "富特",
+      "hanziMeaning": "Foote",
+      "kanji": "フート",
+      "fileName": "fute",
+      "skins": [
+        {
+          "id": "Foote",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/foote/foote.json"
+        }
+      ]
+    },
+    {
+      "name": "Spence",
+      "faction": "Eagle",
+      "class": "Fletcher",
+      "type": "DD",
+      "rarity": "N",
+      "group": "BeaverSquad",
+      "hanzi": "斯彭斯",
+      "kanji": "スペンス",
+      "fileName": "sipengsi",
+      "skins": [
+        {
+          "id": "Spence",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/spence/spence.json"
+        }
+      ]
+    },
+    {
+      "name": "Benson",
+      "class": "Benson",
+      "faction": "Eagle",
+      "fileName": "bensen",
+      "rarity": "R",
+      "type": "DD",
+      "hanzi": "本森",
+      "kanji": "ベンソン",
+      "skins": [
+        {
+          "id": "Benson",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/benson/benson.json"
+        },
+        {
+          "id": "Benson1",
+          "label": "Cutie Pumpkin Pie",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/benson1/benson1.json"
+        }
+      ]
+    },
+    {
+      "name": "Laffey",
+      "rarity": "E",
+      "faction": "Eagle",
+      "class": "Benson",
+      "type": "DD",
+      "hanzi": "拉菲",
+      "hanziMeaning": "Laffey",
+      "kanji": "ラフィー",
+      "fileName":"lafei",
+      "group": "starterDD",
+      "skins": [
+        {
+          "id": "Laffey",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/laffey/laffey.json"
+        },
+        {
+          "id": "Laffey1",
+          "label": "Snow Rabbit and Candy Apple",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/laffey1/laffey1.json"
+        },
+        {
+          "id": "Laffey2",
+          "label": "White Rabbit Welcomes the Spring",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/laffey2/laffey2.json"
+        },
+        {
+          "id": "Laffey3",
+          "label": "Bunny Clerk?",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/laffey3/laffey3.json"
+        },
+        {
+          "id": "Laffey4",
+          "label": "Picnic Adventure?",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/laffey4/laffey4.json"
+        },
+        {
+          "id": "Laffey5",
+          "label": "Bunny Idol @Unmotivated",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/laffey5/laffey5.json"
+        },
+        {
+          "id": "Laffey6",
+          "label": "Sleep to Clean Another Day",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/laffey6/laffey6.json"
+        },
+        {
+          "id": "Laffey7",
+          "label": "Sleepy Teriyaki Twister",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/laffey7/laffey7.json"
+        },
+        {
+          "id": "Laffey8",
+          "label": "Sleepageddon",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/laffey8/laffey8.json"
+        },
+        {
+          "id": "Laffey9",
+          "label": "Lazy Days",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/laffey9/laffey9.json"
+        },
+        {
+          "id": "LaffeyH",
+          "label": "White Rabbit's Oath",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/laffeyh/laffeyh.json"
+        },
+        {
+          "id": "LaffeyG",
+          "label": "Retrofit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/laffeyg/laffeyg.json"           
+        }
+      ]
+    },
+    {
+      "name": "Laffey II",
+      "faction": "Eagle",
+      "fileName": "lafeiII",
+      "type": "DD",
+      "class": "Allen Sumner",
+      "hanzi": "",
+      "hanziMeaning": "",
+      "kanji": "",
+      "rarity": "UR",
+      "skins": [
+        {
+          "id": "LaffeyII",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/laffeyII/laffeyII.json"
+        },
+        {
+          "id": "LaffeyII1",
+          "label": "Sleepy on A Busy Day",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/laffeyII1/laffeyII1.json"
+        },
+        {
+          "id": "LaffeyII2",
+          "label": "Lady Laffey's Languid Tour",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/laffeyII2/laffeyII2.json"
+        }
+      ]
+    },
+    {
+      "name": "Sims",
+      "class": "Sims",
+      "faction": "Eagle",
+      "rarity": "R",
+      "type": "DD",
+      "hanzi": "",
+      "fileName": "",
+      "skins": [
+        {
+          "id": "Sims",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/sims/sims.json"
+        },
+        {
+          "id": "SimsG",
+          "label": "Retrofit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/simsg/simsg.json"
         }
       ]
     }
