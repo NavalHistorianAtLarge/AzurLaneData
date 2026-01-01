@@ -248,26 +248,7 @@
         }
      ]
     },
-    {
-      "name": "Akagi META",
-      "faction": "meta",
-      "class": ["Akagi", "Amagi"],
-      "metaOrigin": "sakura",
-      "type": "CV",
-      "rarity": "MUR",
-      "hanzi": "凰",
-      "hanziMeaning": "phoenix",
-      "kanji": "赤城",
-      "fileName": "chicheng",
-      "group": "WorldAlphaSurvivors",
-      "skins": [
-        {
-          "id": "AkagiMETA",
-          "label": "Default",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/akagiMETA/akagiMETA.json"
-        }
-      ]
-    },
+
     {
       "name": "Spawn of Corruption - Crimson",
       "faction": "X",
