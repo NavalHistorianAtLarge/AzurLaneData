@@ -738,21 +738,6 @@
       ]
     },
     {
-      "name": "Enforcer III: Harvest",
-      "class": "Enforcer",
-      "faction": "siren",
-      "group": "Empress",
-      "type": "BB",
-      "fileName": "sairenboss12",
-      "skins": [
-        {
-          "id": "Harvest",
-          "label":"Default",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enforcer3harvest/harvest.json"
-        }
-      ]
-    },
-    {
       "name": "Enforcer XV: Temptation",
       "faction": "siren",
       "group": "devil",
@@ -1066,7 +1051,7 @@
         {
           "id": "Exploration1",
           "label": "/*0x0F*/",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/exploration1/exploration1.json"
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enforcer9exploration1/exploration1.json"
         }
       ]
     },
