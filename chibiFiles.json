@@ -1274,7 +1274,7 @@
         {
           "id": "CharlesAusburneG",
           "label": "Retrofit",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/ausburneg/ausburnege.json"
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/ausburneg/ausburneg.json"
         }
       ]
     },
@@ -1498,4 +1498,5 @@
       ]
     }
   ] 
+
 }
