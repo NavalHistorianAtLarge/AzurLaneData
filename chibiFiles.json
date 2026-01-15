@@ -248,7 +248,6 @@
         }
      ]
     },
-
     {
       "name": "Spawn of Corruption - Crimson",
       "faction": "X",
@@ -1075,7 +1074,7 @@
       "group": "fifthFleet",
       "skins": [
         {
-          "id": "DeweyMETA",
+          "id": "DeweyM",
           "label": "Default",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/deweyM/deweyM.json"
         }
@@ -1213,6 +1212,11 @@
           "id": "Maury",
           "label": "Default",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/maury/maury.json"
+        },
+        {
+          "id": "MauryG",
+          "label": "Retrofit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/mauryg/mauryg.json"
         }
       ]
     },
@@ -1251,13 +1255,13 @@
         },
         {
           "id": "WilliamDPorter1",
-          "label": "",
+          "label": "The Daredevil's Maidly Service",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/williamdporter1/williamdporter1.json"
         }
       ]
     }, 
     {
-      "name": "Charles Asburne",
+      "name": "Charles Aulsburne",
       "rarity": "E",
       "class": "Fletcher",
       "type": "DD",
@@ -1473,6 +1477,11 @@
           "id": "LaffeyII2",
           "label": "Lady Laffey's Languid Tour",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/laffeyII2/laffeyII2.json"
+        },
+        {
+          "id": "LaffeyDrone",
+          "label": "Drone",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/laffeyDrone/drone.json"
         }
       ]
     },
@@ -1498,5 +1507,4 @@
       ]
     }
   ] 
-
 }
