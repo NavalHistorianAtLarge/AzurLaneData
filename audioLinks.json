@@ -7,9 +7,8 @@
     {
       "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/cdnNagamiMusic/bgm-login.ogg",
       "id": "login",
-      "album": "settingSail"
-      
-    }
+      "album": "settingSail" 
+    },
   {
     "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/cdnNagamiMusic/bgm-backyard.ogg",
     "name": "Leisurely Moment",
