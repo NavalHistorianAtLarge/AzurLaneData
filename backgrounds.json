@@ -1,0 +1,3931 @@
+[
+  {
+    "class": "aircraft",
+    "name": "bg_aircraft_future.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_aircraft_future.png"
+  },
+  {
+    "class": "alexandriaDay",
+    "name": "bg_alexandria_1.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_alexandria_1.png"
+  },
+  {
+    "class": "alexandriaNight",
+    "name": "bg_alexandria_2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_alexandria_2.png"
+  },
+  {
+    "class": "alexandriaCrisis",
+    "name": "bg_alexandria_3.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_alexandria_3.png"
+  },
+  {
+    "class": "amaharaNormal",
+    "name": "bg_amahara_1.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_amahara_1.png"
+  },
+  {
+    "class": "amaharaCrisisBeginning",
+    "name": "bg_amahara_2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_amahara_2.png"
+  },
+  {
+    "class": "amaharaCrisisMiddle",
+    "name": "bg_amahara_3.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_amahara_3.png"
+  },
+  {
+    "class": "amaharaBright",
+    "name": "bg_amahara_4.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_amahara_4.png"
+  },
+  {
+    "class": "amaharaFeast",
+    "name": "bg_amahara_cg1.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_amahara_cg1.png"
+  },
+  {
+    "class": "helenaPrismMonster",
+    "name": "bg_amahara_cg11.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_amahara_cg11.png"
+  },
+  {
+    "class": "helenaPrism",
+    "name": "bg_amahara_cg12.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_amahara_cg12.png"
+  },
+  {
+    "class": "amaharaDark",
+    "name": "bg_amahara_cg2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_amahara_cg2.png"
+  },
+  {
+    "class": "akagiDreamStone",
+    "name": "bg_amahara_cg3.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_amahara_cg3.png"
+  },
+  {
+    "class": "amahara3",
+    "name": "bg_amahara_cg5.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_amahara_cg5.png"
+  },
+  {
+    "class": "amaharaAttack",
+    "name": "bg_amahara_cg6.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_amahara_cg6.png"
+  },
+  {
+    "class": "helenaRings",
+    "name": "bg_amahara_cg9.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_amahara_cg9.png"
+  },
+  {
+    "class": "aostelabGPUfail",
+    "name": "bg_aostelab_0.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_aostelab_0.png"
+  },
+  {
+    "class": "aostelab",
+    "name": "bg_aostelab_2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_aostelab_2.png"
+  },
+  {
+    "class": "panamaDay",
+    "name": "bg_banama_1.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_banama_1.png"
+  },
+  {
+    "class": "panamaMirrorSea",
+    "name": "bg_banama_2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_banama_2.png"
+  },
+  {
+    "class": "Bremerton",
+    "name": "bg_banama_3.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_banama_3.png"
+  },
+  {
+  "class": "Bluegill",
+    "name": "bg_banama_4.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_banama_4.png"
+  },
+  {
+  "class": "marbleheadTentacles",
+    "name": "bg_banama_5.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_banama_5.png"
+  },
+  {
+  "class": "essexClass",
+    "name": "bg_banama_6.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_banama_6.png"
+  },
+  {
+  "class": "battleNight",
+    "name": "bg_battle_night.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_battle_night.png"
+  },
+  {
+  "class": "sakuraFlow",
+    "name": "bg_bianzhihua_1.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_bianzhihua_1.png"
+  },
+  {
+  "class": "corruptSakura",
+    "name": "bg_bianzhihua_2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_bianzhihua_2.png"
+  },
+  {
+  "class": "goldTorii",
+    "name": "bg_bianzhihua_3.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_bianzhihua_3.png"
+  },
+  {
+  "class": "musashiSlash",
+    "name": "bg_bianzhihua_cg2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_bianzhihua_cg2.png"
+  },
+  {
+  "class": "musashiDeath",
+    "name": "bg_bianzhihua_cg3.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_bianzhihua_cg3.png"
+  },
+  {
+  "class": "KagaTPose",
+    "name": "bg_bianzhihua_cg4.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_bianzhihua_cg4.png"
+  },
+  {
+  "class": "kagaTree",
+    "name": "bg_bianzhihua_cg5.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_bianzhihua_cg5.png"
+  },
+  {
+  "class": "kagaTreeBloom",
+    "name": "bg_bianzhihua_cg6.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_bianzhihua_cg6.png"
+  },
+  {
+  "class": "",
+    "name": "bg_bigbuli.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_bigbuli.png"
+  },
+  {
+  "class": "hoodDeath",
+    "name": "bg_bsm_0.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_bsm_0.png"
+  },
+  {
+  "class": "U556UwU",
+    "name": "bg_bsm_2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_bsm_2.png"
+  },
+  {
+  "class": "BismarckLastStand",
+    "name": "bg_bsm_3.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_bsm_3.png"
+  },
+  {
+  "class": "IronBlood",
+    "name": "bg_bsm_4.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_bsm_4.png"
+  },
+  {
+  "class": "BismarckVSObserver",
+    "name": "bg_bsm_5.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_bsm_5.png"
+  },
+  {
+  "class": "U556Rescue",
+    "name": "bg_bsm_6.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_bsm_6.png"
+  },
+  {
+  "class": "midgardBlue",
+    "name": "bg_bsmre_0.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_bsmre_0.png"
+  },
+  {
+  "class": "midgardBlueLightCubes",
+    "name": "bg_bsmre_1.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_bsmre_1.png"
+  },
+  {
+  "class": "midgardRedLightCubes",
+    "name": "bg_bsmre_10.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_bsmre_10.png"
+  },
+  {
+  "class": "midgardRedLightRings",
+    "name": "bg_bsmre_11.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_bsmre_11.png"
+  },
+  {
+  "class": "midgardBlueCreeping",
+    "name": "bg_bsmre_12.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_bsmre_12.png"
+  },
+  {
+  "class": "midgardBlueLightRings",
+    "name": "bg_bsmre_13.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_bsmre_13.png"
+  },
+  {
+  "class": "midgardBlueRings",
+    "name": "bg_bsmre_14.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_bsmre_14.png"
+  },
+  {
+  "class": "midgardRedApproaching",
+    "name": "bg_bsmre_2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_bsmre_2.png"
+  },
+  {
+  "class": "MidgardRedOutsideCubes",
+    "name": "bg_bsmre_3.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_bsmre_3.png"
+  },
+  {
+  "class": "midgardRedTouchCubes",
+    "name": "bg_bsmre_4.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_bsmre_4.png"
+  },
+  {
+  "class": "midgardRedCity",
+    "name": "bg_bsmre_5.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_bsmre_5.png"
+  },
+  {
+  "class": "midgardRedInside",
+    "name": "bg_bsmre_6.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_bsmre_6.png"
+  },
+  {
+  "class": "midgardRedGrow",
+    "name": "bg_bsmre_7.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_bsmre_7.png"
+  },
+  {
+  "class": "midgardBlueCity",
+    "name": "bg_bsmre_8.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_bsmre_8.png"
+  },
+  {
+  "class": "midgardBlueApproaching",
+    "name": "bg_bsmre_9.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_bsmre_9.png"
+  },
+  {
+  "class": "fdgScreen",
+    "name": "bg_bsmre_cg1.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_bsmre_cg1.png"
+  },
+  {
+  "class": "tirpitzScreen",
+    "name": "bg_bsmre_cg10.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_bsmre_cg10.png"
+  },
+  {
+  "class": "tirpitzScreenReact",
+    "name": "bg_bsmre_cg11.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_bsmre_cg11.png"
+  },
+  {
+  "class": "BismarckVSHermit",
+    "name": "bg_bsmre_cg12.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_bsmre_cg12.png"
+  },
+    {
+    "class": "vestalRedCubes",
+    "name": "bg_bsmre_cg13.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_bsmre_cg13.png"
+  },
+  {
+  "class": "meWhenLife",
+    "name": "bg_bsmre_cg2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_bsmre_cg2.png"
+  },
+  {
+  "class": "BismarckNotZwei",
+    "name": "bg_bsmre_cg3.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_bsmre_cg3.png"
+  },
+  {
+  "class": "BismarckZwei",
+    "name": "bg_bsmre_cg4.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_bsmre_cg4.png"
+  },
+  {
+  "class": "U556Meta",
+    "name": "bg_bsmre_cg5.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_bsmre_cg5.png"
+  },
+  {
+  "class": "BismarckApproach",
+    "name": "bg_bsmre_cg6.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_bsmre_cg6.png"
+  },
+  {
+  "class": "BismarckTouch",
+    "name": "bg_bsmre_cg7.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_bsmre_cg7.png"
+  },
+  {
+  "class": "arbiterMainframe",
+    "name": "bg_bsmre_cg8.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_bsmre_cg8.png"
+  },
+  {
+  "class": "purpleMeta",
+    "name": "bg_burningsea_1.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_burningsea_1.png"
+  },
+  {
+  "class": "goldMeta",
+    "name": "bg_burningsea_2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_burningsea_2.png"
+  },
+  {
+  "class": "CamelotBrightWhite",
+    "name": "bg_camelot_1.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_camelot_1.png"
+  },
+  {
+  "class": "camelotWaste",
+    "name": "bg_camelot_10.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_camelot_10.png"
+  },
+  {
+  "class": "camelotGlobe",
+    "name": "bg_camelot_13.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_camelot_13.png"
+  },
+  {
+  "class": "camelotGlow",
+    "name": "bg_camelot_14.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_camelot_14.png"
+  },
+  {
+  "class": "camelotBright",
+    "name": "bg_camelot_15.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_camelot_15.png"
+  },
+  {
+  "class": "monarchDuel",
+    "name": "bg_camelot_16.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_camelot_16.png"
+  },
+  {
+  "class": "camelotMission",
+    "name": "bg_camelot_2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_camelot_2.png"
+  },
+  {
+  "class": "camelotWhiteClouds",
+    "name": "bg_camelot_3.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_camelot_3.png"
+  },
+  {
+  "class": "rainbowMeta",
+    "name": "bg_camelot_4.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_camelot_4.png"
+  },
+  {
+  "class": "knightsOath",
+    "name": "bg_camelot_5.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_camelot_5.png"
+  },
+  {
+  "class": "burntCity",
+    "name": "bg_camelot_6.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_camelot_6.png"
+  },
+  {
+  "class": "camelotSunset",
+    "name": "bg_camelot_7.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_camelot_7.png"
+  },
+  {
+  "class": "noCamelot",
+    "name": "bg_camelot_8.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_camelot_8.png"
+  },
+  {
+  "class": "nightNoCamelot",
+    "name": "bg_camelot_9.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_camelot_9.png"
+  },
+  {
+  "class": "naraka",
+    "name": "bg_canghongzhiyan_1.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_canghongzhiyan_1.png"
+  },
+  {
+  "class": "amagiBright",
+    "name": "bg_canghongzhiyan_2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_canghongzhiyan_2.png"
+  },
+  {
+  "class": "amagiDigital",
+    "name": "bg_canghongzhiyan_3.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_canghongzhiyan_3.png"
+  },
+  {
+  "class": "amagiRed",
+    "name": "bg_canghongzhiyan_4.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_canghongzhiyan_4.png"
+  },
+  {
+  "class": "amagiLowRes",
+    "name": "bg_canghongzhiyan_5.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_canghongzhiyan_5.png"
+  },
+  {
+  "class": "AmagiBroken",
+    "name": "bg_canghongzhiyan_6.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_canghongzhiyan_6.png"
+  },
+  {
+    "class": "observerDeal",
+    "name": "bg_canghongzhiyan_cg1.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_canghongzhiyan_cg1.png"
+  },
+  {
+  "class": "shinanoQuest",
+    "name": "bg_canghongzhiyan_cg2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_canghongzhiyan_cg2.png"
+  },
+  {
+  "class": "gateFlash",
+    "name": "bg_canghongzhiyan_cg3.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_canghongzhiyan_cg3.png"
+  },
+  {
+    "class": "amagiSurprise",
+    "name": "bg_canghongzhiyan_cg5.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_canghongzhiyan_cg5.png"
+  },
+  {
+  "class": "akagiConfess",
+    "name": "bg_canghongzhiyan_cg6.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_canghongzhiyan_cg6.png"
+  },
+  {
+  "class": "fightFox",
+    "name": "bg_canghongzhiyan_cg7.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_canghongzhiyan_cg7.png"
+  },
+  {
+  "class": "nagatoDance",
+    "name": "bg_canghongzhiyan_cg8.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_canghongzhiyan_cg8.png"
+  },
+  {
+  "class": "amagiLanterns",
+    "name": "bg_canghongzhiyan_cut1.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_canghongzhiyan_cut1.png"
+  },
+  {
+  "class": "amagiParasol",
+    "name": "bg_canghongzhiyan_cut3.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_canghongzhiyan_cut3.png"
+  },
+  {
+  "class": "YUS",
+    "name": "bg_canghongzhiyan_cut4.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_canghongzhiyan_cut4.png"
+  },
+  {
+  "class": "npDark",
+    "name": "bg_cccp_1.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_cccp_1.png"
+  },
+  {
+  "class": "iceburgAttack",
+    "name": "bg_cccp_2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_cccp_2.png"
+  },
+  {
+  "class": "npArrive",
+    "name": "bg_cccp_3.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_cccp_3.png"
+  },
+  {
+  "class": "rossiyaSlash",
+    "name": "bg_cccp_4.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_cccp_4.png"
+  },
+  {
+  "class": "OmitterREEE",
+    "name": "bg_cccp_5.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_cccp_5.png"
+  },
+  {
+  "class": "crownSurround",
+    "name": "bg_cccp_6.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_cccp_6.png"
+  },
+  {
+  "class": "crownElectric",
+    "name": "bg_cccp_7.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_cccp_7.png"
+  },
+  {
+  "class": "noCrown",
+    "name": "bg_cccp_8.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_cccp_8.png"
+  },
+  {
+  "class": "sulikoBreak",
+    "name": "bg_cccpv2_1.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_cccpv2_1.png"
+  },
+  {
+  "class": "purpleCityCubes",
+    "name": "bg_cccpv2_10.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_cccpv2_10.png"
+  },
+  {
+  "class": "cubeGateIce",
+    "name": "bg_cccpv2_11.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_cccpv2_11.png"
+  },
+   {
+    "class": "NPSKKGrab",
+    "name": "bg_cccpv2_12.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_cccpv2_12.png"
+  },
+  {
+  "class": "blueBrokenPath",
+    "name": "bg_cccpv2_2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_cccpv2_2.png"
+  },
+  {
+  "class": "cubeGate",
+    "name": "bg_cccpv2_3.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_cccpv2_3.png"
+  },
+  {
+  "class": "cubeGateGlow",
+    "name": "bg_cccpv2_4.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_cccpv2_4.png"
+  },
+  {
+  "class": "cubeGateCity",
+    "name": "bg_cccpv2_5.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_cccpv2_5.png"
+  },
+  {
+  "class": "blueCityCubes",
+    "name": "bg_cccpv2_6.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_cccpv2_6.png"
+  },
+  {
+  "class": "councilHall",
+    "name": "bg_cccpv2_7.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_cccpv2_7.png"
+  },
+  {
+  "class": "desparateBattleCuteGirl",
+    "name": "bg_cccpv2_8.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_cccpv2_8.png"
+  },
+  {
+  "class": "councilDark",
+    "name": "bg_cccpv2_9.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_cccpv2_9.png"
+  },
+  {
+  "class": "",
+    "name": "bg_church.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_church.png"
+  },
+  {
+  "class": "",
+    "name": "bg_church_cn.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_church_cn.png"
+  },
+  {
+  "class": "",
+    "name": "bg_church_imas.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_church_imas.png"
+  },
+  {
+  "class": "",
+    "name": "bg_church_jp.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_church_jp.png"
+  },
+  {
+  "class": "",
+    "name": "bg_church_meta.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_church_meta.png"
+  },
+  {
+  "class": "",
+    "name": "bg_coffeetea_4.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_coffeetea_4.png"
+  },
+  {
+    "class": "shimakazeBack",
+    "name": "bg_daofeng_1.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_daofeng_1.png"
+  },
+  {
+  "class": "ringDragonPalace",
+    "name": "bg_daofeng_2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_daofeng_2.png"
+  },
+  {
+  "class": "dragonPalace",
+    "name": "bg_daofeng_3.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_daofeng_3.png"
+  },
+  {
+  "class": "dragonPalacePurple",
+    "name": "bg_daofeng_4.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_daofeng_4.png"
+  },
+  {
+  "class": "SurugaNightmare",
+    "name": "bg_daofeng_5.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_daofeng_5.png"
+  },
+  {
+  "class": "iceSea",
+    "name": "bg_deepecho_0.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_deepecho_0.png"
+  },
+  {
+  "class": "sirenShuttle",
+    "name": "bg_deepecho_1.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_deepecho_1.png"
+  },
+  {
+    "class": "kronkSub",
+    "name": "bg_deepecho_10.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_deepecho_10.png"
+  },
+  {
+  "class": "NPRichardAttack",
+    "name": "bg_deepecho_11.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_deepecho_11.png"
+  },
+  {
+  "class": "greenShuttleIn",
+    "name": "bg_deepecho_12.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_deepecho_12.png"
+  },
+  {
+  "class": "returnHome",
+    "name": "bg_deepecho_13.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_deepecho_13.png"
+  },
+    {
+    "class": "NPStand",
+    "name": "bg_deepecho_14.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_deepecho_14.png"
+  },
+  {
+  "class": "sunsetShuttle",
+    "name": "bg_deepecho_2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_deepecho_2.png"
+  },
+  {
+    "class": "NPAurora",
+    "name": "bg_deepecho_3.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_deepecho_3.png"
+  },
+  {
+    "class": "noCrownMap",
+    "name": "bg_deepecho_4.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_deepecho_4.png"
+  },
+  {
+    "class": "kronkArkSub",
+    "name": "bg_deepecho_6.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_deepecho_6.png"
+  },
+  {
+  "class": "frozenShuttle",
+    "name": "bg_deepecho_7.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_deepecho_7.png"
+  },
+  {
+  "class": "tornado",
+    "name": "bg_deepecho_9.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_deepecho_9.png"
+  },
+    {
+    "class": "ARCrown",
+    "name": "bg_deepecho_ARCrown.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_deepecho_ARCrown.png"
+  },
+  {
+  "class": "factionGather",
+    "name": "bg_endingsong_11.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_endingsong_11.png"
+  },
+  {
+  "class": "aesclepius",
+    "name": "bg_endingsong_12.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_endingsong_12.png"
+  },
+  {
+  "class": "compilerMainframe",
+    "name": "bg_endingsong_13.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_endingsong_13.png"
+  },
+  {
+  "class": "mainframe",
+    "name": "bg_endingsong_14.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_endingsong_14.png"
+  },
+  {
+  "class": "blueFlashSingularity",
+    "name": "bg_endingsong_15.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_endingsong_15.png"
+  },
+  {
+  "class": "scapaFlow",
+    "name": "bg_endingsong_3.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_endingsong_3.png"
+  },
+  {
+  "class": "redFlashSingularity",
+    "name": "bg_endingsong_4.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_endingsong_4.png"
+  },
+  {
+  "class": "blueSingularity",
+    "name": "bg_endingsong_5.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_endingsong_5.png"
+  },
+  {
+    "class": "seydlitzReborn",
+    "name": "bg_endingsong_7.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_endingsong_7.png"
+  },
+  {
+    "class": "omaeWaShindeiru",
+    "name": "bg_endingsong_8.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_endingsong_8.png"
+  },
+  {
+  "class": "kerguelenNight",
+    "name": "bg_firedust_1.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_firedust_1.png"
+  },
+  {
+  "class": "kerguelenDay",
+    "name": "bg_firedust_2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_firedust_2.png"
+  },
+  {
+    "class": "bg_firedust_3",
+    "name": "bg_firedust_3.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_firedust_3.png"
+  },
+  {
+  "class": "blackSun",
+    "name": "bg_firedust_5.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_firedust_5.png"
+  },
+  {
+    "class": "ImplacView",
+    "name": "bg_firedust_6.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_firedust_6.png"
+  }, 
+  {
+  "class": "catacombsBasement",
+    "name": "bg_firedust_7.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_firedust_7.png"
+  }, 
+  {
+    "class": "wallPray",
+    "name": "bg_firedust_8.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_firedust_8.png"
+  }, 
+  {
+  "class": "ibFlag",
+    "name": "bg_flag_red.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_flag_red.png"
+  },
+  {
+  "class": "nofloatingFortress",
+    "name": "bg_fuxiangxian_0.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_fuxiangxian_0.png"
+  },
+  {
+  "class": "floatingFortress",
+    "name": "bg_fuxiangxian_1.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_fuxiangxian_1.png"
+  },
+  {
+  "class": "floatingFortressPurple",
+    "name": "bg_fuxiangxian_2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_fuxiangxian_2.png"
+  },
+  {
+  "class": "floatingFortressElectric",
+    "name": "bg_fuxiangxian_3.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_fuxiangxian_3.png"
+  },
+  {
+  "class": "Strasser",
+    "name": "bg_fuxiangxian_4.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_fuxiangxian_4.png"
+  },
+  {
+  "class": "HeinrichBop",
+    "name": "bg_fuxiangxian_6.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_fuxiangxian_6.png"
+  },
+  {
+  "class": "budsGold",
+    "name": "bg_gaotaqiangwei_1.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_gaotaqiangwei_1.png"
+  },
+  {
+  "class": "budsSingularity",
+    "name": "bg_gaotaqiangwei_2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_gaotaqiangwei_2.png"
+  },
+  {
+  "class": "budsSingularityRed",
+    "name": "bg_gaotaqiangwei_3.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_gaotaqiangwei_3.png"
+  },
+  {
+  "class": "purpleBuds",
+    "name": "bg_gaotaqiangwei_4.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_gaotaqiangwei_4.png"
+  },
+  {
+  "class": "goldBuds",
+    "name": "bg_gaotaqiangwei_5.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_gaotaqiangwei_5.png"
+  },
+  {
+  "class": "redBuds",
+    "name": "bg_gaotaqiangwei_6.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_gaotaqiangwei_6.png"
+  },
+  {
+  "class": "monster",
+    "name": "bg_gaotaqiangwei_cg2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_gaotaqiangwei_cg2.png"
+  },
+  {
+  "class": "gryphon",
+    "name": "bg_gaotaqiangwei_cg4.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_gaotaqiangwei_cg4.png"
+  },
+  {
+  "class": "alConference",
+    "name": "bg_guild_blue.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_guild_blue.png"
+  },
+  {
+  "class": "npConference",
+    "name": "bg_guild_blue_n.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_guild_blue_n.png"
+  },
+  {
+  "class": "caConference",
+    "name": "bg_guild_red.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_guild_red.png"
+  },
+  {
+  "class": "ibRoom",
+    "name": "bg_guild_red_n.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_guild_red_n.png"
+  },
+  {
+    "id": "helenaTransform",
+    "name": "bg_helena_cg3.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_helena_cg3.png"
+  },
+  {
+  "class": "alphaCollege",
+    "name": "bg_highschool_future.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_highschool_future.png"
+  },
+  {
+  "class": "crownActivated",
+    "name": "bg_hms_0.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_hms_0.png"
+  },
+  {
+  "class": "elizabethSend",
+    "name": "bg_hms_1.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_hms_1.png"
+  },
+  {
+  "class": "Perseus",
+    "name": "bg_hms_2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_hms_2.png"
+  },
+  {
+  "class": "eugenPlot",
+    "name": "bg_hms_3.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_hms_3.png"
+  },
+  {
+  "class": "RNOmitterShowdown",
+    "name": "bg_hms_6.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_hms_6.png"
+  },
+  {
+  "class": "iceAurora",
+    "name": "bg_hms_7.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_hms_7.png"
+  },
+  {
+  "class": "purpleIceAurora",
+    "name": "bg_hms_8.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_hms_8.png"
+  },
+  {
+  "class": "purpleIceAuroraFire",
+    "name": "bg_hms_9.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_hms_9.png"
+  },
+  {
+  "class": "noCrown2",
+    "name": "bg_hms_99.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_hms_99.png"
+  },
+  {
+  "class": "shrine",
+    "name": "bg_hongran_1.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_hongran_1.png"
+  },
+  {
+  "class": "temple",
+    "name": "bg_hongran_2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_hongran_2.png"
+  },
+  {
+  "class": "deathCity",
+    "name": "bg_huiguangzhicheng_1.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_huiguangzhicheng_1.png"
+  },
+  {
+  "class": "deathCityRing2",
+    "name": "bg_huiguangzhicheng_2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_huiguangzhicheng_2.png"
+  },
+  {
+  "class": "deathCityPeak",
+    "name": "bg_huiguangzhicheng_3.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_huiguangzhicheng_3.png"
+  },
+  {
+  "class": "deathCityPeakPurple",
+    "name": "bg_huiguangzhicheng_4.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_huiguangzhicheng_4.png"
+  },
+  {
+  "class": "deathCityPeakPurpleGlow",
+    "name": "bg_huiguangzhicheng_5.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_huiguangzhicheng_5.png"
+  },
+  {
+  "class": "deathCityPeakGlow",
+    "name": "bg_huiguangzhicheng_6.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_huiguangzhicheng_6.png"
+  },
+  {
+  "class": "missD",
+    "name": "bg_huiguangzhicheng_cg1.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_huiguangzhicheng_cg1.png"
+  },
+  {
+  "class": "zoomMeeting",
+    "name": "bg_huiguangzhicheng_cg12.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_huiguangzhicheng_cg12.png"
+  },
+  {
+  "class": "missD2",
+    "name": "bg_huiguangzhicheng_cg2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_huiguangzhicheng_cg2.png"
+  },
+  {
+    "class": "missDScared",
+    "name": "bg_huiguangzhicheng_cg6.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_huiguangzhicheng_cg6.png"
+  },
+  {
+  "class": "irisDusk",
+    "name": "bg_iris_dusk.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_iris_dusk.png"
+  },
+  {
+  "class": "irisNight",
+    "name": "bg_iris_night.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_iris_night.png"
+  },
+  {
+  "class": "tarantoAttack",
+    "name": "bg_italy_cg1.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_italy_cg1.png"
+  },
+  {
+  "class": "italyNight",
+    "name": "bg_italy_cg2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_italy_cg2.png"
+  },
+  {
+    "class": "illustrious",
+    "name": "bg_italy_cg3.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_italy_cg3.png"
+  },
+  {
+    "class": "formidableGetsMarried",
+    "name": "bg_italy_cg4.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_italy_cg4.png"
+  },
+  {
+  "class": "italyCharge",
+    "name": "bg_italy_cg5.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_italy_cg5.png"
+  },
+  {
+  "class": "italyDay",
+    "name": "bg_italy_cg6.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_italy_cg6.png"
+  },
+  {
+  "class": "italyIslands",
+    "name": "bg_italyv2_1.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_italyv2_1.png"
+  },
+  {
+  "class": "labyrinth",
+    "name": "bg_italyv2_2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_italyv2_2.png"
+  },
+  {
+  "class": "labyrinthDark",
+    "name": "bg_italyv2_3.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_italyv2_3.png"
+  },
+  {
+  "class": "italyIslandsDark",
+    "name": "bg_italyv2_4.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_italyv2_4.png"
+  },
+  {
+  "class": "italyHarbor",
+    "name": "bg_italyv2_5.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_italyv2_5.png"
+  },
+  {
+  "class": "nyBurning",
+    "name": "bg_jiangyin_memory.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_jiangyin_memory.png"
+  },
+  {
+  "class": "",
+    "name": "bg_jufengv1_1.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_jufengv1_1.png"
+  },
+  {
+  "class": "",
+    "name": "bg_jufengv1_2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_jufengv1_2.png"
+  },
+  {
+  "class": "",
+    "name": "bg_jufengv1_3.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_jufengv1_3.png"
+  },
+  {
+  "class": "",
+    "name": "bg_jufengv1_4.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_jufengv1_4.png"
+  },
+  {
+  "class": "",
+    "name": "bg_jufengv2_1.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_jufengv2_1.png"
+  },
+  {
+  "class": "",
+    "name": "bg_jufengv2_2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_jufengv2_2.png"
+  },
+  {
+  "class": "",
+    "name": "bg_jufengv2_cg2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_jufengv2_cg2.png"
+  },
+  {
+  "class": "",
+    "name": "bg_jufengv2_cg3.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_jufengv2_cg3.png"
+  },
+  {
+  "class": "",
+    "name": "bg_kagura_1.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_kagura_1.png"
+  },
+  {
+  "class": "",
+    "name": "bg_kagura_2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_kagura_2.png"
+  },
+  {
+    "id": "oxsLogo",
+    "name": "bg_logo_oxs.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_logo_oxs.png"
+  },
+  {
+  "class": "phLight",
+    "name": "bg_luoxuan_1.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_luoxuan_1.png"
+  },
+  {
+  "class": "phDark",
+    "name": "bg_luoxuan_2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_luoxuan_2.png"
+  },
+  {
+  "class": "phBurn",
+    "name": "bg_luoxuan_5.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_luoxuan_5.png"
+  },
+  {
+  "class": "phCracked",
+    "name": "bg_luoxuan_6.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_luoxuan_6.png"
+  },
+  {
+    "class": "helenaExMachina",
+    "name": "bg_luoxuan_7.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_luoxuan_7.png"
+  },
+  {
+    "class": "souryuuAttack",
+    "name": "bg_luoxuan_8.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_luoxuan_8.png"
+  },
+  {
+  "class": "mainDay",
+    "name": "bg_main_day.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_main_day.png"
+  },
+  {
+  "class": "mainNight",
+    "name": "bg_main_night.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_main_night.png"
+  },
+  {
+  "class": "",
+    "name": "bg_main_twilight.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_main_twilight.png"
+  },
+  {
+  "class": "",
+    "name": "bg_mainui.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_mainui.png"
+  },
+  {
+  "class": "",
+    "name": "bg_map_doa.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_map_doa.png"
+  },
+  {
+  "class": "greenland",
+    "name": "bg_map_greenland.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_map_greenland.png"
+  },
+  {
+  "class": "",
+    "name": "bg_map_idom.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_map_idom.png"
+  },
+  {
+  "class": "mariana",
+    "name": "bg_map_maliyana.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_map_maliyana.png"
+  },
+  {
+  "class": "narvik",
+    "name": "bg_map_narvik.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_map_narvik.png"
+  },
+  {
+  "class": "northsea",
+    "name": "bg_map_northsea.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_map_northsea.png"
+  },
+  {
+  "class": "amagiMapDark",
+    "name": "bg_map_tianchen2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_map_tianchen2.png"
+  },
+  {
+  "class": "amagiMap",
+    "name": "bg_map_tiancheng.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_map_tiancheng.png"
+  },
+  {
+  "class": "memory",
+    "name": "bg_memory.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_memory.png"
+  },
+  {
+  "class": "fdgPlot",
+    "name": "bg_midgard_1.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_midgard_1.png"
+  },
+  {
+  "class": "towerDonut",
+    "name": "bg_midgard_2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_midgard_2.png"
+  },
+  {
+  "class": "towerDonutRed",
+    "name": "bg_midgard_3.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_midgard_3.png"
+  },
+  {
+  "class": "meetDE",
+    "name": "bg_midgard_4.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_midgard_4.png"
+  },
+    {
+    "class": "gneisenauLetter",
+    "name": "bg_midgard_5.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_midgard_5.png"
+  },
+  {
+  "class": "towerDonutGlowing",
+    "name": "bg_midgard_6.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_midgard_6.png"
+  },
+   {
+    "class": "scharnhorstWounded",
+    "name": "bg_midgard_7.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_midgard_7.png"
+  },
+  {
+  "class": "roonDebut",
+    "name": "bg_midgard_8.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_midgard_8.png"
+  },
+  {
+  "class": "marcoPlot",
+    "name": "bg_midgard_9.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_midgard_9.png"
+  },
+  {
+  "class": "darkSakuraSea",
+    "name": "bg_mirror.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_mirror.png"
+  },
+  {
+  "class": "sakuraBleed",
+    "name": "bg_moran_2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_moran_2.png"
+  },
+  {
+  "class": "sakuraWither",
+    "name": "bg_moran_3.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_moran_3.png"
+  },
+  {
+  "class": "arkRoyalChallenge",
+    "name": "bg_nacorearea_2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_nacorearea_2.png"
+  },
+  {
+  "class": "",
+    "name": "bg_night.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_night.png"
+  },
+  {
+  "class": "nyFuture",
+    "name": "bg_port_NY_future.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_port_NY_future.png"
+  },
+  {
+  "class": "",
+    "name": "bg_port_buleisite.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_port_buleisite.png"
+  },
+  {
+  "class": "helenaDatingSpace",
+    "name": "bg_port_chongdong.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_port_chongdong.png"
+  },
+  {
+  "class": "bluePort",
+    "name": "bg_port_chuanwu1.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_port_chuanwu1.png"
+  },
+  {
+  "class": "redPort",
+    "name": "bg_port_chuanwu2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_port_chuanwu2.png"
+  },
+  {
+  "class": "frenchPort",
+    "name": "bg_port_dakaer.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_port_dakaer.png"
+  },
+  {
+  "class": "germanPort",
+    "name": "bg_port_jier.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_port_jier.png"
+  },
+  {
+  "class": "liverpool",
+    "name": "bg_port_liwupu.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_port_liwupu.png"
+  },
+  {
+  "class": "newyork",
+    "name": "bg_port_niuyue.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_port_niuyue.png"
+  },
+  {
+  "class": "italyPort",
+    "name": "bg_port_shenbidebao.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_port_shenbidebao.png"
+  },
+  {
+  "class": "taranto",
+    "name": "bg_port_talantuo.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_port_talantuo.png"
+  },
+  {
+  "class": "",
+    "name": "bg_port_zhibuluotuo.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_port_zhibuluotuo.png"
+  },
+  {
+  "class": "basilicaSwirls",
+    "name": "bg_qiongding_1.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_qiongding_1.png"
+  },
+  {
+  "class": "basilicaCorrrupt",
+    "name": "bg_qiongding_10.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_qiongding_10.png"
+  },
+  {
+    "class": "irisAllies",
+    "name": "bg_qiongding_2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_qiongding_2.png"
+  },
+  {
+    "class": "vichy",
+    "name": "bg_qiongding_3.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_qiongding_3.png"
+  },
+  {
+    "class": "blackWhiteBattle",
+    "name": "bg_qiongding_4.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_qiongding_4.png"
+  },
+  {
+  "class": "basilicaSheild",
+    "name": "bg_qiongding_5.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_qiongding_5.png"
+  },
+  {
+  "class": "basilicaBright",
+    "name": "bg_qiongding_6.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_qiongding_6.png"
+  },
+  {
+  "class": "richelieu",
+    "name": "bg_qiongding_7.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_qiongding_7.png"
+  },
+  {
+  "class": "basilicaDay",
+    "name": "bg_qiongding_8.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_qiongding_8.png"
+  },
+  {
+  "class": "basilicaTowerSwirls",
+    "name": "bg_qiongding_9.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_qiongding_9.png"
+  },
+  {
+  "class": "foch",
+    "name": "bg_renaya.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_renaya.png"
+  },
+   {
+    "class": "roma",
+    "name": "bg_roma_1.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_roma_1.png"
+  },
+  {
+    "class": "subCharge",
+    "name": "bg_roma_10.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_roma_10.png"
+  },
+  {
+  "class": "greenCol",
+    "name": "bg_roma_11.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_roma_11.png"
+  },
+  {
+  "class": "colParty",
+    "name": "bg_roma_12.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_roma_12.png"
+  },
+  {
+    "class": "colFireworks",
+    "name": "bg_roma_13.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_roma_13.png"
+  },
+  {
+  "class": "colmain",
+    "name": "bg_roma_2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_roma_2.png"
+  },
+    {
+    "class": "enjoyExpo",
+    "name": "bg_roma_3.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_roma_3.png"
+  },
+  {
+  "class": "leoFly",
+    "name": "bg_roma_4.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_roma_4.png"
+  },
+  {
+  "class": "colEmpty",
+    "name": "bg_roma_5.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_roma_5.png"
+  },
+  {
+  "class": "colRed",
+    "name": "bg_roma_6.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_roma_6.png"
+  },
+  {
+  "class": "glassEagle",
+    "name": "bg_roma_7.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_roma_7.png"
+  },
+  {
+  "class": "glassEagle2",
+    "name": "bg_roma_8.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_roma_8.png"
+  },
+  {
+    "class": "emmyReach",
+    "name": "bg_roma_9.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_roma_9.png"
+  },
+  {
+  "class": "",
+    "name": "bg_ryza_1.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_ryza_1.png"
+  },
+  {
+  "class": "",
+    "name": "bg_ryza_2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_ryza_2.png"
+  },
+  {
+  "class": "mikasaCollection",
+    "name": "bg_sanli_cg_1.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_sanli_cg_1.png"
+  },
+  {
+  "class": "sardiniaIslands",
+    "name": "bg_shenguang_1.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_shenguang_1.png"
+  },
+  {
+  "class": "sardiniaGold",
+    "name": "bg_shenguang_2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_shenguang_2.png"
+  },
+  {
+  "class": "sardinaiGoldRed",
+    "name": "bg_shenguang_3.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_shenguang_3.png"
+  },
+  {
+  "class": "sardiniaBounded",
+    "name": "bg_shenguang_4.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_shenguang_4.png"
+  },
+  {
+  "class": "sardiniaNight",
+    "name": "bg_shenguang_5.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_shenguang_5.png"
+  },
+  {
+  "class": "sardiniaDay",
+    "name": "bg_shenguang_6.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_shenguang_6.png"
+  },
+  {
+  "class": "sardiniaGrey",
+    "name": "bg_shenguang_7.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_shenguang_7.png"
+  },
+  {
+  "class": "marcoFloat",
+    "name": "bg_shenguang_cg_10.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_shenguang_cg_10.png"
+  },
+   {
+    "class": "raffDance",
+    "name": "bg_shenguang_cg_11.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_shenguang_cg_11.png"
+  },
+  {
+  "class": "carucciPoem",
+    "name": "bg_shenguang_cg_4.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_shenguang_cg_4.png"
+  },
+  {
+  "class": "carducciPoem2",
+    "name": "bg_shenguang_cg_5.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_shenguang_cg_5.png"
+  },
+  {
+  "class": "carducciPoemGo",
+    "name": "bg_shenguang_cg_6.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_shenguang_cg_6.png"
+  },
+    {
+    "class": "greenCarrierDance",
+    "name": "bg_shenguang_cg_8.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_shenguang_cg_8.png"
+  },
+  {
+    "class": "raffDance2",
+    "name": "bg_shenguang_cg_9.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_shenguang_cg_9.png"
+  },
+  {
+  "class": "",
+    "name": "bg_ssss_1.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_ssss_1.png"
+  },
+  {
+  "class": "starseaDark",
+    "name": "bg_starsea_core_1.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_starsea_core_1.png"
+  },
+  {
+  "class": "starseaBright",
+    "name": "bg_starsea_core_2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_starsea_core_2.png"
+  },
+  {
+  "class": "starseaEmergency",
+    "name": "bg_starsea_core_3.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_starsea_core_3.png"
+  },
+    {
+    "class": "starseaWireframe",
+    "name": "bg_starsea_core_4.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_starsea_core_4.png"
+  },
+  {
+  "class": "hoodExplode",
+    "name": "bg_story_1.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_story_1.png"
+  },
+  {
+  "class": "eagleTransfer",
+    "name": "bg_story_11.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_story_11.png"
+  },
+  {
+  "class": "bismarckSalute",
+    "name": "bg_story_3.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_story_3.png"
+  },
+  {
+  "class": "arizonaDeath",
+    "name": "bg_story_4.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_story_4.png"
+  },
+  {
+  "class": "Doolittle",
+    "name": "bg_story_6.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_story_6.png"
+  },
+  {
+  "class": "midway",
+    "name": "bg_story_8.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_story_8.png"
+  },
+  {
+  "class": "midwayEagle",
+    "name": "bg_story_9.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_story_9.png"
+  },
+  {
+  "class": "",
+    "name": "bg_story_ailevel.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_story_ailevel.png"
+  },
+  {
+  "class": "bsmlevel",
+    "name": "bg_story_bsmlevel.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_story_bsmlevel.png"
+  },
+  {
+  "class": "",
+    "name": "bg_story_childschool.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_story_childschool.png"
+  },
+  {
+  "class": "richardCrater",
+    "name": "bg_story_chuansong.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_story_chuansong.png"
+  },
+  {
+  "class": "irisFlag",
+    "name": "bg_story_faxi1.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_story_faxi1.png"
+  },
+  {
+  "class": "jeanBart",
+    "name": "bg_story_faxi2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_story_faxi2.png"
+  },
+  {
+  "class": "",
+    "name": "bg_story_holosaba1.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_story_holosaba1.png"
+  },
+  {
+  "class": "",
+    "name": "bg_story_holosaba2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_story_holosaba2.png"
+  },
+  {
+  "class": "",
+    "name": "bg_story_houshandong.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_story_houshandong.png"
+  },
+  {
+  "class": "",
+    "name": "bg_story_italy.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_story_italy.png"
+  },
+  {
+  "class": "frostfallMap",
+    "name": "bg_story_jidifengbao_map.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_story_jidifengbao_map.png"
+  },
+  {
+  "class": "mikasaDetermination",
+    "name": "bg_story_mikasa.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_story_mikasa.png"
+  },
+  {
+  "class": "nagatoPray",
+    "name": "bg_story_nagato1.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_story_nagato1.png"
+  },
+  {
+  "class": "nagatoResolve",
+    "name": "bg_story_nagato2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_story_nagato2.png"
+  },
+  {
+  "class": "nagatoTree",
+    "name": "bg_story_nagato3.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_story_nagato3.png"
+  },
+  {
+  "class": "nagatoFight",
+    "name": "bg_story_nagato4.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_story_nagato4.png"
+  },
+  {
+  "class": "",
+    "name": "bg_story_nepu1.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_story_nepu1.png"
+  },
+  {
+  "class": "",
+    "name": "bg_story_nepu2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_story_nepu2.png"
+  },
+  {
+  "class": "newyorkStory",
+    "name": "bg_story_newyork.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_story_newyork.png"
+  },
+  {
+  "class": "",
+    "name": "bg_story_outdoor.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_story_outdoor.png"
+  },
+  {
+  "class": "sakuraRoom",
+    "name": "bg_story_room.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_story_room.png"
+  },
+  {
+  "class": "saintHelenaDay",
+    "name": "bg_story_sainthelena1.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_story_sainthelena1.png"
+  },
+  {
+  "class": "saintHelenaFire",
+    "name": "bg_story_sainthelena2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_story_sainthelena2.png"
+  },
+  {
+  "class": "",
+    "name": "bg_story_school.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_story_school.png"
+  },
+  {
+  "class": "strasbourgPath",
+    "name": "bg_story_shengmixieer_1.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_story_shengmixieer_1.png"
+  },
+  {
+  "class": "strasbourgPathNight",
+    "name": "bg_story_shengmixieer_2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_story_shengmixieer_2.png"
+  },
+  {
+  "class": "task",
+    "name": "bg_story_task.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_story_task.png"
+  },
+  {
+  "class": "office",
+    "name": "bg_story_task_2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_story_task_2.png"
+  },
+  {
+  "class": "officeDark",
+    "name": "bg_story_task_3.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_story_task_3.png"
+  },
+  {
+  "class": "AmagiWish",
+    "name": "bg_story_tiancheng4.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_story_tiancheng4.png"
+  },
+  {
+  "class": "amagiPlead",
+    "name": "bg_story_tiancheng5.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_story_tiancheng5.png"
+  },
+  {
+  "class": "sakuraBleedBlue",
+    "name": "bg_story_tiancheng6.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_story_tiancheng6.png"
+  },
+  {
+  "class": "",
+    "name": "bg_story_tiancheng7.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_story_tiancheng7.png"
+  },
+  {
+  "class": "mainframe2",
+    "name": "bg_story_tower.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_story_tower.png"
+  },
+  {
+  "class": "",
+    "name": "bg_story_wild.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_story_wild.png"
+  },
+  {
+    "class": "washington",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_story_wing0.png"
+  },
+  {
+  "class": "helenaRuins",
+    "name": "bg_story_wing1.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_story_wing1.png"
+  },
+  {
+  "class": "enterpriseMETA",
+    "name": "bg_story_wing3.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_story_wing3.png"
+  },
+  {
+  "class": "",
+    "name": "bg_summerisland_map.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_summerisland_map.png"
+  },
+  {
+  "class": "",
+    "name": "bg_summerisland_map_2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_summerisland_map_2.png"
+  },
+  {
+    "id": "perfectWorldDark",
+    "name": "bg_tianqiong_1.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_tianqiong_1.png"
+  },
+  {
+    "id": "perfectWorldWireframe",
+    "name": "bg_tianqiong_2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_tianqiong_2.png"
+  },
+  {
+    "id": "dataSpace",
+    "name": "bg_tianqiong_3.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_tianqiong_3.png"
+  },
+  {
+    "id": "perfectWorldDusk",
+    "name": "bg_tianqiong_4.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_tianqiong_4.png"
+  },
+  {
+    "id": "perfectWorldHolo",
+    "name": "bg_tianqiong_5.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_tianqiong_5.png"
+  },
+    {
+    "class": "lexpod",
+    "name": "bg_tianqiong_cg0.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_tianqiong_cg0.png"
+  },
+   {
+    "id": "mimicOctoBright",
+    "name": "bg_tianqiong_cg10.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_tianqiong_cg10.png"
+  },
+  {
+    "id": "lexReborn",
+    "name": "bg_tianqiong_cg11.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_tianqiong_cg11.png"
+  },
+  {
+    "id": "zeroThreat",
+    "name": "bg_tianqiong_cg12.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_tianqiong_cg12.png"
+  },
+  {
+    "id": "zeroGreenApproach",
+    "name": "bg_tianqiong_cg13.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_tianqiong_cg13.png"
+  },
+  {
+    "id": "zeroOverwhelm",
+    "name": "bg_tianqiong_cg14.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_tianqiong_cg14.png"
+  },
+  {
+    "id": "zeroDeath",
+    "name": "bg_tianqiong_cg15.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_tianqiong_cg15.png"
+  },
+  {
+    "id": "zeroGone",
+    "name": "bg_tianqiong_cg16.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_tianqiong_cg16.png"
+  },
+  {
+    "id": "brighterLex",
+    "name": "bg_tianqiong_cg17.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_tianqiong_cg17.png"
+  },
+  {
+    "class": "brighterBismarck",
+    "name": "bg_tianqiong_cg2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_tianqiong_cg2.png"
+  },
+   {
+    "id": "brighterSKK",
+    "name": "bg_tianqiong_cg3.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_tianqiong_cg3.png"
+  },
+  {
+    "id": "marcoDupe",
+    "name": "bg_tianqiong_cg5.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_tianqiong_cg5.png"
+  },
+  {
+    "id": "marcoLight",
+    "name": "bg_tianqiong_cg6.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_tianqiong_cg6.png"
+  },
+  {
+    "id": "meetTower",
+    "name": "bg_tianqiong_cg7.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_tianqiong_cg7.png"
+  },
+  {
+    "id": "yorktownClassAttack",
+    "name": "bg_tianqiong_cg8.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_tianqiong_cg8.png"
+  },
+  {
+    "id": "mimicOcto",
+    "name": "bg_tianqiong_cg9.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_tianqiong_cg9.png"
+  },
+  {
+  "class": "darkHarbor",
+    "name": "bg_tiexuejingmian.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_tiexuejingmian.png"
+  },
+  {
+  "class": "islandHop",
+    "name": "bg_tieyiqingfeng_1.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_tieyiqingfeng_1.png"
+  },
+  {
+  "class": "islandHopSunset",
+    "name": "bg_tieyiqingfeng_2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_tieyiqingfeng_2.png"
+  },
+  {
+  "class": "islandHopBurn",
+    "name": "bg_tieyiqingfeng_3.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_tieyiqingfeng_3.png"
+  },
+  {
+  "class": "islandBarrierPurple",
+    "name": "bg_tieyiqingfeng_4.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_tieyiqingfeng_4.png"
+  },
+  {
+  "class": "islandBarrierBurn",
+    "name": "bg_tieyiqingfeng_5.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_tieyiqingfeng_5.png"
+  },
+  {
+    "class": "fargo",
+    "name": "bg_tieyiqingfeng_cg2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_tieyiqingfeng_cg2.png"
+  },
+  {
+    "class": "saraLexShop",
+    "name": "bg_tieyiqingfeng_cg3.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_tieyiqingfeng_cg3.png"
+  },
+  {
+    "class": "SaraBreak",
+    "name": "bg_tieyiqingfeng_cg4.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_tieyiqingfeng_cg4.png"
+  },
+  {
+    "class": "matthewPerry",
+    "name": "bg_tieyiqingfeng_cg6.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_tieyiqingfeng_cg6.png"
+  },
+  {
+    "class": "chinaNuke",
+    "name": "bg_tieyiqingfeng_cg7.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_tieyiqingfeng_cg7.png"
+  },
+  {
+  "class": "mistSuper",
+    "name": "bg_underheaven_0.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_underheaven_0.png"
+  },
+  {
+  "class": "mistSuper2",
+    "name": "bg_underheaven_1.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_underheaven_1.png"
+  },
+  {
+  "class": "mistNodesSome",
+    "name": "bg_underheaven_10.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_underheaven_10.png"
+  },
+  {
+  "class": "mistNodesMore",
+    "name": "bg_underheaven_11.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_underheaven_11.png"
+  },
+  {
+  "class": "mistNodesAll",
+    "name": "bg_underheaven_12.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_underheaven_12.png"
+  },
+  {
+  "class": "mistClearNight",
+    "name": "bg_underheaven_13.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_underheaven_13.png"
+  },
+  {
+  "class": "mistClear",
+    "name": "bg_underheaven_14.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_underheaven_14.png"
+  },
+  {
+  "class": "mistSuper3",
+    "name": "bg_underheaven_2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_underheaven_2.png"
+  },
+  {
+  "class": "",
+    "name": "bg_underheaven_3.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_underheaven_3.png"
+  },
+  {
+  "class": "",
+    "name": "bg_underheaven_4.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_underheaven_4.png"
+  },
+  {
+  "class": "mistPurple",
+    "name": "bg_underheaven_5.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_underheaven_5.png"
+  },
+  {
+  "class": "mistPurpleColGlow",
+    "name": "bg_underheaven_6.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_underheaven_6.png"
+  },
+  {
+  "class": "mistNodesNear",
+    "name": "bg_underheaven_7.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_underheaven_7.png"
+  },
+  {
+  "class": "mistNodesFar",
+    "name": "bg_underheaven_8.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_underheaven_8.png"
+  },
+  {
+  "class": "mistNodesEast",
+    "name": "bg_underheaven_9.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_underheaven_9.png"
+  },
+  {
+  "class": "gazerFall",
+    "name": "bg_underheaven_cg1.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_underheaven_cg1.png"
+  },
+   {
+    "class": "heirophant",
+    "name": "bg_underheaven_cg10.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_underheaven_cg10.png"
+  },
+  {
+    "class": "richyCrown",
+    "name": "bg_underheaven_cg12.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_underheaven_cg12.png"
+  },
+  {
+  "class": "gazerBreak",
+    "name": "bg_underheaven_cg2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_underheaven_cg2.png"
+  },
+  {
+  "class": "marcoThrone",
+    "name": "bg_underheaven_cg3.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_underheaven_cg3.png"
+  },
+    {
+    "class": "clemVirtual",
+    "name": "bg_underheaven_cg4.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_underheaven_cg4.png"
+  },
+  {
+    "class": "clemStrike",
+    "name": "bg_underheaven_cg5.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_underheaven_cg5.png"
+  },
+  {
+  "class": "marcoFall",
+    "name": "bg_underheaven_cg6.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_underheaven_cg6.png"
+  },
+  {
+  "class": "jbRichReunion",
+    "name": "bg_underheaven_cg7.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_underheaven_cg7.png"
+  },
+  {
+  "class": "underwater",
+    "name": "bg_underwater.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_underwater.png"
+  },
+  {
+  "class": "nagatoRetreat",
+    "name": "bg_unnamearea_0.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_unnamearea_0.png"
+  },
+  {
+  "class": "vagueIslands",
+    "name": "bg_unnamearea_1.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_unnamearea_1.png"
+  },
+  {
+  "class": "darkIslands",
+    "name": "bg_unnamearea_2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_unnamearea_2.png"
+  },
+  {
+  "class": "musashiAbode",
+    "name": "bg_wuzang_bg0.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_wuzang_bg0.png"
+  },
+  {
+  "class": "game1",
+    "name": "bg_wuzang_bg1.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_wuzang_bg1.png"
+  },
+  {
+  "class": "game2",
+    "name": "bg_wuzang_bg10.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_wuzang_bg10.png"
+  },
+  {
+  "class": "game3",
+    "name": "bg_wuzang_bg11.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_wuzang_bg11.png"
+  },
+  {
+  "class": "",
+    "name": "bg_wuzang_bg12.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_wuzang_bg12.png"
+  },
+  {
+  "class": "",
+    "name": "bg_wuzang_bg13.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_wuzang_bg13.png"
+  },
+  {
+  "class": "",
+    "name": "bg_wuzang_bg14.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_wuzang_bg14.png"
+  },
+  {
+  "class": "",
+    "name": "bg_wuzang_bg15.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_wuzang_bg15.png"
+  },
+  {
+  "class": "mainWuzang",
+    "name": "bg_wuzang_bg16.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_wuzang_bg16.png"
+  },
+  {
+  "class": "",
+    "name": "bg_wuzang_bg17.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_wuzang_bg17.png"
+  },
+  {
+  "class": "",
+    "name": "bg_wuzang_bg2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_wuzang_bg2.png"
+  },
+  {
+  "class": "",
+    "name": "bg_wuzang_bg3.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_wuzang_bg3.png"
+  },
+  {
+  "class": "",
+    "name": "bg_wuzang_bg4.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_wuzang_bg4.png"
+  },
+  {
+  "class": "",
+    "name": "bg_wuzang_bg5.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_wuzang_bg5.png"
+  },
+  {
+  "class": "",
+    "name": "bg_wuzang_bg6.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_wuzang_bg6.png"
+  },
+  {
+  "class": "",
+    "name": "bg_wuzang_bg7.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_wuzang_bg7.png"
+  },
+  {
+  "class": "",
+    "name": "bg_wuzang_bg8.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_wuzang_bg8.png"
+  },
+  {
+  "class": "",
+    "name": "bg_wuzang_bg9.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_wuzang_bg9.png"
+  },
+  {
+    "class": "fourPlayers",
+    "name": "bg_wuzang_cg1.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_wuzang_cg1.png"
+  },
+  {
+  "class": "",
+    "name": "bg_wuzang_cg2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_wuzang_cg2.png"
+  },
+  {
+    "class": "noNagato",
+    "name": "bg_wuzang_cg3.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_wuzang_cg3.png"
+  },
+  {
+    "class": "noAkagi",
+    "name": "bg_wuzang_cg4.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_wuzang_cg4.png"
+  },
+  {
+  "class": "",
+    "name": "bg_wuzang_cg5.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_wuzang_cg5.png"
+  },
+    {
+    "class": "noMikasa",
+    "name": "bg_wuzang_cg6.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_wuzang_cg6.png"
+  },
+  {
+    "class": "musashiArm",
+    "name": "bg_wuzang_cg7.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_wuzang_cg7.png"
+  },
+  {
+    "class": "hermitVessel",
+    "name": "bg_wuzang_cg8.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_wuzang_cg8.png"
+  },
+  {
+  "class": "newyorkapocolypse",
+    "name": "bg_xiangting_0.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_xiangting_0.png"
+  },
+  {
+  "class": "newyorkFall",
+    "name": "bg_xiangting_1.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_xiangting_1.png"
+  },
+  {
+  "class": "newyorkDark",
+    "name": "bg_xiangting_2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_xiangting_2.png"
+  },
+  {
+  "class": "singularity",
+    "name": "bg_xiangting_3.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_xiangting_3.png"
+  },
+  {
+  "class": "entyFaceoff",
+    "name": "bg_xiangting_cg1.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_xiangting_cg1.png"
+  },
+  {
+  "class": "entyWalk",
+    "name": "bg_xiangting_cg2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_xiangting_cg2.png"
+  },
+  {
+  "class": "AnzeelReach",
+    "name": "bg_xiangting_cg3.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_xiangting_cg3.png"
+  },
+  {
+  "class": "takaoChallenge",
+    "name": "bg_xiangting_cg4.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_xiangting_cg4.png"
+  },
+  {
+  "class": "sakuraIslands",
+    "name": "bg_xinnong2_1.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_xinnong2_1.png"
+  },
+  {
+  "class": "shinanoDreamSpace",
+    "name": "bg_xinnong2_2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_xinnong2_2.png"
+  },
+   {
+    "class": "shinanoParty",
+    "name": "bg_xinnong2_3.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_xinnong2_3.png"
+  },
+  {
+    "class": "shinanoBlackCube",
+    "name": "bg_xinnong2_4.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_xinnong2_4.png"
+  },
+  {
+  "class": "XFirstSighting",
+    "name": "bg_xinnong2_5.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_xinnong2_5.png"
+  },
+  {
+  "class": "fish",
+    "name": "bg_xinnong2_6.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_xinnong2_6.png"
+  },
+  {
+    "class": "shinanoAmagi",
+    "name": "bg_xinnong2_7.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_xinnong2_7.png"
+  },
+  {
+    "class": "shinanoParty2",
+    "name": "bg_xinnong2_8.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_xinnong2_8.png"
+  },
+  {
+  "class": "sakuraIslandsDard",
+    "name": "bg_xinnong2_98.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_xinnong2_98.png"
+  },
+  {
+  "class": "shinanoDreamspaceBright",
+    "name": "bg_xinnong2_99.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_xinnong2_99.png"
+  },
+  {
+  "class": "ritualSiteDark",
+    "name": "bg_xinnong_cg1.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_xinnong_cg1.png"
+  },
+  {
+  "class": "ritualSiteBurning",
+    "name": "bg_xinnong_cg2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_xinnong_cg2.png"
+  },
+  {
+  "class": "darkPacIslands",
+    "name": "bg_xinnong_cg3.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_xinnong_cg3.png"
+  },
+  {
+  "class": "ryuuhouFight",
+    "name": "bg_xinnong_cg4.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_xinnong_cg4.png"
+  },
+  {
+  "class": "kinu",
+    "name": "bg_xinnong_cg5.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_xinnong_cg5.png"
+  },
+  {
+  "class": "noshiro",
+    "name": "bg_xinnong_cg6.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_xinnong_cg6.png"
+  },
+  {
+  "class": "surugaRyuuhou",
+    "name": "bg_xinnong_cg7.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_xinnong_cg7.png"
+  },
+  {
+  "class": "antarctic",
+    "name": "bg_xuejing_1.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_xuejing_1.png"
+  },
+  {
+  "class": "antarcticDusk",
+    "name": "bg_xuejing_2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_xuejing_2.png"
+  },
+  {
+  "class":"antarcticNight",
+    "name": "bg_xuejing_3.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_xuejing_3.png"
+  },
+  {
+  "class": "ringWise",
+    "name": "bg_xuejing_4.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_xuejing_4.png"
+  },
+  {
+  "class": "ringWiseNight",
+    "name": "bg_xuejing_5.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_xuejing_5.png"
+  },
+  {
+  "class": "sovetskyPre",
+    "name": "bg_xuejing_cg1.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_xuejing_cg1.png"
+  },
+  {
+  "class": "pamiatGazer",
+    "name": "bg_xuejing_cg10.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_xuejing_cg10.png"
+  },
+  {
+  "class": "sovetskyPost",
+    "name": "bg_xuejing_cg2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_xuejing_cg2.png"
+  },
+  {
+    "class": "soyuzCity",
+    "name": "bg_xuejing_cg3.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_xuejing_cg3.png"
+  },
+  {
+    "class": "poltavaTablet",
+    "name": "bg_xuejing_cg5.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_xuejing_cg5.png"
+  },
+  {
+  "class": "observerSoS",
+    "name": "bg_xuejing_cg6.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_xuejing_cg6.png"
+  },
+  {
+    "class": "soyuzFeast",
+    "name": "bg_xuejing_cg8.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_xuejing_cg8.png"
+  },
+  {
+  "class": "ibSingularity",
+    "name": "bg_yuanhuidian.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_yuanhuidian.png"
+  },
+  {
+  "class": "ibCross",
+    "name": "bg_yuhui_1.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_yuhui_1.png"
+  },
+  {
+  "class": "ibCrossNight",
+    "name": "bg_yuhui_2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_yuhui_2.png"
+  },
+  {
+  "class": "starBeastReach",
+    "name": "bg_yuhui_3.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_yuhui_3.png"
+  },
+  {
+  "class": "starBeastNight",
+    "name": "bg_yuhui_4.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_yuhui_4.png"
+  },
+  {
+    "class": "magician",
+    "name": "bg_yuhui_cg_10.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_yuhui_cg_10.png"
+  },
+  {
+    "class": "ibPlay",
+    "name": "bg_yuhui_cg_2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_yuhui_cg_2.png"
+  },
+  {
+  "class": "starBeast",
+    "name": "bg_yuhui_cg_3.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_yuhui_cg_3.png"
+  },
+  {
+    "class": "hipperM",
+    "name": "bg_yuhui_cg_4.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_yuhui_cg_4.png"
+  },
+  {
+  "class": "starBeastBlow",
+    "name": "bg_yuhui_cg_5.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_yuhui_cg_5.png"
+  },
+  {
+  "class": "tulipaPort",
+    "name": "bg_yujin_1.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_yujin_1.png"
+  },
+  {
+  "class": "",
+    "name": "bg_yujin_2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_yujin_2.png"
+  },
+  {
+  "class": "",
+    "name": "bg_yujin_3.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_yujin_3.png"
+  },
+  {
+  "class": "treeCrystals",
+    "name": "bg_yunxian_1.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_yunxian_1.png"
+  },
+  {
+  "class": "treeCrystalsDark",
+    "name": "bg_yunxian_2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_yunxian_2.png"
+  },
+  {
+  "class": "treeUproot",
+    "name": "bg_yunxian_3.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_yunxian_3.png"
+  },
+  {
+  "class": "noTree",
+    "name": "bg_yunxian_4.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_yunxian_4.png"
+  },
+  {
+  "class": "treeUprootWaves",
+    "name": "bg_yunxian_5.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_yunxian_5.png"
+  },
+  {
+  "class": "destroyerCharge",
+    "name": "bg_yunxian_cg1.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_yunxian_cg1.png"
+  },
+  {
+    "class": "Shimanto",
+    "name": "bg_yunxian_cg2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_yunxian_cg2.png"
+  },
+  {
+  "class": "unzenSwords",
+    "name": "bg_yunxian_cg4.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_yunxian_cg4.png"
+  },
+  {
+  "class": "unzenSlash",
+    "name": "bg_yunxian_cg5.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_yunxian_cg5.png"
+  },
+  {
+  "class": "starseaUnder",
+    "name": "bg_zhedie_11.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_zhedie_11.png"
+  },
+  {
+  "class": "sickroom",
+    "name": "bg_zhedie_14.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_zhedie_14.png"
+  },
+  {
+  "class": "yorktownReturn",
+    "name": "bg_zhedie_15.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_zhedie_15.png"
+  },
+  {
+  "class": "outsideYorktown",
+    "name": "bg_zhedie_16.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_zhedie_16.png"
+  },
+  {
+  "class": "yorktownFace",
+    "name": "bg_zhedie_17.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_zhedie_17.png"
+  },
+  {
+  "class": "nyFutureRain",
+    "name": "bg_zhedie_2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_zhedie_2.png"
+  },
+  {
+  "class": "nyHarborFuture",
+    "name": "bg_zhedie_3.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_zhedie_3.png"
+  },
+  {
+  "class": "samos",
+    "name": "bg_zhedie_4.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_zhedie_4.png"
+  },
+  {
+  "class": "hammannBored",
+    "name": "bg_zhedie_6.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_zhedie_6.png"
+  },
+  {
+  "class": "samosRed",
+    "name": "bg_zhedie_7.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_zhedie_7.png"
+  },
+  {
+  "class": "coralSeaGrey",
+    "name": "bg_zhuguang_1.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_zhuguang_1.png"
+  },
+  {
+  "class": "coralSea3d",
+    "name": "bg_zhuguang_2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_zhuguang_2.png"
+  },
+  {
+  "class": "coralSeaBurn",
+    "name": "bg_zhuguang_3.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_zhuguang_3.png"
+  },
+  {
+  "class": "timeAnomaly",
+    "name": "bg_zhuguang_4.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_zhuguang_4.png"
+  },
+  {
+  "class": "starseaUnderGrey",
+    "name": "bg_zhuguang_5.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_zhuguang_5.png"
+  },
+  {
+  "class": "timeAnomalyPurples",
+    "name": "bg_zhuguang_6.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_zhuguang_6.png"
+  },
+  {
+  "class": "laffeyDevil",
+    "name": "bg_zhuguang_cg3.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_zhuguang_cg3.png"
+  },
+  {
+  "class": "gateGaurd",
+    "name": "bg_zhuguang_cg5.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_zhuguang_cg5.png"
+  },
+  {
+  "class": "desolation",
+    "name": "bg_zhuiluo_2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/bg_zhuiluo_2.png"
+  },
+{
+  "class": "",
+    "name": "star_level_bg_100.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_100.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_101.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_101.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_102.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_102.png"
+  },
+  {
+  "class": "school",
+    "name": "star_level_bg_103.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_103.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_104.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_104.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_105.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_105.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_106.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_106.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_107.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_107.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_108.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_108.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_109.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_109.png"
+  },
+  {
+  "class": "butterflies",
+    "name": "star_level_bg_110.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_110.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_1101.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_1101.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_1102.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_1102.png"
+  },
+  {
+  "class": "sakuraRoomLamps",
+    "name": "star_level_bg_111.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_111.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_112.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_112.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_113.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_113.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_114.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_114.png"
+  },
+  {
+  "class": "royalChambers",
+    "name": "star_level_bg_115.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_115.png"
+  },
+  {
+  "class": "butterflyWallpaper",
+    "name": "star_level_bg_116.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_116.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_117.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_117.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_118.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_118.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_119.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_119.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_120.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_120.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_121.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_121.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_122.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_122.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_123.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_123.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_124.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_124.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_125.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_125.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_126.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_126.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_127.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_127.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_128.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_128.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_129.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_129.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_130.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_130.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_131.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_131.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_132.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_132.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_133.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_133.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_134.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_134.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_135.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_135.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_136.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_136.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_137.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_137.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_138.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_138.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_139.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_139.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_140.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_140.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_141.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_141.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_142.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_142.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_143.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_143.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_144.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_144.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_145.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_145.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_146.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_146.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_147.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_147.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_148.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_148.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_149.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_149.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_150.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_150.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_151.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_151.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_152.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_152.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_153.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_153.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_154.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_154.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_155.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_155.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_156.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_156.png"
+  },
+  {
+  "class": "chinaRoom",
+    "name": "star_level_bg_157.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_157.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_158.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_158.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_159.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_159.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_160.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_160.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_161.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_161.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_162.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_162.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_163.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_163.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_164.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_164.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_165.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_165.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_166.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_166.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_167.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_167.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_168.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_168.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_169.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_169.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_170.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_170.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_171.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_171.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_172.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_172.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_173.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_173.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_174.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_174.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_175.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_175.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_176.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_176.png"
+  },
+  {
+  "class": "gothic",
+    "name": "star_level_bg_177.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_177.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_178.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_178.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_179.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_179.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_180.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_180.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_181.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_181.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_182.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_182.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_183.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_183.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_184.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_184.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_185.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_185.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_186.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_186.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_187.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_187.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_188.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_188.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_189.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_189.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_190.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_190.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_191.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_191.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_192.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_192.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_193.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_193.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_201.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_201.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_202.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_202.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_203.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_203.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_204.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_204.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_205.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_205.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_206.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_206.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_207.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_207.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_208.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_208.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_209.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_209.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_210.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_210.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_220.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_220.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_300.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_300.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_301.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_301.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_302.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_302.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_303.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_303.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_304.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_304.png"
+  },
+  {
+  "class": "italyStreet",
+    "name": "star_level_bg_305.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_305.png"
+  },
+  {
+  "class": "controlRoom",
+    "name": "star_level_bg_306.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_306.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_307.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_307.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_308.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_308.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_309.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_309.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_320.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_320.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_3_1.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_3_1.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_490.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_490.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_491.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_491.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_492.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_492.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_493.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_493.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_494.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_494.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_499.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_499.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_4_0.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_4_0.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_4_1.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_4_1.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_5.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_5.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_500.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_500.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_501.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_501.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_502.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_502.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_503.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_503.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_504.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_504.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_505.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_505.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_506.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_506.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_507.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_507.png"
+  },
+  {
+  "class": "sakuraRoomDark",
+    "name": "star_level_bg_508.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_508.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_509.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_509.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_510.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_510.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_511.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_511.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_512.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_512.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_513.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_513.png"
+  },
+  {
+  "class": "sakuraBanquet",
+    "name": "star_level_bg_514.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_514.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_515.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_515.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_516.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_516.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_517.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_517.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_518.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_518.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_519.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_519.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_520.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_520.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_521.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_521.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_522.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_522.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_523.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_523.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_524.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_524.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_525.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_525.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_526.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_526.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_527.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_527.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_528.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_528.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_529.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_529.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_530.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_530.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_531.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_531.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_532.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_532.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_533.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_533.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_534.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_534.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_535.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_535.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_537.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_537.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_538.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_538.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_539.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_539.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_540.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_540.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_541.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_541.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_542.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_542.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_543.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_543.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_544.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_544.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_545.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_545.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_546.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_546.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_547.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_547.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_552.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_552.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_555.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_555.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_556.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_556.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_557.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_557.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_558.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_558.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_559.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_559.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_570.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_570.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_571.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_571.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_572.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_572.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_580.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_580.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_581.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_581.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_582.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_582.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_583.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_583.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_584.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_584.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_589.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_589.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_590.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_590.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_592.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_592.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_593.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_593.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_594.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_594.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_595.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_595.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_596.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_596.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_597.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_597.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_598.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_598.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_599.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_599.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_5_.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_5_.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_5_0.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_5_0.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_5_1.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_5_1.png"
+  },
+  {
+  "class": "royalBanquet",
+    "name": "star_level_bg_600.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_600.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_601.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_601.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_602.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_602.png"
+  },
+  {
+  "class": "hiddenDoor",
+    "name": "star_level_bg_603.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_603.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_604.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_604.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_605.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_605.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_606.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_606.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_607.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_607.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_608.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_608.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_610.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_610.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_611.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_611.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_612.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_612.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_613.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_613.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_700.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_700.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_701.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_701.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_702.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_702.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_703.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_703.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_704.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_704.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_705.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_705.png"
+  },
+  {
+  "class": "schoolFuture",
+    "name": "star_level_bg_706.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_706.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_707.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_707.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_nepblack.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_nepblack.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_nepgreen.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_nepgreen.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_neppurple.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_neppurple.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_bg_nepwhite.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_bg_nepwhite.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_card_1.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_card_1.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_card_1_.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_card_1_.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_card_2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_card_2.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_card_2_.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_card_2_.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_card_3.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_card_3.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_card_3_.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_card_3_.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_card_3_1.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_card_3_1.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_card_4.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_card_4.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_card_4_.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_card_4_.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_card_4_0.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_card_4_0.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_card_4_1.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_card_4_1.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_card_5.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_card_5.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_card_5_.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_card_5_.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_card_5_0.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_card_5_0.png"
+  },
+  {
+  "class": "",
+    "name": "star_level_card_5_1.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/star_level_card_5_1.png"
+  },
+  {
+  "class": "",
+    "name": "storymap_bolanhuichang.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/storymap_bolanhuichang.png"
+  },
+  {
+  "class": "",
+    "name": "storymap_bolanhuichang_99.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/storymap_bolanhuichang_99.png"
+  },
+  {
+  "class": "",
+    "name": "storymap_huanlujianhai1.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/storymap_huanlujianhai1.png"
+  },
+  {
+  "class": "",
+    "name": "storymap_huanlujianhai1_99.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/storymap_huanlujianhai1_99.png"
+  },
+  {
+  "class": "",
+    "name": "storymap_huanlujianhai2.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/storymap_huanlujianhai2.png"
+  },
+  {
+  "class": "",
+    "name": "storymap_huanlujianhai2_99.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/storymap_huanlujianhai2_99.png"
+  },
+  {
+  "class": "",
+    "name": "storymap_maliyana.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/storymap_maliyana.png"
+  },
+  {
+  "class": "",
+    "name": "storymap_maliyana_99.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/storymap_maliyana_99.png"
+  },
+  {
+  "class": "",
+    "name": "storymap_nanjidalu.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/storymap_nanjidalu.png"
+  },
+  {
+  "class": "",
+    "name": "storymap_qiangweizhanqu.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/storymap_qiangweizhanqu.png"
+  },
+  {
+  "class": "",
+    "name": "storymap_sadingniya.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/storymap_sadingniya.png"
+  },
+  {
+  "class": "",
+    "name": "storymap_sadingniya_99.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/storymap_sadingniya_99.png"
+  },
+  {
+  "class": "",
+    "name": "storymap_taipingyang.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/storymap_taipingyang.png"
+  },
+  {
+  "class": "",
+    "name": "storymap_taipingyang_99.png",
+    "link": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/BG/storymap_taipingyang_99.png"
+  }
+]
