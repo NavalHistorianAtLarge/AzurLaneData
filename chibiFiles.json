@@ -1458,8 +1458,8 @@
       "fileName": "lafeiII",
       "type": "DD",
       "class": "Allen Sumner",
-      "hanzi": "",
-      "hanziMeaning": "",
+      "hanzi": "拉菲",
+      "hanziMeaning": "Laffey",
       "kanji": "",
       "rarity": "UR",
       "skins": [
@@ -1491,8 +1491,8 @@
       "faction": "Eagle",
       "rarity": "R",
       "type": "DD",
-      "hanzi": "",
-      "fileName": "",
+      "hanzi": "西姆斯",
+      "fileName": "ximusi",
       "skins": [
         {
           "id": "Sims",
@@ -1503,6 +1503,542 @@
           "id": "SimsG",
           "label": "Retrofit",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/simsg/simsg.json"
+        }
+      ]
+    },
+    {
+      "name": "Hammann",
+      "class": "Sims",
+      "faction": "Eagle",
+      "rarity": "R",
+      "type": "DD",
+      "hanzi": "西姆斯",
+      "fileName": "haman",
+      "skins": [
+        {
+          "id": "Hammann",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hammann/hammann.json"
+        },
+        {
+          "id": "Hammann1",
+          "label": "Rebellious Summer",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hammann1/hammann1.json"
+        },
+        {
+          "id": "Hammann2",
+          "label": "Prideful Fairy of the Ballroom",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hammann2/hammann2.json"
+        },
+        {
+          "id": "Hammann3",
+          "label": "Hammanyan Pawnch",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hammann3/hammann3.json"
+        },
+        {
+          "id": "Hammann4",
+          "label": "Holy Night Surprise",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hammann4/hammann4.json"
+        },
+        {
+          "id": "Hammann5",
+          "label": "Blushing Fellow",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hammann5/hammann5.json"
+        },
+        {
+          "id": "HammannG",
+          "label": "Retrofit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hammanng/hammanng.json"
+        }
+      ]
+    },
+    {
+      "name": "Hammann II",
+      "class": "Edsall",
+      "faction": "Eagle",
+      "group": "type2",
+      "hanzi": "西姆斯",
+      "fileName": "haman_2",
+      "rarity": "UR",
+      "type": "DD",
+      "skins": [
+        {
+          "id": "HammannII",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hammannII/hammannII.json"
+        },
+        {
+          "id": "HammannII1",
+          "label": "Another Rebellious Summer",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hammannII1/hammannII1.json"
+        }
+      ]
+    },
+    {
+      "name": "Eldridge",
+      "class": "Cannon",
+      "faction": "Eagle",
+      "type": "DD",
+      "hanzi": "埃尔德里奇",
+      "fileName": "aierdeliji",
+      "kanji": "",
+      "rarity": "SR",
+      "skins": [
+        {
+          "id": "Eldridge",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/eldridge/eldridge.json"
+        },
+        {
+          "id": "Eldridge1",
+          "label": "Holy Night's Embrace",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/eldridge1/eldridge1.json"
+        },
+        {
+          "id": "Eldridge2",
+          "label": "The Inquisitive Recluse",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/eldridge2/eldridge2.json"
+        },
+        {
+          "id": "Eldridge3",
+          "label": "New Year's Outing",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/eldridge3/eldridge3.json"
+        },
+        {
+          "id": "Eldridge4",
+          "label": "Kitty Idol",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/eldridge4/eldridge4.json"
+        },
+        {
+          "id": "Eldridge5",
+          "label": "Moon Festival Spacewalk",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/eldridge5/eldridge5.json"
+        },
+        {
+          "id": "Eldridge6",
+          "label": "After-School Good Girl",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/eldridge6/eldridge6.json"
+        },
+        {
+          "id": "EldridgeH",
+          "label": "Afternoon Worship in the Woods",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/eldridgeh/eldridgeh.json"
+        },
+        {
+          "id": "EldridgeG",
+          "label": "Retrofit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/eldridgeg/eldridgeg.json"
+        }
+      ]
+    },
+    {
+      "name": "Halsey Powell",
+      "faction": "Eagle",
+      "class": "Fletcher",
+      "rarity": "R",
+      "type": "DD",
+      "hanzi": "哈尔西·鲍威尔",
+      "fileName": "haerxibaoweier",
+      "skins": [
+        {
+          "id": "Powell",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/powell/powell.json"
+        },
+        {
+          "id": "Powell1",
+          "label": "Spring's Lucky Star",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/powell1/powell1.json"
+        }
+      ]
+    },
+    {
+      "name": "Smalley",
+      "faction": "Eagle",
+      "class": "Fletcher",
+      "rarity": "R",
+      "hanzi": "斯莫利",
+      "type": "DD",
+      "fileName": "simoli",
+      "skins": [
+        {
+          "id": "Smalley",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/smalley/smalley.json"
+        },
+        {
+          "id": "Smalley1",
+          "label": "Candy Courier",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/smalley1/smalley1.json"
+        }
+      ]
+    },
+    {
+      "name": "Stanly",
+      "class": "Fletcher",
+      "faction": "Eagle",
+      "fileName": "sitanli",
+      "hanzi": "斯坦利",
+      "rarity": "R",
+      "type": "DD",
+      "skins": [
+        {
+          "id": "Stanly",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/smalley2/smalley2.json"
+        }
+      ]
+    },
+    {
+      "name": "Bache",
+      "class": "Fletcher",
+      "type": "DD",
+      "faction": "Eagle",
+      "fileName": "beiji",
+      "hanzi": "贝奇",
+      "rarity": "R",
+      "skins": [
+        {
+          "id": "Bache",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/bache/bache.json"
+        },
+        {
+          "id": "Bache1",
+          "label": "Gorgeous Speed-star",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/bache1/bache1.json"
+        },
+        {
+          "id": "Bache2",
+          "label": "Showy Sports Star",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/bache2/bache2.json"
+        }
+      ]
+    },
+    {
+      "name": "Aylwin",
+      "class": "Farragut",
+      "fileName": "aierwin",
+      "type": "DD",
+      "faction": "Eagle",
+      "rarity": "R",
+      "hanzi": "艾尔温",
+      "skins": [
+        {
+          "id": "Aylwin",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/aylwin/aylwin.json"
+        },
+        {
+          "id": "Aylwin1",
+          "label": "Sunday Aquarium Visit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/aylwin1/aylwin1.json"
+        }
+      ]
+    },
+    {
+      "name": "Kimberly",
+      "class": "Fletcher",
+      "fileName": "jinbali",
+      "faction": "Eagle",
+      "type": "DD",
+      "hanzi": "金伯利",
+      "rarity": "R",
+      "skins": [
+        {
+          "id": "Kimberly",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kimberly/kimberly.json"
+        },
+        {
+          "id": "Kimberly1",
+          "label": "Style of the East",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kimberly1/kimberly1.json"
+        }
+      ]
+    },
+    {
+      "name": "Kimberly META",
+      "class": "Fletcher",
+      "faction": "meta",
+      "metaClass": "",
+      "metaOrigin": "Eagle",
+      "fileName": "jinbali_alter",
+      "hanzi": "金伯利·META",
+      "type": "DD",
+      "rarity": "MELITE",
+      "skins": [
+        {
+          "id": "KimberlyM",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kimberlyM/kimberlyM.json"
+        }
+      ]
+    },
+    {
+      "name": "Hazelwood",
+      "class": "Fletcher",
+      "faction": "Eagle",
+      "fileName": "heizewude",
+      "hanzi": "黑泽伍德",
+      "type": "DD",
+      "rarity": "E",
+      "skins": [
+        {
+          "id": "Hazelwood",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hazelwood/hazelwood.json"
+        }
+      ]
+    },
+    {
+      "name": "Kalk",
+      "hanzi": "科尔克",
+      "fileName": "keerke",
+      "faction": "Eagle",
+      "class": "Benson",
+      "type": "DD",
+      "rarity": "R",
+      "skins": [
+        {
+          "id": "Kalk",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kalk/kalk.json"
+        },
+        {
+          "id": "Kalk1",
+          "label": "Snow Fairy Schoolgirl",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kalk1/kalk1.json"
+        }
+      ]
+    },
+    {
+      "name": "Hobby",
+      "class": "Benson",
+      "faction": "Eagle",
+      "hanzi": "霍比",
+      "fileName": "huobi",
+      "rarity": "R",
+      "type": "DD",
+      "skins": [
+        {
+          "id": "Hobby",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hobby/hobby.json"
+        },
+        {
+          "id": "Hobby1",
+          "label": "Little Idol Schoolgirl",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hobby1/hobby1.json"
+        }
+      ]
+    },
+    {
+      "name": "Bush",
+      "class": "Fletcher",
+      "faction": "Eagle",
+      "fileName": "bushi",
+      "hanzi": "布什",
+      "rarity": "R",
+      "type": "DD",
+      "skins": [
+        {
+          "id": "Bush",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/bush/bush.json"
+        },
+        {
+          "id": "Bush1",
+          "label": "Budding Painter",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/bush1/bush1.json"
+        }
+      ]
+    },
+    {
+      "name": "Jenkins",
+      "class": "Fletcher",
+      "faction": "Eagle",
+      "fileName": "jiejinsi",
+      "hanzi": "杰金斯",
+      "rarity": "R",
+      "type": "DD",
+      "skins": [
+        {
+          "id": "Jenkins",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/jenkins/jenkins.json"
+        },
+        {
+          "id": "Jenkins1",
+          "label": "Light of the Holiest Star",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/jenkins1/jenkins1.json"
+        }
+      ]
+    },
+    {
+      "name": "Radford",
+      "class": "Fletcher",
+      "faction": "Eagle",
+      "hanzi": "拉德福特",
+      "fileName": "ladefute",
+      "rarity": "R",
+      "type": "DD",
+      "skins": [
+        {
+          "id": "Radford",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/radford/radford.json"
+        },
+        {
+          "id": "Radford1",
+          "label": "Sweet Magic",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/radford1/radford1.json"
+        }
+      ]
+    },
+    {
+      "name": "Bailey",
+      "class": "Benson",
+      "faction": "Eagle",
+      "fileName": "beili",
+      "hanzi": "贝利",
+      "rarity": "R",
+      "type": "DD",
+      "skins": [
+        {
+          "id": "Bailey",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/bailey/bailey.json"
+        },
+        {
+          "id": "Bailey1",
+          "label": "Trickster Black Rabbit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/bailey1/bailey1.json"
+        },
+        {
+          "id": "Bailey2",
+          "label": "Jolly Saint Bunnylass!",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/bailey2/bailey2.json"
+        },
+        {
+          "id": "BaileyG",
+          "label": "Retrofit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/baileyg/baileyg.json"
+        }
+      ]
+    },
+    {
+      "name": "North Carolina",
+      "faction": "Eagle",
+      "class": "North Carolina",
+      "fileName": "beikaluolaina",
+      "hanzi": "北卡罗来纳",
+      "type": "BB",
+      "rarity": "SR",
+      "skins": [
+        {
+          "id": "NorthCarolina",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/nocal/nocal.json"
+        },
+        {
+          "id": "NorthCarolina1",
+          "label": "Desires of the Heart",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/nocal1/nocal1.json"
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "faction": "Eagle",
+      "class":"Washington",
+      "fileName": "huashengdun",
+      "hanzi": "华盛顿",
+      "type": "BB",
+      "rarity": "SR",
+      "skins": [
+        {
+          "id": "Washington",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/washington/washington.json"
+        },
+        {
+          "id": "Washington",
+          "label": "Jubilant Smile",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/washington1/washington1.json"
+        }
+      ]
+    },
+    {
+      "name": "Helena",
+      "class": "Brooklyn",
+      "type": "CL",
+      "faction": "Eagle",
+      "fileName": "hailunna",
+      "hanzi": "海伦娜",
+      "group": "innerCircle",
+      "rarity": "E",
+      "skins": [
+        {
+          "id": "Helena",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/helena/helena.json"
+        },
+        {
+          "id": "Helena1",
+          "label": "New Year's Bluebird",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/helena1/helena1.json"
+        },
+        {
+          "id": "Helena2",
+          "label": "May I have this Dance?",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/helena2/helena2.json"
+        },
+        {
+          "id": "Helena3",
+          "label": "Shimmering Wave Triangle",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/helena3/helena3.json"
+        },
+        {
+          "id": "HelenaH",
+          "label": "Miracle in White",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/helenah/helenah.json"
+        },
+        {
+          "id": "HelenaG",
+          "label": "Retrofit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/helenag/helenag.json"
+        }
+      ]
+    },
+    {
+      "name": "Lena",
+      "faction": "Eagle",
+      "class": "Brooklyn",
+      "group": "littles",
+      "fileName": "hailunna_yunv",
+      "skins": [
+        {
+          "id": "Lena",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/lena/lena.json"
+        }
+      ]
+    },
+    {
+      "name": "Helena META",
+      "faction": "meta",
+      "metaClass": "framework",
+      "fileName": "hailunna_alter",
+      "class": "Brooklyn",
+      "type": "CL",
+      "metaOrigin": "Eagle",
+      "rarity": "MSR",
+      "skins": [
+        {
+          "id": "HelenaM",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/helenam/helenam.json"
         }
       ]
     }
