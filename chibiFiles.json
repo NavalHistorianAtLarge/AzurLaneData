@@ -2043,11 +2043,11 @@
       ]
     },
        {
-      "name": "Observer Alpha",
+      "name": "Observer",
       "faction": "siren",
       "skins": [
         {
-          "id": "ObserverA",
+          "id": "Observer",
           "label": "Default",
           "path": ""
         }
@@ -2056,4 +2056,5 @@
   ] 
 
 }
+
 
