@@ -2041,6 +2041,18 @@
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/helenam/helenam.json"
         }
       ]
+    },
+       {
+      "name": "ObserverA",
+      "faction": "siren",
+      "skins": [
+        {
+          "id": "ObserverA",
+          "label": "Default",
+          "path": ""
+        }
+      ]
     }
   ] 
+
 }
