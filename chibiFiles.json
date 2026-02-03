@@ -2043,7 +2043,7 @@
       ]
     },
        {
-      "name": "ObserverA",
+      "name": "Observer Alpha",
       "faction": "siren",
       "skins": [
         {
@@ -2056,3 +2056,4 @@
   ] 
 
 }
+
