@@ -2203,7 +2203,7 @@
       "rarity": "E",
       "skins": [
         {
-          "id": "Li'lSandy",
+          "id": "Sandy",
           "label": "Default",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/sandy/sandy.json"
         }
@@ -2384,4 +2384,5 @@
     }
     
   ] 
+
 }
