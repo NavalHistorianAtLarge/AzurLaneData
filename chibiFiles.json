@@ -2342,7 +2342,7 @@
       "class": "Pensacola",
       "faction": "Eagle",
       "type": "CA",
-      "fileName": "",
+      "fileName": "pengsakela",
       "rarity": "N",
       "skins": [
         {
@@ -2357,7 +2357,7 @@
       "class": "Pensacola",
       "faction": "Eagle",
       "type": "CA",
-      "fileName": "",
+      "fileName": "yanhucheng",
       "rarity": "N",
       "skins": [ 
         {
@@ -2371,7 +2371,7 @@
       "name": "Northampton",
       "class": "Northampton",
       "faction": "Eagle",
-      "fileName": "",
+      "fileName": "beianpudun",
       "rarity": "R",
       "type": "CA",
       "skins": [
@@ -2379,6 +2379,301 @@
           "id": "Northampton",
           "label": "Default",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/northampton/northampton.json"
+        }
+      ]
+    },
+    {
+      "name": "NorthamptonII",
+      "class": "Oregon City",
+      "faction": "Eagle",
+      "fileName": "beianpudunII",
+      "type": "CA",
+      "rarity": "SR",
+      "skins": [
+        {
+          "id": "NorthamptonII",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/northamptonII/northamptonII.json"
+        },
+        {
+          "id": "NorthamptonII1",
+          "label": "Swimming Star", 
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/northamptonII1/northamptonII1.json"
+        },
+        {
+          "id": "NorthamptonII2",
+          "label": "Comfy Crane Amidst the Clouds",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/northamptonII2/northamptonII2.json"
+        }
+      ]
+    },
+    {
+      "name": "Chicago",
+      "faction": "Eagle",
+      "class": "Northampton",
+      "fileName": "zhijiage",
+      "type": "CA",
+      "rarity": "R",
+      "skins": [
+        {
+          "id": "Chicago",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/chicago/chicago.json"
+        }
+      ]
+    },
+    {
+      "name": "Houston",
+      "rarity": "E",
+      "class": "Northampton",
+      "faction": "Eagle",
+      "type": "CA",
+      "fileName": "xiusidun",
+      "skins": [
+        {
+          "id": "Houston",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/houston/houston.json" 
+        }
+      ]
+    },
+    {
+      "name": "HoustonII",
+      "rarity": "SR",
+      "class": "Cleveland",
+      "faction": "Eagle",
+      "type": "CL",
+      "fileName": "xiusidunII",
+      "skins": [
+        {
+          "id": "HoustonII",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/houstonII/houstonII.json"
+        },
+        {
+          "id": "HoustonII1",
+          "label": "Ready to Serve!",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/houstonII1/houstonII1.json"
+        }
+      ]
+    },
+    {
+      "name": "Portland",
+      "class": "Portland",
+      "faction": "Eagle",
+      "type": "CA",
+      "rarity": "R",
+      "fileName": "botelan",
+      "skins": [
+        {
+          "id": "Portland",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/portland/portland.json"
+        },
+        {
+          "id": "Portland1",
+          "label": "At School With Indy!",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/portland1/portland1.json"
+        },
+        {
+          "id": "PortlandG",
+          "label": "Retrofit (Indianaportland)",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/portlandg/portlandg.json"
+        }
+      ]
+    },
+    {
+      "name": "Indianapolis",
+      "class": "Portland",
+      "faction": "Eagle",
+      "fileName": "bolisi",
+      "type": "CA",
+      "rarity": "SR",
+      "skins": [
+        {
+          "id": "Indianapolis",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/indianapolis/indianapolis.json"
+        },
+        {
+          "id": "Indianapolis1",
+          "label": "At School With My Sister...",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/indianapolis1/indianapolis1.json"
+        },
+        {
+          "id": "Indianapolis",
+          "label": "The Light of Circle City",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/indianapolis2/indianapolis2.json"
+        }
+      ]
+    },
+    {
+      "name": "Astoria",
+      "class": "New Orleans",
+      "rarity": "E",
+      "faction": "Eagle",
+      "type": "CA",
+      "fileName": "asituoliya",
+      "skins": [
+        {
+          "id": "Astoria",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/astoria/astoria.json"
+        },
+        {
+          "id": "Astoria1",
+          "label": "Pure \"Gurl?\"",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/astoria1/astoria1.json"
+        },
+        {
+          "id": "Astoria2",
+          "label": "Black Bunny Carnival",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/astoria2/astoria2.json"
+        }
+      ]
+    },
+    {
+      "name": "Quincy",
+      "class": "New Orleans",
+      "faction": "Eagle",
+      "rarity": "E",
+      "type": "CA",
+      "fileName": "kunxi",
+      "skins": [
+        {
+          "id": "Quincy",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/quincy/quincy.json"
+        },
+        {
+          "id": "Quincy1",
+          "label": "Sizzling Summer, Brisk Breeze",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/quincy1/quincy1.json"
+        }
+      ]
+    },
+    {
+      "name": "Vincennes",
+      "class": "New Orleans",
+      "faction": "Eagle",
+      "type": "CA",
+      "rarity": "E",
+      "fileName": "wensensi",
+      "skins": [
+        {
+          "id": "Vincennes",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/vincennes/vincenness.json"
+        },
+        {
+          "id": "Vincennes1",
+          "label": "Sweet Dreams",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/vincennes1/vincennes.json"
+        },
+        {
+          "id": "Vincennes2",
+          "label": "Leisurely ABC's",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/vincennes2/vincennes2.json"
+        }
+      ]
+    },
+    {
+      "name": "Wichita",
+      "class": "Wichita",
+      "faction": "Eagle",
+      "type": "CA",
+      "rarity": "E",
+      "fileName": "weiqita",
+      "skins": [
+        {
+          "id": "Wichita",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/wichita/wichita.json"
+        },
+        {
+          "id": "Wichita1",
+          "label": "The General's Banquet",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/wichita1/wichita1.json"
+        },
+        {
+          "id": "Wichita2",
+          "label": "Domineering Wichita",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/wichita2/wichita2.json"
+        }
+      ]
+    },
+    {
+      "name": "Wichita META",
+      "class": "Wichita",
+      "faction": "meta",
+      "metaClass": "torch",
+      "fileName": "weiqita_alter",
+      "rarity": "MSR",
+      "metaOrigin": "Eagle",
+      "type": "CA",
+      "skins": [
+        {
+          "id": "WichitaM",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/wichitam/wichitam.json"
+        }
+      ]
+    },
+    {
+      "name": "Baltimore",
+      "class": "Baltimore",
+      "type": "CA",
+      "rarity": "SR",
+      "faction": "baerdimo",
+      "skins": [
+        {
+          "id": "Baltimore",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/baltimore/baltimore.json"
+        },
+        {
+          "id": "Baltimore1",
+          "label": "After-School Ace",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/baltimore1/baltimore1.json"
+        },
+        {
+          "id": "Baltimore2",
+          "label": "Black Ace",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/baltimore2/baltimore2.json"
+        },
+        {
+          "id": "Baltimore3",
+          "label": "Evening Breeze Minuet",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/baltimore3/baltimore3.json"
+        },
+        {
+          "id": "Baltimore4",
+          "label": "Ace's Travel Journal",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/baltimore4/baltimore4.json"
+        },
+        {
+          "id": "Baltimore5",
+          "label": "Finish Line Flagbearer",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/baltimore5/baltimore5.json"
+        },
+        {
+          "id": "BaltimoreH",
+          "label": "When the Breeze Blows",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/baltimoreh/baltimoreh.json"
+        }
+      ]
+    },
+    {
+      "name": "Baltimore Muse",
+      "class": "Baltimore",
+      "type": "CA",
+      "rarity": "E",
+      "faction": "baerdimo_idol",
+      "skins": [
+        {
+          "id": "BaltimoreI",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/baltimorei/baltimorei.json"
         }
       ]
     }
