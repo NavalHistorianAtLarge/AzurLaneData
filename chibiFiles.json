@@ -1933,48 +1933,6 @@
       ]
     },
     {
-      "name": "North Carolina",
-      "faction": "Eagle",
-      "class": "North Carolina",
-      "fileName": "beikaluolaina",
-      "hanzi": "北卡罗来纳",
-      "type": "BB",
-      "rarity": "SR",
-      "skins": [
-        {
-          "id": "NorthCarolina",
-          "label": "Default",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/nocal/nocal.json"
-        },
-        {
-          "id": "NorthCarolina1",
-          "label": "Desires of the Heart",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/nocal1/nocal1.json"
-        }
-      ]
-    },
-    {
-      "name": "Washington",
-      "faction": "Eagle",
-      "class":"Washington",
-      "fileName": "huashengdun",
-      "hanzi": "华盛顿",
-      "type": "BB",
-      "rarity": "SR",
-      "skins": [
-        {
-          "id": "Washington",
-          "label": "Default",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/washington/washington.json"
-        },
-        {
-          "id": "Washington",
-          "label": "Jubilant Smile",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/washington1/washington1.json"
-        }
-      ]
-    },
-    {
       "name": "Helena",
       "class": "Brooklyn",
       "type": "CL",
@@ -2477,7 +2435,7 @@
         },
         {
           "id": "PortlandG",
-          "label": "Retrofit (Indianaportland)",
+          "label": "Retrofit",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/portlandg/portlandg.json"
         }
       ]
@@ -2624,7 +2582,7 @@
       "class": "Baltimore",
       "type": "CA",
       "rarity": "SR",
-      "faction": "baerdimo",
+      "faction": "Eagle",
       "skins": [
         {
           "id": "Baltimore",
@@ -2669,6 +2627,7 @@
       "type": "CA",
       "rarity": "E",
       "faction": "baerdimo_idol",
+      "group": "muse",
       "skins": [
         {
           "id": "BaltimoreI",
@@ -2676,7 +2635,350 @@
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/baltimorei/baltimorei.json"
         }
       ]
+    },
+    { 
+      "name": "Nevada",
+      "type": "BB",
+      "class": "Nevada",
+      "faction": "Eagle",
+      "fileName": "neihuada",
+      "rarity": "N",
+      "skins": [
+        {
+          "id": "Nevada",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/nevada/nevada.json"
+        },
+        {
+          "id": "Nevada1",
+          "label": "A Magnificent Banquet",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/nevada1/nevada1.json"
+        },
+        {
+          "id": "NevadaG",
+          "label": "Retrofit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/nevadag/nevadag.json"
+        }
+      ]
+    },
+    {
+      "name": "Nevada META",
+      "class": "Nevada",
+      "faction": "meta",
+      "metaClass": "torch",
+      "metaOrigin": "Eagle",
+      "fileName": "neihuada_alter",
+      "type": "BB", 
+      "skins": [
+        {
+          "id": "NevadaM",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/nevadam/nevadam.json"
+        }
+      ]
+    },
+    {
+      "name": "Oklahoma",
+      "class": "Nevada",
+      "faction": "Eagle",
+      "fileName": "ekelahema",
+      "rarity": "N",
+      "type": "BB",
+      "skins": [
+        {
+          "id": "Oklahoma",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/oklahoma/oklahoma.json"
+        },
+        {
+          "id": "Oklahoma1",
+          "label": "Piratey Transformation!",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/oklahoma1/oklahoma1.json"
+        },
+        {
+          "id": "OklahomaG",
+          "label": "Retrofit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/oklahomag/oklahomag.json"
+        }
+      ]
+    },
+    {
+      "name": "Pennsylvania",
+      "class": "Pennsylvania",
+      "faction": "Eagle",
+      "fileName": "binxifaniya",
+      "rarity": "R",
+      "type": "BB",
+      "skins": [
+        {
+          "id": "Pennsylvania",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/pennsylvania/pennsylvania.json"
+        },
+        {
+          "id": "Pennsylvania1",
+          "label": "The Keystone General",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/pennsylvania1/pennsylvania1.json"
+        }
+      ]
+    },
+    {
+      "name": "Arizona",
+      "class": "Pennsylvania",
+      "faction": "Eagle",
+      "type": "BB",
+      "fileName": "yalisangna",
+      "rarity": "E",
+      "skins": [
+        {
+          "id": "Arizona",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/arizona/arizona.json"
+        },
+        {
+          "id": "Arizona1",
+          "label": "Enchantress From Afar",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/arizona1/arizona1.json"
+        }
+      ]
+    },
+    {
+      "name": "Arizona META",
+      "faction": "meta",
+      "fileName": "yalisangna_alter",
+      "type": "BB",
+      "metaClass": "framework",
+      "metaOrigin": "Eagle",
+      "rarity": "MSR",
+      "skins": [
+        {
+          "id": "ArizonaM",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/arizonam/arizonam.json"
+        }
+      ]
+    },
+    {
+      "name": "Tennessee",
+      "class": "Tennessee",
+      "type": "BB",
+      "faction": "Eagle",
+      "fileName": "tiannaxi",
+      "rarity": "R",
+      "skins": [
+        {
+          "id": "Tennessee",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/tennessee/tennessee.json"
+        }
+      ]
+    },
+    {
+      "name": "California",
+      "class": "Tennessee",
+      "faction": "Eagle",
+      "fileName":"jialifuniya",
+      "type": "BB",
+      "rarity": "R",
+      "skins": [
+        {
+          "id": "California",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/california/california.json"
+        }
+      ]
+    },
+    {
+      "name": "Colorado",
+      "class": "Colorado",
+      "faction": "Eagle",
+      "fileName": "keluoladuo",
+      "type": "BB",
+      "rarity": "E",
+      "skins": [
+        {
+          "id": "Colorado",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/colorado/colorado.json"
+        },
+        {
+          "id": "Colorado1",
+          "label": "Traveling Melody",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/colorado1/colorado1.json"
+        },
+        {
+          "id": "Colorado2",
+          "label": "Sunset Cavatina",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/colorado2/colorado2.json"
+        },
+        {
+          "id": "ColoradoG",
+          "label": "Retrofit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/coloradog/coloradog.json"
+        }
+      ]
+    },
+    {
+      "name": "Maryland",
+      "class": "Colorado",
+      "faction": "Eagle",
+      "rarity": "E",
+      "fileName": "malilan",
+      "type": "BB",
+      "skins": [
+        {
+          "id": "Maryland",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/maryland/maryland.json"
+        },
+        {
+          "id": "Maryland1",
+          "label": "Red-Hot Drummer",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/maryland1/maryland1.json"
+        },
+        {
+          "id": "MarylandG",
+          "label": "Retrofit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/marylandg/marylandg.json"
+        }
+      ]
+    },
+    {
+      "name": "West Virginia",
+       "class": "Colorado",
+      "faction": "Eagle",
+      "rarity": "E",
+      "fileName": "xifujiniya",
+      "type": "BB",
+      "skins": [
+        {
+          "id": "WeeVee",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/weevee/weevee.json"
+        },
+        {
+          "id": "WeeVee1",
+          "label": "Scenic Rhapsody",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/weevee1/weevee1.json"
+        },
+        {
+          "id": "WeeVeeG",
+          "label": "Retrofit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/weeveeg/weeveeg.json"
+        }
+      ]
+    },
+    {
+      "name": "North Carolina",
+      "faction": "Eagle",
+      "class": "North Carolina",
+      "fileName": "beikaluolaina",
+      "hanzi": "北卡罗来纳",
+      "type": "BB",
+      "rarity": "SR",
+      "skins": [
+        {
+          "id": "NorthCarolina",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/nocal/nocal.json"
+        },
+        {
+          "id": "NorthCarolina1",
+          "label": "Desires of the Heart",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/nocal1/nocal1.json"
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "faction": "Eagle",
+      "class":"Washington",
+      "fileName": "huashengdun",
+      "hanzi": "华盛顿",
+      "type": "BB",
+      "rarity": "SR",
+      "skins": [
+        {
+          "id": "Washington",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/washington/washington.json"
+        },
+        {
+          "id": "Washington",
+          "label": "Jubilant Smile",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/washington1/washington1.json"
+        }
+      ]
+    },
+    {
+      "name": "South Datoka",
+      "class": "South Dakota",
+      "faction": "Eagle",
+      "fileName": "nandaketa",
+      "rarity": "SR",
+      "type": "BB",
+      "skins": [
+        {
+          "id": "SoDak",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/sodak/sodak.json"
+        },
+        {
+          "id": "SoDak1",
+          "label": "Solo Concert",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/sodak1/sodak1.json"
+        }
+      ]
+    },
+    {
+      "name": "Indiana",
+      "class": "South Dakota",
+      "faction": "Eagle",
+      "fileName": "yindianna",
+      "rarity": "SR",
+      "type": "BB",
+      "skins": [
+        {
+          "id": "Indiana",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/indiana/indiana.json"
+        }
+      ]
+    },
+    {
+      "name": "New Jersey",
+      "class": "Iowa",
+      "faction": "Eagle",
+      "fileName": "xinzexi",
+      "rarity": "SR",
+      "type": "BB",
+      "skins": [
+        {
+          "id": "NJ",
+          "label": "New Jersey",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/newjersey/newjersey.json"
+        },
+        {
+          "id": "NJ1",
+          "label": "Exhilerating Steps!",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/newjersey1/newjersey1.json"
+        },
+        {
+          "id": "NJ2",
+          "label": "Midsummer Leisure",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/newjersey2/newjersey2.json"
+        },
+        {
+          "id": "NJ3",
+          "label": "Dancing in the Moonlight",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/newjersey3/newjersey3.json"
+        },
+        {
+          "id": "NJH",
+          "label": "Snow-White Ceremony",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/newjerseyh/newjerseyh.json"
+        }
+      ]
     }
-    
   ] 
 }
