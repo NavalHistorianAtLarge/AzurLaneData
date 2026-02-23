@@ -1571,6 +1571,11 @@
           "id": "HammannII1",
           "label": "Another Rebellious Summer",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hammannII1/hammannII1.json"
+        },
+        {
+          "id": "HammannII2",
+          "label": "Hammann's Scrumptious Spells",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hammannII2/hammannIII2.json"
         }
       ]
     },
@@ -1694,7 +1699,7 @@
       "class": "Fletcher",
       "type": "DD",
       "faction": "Eagle",
-      "fileName": "beiji",
+      "fileName": "beiqi",
       "hanzi": "贝奇",
       "rarity": "R",
       "skins": [
@@ -1739,7 +1744,7 @@
     {
       "name": "Kimberly",
       "class": "Fletcher",
-      "fileName": "jinbali",
+      "fileName": "jinboli",
       "faction": "Eagle",
       "type": "DD",
       "hanzi": "金伯利",
@@ -2042,20 +2047,341 @@
         }
       ]
     },
-       {
-      "name": "Observer",
+    {
+      "name": "ObserverA",
       "faction": "siren",
       "skins": [
         {
-          "id": "Observer",
+          "id": "ObserverA",
           "label": "Default",
           "path": ""
         }
       ]
+    },
+    {
+      "name": "Omaha",
+      "faction": "Eagle",
+      "class": "Omaha",
+      "fileName": "aomaha",
+      "hanzi": "奥马哈",
+      "rarity": "N",
+      "type": "CL",
+      "skins": [
+        {
+          "id": "Omaha",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/omaha/omaha.json"
+        }
+      ]
+    },
+    {
+      "name": "Raleigh",
+      "class": "Omaha",
+      "type": "CL",
+      "faction": "Eagle",
+      "rarity": "N",
+      "fileName": "luoli",
+      "hanzi": "罗利",
+      "skins": [
+        {
+          "id": "Raleigh",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/raleigh/raleigh.json"
+        }
+      ]
+    },
+    {
+      "name": "Brooklyn",
+      "class": "Brooklyn",
+      "faction": "Eagle",
+      "fileName": "bulukelin",
+      "hanzi": "布鲁克林",
+      "rarity": "R",
+      "skins": [
+        {
+          "id": "Brooklyn",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/brooklyn/brooklyn.json"
+        }
+      ]
+    },
+    {
+      "name": "Phoenix",
+      "faction": "Eagle",
+      "rarity": "R",
+      "class": "Brooklyn",
+      "type": "CL",
+      "fileName": "feinikesi",
+      "hanzi": "",
+      "skins": [
+        {
+          "id": "Phoenix",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/phoenix/phoenix.json"
+        }
+      ]
+    },
+    {
+      "name": "Atlanta",
+      "class": "Atlanta",
+      "faction": "Eagle",
+      "type": "CL",
+      "fileName": "yatelanda",
+      "hanzi": "亚特兰大",
+      "rarity": "R",
+      "skins": [
+        {
+          "id": "Atlanta",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/atlanta/atlanta.json"
+        }
+      ]
+    },
+    {
+      "name": "Juneau",
+      "faction": "Eagle",
+      "class": "Atlanta",
+      "type": "CL",
+      "fileName": "zhunuo",
+      "rarity": "R",
+      "skins": [
+        {
+          "id": "Juneau",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/juneau/juneau.json"
+        },
+        {
+          "id": "Juneau1",
+          "label": "In the Swan Garden",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/juneau1/juneau1.json"
+        },
+        {
+          "id": "JuneauG",
+          "label": "Retrofit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/juneaug/juneaug.json"
+        }
+      ]
+    },
+    {
+      "name": "San Diego",
+      "class": "Atlanta",
+      "faction": "Eagle",
+      "rarity": "SR",
+      "fileName": "shengdiyage",
+      "hanzi": "",
+      "type": "CL",
+      "skins": [
+        {
+          "id": "SanDiego",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/sandiego/sandiego.json"
+        },
+        {
+          "id": "SanDiego1",
+          "label": "Sandy Claus",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/sandiego1/sandiego1.json"
+        },
+        {
+          "id": "SanDiegoG",
+          "label": "Retrofit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/sandiegog/sandiegog.json"
+        },
+        {
+          "id": "SanDiegoH",
+          "label": "No. 1 June Bride!",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/sandiegoh/sandiegoh.json"
+        }
+      ]
+    },
+    {
+      "name": "Li'l Sandy",
+      "class": "Atlanta",
+      "type": "CL",
+      "faction": "Eagle",
+      "fileName": "shengdiyage_younv",
+      "group": "littles",
+      "rarity": "E",
+      "skins": [
+        {
+          "id": "Li'lSandy",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/sandy/sandy.json"
+        }
+      ]
+    },
+    {
+      "name": "Cleveland",
+      "class": "Cleveland",
+      "rarity": "E",
+      "fileName": "kelifulan",
+      "faction": "Eagle",
+      "type": "CL",
+      "skins": [
+        {
+          "id": "Cleveland",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/cleveland/cleveland.json"
+        },
+        {
+          "id": "Cleveland1",
+          "label": "Reaper Fever",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/cleveland1/cleveland1.json"
+        },
+        {
+          "id": "Cleveland2",
+          "label": "Gentry Knight",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/cleveland2/cleveland2.json"
+        },
+        {
+          "id": "Cleveland3",
+          "label": "Road Trip!",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/cleveland3/cleveland3.json"
+        },
+        {
+          "id": "Cleveland4",
+          "label": "New Year's Challenge!",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/cleveland4/cleveland4.json"
+        },
+        {
+          "id": "Cleveland5",
+          "label": "Southbound Journey",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/cleveland5/cleveland5.json"
+        },
+        {
+          "id": "Cleveland6",
+          "label": "Golden Conductor",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/cleveland6/cleveland6.json"
+        },
+        {
+          "id": "Cleveland7",
+          "label": "Knight of the Pop-Up Shop",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/cleveland7/cleveland7.json"
+        },
+        {
+          "id": "ClevelandH",
+          "label": "Heartfelt Moment",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/clevelandh/clevelandh.json"
+        }
+      ]
+    },
+    {
+      "name": "Clevelad",
+      "class": "Cleveland",
+      "type": "CL",
+      "faction": "Eagle",
+      "rarity": "E",
+      "fileName": "kelifulan_younv",
+      "skins": [
+        {
+          "id": "Clevelad",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/clevelad/clevelad.json"
+        }
+      ]
+    },
+    {
+      "name": "Cleveland Muse",
+      "class": "Cleveland",
+      "rarity": "E",
+      "faction": "Eagle",
+      "fileName": "kelifulan_idol",
+      "group": "muse",
+      "type": "CL",
+      "skins": [
+        {
+          "id": "ClevelandMuse",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/clevelandi/clevelandi.json"
+        }
+      ]
+    },
+    {
+      "name": "Cleveland META",
+      "faction": "meta",
+      "metaClass": "torch",
+      "metaOrigin": "Eagle",
+      "rarity": "SR",
+      "fileName": "kelifulan_alter",
+      "class": "Cleveland",
+      "type": "CL",
+      "skins": [
+        {
+          "id": "ClevalandM",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/clevelandm/clevelandm.json"
+        }
+      ]
+    },
+    {
+      "name": "Columbia",
+      "faction": "Eagle",
+      "class": "Cleveland",
+      "type": "CL",
+      "fileName": "gelunbiya",
+      "rarity": "E",
+      "skins": [
+        {
+          "id": "Columbia",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/columbia/columbia.json"
+        },
+        {
+          "id": "Columbia1",
+          "label": "After-School Odette",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/columbia1/columbia1.json"
+        },
+        {
+          "id": "Columbia2",
+          "label": "Across the Vast Prairies",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/columbia2/columbia2.json"
+        }
+      ]
+    },
+    {
+      "name": "Pensacola",
+      "class": "Pensacola",
+      "faction": "Eagle",
+      "type": "CA",
+      "fileName": "",
+      "rarity": "N",
+      "skins": [
+        {
+          "id": "Pensacola",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/pensacola/pensacola.json"
+        }
+      ]
+    },
+    {
+      "name": "Salt Lake City",
+      "class": "Pensacola",
+      "faction": "Eagle",
+      "type": "CA",
+      "fileName": "",
+      "rarity": "N",
+      "skins": [ 
+        {
+        "id": "SaltLakeCity",
+        "label": "Default",
+        "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/saltlakecity/saltlakecity.json"
+        }
+      ]
+    },
+    {
+      "name": "Northampton",
+      "class": "Northampton",
+      "faction": "Eagle",
+      "fileName": "",
+      "rarity": "R",
+      "type": "CA",
+      "skins": [
+        {
+          "id": "Northampton",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/northampton/northampton.json"
+        }
+      ]
     }
+    
   ] 
-
 }
-
-
-
