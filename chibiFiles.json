@@ -2803,13 +2803,18 @@
         },
         {
           "id": "Colorado1",
-          "label": "Traveling Melody",
+          "label": "Original",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/colorado1/colorado1.json"
         },
         {
           "id": "Colorado2",
-          "label": "Sunset Cavatina",
+          "label": "Traveling Melody",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/colorado2/colorado2.json"
+        },
+        {
+          "id": "Colorado3",
+          "label": "Sunset Cavatina",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/colorado3/colorado3.json"
         },
         {
           "id": "ColoradoG",
@@ -2858,8 +2863,13 @@
         },
         {
           "id": "WeeVee1",
-          "label": "Scenic Rhapsody",
+          "label": "Original",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/weevee1/weevee1.json"
+        },
+        { 
+          "id": "WeeVee2",
+          "label": "Scenic Rhapsody",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/weevee2/weevee2.json"
         },
         {
           "id": "WeeVeeG",
@@ -2981,5 +2991,4 @@
       ]
     }
   ] 
-
 }
