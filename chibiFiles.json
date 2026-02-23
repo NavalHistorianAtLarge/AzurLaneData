@@ -2950,7 +2950,7 @@
       "class": "Iowa",
       "faction": "Eagle",
       "fileName": "xinzexi",
-      "rarity": "SR",
+      "rarity": "UR",
       "type": "BB",
       "skins": [
         {
@@ -2981,4 +2981,5 @@
       ]
     }
   ] 
+
 }
