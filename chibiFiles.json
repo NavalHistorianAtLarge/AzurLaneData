@@ -2306,7 +2306,7 @@
       "type": "CL",
       "skins": [
         {
-          "id": "ClevalandM",
+          "id": "ClevelandM",
           "label": "Default",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/clevelandm/clevelandm.json"
         }
@@ -2386,3 +2386,4 @@
   ] 
 
 }
+
