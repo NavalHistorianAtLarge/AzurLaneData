@@ -2300,7 +2300,7 @@
       "faction": "meta",
       "metaClass": "torch",
       "metaOrigin": "Eagle",
-      "rarity": "SR",
+      "rarity": "MSR",
       "fileName": "kelifulan_alter",
       "class": "Cleveland",
       "type": "CL",
@@ -2384,6 +2384,4 @@
     }
     
   ] 
-
 }
-
