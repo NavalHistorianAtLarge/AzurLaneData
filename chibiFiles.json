@@ -373,7 +373,11 @@
       "kanji": "伊勢",
       "fileName": "yishi",
       "rarity": "R",
-      "type": ["BB", "BBV"],
+      "type": "BB",
+      "retrofit": {
+        "rarity": "E",
+        "type": "BBV"
+      },
       "skins": [
         {
           "id": "Ise",
@@ -397,7 +401,11 @@
       "kanji": "日向",
       "fileName": "rixiang",
       "rarity": "R",
-      "type": ["BB", "BBV"],
+      "type": "BB",
+      "retrofit": {
+        "rarity": "E",
+        "type": "BBV"
+      },
       "skins": [
         {
           "id": "Hyuuga",
@@ -461,6 +469,9 @@
       "group": ["shrine", "Akagi"],
       "rarity": "R",
       "type": "BB",
+      "retrofit": {
+        "rarity": "E"
+      },
       "skins": [
         {
           "id": "Fusou",
@@ -815,7 +826,7 @@
       "name": "Arbiter XIV: Temperance",
       "class": "Arbiter",
       "group": "Temperance",
-      "faction": "sakura",
+      "faction": "siren",
       "fileName": "sairenboss9",
       "type": "CL",
       "skins": [
@@ -1065,13 +1076,14 @@
       ]
     },
     {
-      "name": "DeweyMETA",
+      "name": "Dewey META",
       "class": "Farragut",
       "faction": "meta",
       "metaClass": "torch",
       "metaOrigin": "Eagle",
       "type": "DD",
       "group": "fifthFleet",
+      "rarity": "MELITE",
       "skins": [
         {
           "id": "DeweyM",
