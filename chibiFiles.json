@@ -59,60 +59,6 @@
       ]
     },
     {
-      "name": "Enterprise",
-      "faction": "Eagle",
-      "hanzi": "企业",
-      "hanziMeaning": "enterprise",
-      "kanji": "企业",
-      "fileName": "qiye",
-      "class": "Yorktown",
-      "type": "CV",
-      "group": "RCF",
-      "rarity": "SR",
-      "skins": [
-        {
-          "id": "Enterprise",
-          "label": "Default",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enterprise/enterprise.json"
-        }, 
-        {
-          "id": "Enterprise1",
-          "label": "Reindeer Master",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enterprise1/enterprise1.json"
-        },
-        {
-          "id": "Enterprise2",
-          "label": "Blooming Peony",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enterprise2/enterprise2.json"
-        },
-        {
-          "id": "Enterprise3",
-          "label": "Anniversary Ride",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enterprise3/enterprise3.json"
-        },
-        {
-          "id": "Enterprise4",
-          "label": "Soaring Wings of Freedoom",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enterprise4/enterprise4.json"
-        },
-        {
-          "id": "Enterprise7",
-          "label": "Bon Voyage",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enterprise7/enterprise7.json"
-        },
-        {
-          "id": "EnterpriseH",
-          "label": "Starlight Oath",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enterpriseh/enterpriseh.json"
-        },
-        {
-          "id":"EnterpriseBox",
-          "label": "Enterprise Game",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enterpriseBox/enterpriseBox.json"
-        }
-      ]
-    },
-    {
       "name": "Little Enterprise",
       "faction": "Eagle",
       "hanzi": "小企业",
@@ -532,6 +478,9 @@
       "hanziMeaning": "ray (fish)",
       "kanji": "山城",
       "fileName": "shancheng",
+      "retrofit": {
+        "rarity": "E"
+      },
       "skins": [
         {
           "id": "Yamashiro",
@@ -1103,6 +1052,9 @@
       "hanziMeaning": "Cassin",
       "kanji": "カッシン",
       "fileName": "kaxin",
+        "retrofit": {
+        "rarity": "R"
+      },
       "skins": [
         {
           "id": "Cassin",
@@ -1131,6 +1083,9 @@
       "hanziMeaning": "",
       "kanji": "ダウンズ",
       "fileName": "tangsi",
+        "retrofit": {
+        "rarity": "R"
+      },
       "skins": [
         {
           "id": "Downes",
@@ -1219,6 +1174,9 @@
       "fileName": "moli",
       "type": "DD",
       "rarity": "E",
+        "retrofit": {
+        "rarity": "SR"
+      },
       "skins": [
         {
           "id": "Maury",
@@ -1281,6 +1239,9 @@
       "hanzi": "查尔斯·奥斯本",
       "kanji": "チャールズオースバーン",
       "fileName": "aosiben",
+        "retrofit": {
+        "rarity": "SR"
+      },
       "skins": [
         {
           "id": "CharlesAusburne",
@@ -1401,6 +1362,9 @@
       "kanji": "ラフィー",
       "fileName":"lafei",
       "group": "starterDD",
+        "retrofit": {
+        "rarity": "SR"
+      },
       "skins": [
         {
           "id": "Laffey",
@@ -1505,6 +1469,9 @@
       "type": "DD",
       "hanzi": "西姆斯",
       "fileName": "ximusi",
+        "retrofit": {
+        "rarity": "E"
+      },
       "skins": [
         {
           "id": "Sims",
@@ -1526,6 +1493,9 @@
       "type": "DD",
       "hanzi": "西姆斯",
       "fileName": "haman",
+        "retrofit": {
+        "rarity": "E"
+      },
       "skins": [
         {
           "id": "Hammann",
@@ -1571,7 +1541,7 @@
       "group": "type2",
       "hanzi": "西姆斯",
       "fileName": "haman_2",
-      "rarity": "UR",
+      "rarity": "E",
       "type": "DD",
       "skins": [
         {
@@ -1600,6 +1570,9 @@
       "fileName": "aierdeliji",
       "kanji": "",
       "rarity": "SR",
+        "retrofit": {
+        "rarity": "UR"
+      },
       "skins": [
         {
           "id": "Eldridge",
@@ -1921,6 +1894,9 @@
       "hanzi": "贝利",
       "rarity": "R",
       "type": "DD",
+        "retrofit": {
+        "rarity": "E"
+      },
       "skins": [
         {
           "id": "Bailey",
@@ -1953,6 +1929,9 @@
       "hanzi": "海伦娜",
       "group": "innerCircle",
       "rarity": "E",
+        "retrofit": {
+        "rarity": "SR"
+      },
       "skins": [
         {
           "id": "Helena",
@@ -1992,6 +1971,7 @@
       "class": "Brooklyn",
       "group": "littles",
       "fileName": "hailunna_yunv",
+      "rarity": "E",
       "skins": [
         {
           "id": "Lena",
@@ -2114,6 +2094,9 @@
       "type": "CL",
       "fileName": "zhunuo",
       "rarity": "R",
+        "retrofit": {
+        "rarity": "E"
+      },
       "skins": [
         {
           "id": "Juneau",
@@ -2140,6 +2123,9 @@
       "fileName": "shengdiyage",
       "hanzi": "",
       "type": "CL",
+        "retrofit": {
+        "rarity": "UR"
+      },
       "skins": [
         {
           "id": "SanDiego",
@@ -2353,12 +2339,13 @@
       ]
     },
     {
-      "name": "NorthamptonII",
+      "name": "Northampton II",
       "class": "Oregon City",
       "faction": "Eagle",
       "fileName": "beianpudunII",
       "type": "CA",
       "rarity": "SR",
+      "group": "type2",
       "skins": [
         {
           "id": "NorthamptonII",
@@ -2408,12 +2395,13 @@
       ]
     },
     {
-      "name": "HoustonII",
+      "name": "Houston II",
       "rarity": "SR",
       "class": "Cleveland",
       "faction": "Eagle",
       "type": "CL",
       "fileName": "xiusidunII",
+      "group": "type2",
       "skins": [
         {
           "id": "HoustonII",
@@ -2434,6 +2422,9 @@
       "type": "CA",
       "rarity": "R",
       "fileName": "botelan",
+        "retrofit": {
+        "rarity": "E"
+      },
       "skins": [
         {
           "id": "Portland",
@@ -2654,6 +2645,9 @@
       "class": "Nevada",
       "faction": "Eagle",
       "fileName": "neihuada",
+        "retrofit": {
+        "rarity": "R"
+      },
       "rarity": "N",
       "skins": [
         {
@@ -2680,6 +2674,7 @@
       "metaClass": "torch",
       "metaOrigin": "Eagle",
       "fileName": "neihuada_alter",
+      "rarity": "E",
       "type": "BB", 
       "skins": [
         {
@@ -2696,6 +2691,9 @@
       "fileName": "ekelahema",
       "rarity": "N",
       "type": "BB",
+        "retrofit": {
+        "rarity": "R"
+      },
       "skins": [
         {
           "id": "Oklahoma",
@@ -2807,6 +2805,9 @@
       "fileName": "keluoladuo",
       "type": "BB",
       "rarity": "E",
+        "retrofit": {
+        "rarity": "SR"
+      },
       "skins": [
         {
           "id": "Colorado",
@@ -2842,6 +2843,9 @@
       "rarity": "E",
       "fileName": "malilan",
       "type": "BB",
+        "retrofit": {
+        "rarity": "SR"
+      },
       "skins": [
         {
           "id": "Maryland",
@@ -2867,6 +2871,9 @@
       "rarity": "E",
       "fileName": "xifujiniya",
       "type": "BB",
+        "retrofit": {
+        "rarity": "SR"
+      },
       "skins": [
         {
           "id": "WeeVee",
@@ -2999,6 +3006,478 @@
           "id": "NJH",
           "label": "Snow-White Ceremony",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/newjerseyh/newjerseyh.json"
+        }
+      ]
+    },
+    {
+      "name": "Long Island",
+      "class": "Long Island",
+      "faction": "Eagle",
+      "hanzi": "长岛",
+      "hanziMeaning": "long island",
+      "fileName": "changdao",
+      "rarity": "E",
+      "retrofit": {
+        "rarity": "SR"
+      },
+      "type": "CVL",
+      "skins": [
+           {
+          "id": "LongIsland",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/longisland/longisland.json"
+        },
+        {
+          "id": "LongIsland1",
+          "label": "Long Island - Indoor Slacker",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/longisland1/longisland1.json"
+        },
+        {
+          "id": "LongIsland2",
+          "label": "Long Island's Spooky Stream",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/longisland2/longisland2.json"
+        },
+        {
+          "id": "LongIsland3",
+          "label": "Ghostly Receptionist",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/longisland3/longisland3.json"
+        },
+        {
+          "id": "LongIslandG",
+          "label": "Retrofit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/longislandg/longislandg.json"
+        }
+      ]
+    },
+    {
+      "name": "Bogue",
+      "class": "Bogue",
+      "faction": "Eagle",
+      "fileName": "boge",
+      "hanzi": "博格",
+      "hanziMeaning": "Bogue",
+      "rarity": "N",
+      "retrofit": {
+        "rarity":"R"
+      },
+      "type": "CVL",
+      "skins": [
+        {
+          "id": "Bogue",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/bogue/bogue.json"
+        },
+        {
+          "id": "BogueG",
+          "label": "Retrofit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/bogueg/bogueg.json"
+        }
+      ]
+    },
+    {
+      "name": "Langley",
+      "class": "Langley",
+      "faction": "Eagle",
+      "fileName": "lanli",
+      "rarity": "N",
+      "type": "CVL",
+      "retrofit": {
+        "rarity": "R"
+      },
+      "skins": [
+        {
+          "id": "Langley",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/langley/langley.json"
+        },
+        {
+          "id": "LangleyG",
+          "label": "Retrofit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/langleyg/langleyg.json"
+        }
+      ]
+    },
+    {
+      "name": "Langley II",
+      "class": "Independence",
+      "faction": "Eagle",
+      "fileName": "lanliII",
+      "type": "CVL",
+      "rarity": "E",
+      "group": "type2",
+      "skins": [
+        {
+          "id": "LangleyII",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/langleyII/langleyII.json"
+        },
+            {
+          "id": "LangleyII1",
+          "label": "On-the-Clock Vacation",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/langleyII1/langleyII1.json"
+        }
+      ]
+    },
+    {
+      "name": "Lexington",
+      "class": "Lexington",
+      "faction": "Eagle",
+      "fileName": "liekexingdun",
+      "type": "CV",
+      "rarity": "E",
+      "group": "cubeCollateralDamage",
+      "skins": [
+        {
+          "id": "Lexington",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/lexington/lexington.json"
+        },
+        {
+          "id": "Lexington1",
+          "label": "The Beauty of Spring",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/lexington1/lexington1.json"
+        }
+      ]
+    },
+    {
+      "name": "Lexington II",
+      "class": "Essex",
+      "faction": "Eagle",
+      "fileName": "",
+      "rarity": "UR",
+      "type": "CV",
+      "skins": [
+        {
+          "id": "LexingtonII",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/lexingtonII/lexingtonII.json"
+        }
+      ]
+    },
+    {
+      "name": "Saratoga",
+      "class": "Lexington",
+      "faction": "Eagle",
+      "fileName": "",
+      "rarity": "E",
+      "retrofit": {
+        "rarity": "SR"
+      },
+      "type": "CV",
+      "skins": [
+        {
+          "id": "Saratoga",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/saratoga/saratoga.json"
+        },
+        {
+          "id": "Saratoga1",
+          "label": "Seven Seas of Rest",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/saratoga1/saratoga1.json"
+        },
+        {
+          "id": "Saratoga2",
+          "label": "Hibiscus-Scented Idol",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/saratoga2/saratoga2.json"
+
+        },
+        {
+          "id": "Saratoga3",
+          "label": "Virtual Idol",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/saratoga3/saratoga3.json"
+        },
+        {
+          "id": "Saratoga4",
+          "label": "Superstar of the Blue Seas",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/saratoga4/saratoga4.json"
+        },
+        {
+          "id": "Saratoga5",
+          "label": "Silent Night Songstress",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/saratoga5/saratoga5.json"
+        },
+        {
+          "id": "Saratoga6",
+          "label": "Spring's Opening Act!",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/saratoga6/saratoga6.json"
+        },
+        {
+          "id": "Saratoga7",
+          "label": "The Sweetest Picnic!",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/saratoga7/saratoga7.json"
+        },
+        {
+          "id": "Saratoga8",
+          "label": "Cup Ramen Ambassador?",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/saratoga8/saratoga8.json"
+        },
+        {
+          "id": "Saratoga9",
+          "label": "Morning Sun Over Azure Skies",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/saratoga9/saratoga9.json"
+        },
+        {
+          "id": "SaratogaH",
+          "label": "Ring the Bell of Joy",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/saratogah/saratogah.json"
+        },
+        {
+          "id": "SaratogaG",
+          "label": "Retrofit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/saratogag/saratogag.json"
+        }
+      ]
+    },
+    {
+      "name": "Ranger",
+      "class": "Ranger",
+      "faction": "Eagle",
+      "type": "CV",
+      "fileName": "",
+      "rarity": "N",
+      "retrofit": {
+        "rarity": "R"
+      },
+      "skins": [
+        {
+          "id": "Ranger",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/ranger/ranger.json"
+        },
+        {
+          "id": "RangerG",
+          "label": "Retrofit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/rangerg/rangerg.json"
+        }
+      ]
+    },
+    {
+      "name": "Yorktown",
+      "class": "Yorktown",
+      "faction": "Eagle",
+      "fileName": "yuekecheng",
+      "rarity": "E",
+      "type": "CV",
+      "group": "cubeCollateralDamage",
+      "skins": [
+        {
+          "id": "Yorktown",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/yorktown/yorktown.json"
+        },
+        {
+          "id": "Yorktown1",
+          "label": "Evening I Can't Remember",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/yorktown1/yorktown1.json"
+        },
+        {
+          "id": "Yorktown2",
+          "label": "Saintly Wings",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/yorktown2/yorktown2.json"
+        },
+        {
+          "id": "YorktownH",
+          "label": "Towards Tomorrow's Brilliant Breeze",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/yorktown3/yorktown3.json"
+        }
+      ]
+    },
+    {
+      "name": "Yorktown II",
+      "class": "Essex",
+      "type": "CV",
+      "faction": "Eagle",
+      "rarity": "UR",
+      "fileName": "yuekechengII",
+      "group": "type2",
+      "skins": [
+        {
+          "id": "YorktownII",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/yorktownII/yorktownII.json"
+        }
+      ]
+    },
+    {
+      "name": "Yorktown META",
+      "class": "Yorktown",
+      "metaClass": "framework",
+      "metaOrigin": "Eagle",
+      "fileName": "yuekecheng_alter",
+      "rarity": "MSR",
+      "type": "CV",
+      "skins": [
+        {
+          "id": "YorktownM",
+          "label": "Defualt",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/yorktownm/yorktownm.json"
+        }
+      ]
+    },
+    {
+      "name": "Enterprise",
+      "faction": "Eagle",
+      "hanzi": "企业",
+      "hanziMeaning": "enterprise",
+      "kanji": "企业",
+      "fileName": "qiye",
+      "class": "Yorktown",
+      "type": "CV",
+      "group": "RCF",
+      "rarity": "SR",
+      "skins": [
+        {
+          "id": "Enterprise",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enterprise/enterprise.json"
+        }, 
+        {
+          "id": "Enterprise1",
+          "label": "Reindeer Master",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enterprise1/enterprise1.json"
+        },
+        {
+          "id": "Enterprise2",
+          "label": "Blooming Peony",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enterprise2/enterprise2.json"
+        },
+        {
+          "id": "Enterprise3",
+          "label": "Anniversary Ride",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enterprise3/enterprise3.json"
+        },
+        {
+          "id": "Enterprise4",
+          "label": "Soaring Wings of Freedoom",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enterprise4/enterprise4.json"
+        },
+        {
+          "id": "Enterprise5",
+          "label": "Heroic Finery",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enterprise5/enterprise5.json"
+        },
+        {
+          "id": "Enterprise6",
+          "label": "Wind Catcher",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enterprise6/enterprise6.json"
+        },
+        {
+          "id": "Enterprise7",
+          "label": "Bon Voyage",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enterprise7/enterprise7.json"
+        },
+        {
+          "id": "Enterprise8",
+          "label": "Diving Under Blue Skies",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enterprise8/enterprise8.json"
+        },
+        {
+          "id": "EnterpriseH",
+          "label": "Starlight Oath",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enterpriseh/enterpriseh.json"
+        },
+        {
+          "id":"EnterpriseBox",
+          "label": "Enterprise Game",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enterpriseBox/enterpriseBox.json"
+        }
+      ]
+    },
+    {
+      "name": "Hornet",
+      "class": "Yorktown",
+      "faction": "Eagle",
+      "rarity": "E",
+      "hanzi": "大黄蜂",
+      "hanziMeaning": "bumblebee",
+      "kanji": "",
+      "fileName": "dahuangfeng",
+      "type": "CV",
+      "skins": [
+        {
+          "id": "Hornet",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hornet/hornet.json"
+        },
+        {
+          "id": "Hornet1",
+          "label": "Bubbly Anniversary!",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hornet1/hornet1.json"
+        },
+        {
+          "id": "Hornet2",
+          "label": "Freshly-Baked Bonding!",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hornet2/hornet2.json"
+        },
+        {
+          "id": "Hornet3",
+          "label": "Cheering Justice!",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hornet3/hornet3.json"
+        },
+        {
+          "id": "Hornet4",
+          "label": "Racing Across the Waves!",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hornet4/hornet4.json"
+        }
+      ]
+    },
+    {
+      "name": "Hornet II",
+      "class": "Essex",
+      "faction": "Eagle",
+      "fileName": "",
+      "type": "CV",
+      "rarity": "SR",
+      "skins": [
+        {
+          "id": "HornetII",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hornetII/hornetII.json"
+        }
+      ]
+    },
+    {
+      "name": "Hornet META",
+      "metaClass": "torch",
+      "metaOrigin": "Eagle",
+      "class": "Yorktown",
+      "type": "CV",
+      "rarity": "MSR",
+      "skins": [
+        {
+          "id": "HornetM",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hornetm/hornetm.json"
+        }
+      ]
+    },
+    {
+      "name": "Wasp",
+      "class": "Wasp",
+      "faction": "Eagle",
+      "fileName": "hufeng",
+      "hanzi": "胡蜂",
+      "hanziMeaning": "wasp, hornet",
+      "type": "CV",
+      "rarity": "R",
+      "skins": [
+        {
+          "id": "Wasp",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/wasp/wasp.json"
+        }
+      ]
+    },
+    {
+      "name": "Vestal",
+      "class": "Vestal",
+      "faction": "Eagle",
+      "rarity": "E",
+      "skins": [
+        {
+          "id": "Vestal",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/vestal/vestal.json"
         }
       ]
     }
