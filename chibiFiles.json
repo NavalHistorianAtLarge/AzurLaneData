@@ -1359,6 +1359,7 @@
       "type": "DD",
       "hanzi": "拉菲",
       "hanziMeaning": "Laffey",
+
       "kanji": "ラフィー",
       "fileName":"lafei",
       "group": "starterDD",
@@ -1436,6 +1437,7 @@
       "class": "Allen Sumner",
       "hanzi": "拉菲",
       "hanziMeaning": "Laffey",
+      "oversize": "true",
       "kanji": "",
       "rarity": "UR",
       "skins": [
@@ -1452,6 +1454,7 @@
         {
           "id": "LaffeyII2",
           "label": "Lady Laffey's Languid Tour",
+          "oversize": "true",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/laffeyII2/laffeyII2.json"
         },
         {
@@ -2831,6 +2834,7 @@
         },
         {
           "id": "ColoradoG",
+          "oversize": "true",
           "label": "Retrofit",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/coloradog/coloradog.json"
         }
@@ -3233,7 +3237,7 @@
       "class": "Ranger",
       "faction": "Eagle",
       "type": "CV",
-      "fileName": "",
+      "fileName": "tujizhe",
       "rarity": "N",
       "retrofit": {
         "rarity": "R"
@@ -3278,7 +3282,8 @@
         {
           "id": "YorktownH",
           "label": "Towards Tomorrow's Brilliant Breeze",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/yorktown3/yorktown3.json"
+          "oversize": "true",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/yorktownh/yorktownh.json"
         }
       ]
     },
@@ -3289,6 +3294,7 @@
       "faction": "Eagle",
       "rarity": "UR",
       "fileName": "yuekechengII",
+      "oversize": "true",
       "group": "type2",
       "skins": [
         {
@@ -3304,6 +3310,7 @@
       "metaClass": "framework",
       "metaOrigin": "Eagle",
       "fileName": "yuekecheng_alter",
+      "oversize": "true",
       "rarity": "MSR",
       "type": "CV",
       "skins": [
