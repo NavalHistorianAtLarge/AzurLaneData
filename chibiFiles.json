@@ -3299,6 +3299,7 @@
       "skins": [
         {
           "id": "YorktownII",
+          "oversize": "true",
           "label": "Default",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/yorktownII/yorktownII.json"
         }
