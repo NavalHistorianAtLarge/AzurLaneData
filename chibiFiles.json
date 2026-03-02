@@ -3421,11 +3421,6 @@
           "id": "Hornet3",
           "label": "Cheering Justice!",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hornet3/hornet3.json"
-        },
-        {
-          "id": "Hornet4",
-          "label": "Racing Across the Waves!",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hornet4/hornet4.json"
         }
       ]
     },
@@ -3441,6 +3436,11 @@
           "id": "HornetII",
           "label": "Default",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hornetII/hornetII.json"
+        },
+         {
+          "id": "HornetII1",
+          "label": "Racing Across the Waves!",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hornetII1/hornetII1.json"
         }
       ]
     },
