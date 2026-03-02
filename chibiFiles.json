@@ -3480,12 +3480,50 @@
       "name": "Vestal",
       "class": "Vestal",
       "faction": "Eagle",
+      "fileName": "zaoshen",
+      "hanzi": "女灶神",
+      "hanziMeaning": "female Zaoshen [god of the kitchen]",
       "rarity": "E",
+      "type": "AR",
       "skins": [
         {
           "id": "Vestal",
           "label": "Default",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/vestal/vestal.json"
+        },
+        {
+          "id": "Vestal1",
+          "label": "Revigorating Hestia",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/vestal1/vestal1.json"
+        }
+      ]
+    },
+    {
+      "name": "Vestal META",
+      "class": "Vestal",
+      "metaClass": "framework",
+      "metaOrigin": "Eagle",
+      "fileName": "zaoshen_alter",
+      "hanzi": "AR",
+      "hanziMeaning": "female Zaoshen [god of the kitchen]",
+      "rarity": "",
+      "type": "",
+      "skins": [
+        {
+          "id": "VestalM",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/vestalm/vestalm.json"
+        }
+      ]
+    },
+    {
+      "name": "Vestal Ghost",
+      "faction": "siren",
+      "skins": [
+        {
+          "id": "VestalGhost",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/vestalghost/vestalghost.json"
         }
       ]
     }
