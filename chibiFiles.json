@@ -3519,6 +3519,7 @@
     {
       "name": "Vestal Ghost",
       "faction": "siren",
+      "group": "ghost",
       "skins": [
         {
           "id": "VestalGhost",
@@ -3870,7 +3871,9 @@
       "name": "Glowworm",
       "class": "G",
       "faction": "royalNavy",
-      "fileName": "",
+      "hanzi": "萤火虫",
+      "hanziMeaning": "firefly, glowworm",
+      "fileName": "yinghuochong",
       "rarity": "E",
       "type": "DD",
       "retrofit": {
@@ -3898,7 +3901,9 @@
       "name": "Hardy",
       "class": "H",
       "faction": "royalNavy",
-      "fileName": "",
+      "hanzi": "勇敢",
+      "hanziMeaning": "brave, courageous",
+      "fileName": "yonggan",
       "rarity": "E",
       "type": "DD",
       "skins": [
@@ -3944,7 +3949,9 @@
       "name": "Javelin",
       "class": "J",
       "faction": "royalNavy",
-      "fileName": "",
+      "hanzi": "标枪",
+      "hanziMeaning": "javelin",
+      "fileName": "biaoqiang",
       "rarity": "E",
       "type": "DD",
       "retrofit": {
@@ -3958,38 +3965,43 @@
         },
         {
           "id": "Javelin1",
-          "label": "Beach Picnic!",
+          "label": "Bili Girl 22",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/javelin1/javelin1.json"
         },
         {
           "id": "Javelin2",
-          "label": "Let's Become Waitresses!",
+          "label": "Beach Picnic!",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/javelin2/javelin2.json"
         },
         {
           "id": "Javelin3",
-          "label": "Slow Ahead!",
+          "label": "Let's Become Waitresses!",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/javelin3/javelin3.json"
         },
         {
           "id": "Javelin4",
-          "label": "Operation: Pillow Fight",
+          "label": "Slow Ahead!",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/javelin4/javelin4.json"
         },
         {
           "id": "Javelin5",
-          "label": "Energetic Idol @120% Motivation!",
+          "label": "Operation: Pillow Fight",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/javelin5/javelin5.json"
         },
         {
           "id": "Javelin6",
-          "label": "A Legend is Born?!",
+          "label": "Energetic Idol @120% Motivation!",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/javelin6/javelin6.json"
         },
         {
           "id": "Javelin7",
-          "label": "A Different Dance",
+          "label": "A Legend is Born?!",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/javelin7/javelin7.json"
+        },
+        {
+          "id": "Javelin8",
+          "label": "A Different Dance",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/javelin8/javelin8.json"
         },
         {
           "id": "JavelinH",
@@ -4007,7 +4019,9 @@
       "name": "Juno",
       "class": "J",
       "faction": "royalNavy",
-      "fileName": "",
+      "hanzi": "天后",
+      "hanziMeaning": "goddess of the sky",
+      "fileName": "tianhou",
       "rarity": "R",
       "type": "DD",
       "skins": [
@@ -4024,11 +4038,23 @@
       ]
     },
     {
+      "name": "Juno Ghost",
+      "faction": "Siren",
+      "group": "ghost",
+      "skins": [
+        {
+          "id": "JunoGhost",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/junoghost/junoghost.json"
+        }
+      ]
+    },
+    {
       "name": "Vampire",
       "class": "V",
       "rarity": "E",
       "faction": "royalNavy",
-      "fileName": "",
+      "fileName": "xiguegui",
       "type": "DD",
       "skins": [
         {
