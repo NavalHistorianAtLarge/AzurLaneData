@@ -4548,7 +4548,7 @@
       "name": "London",
       "class": "County",
       "faction": "royalNavy",
-      "fileName": "",
+      "fileName": "lundun",
       "type": "CA",
       "subclass": "London",
       "rarity": "E",
@@ -4579,7 +4579,7 @@
       "name": "Shropshire",
       "class": "County",
       "faction": "royalNavy",
-      "fileName": "",
+      "fileName": "shiluopujun",
       "type": "CA",
       "rarity": "R",
       "subclass": "London",
@@ -4600,7 +4600,7 @@
       "name": "Kent",
       "class": "County",
       "faction": "royalNavy",
-      "fileName": "",
+      "fileName": "kente",
       "type": "CA",
       "rarity": "R",
       "subclass": "Kent",
@@ -4616,7 +4616,7 @@
       "name": "Suffolk",
       "class": "County",
       "faction": "royalNavy",
-      "fileName": "",
+      "fileName": "safuke",
       "type": "CA",
       "rarity": "R",
       "subclass": "Kent",
@@ -4640,7 +4640,7 @@
       "name": "Norfolk",
       "class": "County",
       "faction": "royalNavy",
-      "fileName": "",
+      "fileName": "nuofuke",
       "type": "CA",
       "rarity": "R",
       "subclass": "Kent",
@@ -4656,7 +4656,7 @@
       "name": "Dorsetshire",
       "class": "County",
       "faction": "royalNavy",
-      "fileName": "",
+      "fileName": "duosaitejun",
       "type": "CA",
       "rarity": "R",
       "subclass": "Kent",
@@ -4673,7 +4673,7 @@
       "class": "York",
       "faction": "royalNavy",
       "type": "CA",
-      "fileName": "",
+      "fileName": "yueke",
       "rarity": "E",
       "skins": [
         {
@@ -4707,7 +4707,7 @@
       "name": "Exeter",
       "class": "York",
       "faction": "royalNavy",
-      "fileName": "",
+      "fileName": "aikesaite",
       "rarity": "E",
       "type": "CA",
       "skins": [
@@ -4732,7 +4732,7 @@
       "name": "Renown",
       "class": "Renown",
       "faction": "royalNavy",
-      "fileName": "",
+      "fileName": "shenwang",
       "rarity": "E",
       "type": "BC",
       "skins": [
@@ -4744,7 +4744,7 @@
         {
           "id": "Renown1",
           "label": "Graceful Royal Pride",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/renown/renown.json"
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/renown1/renown1.json"
         }
       ]
     },
@@ -4753,7 +4753,7 @@
       "class": "Renown",
       "faction": "meta",
       "metaClass": "torch",
-      "fileName": "",
+      "fileName": "shenwang_alter",
       "type": "BC",
       "rarity": "MSR",
       "metaOrigin": "royalNavy",
@@ -4770,7 +4770,7 @@
       "name": "Little Renown",
       "class": "Renown",
       "faction": "royalNavy",
-      "fileName": "",
+      "fileName": "shengwang_younv",
       "group": "littles",
       "type": "BC",
       "rarity": "E",
@@ -4786,7 +4786,7 @@
       "name": "Repulse",
       "class": "Renown",
       "faction": "royalNavy",
-      "fileName": "",
+      "fileName": "fanji",
       "rarity": "E",
       "type": "BC",
       "skins": [
@@ -4804,8 +4804,9 @@
       "metaClass": "torch",
       "metaOrigin": "royalNavy",
       "group": "WorldAlphaSurvivors",
+      "fileName": "fanji_alter",    
       "rarity": "SR",
-      "type": "BB",
+      "type": "BC",
       "skins": [
         {
           "id": "RepulseM",
@@ -4819,7 +4820,7 @@
       "class": "Admiral",
       "faction": "royalNavy",
       "group": "cubeCollateralDamage",
-      "fileName": "",
+      "fileName": "hude",
       "type": "BC",
       "rarity": "SR",
       "skins": [
@@ -5328,12 +5329,12 @@
       ]
     },
     {
-      "name": "Ark Royal",
+      "name": "Ark Royal META",
       "class": "Ark Royal",
       "faction": "meta",
       "fileName": "",
       "metaClass": "torch",
-      "rarity": "SR",
+      "rarity": "MSR",
       "metaOrigin": "royalNavy",
       "type": "CV",
       "skins": [
@@ -5587,7 +5588,7 @@
       ]
     },
     {
-      "name": "Terror,",
+      "name": "Terror",
       "class": "Erebus",
       "faction": "royalNavy",
       "fileName": "",
