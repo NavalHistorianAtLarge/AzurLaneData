@@ -169,9 +169,9 @@
       "group": "muse",
       "skins": [
         {
-          "id": "AkagiMuse",
+          "id": "AkagiI",
           "label": "Default",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/akagiM/akagiM.json"
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/akagiI/akagiI.json"
         }
       ]
     },
@@ -2248,7 +2248,7 @@
       "type": "CL",
       "skins": [
         {
-          "id": "ClevelandMuse",
+          "id": "ClevelandI",
           "label": "Default",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/clevelandi/clevelandi.json"
         }
@@ -4091,6 +4091,1501 @@
           "id": "VampireH",
           "label": "Eloi's Blessing",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/vampireh/vampireh.json"
+        }
+      ]
+    },
+    {
+      "name": "Vampire META",
+      "class": "V",
+      "faction": "meta",
+      "metaClass": "cinders",
+      "fileName": "xiguegui_alter",
+      "type": "DD",
+      "rarity": "MELITE",
+      "metaOrigin": "royalNavy",
+      "skins": [
+        {
+          "id": "VampireM",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/vampirem/vampirem.json"
+        }
+      ]
+    },
+    {
+      "name": "Leander",
+      "class": "Leander",
+      "faction": "royalNavy",
+      "hanzi": "利安得",
+      "fileName": "liande",
+      "rarity": "N",
+      "type": "CL",
+      "skins": [
+        {
+          "id": "Leander",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/leander/leander.json"
+        },
+        {
+          "id": "LeanderG",
+          "label": "Retrofit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/leanderg/leanderg.json"
+        }
+      ]
+    },
+    {
+      "name": "Achilles",
+      "class": "Leander",
+      "faction": "royalNavy",
+      "fileName": "ajilisi",
+      "rarity": "R",
+      "type": "CL",
+      "retrofit" : {
+        "rarity": "E"
+      },
+      "skins": [
+        {
+          "id": "Achilles",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/achilles/achilles.json"
+        },
+        {
+          "id": "AchillesG",
+          "label": "Retrofit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/achillesg/achillesg.json"
+        }
+      ]
+    },
+    {
+      "name": "Ajax",
+      "class": "Leander",
+      "faction": "royalNavy",
+      "fileName": "ajiakesi",
+      "rarity": "R",
+      "type": "CL",
+      "skins": [
+        {
+          "id": "Ajax",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/ajax/ajax.json"
+        },
+        {
+          "id": "Ajax1",
+          "label": "Party Queen",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/ajax1/ajax1.json"
+        },
+        {
+          "id": "Ajax2",
+          "label": "Valentine's Reward?",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/ajax2/ajax2.json"
+        },
+        {
+          "id": "AjaxG",
+          "label": "Retrofit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/ajaxg/ajaxg.json"
+        }
+      ]
+    },
+    {
+      "name": "Dido",
+      "class": "Dido",
+      "faction": "royalNavy",
+      "fileName": "daiduo",
+      "rarity": "SR",
+      "type": "CL",
+      "skins": [
+        {
+          "id": "Dido",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/dido/dido.json"
+        },
+        {
+          "id": "Dido1",
+          "label": "Anxious Bisque Doll",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/dido1/dido1.json"
+        }
+      ]
+    },
+    {
+      "name": "Dido Muse",
+      "class": "Dido",
+      "faction": "royalNavy",
+      "fileName": "",
+      "type": "CL",
+      "group": "muse",
+      "rarity": "E",
+      "skins": [
+        {
+          "id": "DidoI",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/didoi/didoi.json"
+        }
+      ]
+    },
+    {
+      "name": "Southampton",
+      "class": "Southampton",
+      "faction": "royalNavy",
+      "fileName": "nananpuden",
+      "rarity": "R",
+      "skins": [
+        {
+          "id": "Southampton",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/southampton/southampton.json"
+        },
+        {
+          "id": "Southampton1",
+          "label": "New Year's Little Knight",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/southampton1/southampton1.json"
+        },
+        {
+          "id": "Southampton2",
+          "label": "Afternoon Impromptu",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/southampton2/southampton2.json"
+        },
+        {
+          "id": "SouthamptonH",
+          "label": "A Dazzling Departure",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/southamptonh/southamptonh.json"
+        }
+      ]
+    },
+    {
+      "name": "Sheffield",
+      "class": "Sheffield",
+      "faction": "royalNavy",
+      "fileName": "xiefeierde",
+      "hanzi": "谢菲尔德",
+      "rarity": "E",
+      "type": "CL",
+      "skins": [
+        {
+          "id": "Sheffield",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/sheffield/sheffield.json"
+        },
+        {
+          "id": "Sheffield",
+          "label": "Cloak and Dagger",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/sheffield1/sheffield1.json"
+        },
+        {
+          "id": "Sheffield2",
+          "label": "A Moment's Respite",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/sheffield2/sheffield2.json"
+        },
+        {
+          "id": "Sheffield3",
+          "label": "Black Crow's Finery",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/sheffield3/sheffield3.json"
+        },
+        {
+          "id": "Sheffield4",
+          "label": "Bulletborne",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/sheffield4/sheffield4.json"
+        },
+        {
+          "id": "Sheffield5",
+          "label": "Occult Clash",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/sheffield5/sheffield5.json"
+        }
+      ]
+    },
+    {
+      "name": "Sheffield Muse",
+      "class": "Sheffield",
+      "faction": "royalNavy",
+      "group": "muse",
+      "fileName": "",
+      "rarity": "E",
+      "skins": [
+        {
+          "id": "SheffieldI",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/sheffieldi/sheffieldi.json"
+        }
+      ]
+    },
+    {
+      "name": "Sheffield META",
+      "class": "Sheffield",
+      "faction": "meta",
+      "fileName": "",
+      "group": "",
+      "type": "CL",
+      "metaClass": "torch",
+      "metaOrigin": "royalNavy",
+      "rarity": "MELITE",
+      "skins": [
+        {
+          "id": "SheffieldM",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/sheffieldm/sheffieldm.json"
+        }
+      ]
+    },
+    {
+      "name": "Manchester",
+      "class": "Gloucester",
+      "faction": "royalNavy",
+      "hanzi": "曼彻斯特",
+      "hanziMeaning": "Manchester",
+      "fileName": "manchesite",
+      "rarity": "E",
+      "type": "CL",
+      "skins": [
+        {
+          "id": "Manchester",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/manchester/manchester.json"
+        },
+        {
+          "id": "Manchester1",
+          "label": "Midnight Devil in White",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/manchester1/manchester1.json"
+        },
+        {
+          "id": "Manchester2",
+          "label": "A Moment in the Shade",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/manchester2/manchester2.json"
+        }
+      ]
+    },
+    {
+      "name": "Gloucester",
+      "class": "Gloucester",
+      "faction": "royalNavy",
+      "fileName": "geluosite",
+      "rarity": "E",
+      "type": "CL",
+      "skins": [
+        {
+          "id": "Gloucester",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/gloucester/gloucester.json"
+        },
+        {
+          "id": "Gloucester1",
+          "label": "Brilliance in Purple",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/gloucester1/gloucester1.json"
+        }
+      ]
+    },
+    {
+      "name": "Edinburgh",
+      "class": "Edinburgh",
+      "faction": "royalNavy",
+      "rarity": "E",
+      "type": "CL",
+      "fileName": "aidingbao",
+      "skins": [
+        {
+          "id": "Edinburgh",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/edinburgh/edinburgh.json"
+        },
+        {
+          "id": "Edinburgh1",
+          "label": "The Library Fairy",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/edinburgh1/edinburgh1.json"
+        },
+        {
+          "id": "Edinburgh2",
+          "label": "Candy Maid",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/edinburgh2/edinburgh2.json"
+        }
+      ]
+    },
+    {
+      "name": "Belfast",
+      "class": "Edinburgh",
+      "faction": "royalNavy",
+      "rarity": "SR",
+      "type": "CL",
+      "fileName": "beierfasite",
+      "skins": [
+        {
+          "id": "Belfast",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/belfast/belfast.json"
+        },
+        {
+          "id": "Belfast1",
+          "label": "Iridescent Rosa",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/belfast1/belfast1.json"
+        },
+        {
+          "id": "Belfast2",
+          "label": "Serene Steel",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/belfast2/belfast2.json"
+        },
+        {
+          "id": "Belfast3",
+          "label": "The Noble Attendant",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/belfast3/belfast3.json"
+        },
+        {
+          "id": "Belfast4",
+          "label": "Shopping with the Head Maid",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/belfast4/belfast4.json"
+        },
+        {
+          "id": "Belfast5",
+          "label": "Piping-Hot Perfection",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/belfast5/belfast5.json"
+        },
+        {
+          "id": "Belfast6",
+          "label": "Folding Fascination",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/belfast6/belfast6.json"
+        },
+        {
+          "id": "BelfastH",
+          "label": "The Pledge of Claddagh",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/belfasth/belfasth.json"
+        }
+      ]
+    },
+    {
+      "name": "Little Bel",
+      "class": "Edinburgh",
+      "faction": "royalNavy",
+      "fileName": "beierfasite_younv",
+      "group": "littles",
+      "rarity": "E",
+      "skins": [
+        {
+          "id": "Bel",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/bel/bel.json"
+        }
+      ]
+    }
+    {
+      "name": "Arethusa",
+      "class": "Arethusa",
+      "faction": "royalNavy",
+      "fileName": "aruituosha",
+      "rarity": "R",
+      "type": "CL",
+      "skins": [
+        {
+          "id": "Arethusa",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/arethusa/arethusa.json"
+        }
+      ]
+    },
+    {
+      "name": "Galatea",
+      "class": "Arethusa",
+      "faction": "royalNavy",
+      "fileName": "jialadiya",
+      "rarity": "R",
+      "type": "CL",
+      "skins": [
+        {
+          "id": "Galatea",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/galatea/galatea.json"
+        }
+      ]
+    },
+    {
+      "name": "Aurora",
+      "class": "Arethusa",
+      "faction": "royalNavy",
+      "fileName": "ouruola",
+      "rarity": "E",
+      "type": "CL",
+      "skins": [
+        {
+          "id": "Aurora",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/aurora/aurora.json"
+        },
+        {
+          "id": "Aurora1",
+          "label": "The Tale of Spring",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/aurora1/aurora1.json"
+        },
+        {
+          "id": "Aurora2",
+          "label": "Dawn's Paean",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/aurora2/aurora2.json"
+        },
+        {
+          "id": "Aurora3",
+          "label": "Heritage of Yu City",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/aurora3/aurora3.json"
+        },
+        {
+          "id": "AuroraH",
+          "label": "Garb of Eternal Prosperity",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/aurora4/aurora4.json"
+        }
+      ]
+    },
+    {
+      "name": "London",
+      "class": "County",
+      "faction": "royalNavy",
+      "fileName": "",
+      "type": "CA",
+      "subclass": "London",
+      "rarity": "E",
+      "skins": [
+        {
+          "id": "London",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/london/london.json"
+        },
+        {
+          "id": "London1",
+          "label": "The Sterling Secretary",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/london1/london1.json"
+        },
+        {
+          "id": "LondonH",
+          "label": "Platinum Ceremony",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/londonh/londonh.json"
+        },
+        {
+          "id": "LondonG",
+          "label": "Retrofit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/londong/londong.json"
+        }
+      ]
+    },
+    {
+      "name": "Shropshire",
+      "class": "County",
+      "faction": "royalNavy",
+      "fileName": "",
+      "type": "CA",
+      "rarity": "R",
+      "subclass": "London",
+      "skins": [
+        {
+          "id": "Shropshire",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/shropshire/shropshire.json"
+        },
+        {
+          "id": "ShropshireG",
+          "label": "Retrofit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/shropshireg/shropshireg.json"
+        }
+      ]
+    },
+    {
+      "name": "Kent",
+      "class": "County",
+      "faction": "royalNavy",
+      "fileName": "",
+      "type": "CA",
+      "rarity": "R",
+      "subclass": "Kent",
+      "skins": [
+        {
+          "id": "Kent",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kent/kent.json"
+        }
+      ]
+    },
+    {
+      "name": "Suffolk",
+      "class": "County",
+      "faction": "royalNavy",
+      "fileName": "",
+      "type": "CA",
+      "rarity": "R",
+      "subclass": "Kent",
+      "retrofit": {
+        "rarity": "E"
+      },
+      "skins": [
+        {
+          "id": "Suffolk",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/suffolk/suffolk.json"
+        },
+        {
+          "id": "SuffolkG",
+          "label": "Retrofit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/suffolkg/suffolkg.json"
+        }
+      ]
+    },
+    {
+      "name": "Norfolk",
+      "class": "County",
+      "faction": "royalNavy",
+      "fileName": "",
+      "type": "CA",
+      "rarity": "R",
+      "subclass": "Kent",
+      "skins": [
+        {
+          "id": "Norfolk",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/norfolk/norfolk.json"
+        }
+      ]
+    },
+    {
+      "name": "Dorsetshire",
+      "class": "County",
+      "faction": "royalNavy",
+      "fileName": "",
+      "type": "CA",
+      "rarity": "R",
+      "subclass": "Kent",
+      "skins": [
+        {
+          "id": "Dorsetshire",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/dorsetshire/dorsetshire.json"
+        }
+      ]
+    },
+    {
+      "name": "York",
+      "class": "York",
+      "faction": "royalNavy",
+      "type": "CA",
+      "fileName": "",
+      "rarity": "E",
+      "skins": [
+        {
+          "id": "York",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/york/york.json"
+        },
+        {
+          "id": "York1",
+          "label": "Truth Seeker",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/york1/york1.json"
+        },
+        {
+          "id": "York2",
+          "label": "Summoner from the Azure Depths",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/york2/york2.json"
+        },
+        {
+          "id": "YorkH",
+          "label": "Oath of Purity",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/yorkh/yorkh.json"
+        },
+        {
+          "id": "YorkG",
+          "label": "Retrofit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/yorkg/yorkg.json"
+        }
+      ]
+    },
+    {
+      "name": "Exeter",
+      "class": "York",
+      "faction": "royalNavy",
+      "fileName": "",
+      "rarity": "E",
+      "type": "CA",
+      "skins": [
+        {
+          "id": "Exeter",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/exeter/exeter.json"
+        },
+        {
+          "id": "Exeter1",
+          "label": "A Glorious Toast",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/exeter1/exeter1.json"
+        },
+        {
+          "id": "ExeterG",
+          "label": "Retrofit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/exeterg/exeterg.json"
+        }
+      ]
+    },
+    {
+      "name": "Renown",
+      "class": "Renown",
+      "faction": "royalNavy",
+      "fileName": "",
+      "rarity": "E",
+      "type": "BC",
+      "skins": [
+        {
+          "id": "Renown",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/renown/renown.json"
+        },
+        {
+          "id": "Renown1",
+          "label": "Graceful Royal Pride",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/renown/renown.json"
+        }
+      ]
+    },
+    {
+      "name": "Renown META",
+      "class": "Renown",
+      "faction": "meta",
+      "metaClass": "torch",
+      "fileName": "",
+      "type": "BC",
+      "rarity": "MSR",
+      "metaOrigin": "royalNavy",
+      "group": "WorldAlphaSurvivors",
+      "skins": [
+        {
+          "id": "RenownM",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/renownm/renownm.json"
+        }
+      ]
+    },
+    {
+      "name": "Little Renown",
+      "class": "Renown",
+      "faction": "royalNavy",
+      "fileName": "",
+      "group": "littles",
+      "type": "BC",
+      "rarity": "E",
+      "skins": [
+        {
+          "id": "RenownS",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/renowns/renowns.json"
+        }
+      ]
+    },
+    {
+      "name": "Repulse",
+      "class": "Renown",
+      "faction": "royalNavy",
+      "fileName": "",
+      "rarity": "E",
+      "type": "BC",
+      "skins": [
+        {
+          "id": "Repulse",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/repulse/repulse.json"
+        }
+      ]
+    },
+    {
+      "name": "Repulse META",
+      "class": "Renown",
+      "faction": "meta",
+      "metaClass": "torch",
+      "metaOrigin": "royalNavy",
+      "group": "WorldAlphaSurvivors",
+      "rarity": "SR",
+      "type": "BB",
+      "skins": [
+        {
+          "id": "RepulseM",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/repulsem/repulsem.json"
+        }
+      ]
+    },
+    {
+      "name": "Hood",
+      "class": "Admiral",
+      "faction": "royalNavy",
+      "group": "cubeCollateralDamage",
+      "fileName": "",
+      "type": "BC",
+      "rarity": "SR",
+      "skins": [
+        {
+          "id": "Hood",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hood/hood.json"
+        },
+        {
+          "id": "Hood1",
+          "label": "Lady of the Shining Sun",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hood1/hood1.json"
+        },
+        {
+          "id": "Hood2",
+          "label": "Porcelain Grace",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hood2/hood2.json"
+        },
+        {
+          "id": "Hood3",
+          "label": "Dawnlight's Dame",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hood3/hood3.json"
+        },
+        {
+          "id": "Hood4",
+          "label": "Gentlewoman and Stallion",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hood4/hood4.json"
+        },
+        {
+          "id": "HoodH",
+          "label": "Rosey Love Poem",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hoodh/hoodh.json"
+        }
+      ]
+    },
+    {
+      "name": "Queen Elizabeth",
+      "class": "Queen Elizabeth",
+      "faction": "royalNavy",
+      "fileName": "",
+      "rarity": "SR",
+      "type": "BB",
+      "skins": [
+        {
+          "id": "QE",
+          "label": "The Queen's Ball",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/qe/qe.json"
+        },
+        {
+          "id": "QE1",
+          "label": "The Queen's Ball",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/qe1/qe1.json"
+        },
+        {
+          "id": "QE2",
+          "label": "One Night of the Queen",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/qe2/qe2.json"
+        },
+        {
+          "id": "QE3",
+          "label": "Queen of the Campus",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/qe3/qe3.json"
+        },
+        {
+          "id": "QE4",
+          "label": "Crown Jewel of the Royal Navy",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/qe4/qe4.json"
+        },
+        {
+          "id": "QE5",
+          "label": "Yes, Your Maidness!",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/qe5/qe5.json"
+        },
+        {
+          "id": "QE6",
+          "label": "Seaside Orders",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/qe6/qe6.json"
+        }
+      ]
+    },
+    {
+      "name": "Queen Elizabeth META",
+      "class": "Queen Elizabeth",
+      "faction": "meta",
+      "metaClass": "cinders",
+      "rarity": "SR",
+      "type": "BB",
+      "skins": [
+        {
+          "id": "QETA",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/qeta/qeta.json"
+        }
+      ]
+    },
+    {
+      "name": "Warspite",
+      "class": "Queen Elizabeth",
+      "faction": "royalNavy",
+      "fileName": "",
+      "rarity": "SR",
+      "type": "BB",
+      "retrofit": {
+      "rarity": "UR"
+      },
+      "skins": [
+        {
+          "id": "Warspite",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/warspite/warspite.json"
+        },
+        {
+          "id": "Warspite1",
+          "label": "Christmas Warrior",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/warspite1/warspite1.json"
+        },
+        {
+          "id": "Warspite2",
+          "label": "Under Pleasure",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/warspite2/warspite2.json"
+        },
+        {
+          "id": "WarspiteG",
+          "label": "Retrofit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/warspiteg/warspiteg.json"
+        }
+      ]
+    },
+    {
+      "name": "Nelson",
+      "class": "Nelson",
+      "faction": "royalNavy",
+      "fileName": "",
+      "rarity": "E",
+      "type": "BB",
+      "retrofit": {
+        "rarity": "SR"
+      },
+      "skins": [
+        {
+          "id": "Nelson",
+          "label": "Nelson",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/nelson/nelson.json"
+        },
+        {
+          "id": "Nelson1",
+          "label": "Luna Witch",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/nelson1/nelson1.json"
+        },
+        {
+          "id": "Nelson2",
+          "label": "Azure & Gold Summer Night",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/nelson2/nelson2.json"
+        },
+        {
+          "id": "NelsonG",
+          "label": "Retrofit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/nelsong/nelsong.json"
+        }
+      ]
+    },
+    {
+      "name": "Rodney",
+      "class": "Nelson",
+      "faction": "royalNavy",
+      "fileName": "",
+      "rarity": "E",
+      "type": "BB",
+      "skins": [
+        {
+          "id": "Rodney",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/rodney/rodney.json"
+        },
+        {
+          "id": "Rodney1",
+          "label": "Future Seaside Admiral",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/rodney1/rodney1.json"
+        },
+        {
+          "id": "Rodney2",
+          "label": "One Day as a Trainee Clerk",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/rodney2/rodney2.json"
+        },
+        {
+          "id": "Rodney3",
+          "label": "Immaculate Beauty",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/rodney3/rodney3.json"
+        },
+        {
+          "id": "RodneyH",
+          "label": "Palace of Blessings",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/rodneyh/rodneyh.json"
+        }
+      ]
+    },
+    {
+      "name": "Rodney META",
+      "class": "Nelson",
+      "faction": "meta",
+      "fileName": "",
+      "rarity": "SR",
+      "type": "BB",
+      "metaClass": "framework",
+      "metaOrigin": "royalNavy",
+      "skins": [
+        {
+          "id": "Rodney1",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/rodneym/rodneym.json"
+        }
+      ]
+    },
+    {
+      "name": "King George V",
+      "class": "King George V",
+      "faction": "royalNavy",
+      "fileName": "",
+      "rarity": "SR",
+      "type": "BB",
+      "skins": [
+        {
+          "id": "KGV",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kgv/kgv.json"
+        },
+        {
+          "id": "KGV1",
+          "label": "Rose's Regalia",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kgv1/kgv1.json"
+        }
+      ]
+    },
+    {
+      "name": "Prince of Wales",
+      "class": "King George V",
+      "faction": "royalNavy",
+      "fileName": "",
+      "rarity": "SR",
+      "type": "BB",
+      "skins": [
+        {
+          "id": "PoW",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/pow/pow.json"
+        },
+        {
+          "id": "PoW1",
+          "label": "Sun Shining Upon Windsor",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/pow1/pow1.json"
+        },
+        {
+          "id": "PoW2",
+          "label": "Sakura Elegance",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/pow2/pow2.json"
+        },
+        {
+          "id": "PoW3",
+          "label": "The Laureate's Victory Lap",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/pow3/pow3.json"
+        },
+        {
+          "id": "PoW4",
+          "label": "A Knight's Song, a Lady's Night",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/pow4/pow4.json"
+        }
+      ]
+    },
+    {
+      "name": "Duke of York",
+      "class": "King George V",
+      "faction": "royalNavy",
+      "fileName": "",
+      "rarity": "SR",
+      "type": "BB",
+      "skins": [
+        {
+          "id": "Dork",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/dork/dork.json"
+        },
+        {
+          "id": "Dork1",
+          "label": "Eternal Night's Carola",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/dork1/dork1.json"
+        },
+        {
+          "id": "Dork2",
+          "label": "Prestige of the Glorious Formula",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/dork2/dork2.json"
+        },
+        {
+          "id": "Dork3",
+          "label": "The Chic Counselor",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/dork3/dork3.json"
+        }
+      ]
+    },
+    {
+      "name": "Vanguard", 
+      "class": "Vanguard",
+      "faction": "royalNavy",
+      "fileName": "",
+      "rarity": "UR",
+      "type": "BB",
+      "skins": [
+        {
+          "id": "Vanguard",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/vanguard/vanguard.json"
+        },
+        {
+          "id": "Vanguard1",
+          "label": "The Half-Hearted Masquerade",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/vanguard1/vanguard1.json"
+        }
+      ]
+    },
+    {
+      "name": "Lion",
+      "class": "Lion",
+      "faction": "royalNavy",
+      "fileName": "",
+      "rarity": "UR",
+      "type": "BB",
+      "skins": [
+        {
+          "id": "Lion",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/lion/lion.json"
+        }
+      ]
+    },
+    {
+      "name": "Hermes",
+      "class": "Hermes",
+      "faction": "royalNavy",
+      "fileName": "",
+      "rarity": "N",
+      "type": "CV",
+      "retrofit": {
+        "rarity": "R"
+      },
+      "skins": [
+        {
+          "id": "Hermes",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hermes/hermes.json"
+        },
+        {
+          "id": "HermesG",
+          "label": "Retrofit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hermesg/hermesg.json"
+        }
+      ]
+    },
+    {
+      "name": "Unicorn",
+      "class": "Unicorn",
+      "faction": "royalNavy",
+      "fileName": "",
+      "rarity": "E",
+      "type": "CV",
+      "retrofit": {
+        "rarity": "SR"
+      },
+      "skins": [
+        {
+          "id": "Unicorn",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/unicorn/unicorn.json"
+        },
+        {
+          "id": "Unicorn1",
+          "label": "Little Star Songstress",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/unicorn1/unicorn1.json"
+        },
+        {
+          "id": "Unicorn2",
+          "label": "The Gift of Spring",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/unicorn2/unicorn2.json"
+        },
+        {
+          "id": "Unicorn3",
+          "label": "Long-Awaited Date",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/unicorn3/unicorn3.json"
+        },
+        {
+          "id": "Unicorn4",
+          "label": "Prayer of Plum and Snow",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/unicorn4/unicorn4.json"
+        },
+        {
+          "id": "Unicorn5",
+          "label": "Angelic Night",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/unicorn5/unicorn5.json"
+        },
+        {
+          "id": "Unicorn6",
+          "label": "Icy-Sweet Storytime",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/unicorn6/unicorn6.json"
+        },
+        {
+          "id": "Unicorn7",
+          "label": "Angelic Nurse",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/unicorn7/unicorn7.json"
+        },
+        {
+          "id": "Unicorn8",
+          "label": "Blissful Movement",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/unicorn8/unicorn8.json"
+        },
+        {
+          "id": "Unicorn9",
+          "label": "Snow White Gaurdian Angel",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/unicorn9/unicorn9.json"
+        },
+        {
+          "id": "Unicorn10",
+          "label": "Champion of Unicorn",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/unicorn10/unicorn10.json"
+        },
+        {
+          "id": "UnicornH",
+          "label": "A Dream of Pure Vows",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/unicornh/unicornh.json"
+        },
+        {
+          "id": "UnicornG",
+          "label": "Retrofit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/unicorng/unicorng.json"
+        }
+      ]
+    },
+    {
+      "name": "Eagle",
+      "class": "Eagle",
+      "faction": "royalNavy",
+      "fileName": "",
+      "rarity": "E",
+      "type": "CV",
+      "skins": [
+        {
+          "id": "Eagle",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/eagle/eagle.json"
+        },
+        {
+          "id": "Eagle1",
+          "label": "Eagle's Clinic",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/eagle1/eagle1.json"
+        }
+      ]
+    },
+    {
+      "name": "Ark Royal",
+      "class": "Ark Royal",
+      "faction": "royalNavy",
+      "fileName": "",
+      "rarity": "E",
+      "retrofit": {
+        "rarity": "SR"
+      },
+      "type": "CV",
+      "skins": [
+        {
+          "id": "ArkR",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/arkroyal/arkroyal.json"
+        },
+        {
+          "id": "ArkR1",
+          "label": "Coast Watcher",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/arkroyal1/arkroyal1.json"
+        },
+        {
+          "id": "ArkR2",
+          "label": "Guardian of the Ball",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/arkroyal2/arkroyal2.json"
+        },
+        {
+          "id": "ArkR3",
+          "label": "New Year's Protectress",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/arkroyal3/arkroyal3.json"
+        },
+        {
+          "id": "ArkR4",
+          "label": "Cafe Lookout",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/arkroyal4/arkroyal4.json"
+        },
+        {
+          "id": "ArkR5",
+          "label": "Order Amidst Amusement",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/arkroyal5/arkroyal5.json"
+        },
+        {
+          "id": "ArkRH",
+          "label": "Pure-White Protector",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/arkroyalh/arkroyalh.json"
+        },
+        {
+          "id": "ArkRG",
+          "label": "Retrofit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/arkroyalg/arkroyalg.json"
+        }
+      ]
+    },
+    {
+      "name": "Ark Royal",
+      "class": "Ark Royal",
+      "faction": "meta",
+      "fileName": "",
+      "metaClass": "torch",
+      "rarity": "SR",
+      "metaOrigin": "royalNavy",
+      "type": "CV",
+      "skins": [
+        {
+          "id": "ArkRM",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/arkroyalm/arkroyalm.json"
+        }
+      ]
+    
+    },
+    {
+      "name": "Illustrious",
+      "class": "Illustrious",
+      "faction": "royalNavy", 
+      "fileName": "",
+      "rarity": "SR",
+      "type": "CV",
+      "skins": [
+        {
+          "id": "Illustrious",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/illustrious/illustrious.json"
+        },
+        {
+          "id": "Illustrious1",
+          "label": "Never-Ending Tea Party",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/illustrious1/illustrious1.json"
+        },
+        {
+          "id": "Illustrious2",
+          "label": "Illustrious Ball",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/illustrious2/illustrious2.json"
+        },
+        {
+          "id": "Illustrious3",
+          "label": "Resplendent Hibiscus",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/illustrious3/illustrious3.json"
+        },
+        {
+          "id": "Illustrious4",
+          "label": "Maiden Lily's Radiance",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/illustrious4/illustrious4.json"
+        },
+        {
+          "id": "Illustrious5",
+          "label": "Lambent Melody",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/illustrious5/illustrious5.json"
+        },
+        {
+          "id": "Illustrious6",
+          "label": "Sweet Afternoon Teatime",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/illustrious6/illustrious6.json"
+        },
+        {
+          "id": "IllustriousH",
+          "label": "Morning Star of Love and Hope",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/illustrioush/illustrioush.json"
+        }
+      ]
+    },
+    {
+      "name": "Illustrious Muse",
+      "class": "Illustrious",
+      "faction": "royalNavy",
+      "group": "muse",
+      "fileName": "",
+      "rarity": "SR",
+      "type": "CV",
+      "skins": [
+        {
+          "id": "IllustriousI",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/illustriousI/illustriousI.json"
+        }
+      ]
+    },
+    {
+      "name": "Little Illustrious",
+      "class": "Illustrious",
+      "faction": "royalNavy",
+      "rarity": "E",
+      "group": "littles",
+      "type": "CV",
+      "skins": [
+        {
+          "id": "LittleIllustrious",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/littleillustrious/littleillustrious.json"
+        }
+      ]
+    },
+    {
+      "name": "Victorious",
+      "class": "Illustrious",
+      "faction": "royalNavy",
+      "fileName": "",
+      "rarity": "SR", 
+      "type": "CV",
+      "skins": [
+        {
+          "id": "Victorious",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/victorious/victorious.json"
+        },
+        {
+          "id": "Victorious1",
+          "label": "The Goddess' Day Off",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/victorious1/victorious1.json"
+        },
+        {
+          "id": "Victorious2",
+          "label": "Guidance of the Spring Goddess",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/victorious2/victorious2.json"
+        }
+      ]
+    },
+    {
+      "name": "Formidable",
+      "class": "Illustrious",
+      "faction": "royalNavy",
+      "fileName": "kewei",
+      "group": "",
+      "rarity": "SR",
+      "type": "CV",
+      "skins": [
+        {
+          "id": "Formidable",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/formidable/formidable.json"
+        },
+        {
+          "id": "Formidable2",
+          "label": "The Lady of the Beach",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/formidable1/formidable1.json"
+        },
+        {
+          "id": "Formidable2",
+          "label": "Timeless Classics",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/formidable2/formidable2.json"
+        },
+        {
+          "id": "Formidable3",
+          "label": "The Lover's Heart Flutters On Duty",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/formidable3/formidable3.json"
+        },
+        {
+          "id": "Formidable4",
+          "label": "Anniversary Memories",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/formidable4/formidable4.json"
+        }
+      ]
+    },
+    {
+      "name": "Formidable Muse",
+      "class": "Illustrious",
+      "faction": "royalNavy",
+      "group": "muse",
+      "rarity": "SR",
+      "type": "CV",
+      "skins": [
+        {
+          "id": "FormidableI",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/formidablei/formidablei.json"
+        }
+      ]
+    },
+    {},
+    {
+      "name": "Glorious",
+      "class": "Courageous",
+      "faction": "royalNavy",
+      "fileName": "",
+      "type": "CV",
+      "rarity": "E",
+      "skins": [
+        {
+          "id": "Glorious",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/glorious/glorious.json"
+        },
+        {
+          "id": "Glorious1",
+          "label": "Glorious School Life",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/glorious1/glorious1.json"
+        },
+        {
+          "id": "Glorious2",
+          "label": "Pungent Plum",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/glorious2/glorious2.json"
+        }
+      ]
+    },
+    {
+      "name": "Glorious META",
+      "class": "Courageous",
+      "faction": "meta",
+      "metaClass": "cinders",
+      "metaOrigin": "royalNavy",
+      "type": "CV",
+      "fileName": "",
+      "rarity": "MSR",
+      "skins": [
+        {
+          "id": "GloriousM",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/gloriousm/gloriousm.json"
+        }
+      ]
+    },
+    {
+      "name": "Erebus",
+      "class": "Erebus",
+      "faction": "royalNavy",
+      "fileName": "",
+      "rarity": "E",
+      "type": "BM",
+      "skins": [
+        {
+          "id": "Erebus",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/erebus/erebus.json"
+        },
+        {
+          "id": "Erebus1",
+          "label": "Illusory Happiness",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/erebus1/erebus1.json"
+        },
+        {
+          "id": "Erebus2",
+          "label": "Wardrobe Witchery",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/erebus2/erebus2.json"
+        }
+      ]
+    },
+    {
+      "name": "Erebus META",
+      "class": "Erebus",
+      "faction": "royalNavy",
+      "fileName": "",
+      "metaClass": "cinders",
+      "metaOrigin": "royalNavy",
+      "type": "BM",
+      "rarity": "MELITE",
+      "skins": [
+        {
+          "id": "ErebusM",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/erebusm/erebusm.json"
+        }
+      ]
+    },
+    {
+      "name": "Terror,",
+      "class": "Erebus",
+      "faction": "royalNavy",
+      "fileName": "",
+      "rarity": "E",
+      "type": "BM",
+      "skins": [
+        {
+          "id": "Terror",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/terror/terror.json"
+        },
+        {
+          "id": "Terror1",
+          "label": "Halloween Terror",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/terror1/terror1.json"
         }
       ]
     }
