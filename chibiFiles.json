@@ -4225,8 +4225,8 @@
       "name": "Southampton",
       "class": "Southampton",
       "faction": "royalNavy",
-      "type": "CL",
       "fileName": "nananpuden",
+      "type": "CL",
       "rarity": "R",
       "skins": [
         {
@@ -4523,7 +4523,7 @@
         {
           "id": "AuroraH",
           "label": "Garb of Eternal Prosperity",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/aurora4/aurora4.json"
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/aurorah/aurorah.json"
         }
       ]
     },
@@ -5590,5 +5590,4 @@
       ]
     }
   ]   
-
 }
