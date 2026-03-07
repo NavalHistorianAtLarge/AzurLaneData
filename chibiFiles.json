@@ -171,7 +171,24 @@
         {
           "id": "AkagiI",
           "label": "Default",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/akagiI/akagiI.json"
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/akagii/akagii.json"
+        }
+      ]
+    },
+    {
+      "name": "Akagi META",
+      "class": "Akagi",
+      "faction": "meta",
+      "metaClass": "",
+      "metaOrigin": "sakura",
+      "type": "CV",
+      "fileName": "chicheng_alter",
+      "rarity": "MSR",
+      "skins": [
+        {
+          "id": "AkagiM",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/akagim/akagim.json"
         }
       ]
     },
