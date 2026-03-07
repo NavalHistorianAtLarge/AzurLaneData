@@ -4225,6 +4225,7 @@
       "name": "Southampton",
       "class": "Southampton",
       "faction": "royalNavy",
+      "type": "CL",
       "fileName": "nananpuden",
       "rarity": "R",
       "skins": [
@@ -5589,4 +5590,5 @@
       ]
     }
   ]   
+
 }
