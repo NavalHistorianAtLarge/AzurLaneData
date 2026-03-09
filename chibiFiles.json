@@ -5129,16 +5129,19 @@
       "class": "Vanguard",
       "faction": "royalNavy",
       "fileName": "qianwei",
+      "oversize": "true",
       "rarity": "UR",
       "type": "BB",
       "skins": [
         {
           "id": "Vanguard",
           "label": "Default",
+          "oversize": "true",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/vanguard/vanguard.json"
         },
         {
           "id": "Vanguard1",
+          "oversize": "true",
           "label": "The Half-Hearted Masquerade",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/vanguard1/vanguard1.json"
         }
@@ -5148,12 +5151,14 @@
       "name": "Lion",
       "class": "Lion",
       "faction": "royalNavy",
-      "fileName": "",
+      "fileName": "shi",
+      "oversize": "true",
       "rarity": "UR",
       "type": "BB",
       "skins": [
         {
           "id": "Lion",
+          "oversize": "true",
           "label": "Default",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/lion/lion.json"
         },
