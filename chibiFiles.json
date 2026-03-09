@@ -4920,11 +4920,13 @@
       "name": "Warspite",
       "class": "Queen Elizabeth",
       "faction": "royalNavy",
-      "fileName": "",
+      "fileName": "yanzhan",
+      "hanzi": "厌战",
+      "hanziMeaning": "one who is weary of war",
       "rarity": "SR",
       "type": "BB",
       "retrofit": {
-      "rarity": "UR"
+        "rarity": "UR"
       },
       "skins": [
         {
@@ -4953,7 +4955,9 @@
       "name": "Nelson",
       "class": "Nelson",
       "faction": "royalNavy",
-      "fileName": "",
+      "hanzi": "纳尔逊",
+      "hanziMeaning": "Nelson",
+      "fileName": "naerxun",
       "rarity": "E",
       "type": "BB",
       "retrofit": {
@@ -4986,7 +4990,7 @@
       "name": "Rodney",
       "class": "Nelson",
       "faction": "royalNavy",
-      "fileName": "",
+      "fileName": "luodeni",
       "rarity": "E",
       "type": "BB",
       "skins": [
@@ -5028,7 +5032,7 @@
       "metaOrigin": "royalNavy",
       "skins": [
         {
-          "id": "Rodney1",
+          "id": "RodneyM",
           "label": "Default",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/rodneym/rodneym.json"
         }
@@ -5038,7 +5042,8 @@
       "name": "King George V",
       "class": "King George V",
       "faction": "royalNavy",
-      "fileName": "",
+      "hanzi": "英王乔治五世",
+      "fileName": "qiaozhiwushi",
       "rarity": "SR",
       "type": "BB",
       "skins": [
@@ -5058,7 +5063,7 @@
       "name": "Prince of Wales",
       "class": "King George V",
       "faction": "royalNavy",
-      "fileName": "",
+      "fileName": "weiershiqinwang",
       "rarity": "SR",
       "type": "BB",
       "skins": [
@@ -5093,7 +5098,7 @@
       "name": "Duke of York",
       "class": "King George V",
       "faction": "royalNavy",
-      "fileName": "",
+      "fileName": "yuekegongjue",
       "rarity": "SR",
       "type": "BB",
       "skins": [
@@ -5123,7 +5128,7 @@
       "name": "Vanguard", 
       "class": "Vanguard",
       "faction": "royalNavy",
-      "fileName": "",
+      "fileName": "qianwei",
       "rarity": "UR",
       "type": "BB",
       "skins": [
@@ -5151,6 +5156,11 @@
           "id": "Lion",
           "label": "Default",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/lion/lion.json"
+        },
+        {
+          "id": "literalLion",
+          "label": "An Actual Lion",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/lionLOL/lion.json"
         }
       ]
     },
