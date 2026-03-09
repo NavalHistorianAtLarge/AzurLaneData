@@ -4906,7 +4906,7 @@
       "class": "Queen Elizabeth",
       "faction": "meta",
       "metaClass": "cinders",
-      "rarity": "SR",
+      "rarity": "MSR",
       "type": "BB",
       "skins": [
         {
@@ -5026,13 +5026,15 @@
       "class": "Nelson",
       "faction": "meta",
       "fileName": "",
-      "rarity": "SR",
+      "oversize":"true",
+      "rarity": "MSR",
       "type": "BB",
       "metaClass": "framework",
       "metaOrigin": "royalNavy",
       "skins": [
         {
           "id": "RodneyM",
+          "oversize": "true",
           "label": "Default",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/rodneym/rodneym.json"
         }
