@@ -5175,9 +5175,11 @@
       "name": "Hermes",
       "class": "Hermes",
       "faction": "royalNavy",
-      "fileName": "",
+      "fileName": "jingjishen",
       "rarity": "N",
-      "type": "CV",
+      "type": "CVL",
+      "hanzi": "",
+      "hanziMeaning": "god of sports competition",
       "retrofit": {
         "rarity": "R"
       },
@@ -5195,12 +5197,24 @@
       ]
     },
     {
+      "name": "Hermes Ghost",
+      "faction": "siren",
+      "group": "ghost",
+      "skins": [
+        {
+          "id": "HermesGhost",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hermesghost/hermesghost.json"
+        }
+      ]
+    },
+    {
       "name": "Unicorn",
       "class": "Unicorn",
       "faction": "royalNavy",
-      "fileName": "",
+      "fileName": "dujiaoshou",
       "rarity": "E",
-      "type": "CV",
+      "type": "CVL",
       "retrofit": {
         "rarity": "SR"
       },
@@ -5276,7 +5290,7 @@
       "name": "Eagle",
       "class": "Eagle",
       "faction": "royalNavy",
-      "fileName": "",
+      "fileName": "ying",
       "rarity": "E",
       "type": "CV",
       "skins": [
@@ -5296,7 +5310,7 @@
       "name": "Ark Royal",
       "class": "Ark Royal",
       "faction": "royalNavy",
-      "fileName": "",
+      "fileName": "huangjiafangzhou",
       "rarity": "E",
       "retrofit": {
         "rarity": "SR"
@@ -5349,7 +5363,7 @@
       "name": "Ark Royal META",
       "class": "Ark Royal",
       "faction": "meta",
-      "fileName": "",
+      "fileName": "huangjiafangzhou_alter",
       "metaClass": "torch",
       "rarity": "MSR",
       "metaOrigin": "royalNavy",
@@ -5367,7 +5381,7 @@
       "name": "Illustrious",
       "class": "Illustrious",
       "faction": "royalNavy", 
-      "fileName": "",
+      "fileName": "guanghui",
       "rarity": "SR",
       "type": "CV",
       "skins": [
@@ -5425,7 +5439,7 @@
         {
           "id": "IllustriousI",
           "label": "Default",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/illustriousI/illustriousI.json"
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/illustriousi/illustriousi.json"
         }
       ]
     },
@@ -5484,7 +5498,7 @@
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/formidable/formidable.json"
         },
         {
-          "id": "Formidable2",
+          "id": "Formidable1",
           "label": "The Lady of the Beach",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/formidable1/formidable1.json"
         },
@@ -5510,6 +5524,7 @@
       "class": "Illustrious",
       "faction": "royalNavy",
       "group": "muse",
+      "fileName": "kewei",
       "rarity": "SR",
       "type": "CV",
       "skins": [
@@ -5521,10 +5536,25 @@
       ]
     },
     {
+      "name": "Little Formidable",
+      "faction": "royalNavy",
+      "class": "Illustrious",
+      "fileName": "kewei_younv",
+      "rarity": "E",
+      "type": "CV",
+      "skins": [
+        {
+          "id": "FormidableS",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/formidables/formidables.json"
+        }
+      ]
+    },
+    {
       "name": "Glorious",
       "class": "Courageous",
       "faction": "royalNavy",
-      "fileName": "",
+      "fileName": "guangrong",
       "type": "CV",
       "rarity": "E",
       "skins": [
@@ -5566,7 +5596,9 @@
       "name": "Erebus",
       "class": "Erebus",
       "faction": "royalNavy",
-      "fileName": "",
+      "hanzi": "黑暗界",
+      "fileName": "heianjie",
+      "hanziMeaning": "realm of darkness",
       "rarity": "E",
       "type": "BM",
       "skins": [
@@ -5591,7 +5623,7 @@
       "name": "Erebus META",
       "class": "Erebus",
       "faction": "royalNavy",
-      "fileName": "",
+      "fileName": "heianjie_alter",
       "metaClass": "cinders",
       "metaOrigin": "royalNavy",
       "type": "BM",
@@ -5608,7 +5640,9 @@
       "name": "Terror",
       "class": "Erebus",
       "faction": "royalNavy",
-      "fileName": "",
+      "hanzi": "恐怖",
+      "hanziMeaning": "terror",
+      "fileName": "kongbu",
       "rarity": "E",
       "type": "BM",
       "skins": [
