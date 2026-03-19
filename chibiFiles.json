@@ -6547,9 +6547,9 @@
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/abukuma/abukuma.json"
         },
         {
-          "id": "Abukuma1",
+          "id": "AbukumaG",
           "label": "Retrofit",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/abukuma1/abukuma1.json"
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/abukumag/abukumag.json"
         }
       ]
     },
