@@ -6364,6 +6364,238 @@
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/oyashio/oyashio.json"
         }
       ]
+    },
+    {
+      "name": "Yuubari",
+      "class": "Yuubari",
+      "faction": "sakura",
+      "fileName": "xizhang",
+      "rarity": "E",
+      "type": "CL",
+      "retrofit": {
+        "rarity": "SR"
+      },
+      "skins": [
+        {
+          "id": "Yuubari",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/yuubari/yuubari.json"
+        },
+        {
+          "id": "YuubariG",
+          "label": "Retrofit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/yuubarig/yuubarig.json"
+        }
+      ]
+    },
+    {
+      "name": "Nagara",
+      "class": "Nagara",
+      "faction": "sakura",
+      "rarity": "N",
+      "fileName": "changliang",
+      "type": "CL",
+      "skins": [
+        {
+          "id": "Nagara",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/nagara/nagara.json"
+        },
+        {
+          "id": "Nagara1",
+          "label": "Spring Breeze Leisure",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/nagara1/nagara1.json"
+        }
+      ]
+    },
+    {
+      "name": "Isuzu",
+      "class": "Nagara",
+      "faction": "sakura",
+      "fileName": "wushiling",
+      "rarity": "E",
+      "type": "CL",
+      "retrofit": {
+        "rarity": "E"
+      },
+      "skins": [
+        {
+          "id": "Isuzu",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/isuzu/isuzu.json"
+        },
+        {
+          "id": "Isuzu1",
+          "label": "Night of the Fairy Tale",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/isuzu1/isuzu1.json"
+        },
+        {
+          "id": "Isuzu2",
+          "label": "Cozy Christmas Eve",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/isuzu2/isuzu2.json"
+        },
+        {
+          "id": "Isuzu3",
+          "label": "Accidental Overheat?",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/isuzu3/isuzu3.json"
+        },
+        {
+          "id": "Isuzu4",
+          "label": "Charge, My Trusty Steed",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/isuzu4/isuzu4.json"
+        },
+        {
+          "id": "IsuzuG",
+          "label": "Retrofit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/isuzug/isuzug.json"
+        }
+      ]
+    },
+    {
+      "name": "Natori",
+      "class": "Nagara",
+      "rarity": "E",
+      "faction": "sakura",
+      "group": "unzen",
+      "type": "CL",
+      "fileName": "mingqu",
+      "skins": [
+        {
+          "id": "Natori",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/natori/natori.json"
+        },
+        {
+          "id": "Natori1",
+          "label": "Beach Paradise",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/natori1/natori1.json"
+        },
+        {
+          "id": "Natori2",
+          "label": "Boistrous Night on the Cruise",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/natori2/natori2.json"
+        }
+      ]
+    },
+    {
+      "name": "Yura",
+      "class": "Nagara",
+      "faction": "sakura",
+      "fileName": "youliang",
+      "rarity": "E",
+      "type": "CL",
+      "skins": [
+        {
+          "id": "Yura",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/yura/yura.json"
+        },
+        {
+          "id": "Yura1",
+          "label": "We are Succubi?",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/yura1/yura1.json"
+        }
+      ]
+    },
+    {
+      "name": "Kinu",
+      "class": "Kinu",
+      "faction": "sakura",
+      "fileName": "guinu",
+      "rarity": "E",
+      "type": "CL",
+      "retrofit": {
+        "rarity": "SR"
+      },
+      "skins": [
+        {
+          "id": "Kinu",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kinu/kinu.json"
+        },
+        {
+          "id": "Kinu1",
+          "label": "New Year's Blade Demon",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kinu1/kinu1.json"
+        },
+        {
+          "id": "Kinu2",
+          "label": "Token and Ghost",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kinu2/kinu2.json"
+        },
+        {
+          "id": "KinuG",
+          "label": "Retrofit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kinug/kinug.json"
+        }
+      ]
+    },
+    {
+      "name": "Abukuma",
+      "class": "Nagara",
+      "faction": "sakura",
+      "fileName": "awuwei",
+      "rarity": "N",
+      "retrofit": {
+        "rarity": "N"
+      },
+      "type": "CL",
+      "skins": [
+        {
+          "id": "Abukuma",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/abukuma/abukuma.json"
+        },
+        {
+          "id": "Abukuma1",
+          "label": "Retrofit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/abukuma1/abukuma1.json"
+        }
+      ]
+    },
+    {
+      "name": "Mogami",
+      "class": "Mogami",
+      "faction": "sakura",
+      "fileName": "zuishang",
+      "rarity": "E",
+      "retrofit": {
+        "rarity": "SR",
+        "type": "CA"
+      },
+      "type": "CL",
+      "skins": [
+        {
+          "id": "Mogami",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/mogami/mogami.json"
+        },
+        {
+          "id": "MogamiG",
+          "label": "Retrofit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/mogamig/mogamig.json"
+        }
+      ]
+    },
+    {
+      "name": "Mikuma",
+      "class": "Mogami",
+      "faction": "sakura",
+      "fileName": "sanwei",
+      "rarity": "E",
+      "type": "CL",
+      "skins": [
+        {
+          "id": "Mikuma",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/mikuma/mikuma.json"
+        },
+        {
+          "id": "Mikuma1",
+          "label": "Offerings of Floral Grace",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/mikuma1/mikuma1.json"
+        }
+      ]
     }
   ]   
 }
