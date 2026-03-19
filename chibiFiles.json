@@ -5990,8 +5990,13 @@
         },
         {
           "id": "Yuudachi3",
-          "label": "Carnivore Carnival",
+          "label": "Carnivore Carnival!",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/yuudachi3/yuudachi3.json"
+        },
+        {
+          "id": "Yuudachi4",
+          "label": "Woofy Floofy Christmas Night",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/yuudachi4/yuudachi4.json"
         },
         {
           "id": "YuudachiH",
