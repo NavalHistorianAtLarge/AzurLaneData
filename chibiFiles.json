@@ -269,62 +269,6 @@
       ]
     },
     {
-      "name": "Ise",
-      "faction": "sakura",
-      "class": "Ise",
-      "group": ["RCF", "Zuikaku"],
-      "hanzi": "鳌",
-      "hanziMeaning": "large mythical sea turtle",
-      "kanji": "伊勢",
-      "fileName": "yishi",
-      "rarity": "R",
-      "type": "BB",
-      "retrofit": {
-        "rarity": "E",
-        "type": "BBV"
-      },
-      "skins": [
-        {
-          "id": "Ise",
-          "label": "Default",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/ise/ise.json"
-        },
-        {
-          "id": "IseG",
-          "label": "Retrofit",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/iseg/iseg.json"
-        }
-      ]
-    },
-    {
-      "name": "Hyuuga",
-      "class": "Ise",
-      "faction": "sakura",
-      "group": ["RCF", "Zuikaku"],
-      "hanzi": "螯",
-      "hanziMeaning": "pincer, claw",
-      "kanji": "日向",
-      "fileName": "rixiang",
-      "rarity": "R",
-      "type": "BB",
-      "retrofit": {
-        "rarity": "E",
-        "type": "BBV"
-      },
-      "skins": [
-        {
-          "id": "Hyuuga",
-          "label": "Default",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hyuuga/hyuuga.json"
-        },
-        {
-          "id": "HyuugaG",
-          "label": "Retrofit",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hyuugag/hyuugag.json"
-        }
-      ]
-    },
-    {
       "name": "Tester",
       "faction": "siren",
       "fileName": "unknown1",
@@ -360,152 +304,6 @@
           "id": "Purifier",
           "label": "Purifier (more personality)",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/purifier1/purifier1.json"
-        }
-      ]
-    },
-    {
-      "name": "Fusou",
-      "faction": "sakura",
-      "class": "Fusou",
-      "hanzi": "魟",
-      "hanziMeaning": "ray (fish)",
-      "kanji": "扶桑",
-      "fileName": "fusang",
-      "group": ["shrine", "Akagi"],
-      "rarity": "R",
-      "type": "BB",
-      "retrofit": {
-        "rarity": "E"
-      },
-      "skins": [
-        {
-          "id": "Fusou",
-          "label": "Default",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/fusou/fusou.json"
-        },
-        {
-          "id": "Fusou1",
-          "label": "The Celebration of Spring",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/fusou1/fusou1.json"
-        },
-        {
-          "id": "Fusou2",
-          "label": "Perfect Partner?",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/fusou2/fusou2.json"
-        },
-        {
-          "id": "FusouH",
-          "label": "United in Heart and Soul",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/fusouh/fusouh.json"
-        },
-        {
-          "id": "FusouG",
-          "label": "Retrofit",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/fusoug/fusoug.json"
-        }
-      ]
-    },
-    {
-      "name": "Fusou META",
-      "faction": "meta",
-      "class": "Fuso",
-      "group": "WorldAlphaSurvivors",
-      "metaClass": "torch",
-      "metaOrigin": "sakura",
-      "hanzi": "魟",
-      "hanziMeaning": "ray (fish)",
-      "kanji": "扶桑",
-      "fileName": "fusang_alter",
-      "type": "BB",
-      "rarity": "MELITE",
-      "skins": [
-        {
-          "id": "FusouM",
-          "label": "Default",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/fusoum/fusoum.json"
-        }
-      ]
-    }, 
-    {
-      "name": "Yamashiro",
-      "faction": "sakura",
-      "class": "Fusou",
-      "group": ["shrine", "Akagi"],
-      "type": "BB",
-      "rarity": "R",
-      "hanzi": "鲼",
-      "hanziMeaning": "ray (fish)",
-      "kanji": "山城",
-      "fileName": "shancheng",
-      "retrofit": {
-        "rarity": "E"
-      },
-      "skins": [
-        {
-          "id": "Yamashiro",
-          "label": "Default",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/yamashiro/yamashiro.json"
-        },
-        {
-          "id": "Yamashiro1",
-          "label": "Summer Offensive?",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/yamashiro1/yamashiro1.json"
-        },
-        {
-          "id": "Yamashiro2",
-          "label": "Holiday Offensive",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/yamashiro2/yamashiro2.json"
-        },
-        {
-          "id": "Yamashiro3",
-          "label": "Dressy Black Cat",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/yamashiro3/yamashiro3.json"
-        },
-        {
-          "id": "Yamashiro4",
-          "label": "Sales Clerk Offensive?!",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/yamashiro4/yamashiro4.json"
-        },
-        {
-          "id": "Yamashiro5",
-          "label": "Vacation Offensive!",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/yamashiro5/yamashiro5.json"
-        },
-        {
-          "id": "Yamashiro6",
-          "label": "Street Corner Offensive!",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/yamashiro6/yamashiro6.json"
-        },
-        {
-          "id": "YamashiroH",
-          "label": "Bridal Attack!",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/yamashiroh/yamashiroh.json"
-        },
-        {
-          "id": "YamashiroG",
-          "label": "Retrofit",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/yamashirog/yamashirog.json"
-        }
-      ]
-    },
-    {
-      "name": "Yamashiro META",
-      "class": "Fuso",
-      "type": "BB",
-      "hanzi": "鲼",
-      "hanziMeaning": "ray (fish)",
-      "kanji": "山城",
-      "fileName": "shancheng_alter",
-      "faction": "meta",
-      "metaClass": "flickering",
-      "metaOrigin": "sakura",
-      "rarity": "MELITE",
-      "group": "devil",
-      "skins": [
-        {
-          "id": "YamashiroM",
-          "label": "Default", 
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/yamashirom/yamashirom.json"
         }
       ]
     },
@@ -6915,6 +6713,526 @@
           "id": "Choukai1",
           "label": "Tidy Store, Tidy Mind",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/choukai1/choukai1.json"
+        }
+      ]
+    },
+    {
+      "name": "Kongou",
+      "class": "Kongou",
+      "faction": "sakura",
+      "fileName": "jingang",
+      "rarity": "E",
+      "type": "BC",
+      "skins": [
+        {
+          "id": "Kongou",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kongou/kongou.json"
+        },
+        {
+          "id": "Kongou1",
+          "label": "The Beauties of Nature",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kongou1/kongou1.json"
+        },
+        {
+          "id": "Kongou2",
+          "label": "Hospital Talent",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kongou2/kongou2.json"
+        },
+        {
+          "id": "Kongou3",
+          "label": "Breezy Commute",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kongou3/kongou3.json"
+        },
+        {
+          "id": "Kongou4",
+          "label": "Troubled Seas",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kongou4/kongou4.json"
+        }
+      ]
+    },
+    {
+      "name": "Kongou Muse",
+      "class": "Kongou",
+      "group": "muse",
+      "faction": "sakura",
+      "rarity": "E",
+      "type": "BB",
+      "fileName": "jingang_idol",
+      "skins": [
+        {
+          "id": "KongouI",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kongoui/kongoui.json"
+        }
+      ]
+    },
+    {
+      "name": "Hiei",
+      "class": "Kongou",
+      "faction": "sakura",
+      "rarity": "E",
+      "type": "BC",
+      "fileName": "birui",
+      "skins": [
+        {
+          "id": "Hiei",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hiei/hiei.json"
+        },
+        {
+          "id": "Hiei1",
+          "label": "Moonlit Cruise",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hiei1/hiei1.json"
+        },
+        {
+          "id": "Hiei2",
+          "label": "Fragrent Red Plum",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hiei2/hiei2.json"
+        },
+        {
+          "id": "Hiei3",
+          "label": "Beauty of the White Sands",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hiei3/hiei3.json"
+        }
+      ]
+    },
+    {
+      "name": "Hiei-chan",
+      "class": "Kongou",
+      "faction": "sakura",
+      "fileName": "birui_younv",
+      "rarity": "E",
+      "type": "BB",
+      "skins": [
+        {
+          "id": "HieiS",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hieis/hieis.json"
+        }
+      ]
+    },
+    {
+      "name": "Hiei META",
+      "class": "Kongou",
+      "faction": "meta",
+      "metaClass": "cinders",
+      "metaOrigin": "sakura",
+      "fileName": "birui_alter",
+      "type": "BC",
+      "rarity": "SR",
+      "skins": [
+        {
+          "id": "HieiM",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hieim/hieim.json"
+        }
+      ]
+    },
+    {
+      "name": "Haruna",
+      "class": "Kongou",
+      "faction": "sakura",
+      "rarity": "E",
+      "type": "BC",
+      "fileName": "zhenming",
+      "skins": [
+        {
+          "id": "Haruna",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/haruna/haruna.json"
+        },
+        {
+          "id": "Haruna1",
+          "label": "Free Time Before Class",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/haruna1/haruna1.json"
+        },
+        {
+          "id": "Haruna2",
+          "label": "Scarlet Innnocence",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/haruna2/haruna2.json"
+        },
+        {
+          "id": "Haruna3",
+          "label": "The Elegent Lotus",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/haruna3/haruna3.json"
+        }
+      ]
+    },
+    {
+      "name": "Kirishima",
+      "class": "Kongou",
+      "faction": "sakura",
+      "rarity": "E",
+      "fileName": "wudao",
+      "type": "BC",
+      "skins": [
+        {
+          "id": "Kirishima",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kirishima/kirishima.json"
+        },
+        {
+          "id": "Kirishima1",
+          "label": "After-School Cannon Time",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kirishima1/kirishima1.json"
+        },
+        {
+          "id": "Kirishima2",
+          "label": "Summery Audacity",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kirishima2/kirishima2.json"
+        },
+        {
+          "id": "Kirishima3",
+          "label": "Casual Dazzle",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kirishima3/kirishima3.json"
+        },
+        {
+          "id": "Kirishima4",
+          "label": "Graceful Ink Incense",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kirishima4/kirishima4.json"
+        }
+      ]
+    },
+    {
+      "name": "Fusou",
+      "faction": "sakura",
+      "class": "Fusou",
+      "hanzi": "魟",
+      "hanziMeaning": "ray (fish)",
+      "kanji": "扶桑",
+      "fileName": "fusang",
+      "group": ["shrine", "Akagi"],
+      "rarity": "R",
+      "type": "BB",
+      "retrofit": {
+        "rarity": "E"
+      },
+      "skins": [
+        {
+          "id": "Fusou",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/fusou/fusou.json"
+        },
+        {
+          "id": "Fusou1",
+          "label": "The Celebration of Spring",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/fusou1/fusou1.json"
+        },
+        {
+          "id": "Fusou2",
+          "label": "Perfect Partner?",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/fusou2/fusou2.json"
+        },
+        {
+          "id": "FusouH",
+          "label": "United in Heart and Soul",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/fusouh/fusouh.json"
+        },
+        {
+          "id": "FusouG",
+          "label": "Retrofit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/fusoug/fusoug.json"
+        }
+      ]
+    },
+    {
+      "name": "Fusou META",
+      "faction": "meta",
+      "class": "Fuso",
+      "group": "WorldAlphaSurvivors",
+      "metaClass": "torch",
+      "metaOrigin": "sakura",
+      "hanzi": "魟",
+      "hanziMeaning": "ray (fish)",
+      "kanji": "扶桑",
+      "fileName": "fusang_alter",
+      "type": "BB",
+      "rarity": "MELITE",
+      "skins": [
+        {
+          "id": "FusouM",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/fusoum/fusoum.json"
+        }
+      ]
+    }, 
+    {
+      "name": "Yamashiro",
+      "faction": "sakura",
+      "class": "Fusou",
+      "group": ["shrine", "Akagi"],
+      "type": "BB",
+      "rarity": "R",
+      "hanzi": "鲼",
+      "hanziMeaning": "ray (fish)",
+      "kanji": "山城",
+      "fileName": "shancheng",
+      "retrofit": {
+        "rarity": "E"
+      },
+      "skins": [
+        {
+          "id": "Yamashiro",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/yamashiro/yamashiro.json"
+        },
+        {
+          "id": "Yamashiro1",
+          "label": "Summer Offensive?",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/yamashiro1/yamashiro1.json"
+        },
+        {
+          "id": "Yamashiro2",
+          "label": "Holiday Offensive",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/yamashiro2/yamashiro2.json"
+        },
+        {
+          "id": "Yamashiro3",
+          "label": "Dressy Black Cat",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/yamashiro3/yamashiro3.json"
+        },
+        {
+          "id": "Yamashiro4",
+          "label": "Sales Clerk Offensive?!",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/yamashiro4/yamashiro4.json"
+        },
+        {
+          "id": "Yamashiro5",
+          "label": "Vacation Offensive!",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/yamashiro5/yamashiro5.json"
+        },
+        {
+          "id": "Yamashiro6",
+          "label": "Street Corner Offensive!",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/yamashiro6/yamashiro6.json"
+        },
+        {
+          "id": "YamashiroH",
+          "label": "Bridal Attack!",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/yamashiroh/yamashiroh.json"
+        },
+        {
+          "id": "YamashiroG",
+          "label": "Retrofit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/yamashirog/yamashirog.json"
+        }
+      ]
+    },
+    {
+      "name": "Yamashiro META",
+      "class": "Fuso",
+      "type": "BB",
+      "hanzi": "鲼",
+      "hanziMeaning": "ray (fish)",
+      "kanji": "山城",
+      "fileName": "shancheng_alter",
+      "faction": "meta",
+      "metaClass": "flickering",
+      "metaOrigin": "sakura",
+      "rarity": "MELITE",
+      "group": "devil",
+      "skins": [
+        {
+          "id": "YamashiroM",
+          "label": "Default", 
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/yamashirom/yamashirom.json"
+        }
+      ]
+    },
+       {
+      "name": "Ise",
+      "faction": "sakura",
+      "class": "Ise",
+      "group": ["RCF", "Zuikaku"],
+      "hanzi": "鳌",
+      "hanziMeaning": "large mythical sea turtle",
+      "kanji": "伊勢",
+      "fileName": "yishi",
+      "rarity": "R",
+      "type": "BB",
+      "retrofit": {
+        "rarity": "E",
+        "type": "BBV"
+      },
+      "skins": [
+        {
+          "id": "Ise",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/ise/ise.json"
+        },
+        {
+          "id": "IseG",
+          "label": "Retrofit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/iseg/iseg.json"
+        }
+      ]
+    },
+    {
+      "name": "Hyuuga",
+      "class": "Ise",
+      "faction": "sakura",
+      "group": ["RCF", "Zuikaku"],
+      "hanzi": "螯",
+      "hanziMeaning": "pincer, claw",
+      "kanji": "日向",
+      "fileName": "rixiang",
+      "rarity": "R",
+      "type": "BB",
+      "retrofit": {
+        "rarity": "E",
+        "type": "BBV"
+      },
+      "skins": [
+        {
+          "id": "Hyuuga",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hyuuga/hyuuga.json"
+        },
+        {
+          "id": "HyuugaG",
+          "label": "Retrofit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hyuugag/hyuugag.json"
+        }
+      ]
+    },
+    {
+      "name": "Nagato",
+      "class": "Nagato",
+      "faction": "sakura",
+      "fileName": "",
+      "rarity": "SR",
+      "type": "BB",
+      "skins": [
+        {
+          "id": "Nagato",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/nagato/nagato.json"
+        },
+        {
+          "id": "Nagato1",
+          "label": "Great Fox's Respite",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/nagato1/nagato1.json"
+        },
+        {
+          "id": "Nagato2",
+          "label": "Gaurdian Fox's Shining Furisode",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/nagato2/nagato2.json"
+        },
+        {
+          "id": "Nagato3",
+          "label": "Gaurdian Fox's Vacation",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/nagato3/nagato3.json"
+        },
+        {
+          "id": "Nagato4",
+          "label": "Gaurdian Fox's Procession",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/nagato4/nagato4.json"
+        },
+        {
+          "id": "Nagato5",
+          "label": "Guardian Fox's Blessed Bonds",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/nagato5/nagato5.json"
+        },
+        {
+          "id": "NagatoH",
+          "label": "Great Fox's White Gown",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/nagatoh/nagatoh.json"
+        }
+      ]
+    },
+    {
+      "name": "Mutsu",
+      "class": "Nagato",
+      "faction": "sakura",
+      "fileName": "",
+      "rarity": "E",
+      "type": "BB",
+      "skins": [
+        {
+          "id": "Mutsu",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/mutsu/mutsu.json"
+        },
+        {
+          "id": "Mutsu1",
+          "label": "Warring States Warship",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/mutsu1/mutsu1.json"
+        },
+        {
+          "id": "Mutsu2",
+          "label": "A Maid's Mis-service?",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/mutsu2/mutsu2.json"
+        }
+      ]
+    },
+    {
+      "name": "Kii",
+      "class": "Kii",
+      "faction": "sakura",
+      "fileName": "",
+      "rarity": "SR",
+      "type": "BB",
+      "skins": [
+        {
+          "id": "Kii",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kii/kii.json"
+        },
+        {
+          "id": "Kii1",
+          "label": "Poolside Persuasion",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kii1/kii1.json"
+        }
+      ]
+    },
+    {
+      "name": "Tosa",
+      "class": "Tosa",
+      "faction": "sakura",
+      "rarity": "SR",
+      "type": "BB",
+      "fileName": "",
+      "skins": [
+        {
+          "id": "Tosa",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/tosa/tosa.json"
+        },
+        {
+          "id": "Tosa1",
+          "label": "Hometown Zest",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/tosa1/tosa1.json"
+        },
+        {
+          "id": "Tosa2",
+          "label": "A Glimpse of Greatness",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/tosa2/tosa2.json"
+        }
+      ]
+    },
+    {
+      "name": "Musashi",
+      "class": "Yamato",
+      "faction": "sakura",
+      "fileName": "",
+      "rarity": "UR",
+      "type": "BB",
+      "skins": [
+        {
+          "id": "Musashi",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/musashi/musashi.json"
+        },
+        {
+          "id": "Musashi1",
+          "label": "Violet Moonglow",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/musashi1/musashi1.json"
+        },
+        {
+          "id": "Musashi2",
+          "label": "The Purple Rabbit's Markmanship",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/musashi2/musashi2.json"
         }
       ]
     }
