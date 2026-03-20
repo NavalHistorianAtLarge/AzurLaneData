@@ -6756,6 +6756,7 @@
       "class": "Kongou",
       "group": "muse",
       "faction": "sakura",
+      "oversize": "true",
       "rarity": "E",
       "type": "BB",
       "fileName": "jingang_idol",
