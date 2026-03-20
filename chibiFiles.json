@@ -7104,7 +7104,7 @@
       "name": "Nagato",
       "class": "Nagato",
       "faction": "sakura",
-      "fileName": "",
+      "fileName": "changmen",
       "rarity": "SR",
       "type": "BB",
       "skins": [
@@ -7146,10 +7146,26 @@
       ]
     },
     {
+      "name": "Nagato META",
+      "class": "Nagato",
+      "faction": "meta",
+      "metaClass": "smoldering",
+      "fileName": "changmen_alter",
+      "type": "BB",
+      "rarity": "MUR",
+      "skins": [
+        {
+          "id": "NagatoM",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/nagatom/nagatom.json"
+        }
+      ]
+    },
+    {
       "name": "Mutsu",
       "class": "Nagato",
       "faction": "sakura",
-      "fileName": "",
+      "fileName": "luao",
       "rarity": "E",
       "type": "BB",
       "skins": [
@@ -7174,7 +7190,7 @@
       "name": "Kii",
       "class": "Kii",
       "faction": "sakura",
-      "fileName": "",
+      "fileName": "jiyi",
       "rarity": "SR",
       "type": "BB",
       "skins": [
@@ -7196,7 +7212,7 @@
       "faction": "sakura",
       "rarity": "SR",
       "type": "BB",
-      "fileName": "",
+      "fileName": "tuzuo",
       "skins": [
         {
           "id": "Tosa",
@@ -7219,17 +7235,20 @@
       "name": "Musashi",
       "class": "Yamato",
       "faction": "sakura",
-      "fileName": "",
+      "fileName": "wuzang",
+      "oversize": "true",
       "rarity": "UR",
       "type": "BB",
       "skins": [
         {
           "id": "Musashi",
           "label": "Default",
+          "oversize": "true",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/musashi/musashi.json"
         },
         {
           "id": "Musashi1",
+          "oversize": "true",
           "label": "Violet Moonglow",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/musashi1/musashi1.json"
         },
