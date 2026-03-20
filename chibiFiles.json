@@ -6596,6 +6596,311 @@
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/mikuma1/mikuma1.json"
         }
       ]
+    },
+    {
+      "name": "Furutaka",
+      "class": "Furutaka",
+      "rarity": "N",
+      "faction": "sakura", 
+      "fileName": "guying",
+      "type": "CA",
+      "retrofit": {
+        "rarity": "R"
+      },
+      "skins": [
+        {
+          "id": "Furutaka",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/furutaka/furutaka.json"
+        },
+        {
+          "id":"FurutakaG",
+          "label": "Retrofit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/furutakag/furutakag.json"
+        }
+      ]
+    },
+    {
+      "name": "Kako",
+      "class": "Furutaka",
+      "rarity": "N",
+      "faction": "sakura",
+      "fileName":"jiagu",
+      "type": "CA",
+      "retrofit": {
+        "rarity": "R"
+      },
+      "skins": [
+        {
+          "id": "Kako",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kako/kako.json"
+        },
+        {
+          "id": "KakoG",
+          "label": "Retrofit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kakog/kakog.json"
+        }
+      ]
+    },
+    {
+      "name": "Aoba",
+      "class": "Aoba",
+      "rarity": "N",
+      "faction": "sakura",
+      "fileName":"qingye",
+      "type": "CA",
+      "skins": [
+        {
+          "id": "Aoba",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/aoba/aoba.json"
+        }
+      ]
+    },
+    {
+      "name": "Kinugasa",
+      "class": "Aoba",
+      "rarity": "N",
+      "faction": "sakura",
+      "fileName": "yili",
+      "type": "CA",
+      "skins": [
+        {
+          "id": "Kinugasa",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kinugasa/kinugasa.json"
+        }
+      ]
+    },
+    {
+      "name": "Chikuma",
+      "class": "Tone",
+      "rarity": "SR",
+      "faction": "sakura",
+      "fileName":"zhumo",
+      "type": "CA",
+      "skins": [
+        {
+          "id": "Chikuma",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/chikuma/chikuma.json"
+        }
+      ]
+    },
+    {
+      "name": "Myoukou",
+      "class": "Myoukou",
+      "rarity": "R",
+      "faction": "sakura",
+      "fileName": "miaogao",
+      "type": "CA",
+      "skins": [
+        {
+          "id": "Myoukou",
+          "label": "Default",
+          "path":"https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/myoukou/myoukou.json"
+        }
+      ]
+    },
+    {
+      "name": "Nachi",
+      "class": "Myoukou",
+      "rarity": "R",
+      "faction": "sakura",
+      "fileName": "nazhi",
+      "type": "CA",
+      "retrofit": {
+        "rarity": "E"
+      },
+      "skins": [
+        {
+          "id": "Nachi",
+          "label": "Default",
+          "path":"https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/nachi/nachi.json"
+        },
+        {
+          "id": "NachiG",
+          "label": "Retrofit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/nachig/nachig.json"
+        }
+      ]
+    },
+    {
+      "name": "Ashigara",
+      "class": "Myoukou",
+      "rarity": "E",
+      "faction": "sakura",
+      "fileName": "zubing",
+      "type": "CA",
+      "skins": [
+        {
+          "id": "Ashigara",
+          "label": "Default",
+          "path":"https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/ashigara/ashigara.json"
+        },
+        {
+          "id": "Ashigara1",
+          "label": "Brief Intermission",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/ashigara1/ashigara1.json"
+        },
+        {
+          "id": "Ashigara2",
+          "label": "Kaleidoscopic Summer",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/ashigara2/ashigara2.json"
+        }
+      ]
+    },
+    {
+      "name": "Haguro",
+      "class": "Myoukou",
+      "rarity": "E",
+      "faction": "sakura",
+      "fileName": "yuhei",
+      "type": "CA",
+      "group": "musashi",
+      "skins": [
+        {
+          "id": "Haguro",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/haguro/haguro.json"
+        },
+        {
+          "id": "Haguro1",
+          "label": "A Blessing in Disguise?",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/haguro1/haguro1.json"
+        },
+        {
+          "id": "Haguro2",
+          "label": "Caught By Nightfall",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/haguro2/haguro2.json"
+        }
+      ]
+    },
+    {
+      "name": "Takao",
+      "class": "Takao",
+      "faction": "sakura",
+      "fileName": "gaoxiong",
+      "rarity": "SR",
+      "type": "CA",
+      "skins": [
+        {
+          "id": "Takao",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/takao/takao.json"
+        },
+        {
+          "id": "Takao1",
+          "label": "Beach Rhapsody",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/takao1/takao1.json"
+        },
+        {
+          "id": "Takao2",
+          "label": "The Lessons of Spring",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/takao2/takao2.json"
+        },
+        {
+          "id": "Takao3",
+          "label": "School Romanza",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/takao3/takao3.json"
+        },
+        {
+          "id": "Takao4",
+          "label": "Full Throttle Charmer",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/takao4/takao4.json"
+        },
+        {
+          "id": "Takoa5",
+          "label": "Divine Exorcist's Blade",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/takao5/takao5.json"
+        },
+        {
+          "id": "Takao6",
+          "label": "Inner Cultivation",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/takao6/takao6.json"
+        },
+        {
+          "id": "TakaoH",
+          "label": "Sakura Hanami",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/takaoh/takaoh.json"
+        }
+      ]
+    },
+    {
+      "name": "Atago",
+      "class": "Takao",
+      "faction": "sakura",
+      "fileName": "aidang",
+      "rarity": "SR",
+      "type": "CA",
+      "skins": [
+        {
+          "id": "Atago",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/atago/atago.json"
+        },
+        {
+          "id": "Atago1",
+          "label": "Summer March",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/atago1/atago1.json"
+        },
+        {
+          "id": "Atago2",
+          "label": "Hallmarks of Winter",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/atago2/atago2.json"
+        },
+        {
+          "id": "Atago3",
+          "label": "School Traumerei",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/atago3/atago3.json"
+        },
+        {
+          "id": "Atago4",
+          "label": "Stunning Speedstar",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/atago4/atago4.json"
+        },
+        {
+          "id": "AtagoH",
+          "label": "Lily-White Vow",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/atagoh/atagoh.json"
+        }
+      ]
+    },
+    {
+      "name": "Maya",
+      "class": "Takao",
+      "faction": "sakura",
+      "type": "CA",
+      "fileName": "moye",
+      "rarity": "SR",
+      "skins": [
+        {
+          "id": "Maya",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/maya/maya.json"
+        }
+      ]
+    },
+    {
+      "name": "Choukai",
+      "class": "Takao",
+      "faction": "sakura",
+      "type": "CA",
+      "fileName": "niaohai",
+      "rarity": "SR",
+      "skins": [
+        {
+          "id": "Choukai",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/choukai/choukai.json"
+        },
+        {
+          "id": "Choukai1",
+          "label": "Tidy Store, Tidy Mind",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/choukai1/choukai1.json"
+        }
+      ]
     }
   ]   
 }
