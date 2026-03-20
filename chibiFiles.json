@@ -6763,6 +6763,7 @@
       "skins": [
         {
           "id": "KongouI",
+          "oversize": "true",
           "label": "Default",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kongoui/kongoui.json"
         }
@@ -6826,6 +6827,7 @@
       "skins": [
         {
           "id": "HieiM",
+          "oversize": "true",
           "label": "Default",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hieim/hieim.json"
         }
