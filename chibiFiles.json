@@ -6811,7 +6811,7 @@
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/takao4/takao4.json"
         },
         {
-          "id": "Takoa5",
+          "id": "Takao5",
           "label": "Divine Exorcist's Blade",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/takao5/takao5.json"
         },
@@ -6827,6 +6827,22 @@
         }
       ]
     },
+    {
+      "name": "Takao META",
+      "class": "Takao",
+      "faction": "meta",
+      "metaClass": "torch",
+      "metaOrigin": "sakura",
+      "type": "CA",
+      "rarity": "MUR",
+      "skins": [
+        {
+          "id": "TakaoM",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/takaom/takaom.json"
+        }
+      ]
+    }
     {
       "name": "Atago",
       "class": "Takao",
