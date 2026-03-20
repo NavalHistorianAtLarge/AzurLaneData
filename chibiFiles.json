@@ -6818,9 +6818,10 @@
       "faction": "meta",
       "metaClass": "cinders",
       "metaOrigin": "sakura",
+      "oversize": "true",
       "fileName": "birui_alter",
       "type": "BC",
-      "rarity": "SR",
+      "rarity": "MSR",
       "skins": [
         {
           "id": "HieiM",
