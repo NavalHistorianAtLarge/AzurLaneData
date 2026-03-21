@@ -1,313 +1,6 @@
 {
   "chibis": [
     {
-      "name": "Zuikaku",
-      "faction": "sakura",
-      "hanzi": "鹤",
-      "hanziMeaning": "crane",
-      "kanji": "瑞鶴",
-      "fileName": "ruihe",
-      "type": "CV",
-      "class": "Shoukaku",
-      "group": "RCF",
-      "rarity": "SR",
-      "skins": [
-        {
-          "id": "Zuikaku",
-          "label": "Default",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/zuikaku/zuikaku.json"
-        },
-        {
-          "id": "Zuikaku1",
-          "label": "Ceremonial Crane",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/zuikaku1/zuikaku1.json"
-        },
-        {
-          "id": "Zuikaku2",
-          "label": "Zoom Like the Wind",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/zuikaku2/zuikaku2.json"
-        }
-      ]
-    },
-    {
-      "name": "Shoukaku",
-      "faction": "sakura",
-      "hanzi": "鹬",
-      "hanziMeaning": "sandpiper",
-      "kanji": "翔鶴",
-      "fileName": "xianghe",
-      "class": "Shoukaku",
-      "type": "CV",
-      "group": "RCF",
-      "rarity": "SR",
-      "skins": [
-        {
-          "id": "Shoukaku",
-          "label": "Default",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/shoukaku/shoukaku.json"
-        },
-        {
-          "id": "Shoukaku1",
-          "label": "The Crane that Dances with the Wind",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/shoukaku1/shoukaku1.json"
-        },
-        {
-          "id": "ShoukakuH",
-          "label": "White Crane of Domestic Bliss",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/shoukakuh/shoukakuh.json"
-        }
-      ]
-    },
-    {
-      "name": "Little Enterprise",
-      "faction": "Eagle",
-      "hanzi": "小企业",
-      "hanziMeaning": "small enterprise",
-      "fileName": "qiye_younv",
-      "class": "Yorktown",
-      "type": "CV",
-      "group": "littles",
-      "rarity": "E",
-      "skins": [
-        {
-          "id": "LittleEnterprise",
-          "label": "Default",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/littleEnterprise/littleEnterprise.json"
-        }
-      ]
-    },
-    {
-      "name": "Enterprise META",
-      "faction": "meta",
-      "metaOrigin": "Eagle",
-      "metaClass": "torch",
-      "rarity": "MUR",
-      "type": "CV",
-      "group": "WorldAlphaSurvivors",
-      "skins": [
-        {
-          "id": "EnterpriseMETA",
-          "label": "Default",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enterpriseMETA/enterpriseMETA.json"
-        }
-      ]
-    },
-    {
-      "name": "Regensburg",
-      "faction": "IronBlood",
-      "hanzi": "雷根斯堡",
-      "hanziMeaning": "phonetic",
-      "kanji" : "雷根斯堡",
-      "fileName": "leigensibao",
-      "rarity": "SR",
-      "class": "GermanM",
-      "type": "CL",
-      "group": "namedRiggings",
-      "riggingName": "Regina",
-      "skins": [
-        {
-          "id": "default",
-          "label": "Default",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/regensburg/regensburg.json"
-        },
-        {
-          "id": "Regensburg1",
-          "label": "The Dark Dragon's Dungeon",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/regensburg1/regensburg1.json"
-        }
-      ]
-    },
-    {
-      "name": "Akagi",
-      "faction": "sakura",
-      "class": ["Akagi", "Amagi"],
-      "type": "CV",
-      "rarity": "SR",
-      "hanzi": "凰",
-      "hanziMeaning": "phoenix",
-      "kanji": "赤城",
-      "fileName": "chicheng",
-      "group": "Akagi",
-      "skins": [
-        {
-          "id": "Akagi",
-          "label": "Default",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/akagi/akagi.json"
-        },
-        {
-          "id": "Akagi2",
-          "label": "Plum and Snow",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/akagi2/akagi2.json"
-        },
-        {
-          "id": "Akagi4",
-          "label": "Dawn-Phoenix's Summons",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/akagi4/akagi4.json"
-        },
-        {
-          "id": "Akagi5",
-          "label": "Precipice of Sweetness",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/akagi5/akagi5.json"
-        },
-        {
-          "id": "AkagiH",
-          "label": "Deep Crimson Poppy",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/akagih/akagih.json"
-        }
-      ]
-    },
-    {
-      "name": "Akagi Muse",
-      "faction": "sakura",
-      "class": ["Akagi", "Amagi"],
-      "type": "CV",
-      "rarity": "SR",
-      "hanzi": "凰",
-      "hanziMeaning": "phoenix",
-      "kanji": "赤城",
-      "fileName": "chicheng idol",
-      "group": "muse",
-      "skins": [
-        {
-          "id": "AkagiI",
-          "label": "Default",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/akagii/akagii.json"
-        }
-      ]
-    },
-    {
-      "name": "Akagi META",
-      "class": "Akagi",
-      "faction": "meta",
-      "metaClass": "",
-      "metaOrigin": "sakura",
-      "type": "CV",
-      "fileName": "chicheng_alter",
-      "rarity": "MSR",
-      "skins": [
-        {
-          "id": "AkagiM",
-          "label": "Default",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/akagim/akagim.json"
-        }
-      ]
-    },
-    {
-      "name": "Akagi-chan",
-      "faction": "sakura",
-      "class": ["Akagi", "Amagi"],
-      "type": "CV",
-      "rarity": "E",
-      "hanzi": "小凰",
-      "hanziMeaning": "little phoenix",
-      "fileName": "chicheng younv",
-      "kanji": "赤城ちゃん",
-      "group": "littles",
-      "skins": [
-        {
-          "id": "Akagi-chan",
-          "label": "Default",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/akagichan/akagichan.json"
-        }
-     ]
-    },
-    {
-      "name": "Spawn of Corruption - Crimson",
-      "faction": "X",
-      "type": "CV",
-      "group": "amagiX",
-      "skins": [
-        {
-          "id": "AkagiX",
-          "label": "Spawn of Courruption - Crimson",
-          "path":"https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/akagiX/akagiX.json"
-        }
-      ]
-    },
-    {
-      "name": "Kaga",
-      "class": "Kaga",
-      "faction": "sakura",
-      "hanzi": "",
-      "hanziMeaning": "bird related to a phoenix",
-      "kanji": "加贺",
-      "fileName": "jiahe",
-      "group": "Akagi",
-      "rarity": "SR",
-      "type": "CV",
-      "skins": [
-        {
-          "id": "Kaga",
-          "label": "Default",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kaga/kaga.json"
-        },
-        {
-          "id": "Kaga2",
-          "label": "White Fox's New Year",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kaga2/kaga2.json"
-        },
-        {
-          "id": "Kaga4",
-          "label": "Gentle Blossom's Sigh",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kaga4/kaga4.json"
-        }, 
-        {
-          "id": "Kaga5",
-          "label": "Dusk-Simurgh's Vigil",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kaga5/kaga5.json"
-        },
-        {
-          "id": "Kaga6",
-          "label": "Snowsilk Fox Dance",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kaga6/kaga6.json" 
-        },
-        {
-          "id": "KagaH",
-          "label": "Sacred Blue Lily",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kagah/kagah.json"
-        }
-      ]
-    },
-    {
-      "name": "Tester",
-      "faction": "siren",
-      "fileName": "unknown1",
-      "group": "experimentalDivision",
-      "hanzi": "测试者",
-      "hanziMeaning": "Tester",
-      "kanji": "システム",
-      "type": "BB",
-      "skins": [
-        {
-          "id": "Tester",
-          "label": "Tester",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/tester/tester.json"
-        }
-      ]
-    },
-    {
-      "name": "Purifier",
-      "faction": "siren",
-      "fileName": "unknown3",
-      "group": "experimentalDivision",
-      "hanzi": "净化者",
-      "hanziMeaning": "Purifier",
-      "kanji": "ピュリファイアー",
-      "type": "BB", 
-      "skins": [
-        {
-          "id": "Purifier",
-          "label": "Purifier (less personality)",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/purifier/purifier.json"
-        },
-        {
-          "id": "Purifier",
-          "label": "Purifier (more personality)",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/purifier1/purifier1.json"
-        }
-      ]
-    },
-    {
       "name": "Universal Bulin",
       "class": "bulin",
       "faction": "bulin",
@@ -379,6 +72,117 @@
         }
       ]
     },
+    {
+      "name": "Dewey",
+      "class": "Farragut",
+      "faction": "Eagle",
+      "rarity": "R",
+      "type": "DD",
+      "group": "lexington",
+      "hanzi": "杜威",
+      "hanziMeaning": "Dewey",
+      "kanji": "デューイ",
+      "fileName": "duwei",
+      "skins": [
+        {
+          "id": "Dewey",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/dewey/dewey.json"
+        },
+        {
+          "id": "Dewey1",
+          "label": "Summer Longing",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/dewey1/dewey1.json"
+        },
+        {
+          "id": "Dewey2",
+          "label": "A Christmas Thank-You",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/dewey2/dewey2.json"
+        }
+      ]
+    },
+    {
+      "name": "Dewey META",
+      "class": "Farragut",
+      "faction": "meta",
+      "metaClass": "torch",
+      "metaOrigin": "Eagle",
+      "type": "DD",
+      "group": "fifthFleet",
+      "rarity": "MELITE",
+      "skins": [
+        {
+          "id": "DeweyM",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/deweyM/deweyM.json"
+        }
+      ]
+    },
+    {
+      "name": "Regensburg",
+      "faction": "IronBlood",
+      "hanzi": "雷根斯堡",
+      "hanziMeaning": "phonetic",
+      "kanji" : "雷根斯堡",
+      "fileName": "leigensibao",
+      "rarity": "SR",
+      "class": "GermanM",
+      "type": "CL",
+      "group": "namedRiggings",
+      "riggingName": "Regina",
+      "skins": [
+        {
+          "id": "default",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/regensburg/regensburg.json"
+        },
+        {
+          "id": "Regensburg1",
+          "label": "The Dark Dragon's Dungeon",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/regensburg1/regensburg1.json"
+        }
+      ]
+    },
+    {
+      "name": "Tester",
+      "faction": "siren",
+      "fileName": "unknown1",
+      "group": "experimentalDivision",
+      "hanzi": "测试者",
+      "hanziMeaning": "Tester",
+      "kanji": "システム",
+      "type": "BB",
+      "skins": [
+        {
+          "id": "Tester",
+          "label": "Tester",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/tester/tester.json"
+        }
+      ]
+    },
+    {
+      "name": "Purifier",
+      "faction": "siren",
+      "fileName": "unknown3",
+      "group": "experimentalDivision",
+      "hanzi": "净化者",
+      "hanziMeaning": "Purifier",
+      "kanji": "ピュリファイアー",
+      "type": "BB", 
+      "skins": [
+        {
+          "id": "Purifier",
+          "label": "Purifier (less personality)",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/purifier/purifier.json"
+        },
+        {
+          "id": "Purifier",
+          "label": "Purifier (more personality)",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/purifier1/purifier1.json"
+        }
+      ]
+    },
+    
     {
       "name": "Omitter",
       "faction": "siren",
@@ -749,52 +553,6 @@
           "id": "Exploration1",
           "label": "/*0x0F*/",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enforcer9exploration1/exploration1.json"
-        }
-      ]
-    },
-    {
-      "name": "Dewey",
-      "class": "Farragut",
-      "faction": "Eagle",
-      "rarity": "R",
-      "type": "DD",
-      "group": "lexington",
-      "hanzi": "杜威",
-      "hanziMeaning": "Dewey",
-      "kanji": "デューイ",
-      "fileName": "duwei",
-      "skins": [
-        {
-          "id": "Dewey",
-          "label": "Default",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/dewey/dewey.json"
-        },
-        {
-          "id": "Dewey1",
-          "label": "Summer Longing",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/dewey1/dewey1.json"
-        },
-        {
-          "id": "Dewey2",
-          "label": "A Christmas Thank-You",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/dewey2/dewey2.json"
-        }
-      ]
-    },
-    {
-      "name": "Dewey META",
-      "class": "Farragut",
-      "faction": "meta",
-      "metaClass": "torch",
-      "metaOrigin": "Eagle",
-      "type": "DD",
-      "group": "fifthFleet",
-      "rarity": "MELITE",
-      "skins": [
-        {
-          "id": "DeweyM",
-          "label": "Default",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/deweyM/deweyM.json"
         }
       ]
     },
@@ -3146,6 +2904,40 @@
           "id":"EnterpriseBox",
           "label": "Enterprise Game",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enterpriseBox/enterpriseBox.json"
+        }
+      ]
+    },
+      {
+      "name": "Little Enterprise",
+      "faction": "Eagle",
+      "hanzi": "小企业",
+      "hanziMeaning": "small enterprise",
+      "fileName": "qiye_younv",
+      "class": "Yorktown",
+      "type": "CV",
+      "group": "littles",
+      "rarity": "E",
+      "skins": [
+        {
+          "id": "LittleEnterprise",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/littleEnterprise/littleEnterprise.json"
+        }
+      ]
+    },
+    {
+      "name": "Enterprise META",
+      "faction": "meta",
+      "metaOrigin": "Eagle",
+      "metaClass": "torch",
+      "rarity": "MUR",
+      "type": "CV",
+      "group": "WorldAlphaSurvivors",
+      "skins": [
+        {
+          "id": "EnterpriseMETA",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enterpriseMETA/enterpriseMETA.json"
         }
       ]
     },
@@ -7256,6 +7048,669 @@
           "id": "Musashi2",
           "label": "The Purple Rabbit's Markmanship",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/musashi2/musashi2.json"
+        },
+        {
+          "id": "MusashiH",
+          "label": "Purest Wisteria",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/musashih/musashih.json"
+        }
+      ]
+    },
+    {
+      "name": "Hiyou",
+      "class": "Hiyou",
+      "faction": "sakura",
+      "fileName": "feiying",
+      "rarity": "R",
+      "type": "CVL",
+      "skins": [
+        {
+          "id": "Hiyou",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hiyou/hiyou.json"
+        }
+      ]
+    },
+    {
+      "name": "Hiyou META",
+      "class": "Hiyou",
+      "faction": "meta",
+      "fileName": "feiying_alter",
+      "metaClass": "torch",
+      "metaOrigin": "sakura",
+      "group": "",
+      "rarity": "MELITE",
+      "type": "CVL",
+      "skins": [
+        {
+          "id": "HiyouM",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hiyoum/hiyoum.json"
+        }
+      ]
+    },
+    {
+      "name": "Junyou",
+      "class": "Hiyou",
+      "faction": "sakura",
+      "fileName": "sunying",
+      "rarity": "R",
+      "type": "CVL",
+      "skins": [
+        {
+          "id": "Junyou",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/junyou/junyou.json"
+        }
+      ]
+    },
+    {
+      "name": "Junyou META",
+      "class": "Hiyou",
+      "faction": "meta",
+      "fileName": "sunying_alter",
+      "metaClass": "torch",
+      "metaOrigin": "sakura",
+      "group": "",
+      "rarity": "MELITE",
+      "type": "CVL",
+      "skins": [
+        {
+          "id": "JunyouM",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/junyoum/junyoum.json"
+        }
+      ]
+    },
+    {
+      "name": "Houshou",
+      "class": "Houshou",
+      "faction": "sakura",
+      "fileName": "fengxiang",
+      "rarity": "E",
+      "type": "CVL",
+      "skins": [
+        {
+          "id": "Houshou",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/houshou/houshou.json"
+        },
+        {
+          "id": "Houshou1",
+          "label": "The Dream of the Autumn Pillow",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/houshou1/houshou1.json"
+        }
+      ]
+    },
+    {
+      "name": "Houshou META",
+      "class": "Houshou",
+      "faction": "meta",
+      "fileName": "fengxiang_alter",
+      "rarity": "E",
+      "type": "CVL",
+      "metaClass": "smoldering",
+      "metaOrigin": "sakura",
+      "skins": [
+        {
+          "id": "HoushouM",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/houshoum/houshoum.json"
+        }
+      ]
+    },
+    {
+      "name": "Zuihou",
+      "class": "Shouhou",
+      "faction": "sakura",
+      "rarity": "SR",
+      "fileName": "ruifeng",
+      "type": "CVL",
+      "skins": [
+        {
+          "id": "Zuihou",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/zuihou/zuihou.json"
+        },
+        {
+          "id": "Zuihou1",
+          "label": "Joy Comes on Fledgeling Wings",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/zuihou1/zuihou1.json"
+        }
+      ]
+    },
+    {
+      "name": "Shouhou",
+      "class": "Shouhou",
+      "faction": "sakura",
+      "rarity": "R",
+      "fileName": "xiangfeng",
+      "retrofit": {
+        "rarity": "E"
+      },
+      "type": "CVL",
+      "skins": [
+        {
+          "id": "Shouhou",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/shouhou/shouhou.json"
+        },
+        {
+          "id": "Shouhou1",
+          "label": "Patrolling Witch",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/shouhou1/shouhou1.json"
+        },
+        {
+          "id": "ShouhouG",
+          "label": "Retrofit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/shouhoug/shouhoug.json"
+        }
+      ]
+    },
+    {
+      "name": "Ryuujou",
+      "class": "Ryuujou",
+      "faction": "sakura",
+      "rarity": "E",
+      "fileName": "longxiang",
+      "type": "CVL",
+      "skins": [
+        {
+          "id": "Ryuujou",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/ryuujou/ryuujou.json"
+        },
+        {
+          "id": "Ryuujou1",
+          "label": "Slacking Samurai",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/ryuujou1/ryuujou1.json"
+        },
+        {
+          "id": "Ryuujou2",
+          "label": "Dragon Hunter: Ryuujou's Rise",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/ryuujou2/ryuujou2.json"
+        },
+        {
+          "id": "Ryuujou3",
+          "label": "The Dragon Slides In!",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/ryuujou3/ryuujou3.json"
+        }
+      ]
+    },
+    {
+      "name": "Akagi",
+      "faction": "sakura",
+      "class": ["Akagi", "Amagi"],
+      "type": "CV",
+      "rarity": "SR",
+      "hanzi": "凰",
+      "hanziMeaning": "phoenix",
+      "kanji": "赤城",
+      "fileName": "chicheng",
+      "group": "Akagi",
+      "skins": [
+        {
+          "id": "Akagi",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/akagi/akagi.json"
+        },
+        {
+          "id": "Akagi2",
+          "label": "Plum and Snow",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/akagi2/akagi2.json"
+        },
+        {
+          "id": "Akagi4",
+          "label": "Dawn-Phoenix's Summons",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/akagi4/akagi4.json"
+        },
+        {
+          "id": "Akagi5",
+          "label": "Precipice of Sweetness",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/akagi5/akagi5.json"
+        },
+        {
+          "id": "AkagiH",
+          "label": "Deep Crimson Poppy",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/akagih/akagih.json"
+        }
+      ]
+    },
+    {
+      "name": "Akagi Muse",
+      "faction": "sakura",
+      "class": ["Akagi", "Amagi"],
+      "type": "CV",
+      "rarity": "SR",
+      "hanzi": "凰",
+      "hanziMeaning": "phoenix",
+      "kanji": "赤城",
+      "fileName": "chicheng idol",
+      "group": "muse",
+      "skins": [
+        {
+          "id": "AkagiI",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/akagii/akagii.json"
+        }
+      ]
+    },
+    {
+      "name": "Akagi META",
+      "class": "Akagi",
+      "faction": "meta",
+      "metaClass": "",
+      "metaOrigin": "sakura",
+      "type": "CV",
+      "fileName": "chicheng_alter",
+      "rarity": "MSR",
+      "skins": [
+        {
+          "id": "AkagiM",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/akagim/akagim.json"
+        }
+      ]
+    },
+    {
+      "name": "Akagi-chan",
+      "faction": "sakura",
+      "class": ["Akagi", "Amagi"],
+      "type": "CV",
+      "rarity": "E",
+      "hanzi": "小凰",
+      "hanziMeaning": "little phoenix",
+      "fileName": "chicheng_younv",
+      "kanji": "赤城ちゃん",
+      "group": "littles",
+      "skins": [
+        {
+          "id": "Akagi-chan",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/akagichan/akagichan.json"
+        }
+     ]
+    },
+    {
+      "name": "Spawn of Corruption - Crimson",
+      "faction": "X",
+      "type": "CV",
+      "group": "amagiX",
+      "skins": [
+        {
+          "id": "AkagiX",
+          "label": "Spawn of Courruption - Crimson",
+          "path":"https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/akagiX/akagiX.json"
+        }
+      ]
+    },
+    {
+      "name": "Kaga",
+      "class": "Kaga",
+      "faction": "sakura",
+      "hanzi": "",
+      "hanziMeaning": "bird related to a phoenix",
+      "kanji": "加贺",
+      "fileName": "jiahe",
+      "group": "Akagi",
+      "rarity": "SR",
+      "type": "CV",
+      "skins": [
+        {
+          "id": "Kaga",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kaga/kaga.json"
+        },
+        {
+          "id": "Kaga2",
+          "label": "White Fox's New Year",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kaga2/kaga2.json"
+        },
+        {
+          "id": "Kaga4",
+          "label": "Gentle Blossom's Sigh",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kaga4/kaga4.json"
+        }, 
+        {
+          "id": "Kaga5",
+          "label": "Dusk-Simurgh's Vigil",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kaga5/kaga5.json"
+        },
+        {
+          "id": "Kaga6",
+          "label": "Snowsilk Fox Dance",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kaga6/kaga6.json" 
+        },
+        {
+          "id": "KagaH",
+          "label": "Sacred Blue Lily",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kagah/kagah.json"
+        }
+      ]
+    },
+ {
+      "name": "Zuikaku",
+      "faction": "sakura",
+      "hanzi": "鹤",
+      "hanziMeaning": "crane",
+      "kanji": "瑞鶴",
+      "fileName": "ruihe",
+      "type": "CV",
+      "class": "Shoukaku",
+      "group": "RCF",
+      "rarity": "SR",
+      "skins": [
+        {
+          "id": "Zuikaku",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/zuikaku/zuikaku.json"
+        },
+        {
+          "id": "Zuikaku1",
+          "label": "Ceremonial Crane",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/zuikaku1/zuikaku1.json"
+        },
+        {
+          "id": "Zuikaku2",
+          "label": "Zoom Like the Wind",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/zuikaku2/zuikaku2.json"
+        }
+      ]
+    },
+    {
+      "name": "Souryuu",
+      "class": "Souryuu",
+      "faction": "sakura",
+      "fileName": "canglong",
+      "rarity": "E",
+      "retrofit": {
+        "rarity": "SR"
+      },
+      "type": "CV",
+      "skins": [
+        {
+          "id": "Souryuu",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/souryuu/souryuu.json"
+        },
+        {
+          "id": "Souryuu1",
+          "label": "The Crane Amidst the Pines",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/souryuu1/souryuu1.json"
+        },
+        {
+          "id": "Souryuu2",
+          "label": "The Counselor Girl",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/souryuu2/souryuu2.json"
+        },
+        {
+          "id": "SouryuuG",
+          "label": "Retrofit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/souryuug/souryuug.json"
+        }
+      ]
+    },
+    {
+      "name": "Souryuu META",
+      "class": "Souryuu",
+      "faction": "meta",
+      "fileName": "canglong_alter",
+      "type": "CV",
+      "metaClass": "flickering",
+      "metaOrigin": "sakura",
+      "rarity": "SR",
+      "skins": [
+        {
+          "id": "SouryuuM",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/souryuum/souryuum.json"
+        }
+      ]
+    },
+    {
+      "name": "Hiryuu",
+      "class": "Hiryuu",
+      "faction": "sakura",
+      "fileName": "feilong",
+      "rarity": "E",
+      "type": "CV",
+      "retrofit": {
+        "rarity": "SR"
+      },
+      "skins": [
+        {
+          "id": "Hiryuu",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hiryuu/hiryuu.json"
+        },
+        {
+          "id": "Hiryuu1",
+          "label": "After School Bullies",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hiryuu1/hiryuu1.json"
+        },
+        {
+          "id": "HiryuuG",
+          "label": "Retrofit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hiryuug/hiryuug.json"
+        }
+      ]
+    },
+    {
+      "name": "Hiryuu META",
+      "class": "Hiryuu",
+      "faction": "meta",
+      "metaClass": "torch",
+      "metaOrigin": "sakura",
+      "type": "CV",
+      "fileName": "feilong_alter",
+      "rarity": "SR",
+      "skins": [
+        {
+          "id": "Hiryuu",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hiryuum/hiryuum.json"
+        }
+      ]
+    },
+    {
+      "name": "Shoukaku",
+      "faction": "sakura",
+      "hanzi": "鹬",
+      "hanziMeaning": "sandpiper",
+      "kanji": "翔鶴",
+      "fileName": "xianghe",
+      "class": "Shoukaku",
+      "type": "CV",
+      "group": "RCF",
+      "rarity": "SR",
+      "skins": [
+        {
+          "id": "Shoukaku",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/shoukaku/shoukaku.json"
+        },
+        {
+          "id": "Shoukaku1",
+          "label": "The Crane that Dances with the Wind",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/shoukaku1/shoukaku1.json"
+        },
+        {
+          "id": "ShoukakuH",
+          "label": "White Crane of Domestic Bliss",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/shoukakuh/shoukakuh.json"
+        }
+      ]
+    },
+    {
+      "name": "Taihou",
+      "class": "Taihou",
+      "faction": "sakura",
+      "fileName": "dafeng",
+      "rarity": "SR",
+      "type": "CV",
+      "skins": [
+        {
+          "id": "Taihou",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/taihou/taihou.json"
+        },
+        {
+          "id": "Taihou1",
+          "label": "Forbidden Fruit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/taihou1/taihou1.json"
+        },
+        {
+          "id": "Taihou2",
+          "label": "Phoenix's Spring Song",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/taihou2/taihou2.json"
+        },
+        {
+          "id": "Taihou3",
+          "label": "Enraptured Companion",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/taihou3/taihou3.json"
+        },
+        {
+          "id": "Taihou4",
+          "label": "Sweet Time After School",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/taihou4/taihou4.json"
+        },
+        {
+          "id": "Taihou5",
+          "label": "Seaside Daydreams",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/taihou5/taihou5.json"
+        },
+        {
+          "id": "TaihouH",
+          "label": "Temptation on the Sea Breeze",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/taihouh/taihouh.json"
+        }
+      ]
+    },
+    {
+      "name": "Taihou Muse",
+      "class": "Taihou",
+      "faction": "sakura",
+      "fileName": "",
+      "group": "muse",
+      "rarity": "SR",
+      "type": "CV",
+      "skins": [
+        {
+          "id": "TaihouI",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/taihoui/taihoui.json"
+        }
+      ]
+    },
+    {
+      "name": "Taihou META",
+      "class": "Taihou",
+      "faction": "meta{",
+      "metaClass": "flickering",
+      "metaOrigin": "sakura",
+      "fileName": "dafeng_alter",
+      "rarity": "SR",
+      "type": "CV",
+      "skins": [
+        {
+          "id": "TaihouM",
+          "default": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/taihoum/taihoum.json"
+        }
+      ]
+    },
+    {
+      "name": "Taihou-chan",
+      "class": "Taihou",
+      "faction": "sakura",
+      "fileName": "dafeng_younv",
+      "rarity": "E",
+      "type": "CV",
+      "skins": [
+        {
+          "id": "TaihouS",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/taihous/taihous.json"
+        }
+      ]
+    },
+    {
+      "name": "Shinano",
+      "class": "Yamato",
+      "faction": "sakura",
+      "fileName": "xinnong",
+      "rarity": "UR",
+      "type": "CV",
+      "skins": [
+        {
+          "id": "Shinano",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/shinano/shinano.json"
+        },
+        {
+          "id": "Shinano1",
+          "label": "Dreams of the Hazy Moon",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/shinano1/shinano1.json"
+        },
+        {
+          "id": "Shinano2",
+          "label": "Moonlit Chrome",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/shinano2/shinano2.json"
+        }
+      ]
+    },
+    {
+      "name": "Shinano-chan",
+      "class": "Yamato",
+      "faction": "sakura",
+      "group": "littles",
+      "fileName": "xinnong_younv",
+      "type": "CV",
+      "rarity": "E",
+      "skins": [
+        {
+          "id": "ShinanoS",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/shinanos/shinanos.json"
+        }
+      ]
+    },
+    {
+      "name": "Akashi",
+      "faction": "sakura",
+      "rarity": "SR",
+      "fileName": "mingshi",
+      "type": "AR",
+      "skins": [
+        {
+          "id": "Akashi",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/akashi/akashi.json"
+        },
+        {
+          "id": "Akashi1",
+          "label": "Akashi's in the Red, Nya!",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/akashi1/akashi1.json"
+        },
+        {
+          "id": "Akashi2",
+          "label": "The Black Cat Cometh!",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/akashi2/akashi2.json"
+        },
+        {
+          "id": "Akashi3",
+          "label": "Welcome to AzurCon!",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/akashi3/akashi3.json"
+        },
+        {
+          "id": "Akashi4",
+          "label": "Welcome to Sofmap!",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/akashi4/akashi4.json"
+        },
+        {
+          "id": "AkashiH",
+          "label": "White Cat's Repayment",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/akashih/akashih.json"
         }
       ]
     }
