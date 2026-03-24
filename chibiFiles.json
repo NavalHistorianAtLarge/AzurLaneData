@@ -7789,15 +7789,20 @@
           "label": "Keeper of the Comf-Fort",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/nimi8/nimi8.json"
         },
-        {
+               {
           "id": "Nimi9",
-          "label": "Upgrade Failure?!",
+          "label": "Fries, and smiles!",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/nimi9/nimi9.json"
         },
         {
           "id": "Nimi10",
-          "label": "Tanz der Blumen",
+          "label": "Upgrade Failure?!",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/nimi10/nimi10.json"
+        },
+        {
+          "id": "Nimi11",
+          "label": "Tanz der Blumen",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/nimi11/nimi11.json"
         },
         {
           "id": "NimiH",
