@@ -5553,7 +5553,7 @@
       ]
     },
     {
-      "name": "Yuudachi",
+      "name": "Yūdachi",
       "class": "Shiratsuyu",
       "faction": "sakura",
       "type": "DD",
@@ -5601,7 +5601,7 @@
       ]
     },
     {
-      "name": "Yuudachi META",
+      "name": "Yūdachi META",
       "faction": "meta",
       "metaOrigin": "sakura",
       "rarity": "MSR",
@@ -5655,7 +5655,7 @@
     },
     {
       "name": "Yukikaze",
-      "class": "Kagerou",
+      "class": "Kagerō",
       "faction": "sakura",
       "rarity": "SR",
       "fileName": "xuefeng",
@@ -5684,8 +5684,8 @@
       ]
     },
     {
-      "name": "Kagerou",
-      "class": "Kagerou",
+      "name": "Kagerō",
+      "class": "Kagerō",
       "faction": "sakura",
       "rarity": "E",
       "fileName": "yangyan",
@@ -5713,7 +5713,7 @@
     },
     {
       "name": "Shiranui",
-      "class": "Kagerou",
+      "class": "Kagerō",
       "faction": "sakura",
       "fileName": "buzhihuo",
       "rarity": "N",
@@ -5741,7 +5741,7 @@
     },
      {
       "name": "Nowaki",
-      "class": "Kagerou",
+      "class": "Kagerō",
       "faction": "sakura",
       "group": ["RCF","Zuikaku"],
       "hanzi": "苓",
@@ -5878,7 +5878,7 @@
       ]
     },
     {
-      "name": "Yuugure",
+      "name": "Yūgure",
       "class": "Hatsuharu",
       "faction": "sakura",
       "rarity": "R",
@@ -5927,7 +5927,7 @@
     },
     {
       "name": "Kuroshio",
-      "class": "Kagerou",
+      "class": "Kagerō",
       "faction": "sakura",
       "rarity": "R",
       "type": "DD",
@@ -5942,7 +5942,7 @@
     },
     {
       "name": "Oyashio",
-      "class": "Kagerou",
+      "class": "Kagerō",
       "rarity": "R",
       "faction": "sakura",
       "fileName": "qinchao",
@@ -5956,8 +5956,8 @@
       ]
     },
     {
-      "name": "Yuubari",
-      "class": "Yuubari",
+      "name": "Yūbari",
+      "class": "Yūbari",
       "faction": "sakura",
       "fileName": "xizhang",
       "rarity": "E",
@@ -6279,8 +6279,8 @@
       ]
     },
     {
-      "name": "Myoukou",
-      "class": "Myoukou",
+      "name": "Myōkō",
+      "class": "Myōkō",
       "rarity": "R",
       "faction": "sakura",
       "fileName": "miaogao",
@@ -6295,7 +6295,7 @@
     },
     {
       "name": "Nachi",
-      "class": "Myoukou",
+      "class": "Myōkō",
       "rarity": "R",
       "faction": "sakura",
       "fileName": "nazhi",
@@ -6318,7 +6318,7 @@
     },
     {
       "name": "Ashigara",
-      "class": "Myoukou",
+      "class": "Myōkō",
       "rarity": "E",
       "faction": "sakura",
       "fileName": "zubing",
@@ -6343,7 +6343,7 @@
     },
     {
       "name": "Haguro",
-      "class": "Myoukou",
+      "class": "Myōkō",
       "rarity": "E",
       "faction": "sakura",
       "fileName": "yuhei",
@@ -6489,7 +6489,7 @@
       ]
     },
     {
-      "name": "Choukai",
+      "name": "Chōkai",
       "class": "Takao",
       "faction": "sakura",
       "type": "CA",
@@ -6509,8 +6509,8 @@
       ]
     },
     {
-      "name": "Kongou",
-      "class": "Kongou",
+      "name": "Kongō",
+      "class": "Kongō",
       "faction": "sakura",
       "fileName": "jingang",
       "rarity": "E",
@@ -6544,8 +6544,8 @@
       ]
     },
     {
-      "name": "Kongou Muse",
-      "class": "Kongou",
+      "name": "Kongō Muse",
+      "class": "Kongō",
       "group": "muse",
       "faction": "sakura",
       "oversize": "true",
@@ -6563,7 +6563,7 @@
     },
     {
       "name": "Hiei",
-      "class": "Kongou",
+      "class": "Kongō",
       "faction": "sakura",
       "rarity": "E",
       "type": "BC",
@@ -6593,7 +6593,7 @@
     },
     {
       "name": "Hiei-chan",
-      "class": "Kongou",
+      "class": "Kongō",
       "faction": "sakura",
       "fileName": "birui_younv",
       "rarity": "E",
@@ -6608,7 +6608,7 @@
     },
     {
       "name": "Hiei META",
-      "class": "Kongou",
+      "class": "Kongō",
       "faction": "meta",
       "metaClass": "cinders",
       "metaOrigin": "sakura",
@@ -6627,7 +6627,7 @@
     },
     {
       "name": "Haruna",
-      "class": "Kongou",
+      "class": "Kongō",
       "faction": "sakura",
       "rarity": "E",
       "type": "BC",
@@ -6657,7 +6657,7 @@
     },
     {
       "name": "Kirishima",
-      "class": "Kongou",
+      "class": "Kongō",
       "faction": "sakura",
       "rarity": "E",
       "fileName": "wudao",
@@ -6691,9 +6691,9 @@
       ]
     },
     {
-      "name": "Fusou",
+      "name": "Fusō",
       "faction": "sakura",
-      "class": "Fusou",
+      "class": "Fusō",
       "hanzi": "魟",
       "hanziMeaning": "ray (fish)",
       "kanji": "扶桑",
@@ -6733,9 +6733,9 @@
       ]
     },
     {
-      "name": "Fusou META",
+      "name": "Fusō META",
       "faction": "meta",
-      "class": "Fuso",
+      "class": "Fusō",
       "group": "WorldAlphaSurvivors",
       "metaClass": "torch",
       "metaOrigin": "sakura",
@@ -6865,7 +6865,7 @@
       ]
     },
     {
-      "name": "Hyuuga",
+      "name": "Hyūga",
       "class": "Ise",
       "faction": "sakura",
       "group": ["RCF", "Zuikaku"],
@@ -7057,8 +7057,8 @@
       ]
     },
     {
-      "name": "Hiyou",
-      "class": "Hiyou",
+      "name": "Hiyō",
+      "class": "Hiyō",
       "faction": "sakura",
       "fileName": "feiying",
       "rarity": "R",
@@ -7072,8 +7072,8 @@
       ]
     },
     {
-      "name": "Hiyou META",
-      "class": "Hiyou",
+      "name": "Hiyō META",
+      "class": "Hiyō",
       "faction": "meta",
       "fileName": "feiying_alter",
       "metaClass": "torch",
@@ -7090,8 +7090,8 @@
       ]
     },
     {
-      "name": "Junyou",
-      "class": "Hiyou",
+      "name": "Jun'yō",
+      "class": "Hiyō",
       "faction": "sakura",
       "fileName": "sunying",
       "rarity": "R",
@@ -7106,7 +7106,7 @@
     },
     {
       "name": "Junyō META",
-      "class": "Hiyou",
+      "class": "Hiyō",
       "faction": "meta",
       "fileName": "sunying_alter",
       "metaClass": "torch",
@@ -7124,7 +7124,7 @@
     },
     {
       "name": "Hōshō",
-      "class": "Houshou",
+      "class": "Hōshō",
       "faction": "sakura",
       "fileName": "fengxiang",
       "rarity": "E",
@@ -7180,7 +7180,7 @@
       ]
     },
     {
-      "name": "Shouhou",
+      "name": "Shōhō",
       "class": "Shouhou",
       "faction": "sakura",
       "rarity": "R",
@@ -7208,8 +7208,8 @@
       ]
     },
     {
-      "name": "Ryuujou",
-      "class": "Ryuujou",
+      "name": "Ryūjō",
+      "class": "Ryūjō",
       "faction": "sakura",
       "rarity": "E",
       "fileName": "longxiang",
@@ -7396,7 +7396,7 @@
       "kanji": "瑞鶴",
       "fileName": "ruihe",
       "type": "CV",
-      "class": "Shoukaku",
+      "class": "Shōkaku",
       "group": "RCF",
       "rarity": "SR",
       "skins": [
@@ -7418,8 +7418,8 @@
       ]
     },
     {
-      "name": "Souryuu",
-      "class": "Souryuu",
+      "name": "Sōryū",
+      "class": "Sōryū",
       "faction": "sakura",
       "fileName": "canglong",
       "rarity": "E",
@@ -7451,8 +7451,8 @@
       ]
     },
     {
-      "name": "Souryuu META",
-      "class": "Souryuu",
+      "name": "Sōryū META",
+      "class": "Sōryū",
       "faction": "meta",
       "fileName": "canglong_alter",
       "type": "CV",
@@ -7468,8 +7468,8 @@
       ]
     },
     {
-      "name": "Hiryuu",
-      "class": "Hiryuu",
+      "name": "Hiryū",
+      "class": "Hiryū",
       "faction": "sakura",
       "fileName": "feilong",
       "rarity": "E",
@@ -7496,8 +7496,8 @@
       ]
     },
     {
-      "name": "Hiryuu META",
-      "class": "Hiryuu",
+      "name": "Hiryū META",
+      "class": "Hiryū",
       "faction": "meta",
       "metaClass": "torch",
       "metaOrigin": "sakura",
@@ -7513,13 +7513,13 @@
       ]
     },
     {
-      "name": "Shoukaku",
+      "name": "Shōkaku",
       "faction": "sakura",
       "hanzi": "鹬",
       "hanziMeaning": "sandpiper",
       "kanji": "翔鶴",
       "fileName": "xianghe",
-      "class": "Shoukaku",
+      "class": "Shōkaku",
       "type": "CV",
       "group": "RCF",
       "rarity": "SR",
@@ -7542,8 +7542,8 @@
       ]
     },
     {
-      "name": "Taihou",
-      "class": "Taihou",
+      "name": "Taihō",
+      "class": "Taihō",
       "faction": "sakura",
       "fileName": "dafeng",
       "rarity": "SR",
@@ -7582,8 +7582,8 @@
       ]
     },
     {
-      "name": "Taihou Muse",
-      "class": "Taihou",
+      "name": "Taihō Muse",
+      "class": "Taihō",
       "faction": "sakura",
       "fileName": "",
       "group": "muse",
@@ -7598,8 +7598,8 @@
       ]
     },
     {
-      "name": "Taihou META",
-      "class": "Taihou",
+      "name": "Taihō META",
+      "class": "Taihō",
       "faction": "meta{",
       "metaClass": "flickering",
       "metaOrigin": "sakura",
@@ -7615,8 +7615,8 @@
       ]
     },
     {
-      "name": "Taihou-chan",
-      "class": "Taihou",
+      "name": "Taihō-chan",
+      "class": "Taihō",
       "faction": "sakura",
       "fileName": "dafeng_younv",
       "rarity": "E",
@@ -7966,7 +7966,7 @@
       ]
     },
     {
-      "name": "Blucher",
+      "name": "Blücher",
       "rarity": "SR",
       "type": "CA",
       "class": "Hipper",
