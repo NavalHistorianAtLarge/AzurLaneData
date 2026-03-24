@@ -7710,7 +7710,7 @@
       ]
     },
     {
-      "name": "Z1 (Leberecht Maass",
+      "name": "Z1 (Leberecht Maass)",
       "class": "Z1",
       "faction": "IronBlood",
       "fileName": "z1",
@@ -7728,7 +7728,7 @@
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/z1a/z1a.json"
         },
         {
-          "id": "Z1g",
+          "id": "Z1G",
           "label": "Retrofit",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/z1g/z1g.json"
         }
@@ -7837,6 +7837,7 @@
       "faction": "IronBlood",
       "type": "CL",
       "rarity": "N",
+      "fileName": "kenisibao",
       "skins": [
         {
           "id": "Konigsberg",
@@ -7851,6 +7852,7 @@
       "faction": "IronBlood",
       "type": "CL",
       "rarity": "N",
+      "fileName": "kaersilue",
       "retrofit": {
         "rarity": "R"
       },
@@ -7873,6 +7875,7 @@
       "faction": "IronBlood",
       "type": "CL",
       "rarity": "N",
+      "fileName": "kelong",
       "skins": [
         {
           "id": "Koln",
@@ -7891,10 +7894,10 @@
       "class": "Leipzig",
       "faction": "IronBlood",
       "rarity": "R",
-      "fileName": "",
+      "fileName": "laibixi",
       "type": "CL",
       "retrofit": {
-        "rarity": "CL"
+        "rarity": "E"
       },
       "skins": [
         {
@@ -7918,7 +7921,7 @@
       "name": "Admiral Hipper",
       "class": "Hipper",
       "faction": "IronBlood",
-      "fileName": "",
+      "fileName": "xipeierhaijunshangjiang",
       "rarity": "E",
       "type": "CA",
       "skins": [
@@ -7939,7 +7942,7 @@
       "class": "Hipper",
       "faction": "IronBlood",
       "type": "CA",
-      "fileName": "",
+      "fileName": "xipeier_idol",
       "rarity": "E",
       "skins": [
         {
@@ -7955,6 +7958,7 @@
       "faction": "meta",
       "metaClass": "cinders",
       "metaOrigin": "IronBlood",
+      "fileName": "xipeierhaijunshangjiang_alter",
       "rarity": "SR",
       "type": "CA",
       "skins": [
@@ -7971,7 +7975,7 @@
       "type": "CA",
       "class": "Hipper",
       "faction": "IronBlood",
-      "fileName": "",
+      "fileName": "buluxieer",
       "skins": [
         {
           "id": "Blucher",
