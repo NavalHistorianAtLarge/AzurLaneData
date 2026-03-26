@@ -7503,10 +7503,10 @@
       "metaOrigin": "sakura",
       "type": "CV",
       "fileName": "feilong_alter",
-      "rarity": "SR",
+      "rarity": "MSR",
       "skins": [
         {
-          "id": "Hiryuu",
+          "id": "HiryuuM",
           "label": "Default",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hiryuum/hiryuum.json"
         }
@@ -7604,7 +7604,7 @@
       "metaClass": "flickering",
       "metaOrigin": "sakura",
       "fileName": "dafeng_alter",
-      "rarity": "SR",
+      "rarity": "MSR",
       "type": "CV",
       "skins": [
         {
@@ -8201,7 +8201,7 @@
       "metaClass": "torch",
       "metaOrigin": "IronBlood",
       "type": "BC",
-      "rarity": "SR",
+      "rarity": "MSR",
       "fileName": "shaenhuosite_alter",
       "skins": [
         {
@@ -8227,7 +8227,7 @@
         {
           "id": "Gneisenau",
           "label": "Nightmarish Succubus",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/gneisenau1/gneisenau.json"
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/gneisenau1/gneisenau1.json"
         }
       ]
     },
@@ -8238,7 +8238,7 @@
       "class": "Scharnhorst",
       "metaOrigin": "IronBlood",
       "type": "BC",
-      "rarity": "SR",
+      "rarity": "MSR",
       "fileName": "genaisennao_alter",
       "skins": [
         {
