@@ -6944,7 +6944,7 @@
       "metaClass": "smoldering",
       "fileName": "changmen_alter",
       "type": "BB",
-      "rarity": "MUR",
+      "rarity": "MSR",
       "skins": [
         {
           "id": "NagatoM",
@@ -7458,7 +7458,7 @@
       "type": "CV",
       "metaClass": "flickering",
       "metaOrigin": "sakura",
-      "rarity": "SR",
+      "rarity": "MSR",
       "skins": [
         {
           "id": "SouryuuM",
@@ -8178,7 +8178,7 @@
       "name": "Scharnhorst",
       "class": "Scharnhorst",
       "faction": "IronBlood",
-      "fileName": "",
+      "fileName": "shaenhuosite",
       "type": "BC",
       "rarity": "E",
       "skins": [
@@ -8202,7 +8202,7 @@
       "metaOrigin": "IronBlood",
       "type": "BC",
       "rarity": "SR",
-      "fileName": "",
+      "fileName": "shaenhuosite_alter",
       "skins": [
         {
           "id": "ScharnhorstM",
@@ -8215,7 +8215,7 @@
       "name": "Gneisenau",
       "class": "Scharnhorst",
       "faction": "IronBlood",
-      "fileName": "",
+      "fileName": "genaisennao",
       "rarity": "E",
       "type": "BC",
       "skins": [
@@ -8239,6 +8239,7 @@
       "metaOrigin": "IronBlood",
       "type": "BC",
       "rarity": "SR",
+      "fileName": "genaisennao_alter",
       "skins": [
         {
           "id": "GneisenauM",
@@ -8253,6 +8254,7 @@
       "class": "Bismarck",
       "faction": "IronBlood",
       "rarity": "SR",
+      "fileName": "bisimai",
       "skins": [
         {
           "id": "Bismarck",
@@ -8277,10 +8279,44 @@
       ]
     },
     {
-      "name": "Tirpitz",
+      "name": "Bismarck Zwei",
       "class": "Bismarck",
       "faction": "IronBlood",
       "fileName": "",
+      "rarity": "UR",
+      "oversize":"true",
+      "type": "BB",
+      "skins": [
+        {
+           "id":"Zweimarck",
+           "label": "Default",
+           "oversize":"true",
+           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/zweimarck/zweimarck.json"
+        },
+        {
+          "id": "Zweimarck1",
+          "oversize":"true",
+          "label": "Crystal Clear Holiday",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/zweimarck1/zweimarck1.json"
+        },
+        {
+          "id": "Zweimarck2",
+          "label": "Bathed in Brightness and Spirit",
+          "oversize":"true",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/zweimarck2/zweimarck2.json"
+        },
+        {
+          "id": "Geryon",
+          "label": "Geryon",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/geryon/geryon.json"
+        }
+      ]
+    },
+    {
+      "name": "Tirpitz",
+      "class": "Bismarck",
+      "faction": "IronBlood",
+      "fileName": "tierbici",
       "rarity": "SR",
       "type": "BB",
       "skins": [
@@ -8316,7 +8352,7 @@
       "faction": "IronBlood",
       "class": "Zeppelin",
       "type": "CV",
-      "fileName": "",
+      "fileName": "qibolinbojue",
       "rarity": "SR",
       "skins": [
         {
@@ -8333,6 +8369,21 @@
           "id": "Zeppelin",
           "label": "Intoxicating Crimson",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/zeppelin2/zeppelin2.json"
+        }
+      ]
+    },
+    {
+      "name": "Zeppy",
+      "faction": "IronBlood",
+      "fileName": "qibolin_younv",
+      "class": "Zeppelin",
+      "rarity": "E",
+      "type": "CV",
+      "skins": [
+        {
+          "id": "Zeppy",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/zeppy/zeppy.json"
         }
       ]
     }
