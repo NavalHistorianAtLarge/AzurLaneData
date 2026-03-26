@@ -7714,6 +7714,9 @@
       "class": "Z1",
       "faction": "IronBlood",
       "fileName": "z1",
+      "retrofit": {
+        "rarity":"SR"
+      },
       "rarity": "E",
       "type": "DD",
       "skins": [
@@ -7881,6 +7884,9 @@
       "type": "CL",
       "rarity": "N",
       "fileName": "kelong",
+      "retrofit": {
+        "rarity": "R"
+      },
       "skins": [
         {
           "id": "Koln",
@@ -7980,7 +7986,7 @@
       "type": "CA",
       "class": "Hipper",
       "faction": "IronBlood",
-      "fileName": "buluxieer",
+      "fileName": "bulvxieer",
       "skins": [
         {
           "id": "Blucher",
@@ -7989,11 +7995,13 @@
         },
         {
           "id": "Blucher1",
+          "oversize": "true",
           "label": "High-Altitude Head Over Heels",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/blucher1/blucher1.json"
         },
         {
           "id": "Blucher2",
+          "oversize": "true",
           "label": "Skyward Burning Love",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/blucher2/blucher2.json"
         }
@@ -8059,7 +8067,7 @@
       "skins": [
         {
           "id": "EugenS",
-          "label": "Prinz Eugen",
+          "label": "Little Prinz Eugen",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/eugens/eugens.json"
         }
       ]
@@ -8069,7 +8077,7 @@
       "class": "Deutchland",
       "rarity": "E",
       "faction": "IronBlood",
-      "fileName": "",
+      "fileName": "deyizhi",
       "type": "CA",
       "skins": [
         {
@@ -8078,12 +8086,12 @@
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/deutschland/deutschland.json"
         },
         {
-          "id": "Deutshland1",
+          "id": "Deutschland1",
           "label": "Dark Demon Princess",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/deutschland1/deutschland1.json"
         },
         {
-          "id": "Deutshland2",
+          "id": "Deutschland2",
           "label": "Service Time?!",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/deutschland2/deutschland2.json"
         },
@@ -8105,7 +8113,7 @@
       "faction": "IronBlood",
       "type": "CA",
       "rarity": "E",
-      "fileName": "",
+      "fileName": "sipeibojue",
       "skins": [
         {
           "id": "Spee",
@@ -8140,6 +8148,7 @@
       "rarity": "E",
       "faction": "IronBlood",
       "type": "CA",
+      "fileName": "sipeibojue_younv",
       "group": "littles",
       "skins": [
         {
