@@ -7970,11 +7970,12 @@
       "metaClass": "cinders",
       "metaOrigin": "IronBlood",
       "fileName": "xipeierhaijunshangjiang_alter",
-      "rarity": "SR",
+      "rarity": "MSR",
       "type": "CA",
       "skins": [
         {
           "id": "HipperM",
+          "oversize": "true",
           "label": "Default",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hipperm/hipperm.json"
         }
@@ -8057,6 +8058,21 @@
         }
       ]
     },
+    {
+      "name": "Prinz Eugen Muse",
+      "faction": "IronBlood",
+      "type": "CA",
+      "rarity": "E",
+      "class": "Hipper",
+      "fileName": "ougen_idol",
+      "skins": [
+        {
+          "id": "EugenI",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/eugeni/eugeni.json"
+        }
+      ]
+    }
     {
       "name": "Little Prinz Eugen",
       "class": "Hipper",
