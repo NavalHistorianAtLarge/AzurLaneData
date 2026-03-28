@@ -8386,6 +8386,407 @@
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/zeppy/zeppy.json"
         }
       ]
+    },
+    {
+      "name": "An Shan",
+      "faction": "china",
+      "class": "Anshan",
+      "fileName": "anshan",
+      "hanzi": "",
+      "type": "DD",
+      "rarity": "E",
+      "retrofit": {
+        "rarity": "SR",
+        "type": "DDG"
+      },
+      "skins": [
+        {
+          "id": "Anshan",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/anshan/anshan.json"
+        },
+        {
+          "id": "Anshan1",
+          "label": "The Cornett of Peace",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/anshan1/anshan1.json"
+        },
+        {
+          "id": "Anshan2",
+          "label": "Setting Sun, Hearts as One",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/anshan2/anshan2.json"
+        },
+        {
+          "id": "AnshanG",
+          "label": "Retrofit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/anshang/anshang.json"
+        }
+      ]
+    },
+    {
+      "name": "Fu Shun",
+      "faction": "china",
+      "class": "Anshan",
+      "fileName": "fushun",
+      "hanzi": "",
+      "type": "DD",
+      "rarity": "E",
+      "retrofit": {
+        "rarity": "SR",
+        "type": "DDG"
+      },
+      "skins": [
+        {
+          "id": "Fushun",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/fushun/fushun.json"
+        },
+        {
+          "id": "Fushun1",
+          "label": "The Unbreakable Baozi Heist",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/fushun1/fushun1.json"
+        },
+        {
+          "id": "FushunG",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/fushung/fushung.json"
+        }
+      ]
+    },
+    {
+      "name": "Chang Chun",
+      "class": "Anshan",
+      "fileName": "changchun",
+      "faction": "china",
+      "hanzi": "",
+      "type": "DD",
+      "rarity": "E",
+      "retrofit": {
+        "rarity": "SR",
+        "type": "DDG"
+      },
+      "skins": [
+        {
+          "id": "Changchun",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/changchun/changchun.json"
+        },
+        {
+          "id": "Changchun1",
+          "label": "The Joy of Spring",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/changchun1/changchun1.json"
+        },
+        {
+          "id": "Changchun2",
+          "label": "Fortune Arrives in Red",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/changchun2/changchun2.json"
+        },
+        {
+          "id": "ChangchunG",
+          "label": "Retrofit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/changchung/changchung.json"
+        }
+      ]
+    },
+    {
+      "name": "Tai Yuan",
+      "class": "Anshan",
+      "faction": "china",
+      "fileName": "",
+      "rarity": "E",
+      "type": "DD",
+      "retrofit": {
+        "rarity": "SR",
+        "type": "DDG"
+      },
+      "skins": [
+        {
+          "id": "Taiyuan",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/taiyuan/taiyuan.json"
+        },
+        {
+          "id": "Taiyuan1",
+          "label": "The Golden Dragon's Festivities",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/taiyuan1/taiyuan1.json"
+        },
+        {
+          "id": "Taiyuan2",
+          "label": "Two Hearts, One Cushion",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/taiyuan2/taiyuan2.json"
+        },
+        {
+          "id": "TaiyuanG",
+          "label": "Retrofit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/taiyuang/taiyuang.json"
+        }
+      ]
+    },
+    {
+      "name": "Yat Sen",
+      "class": "Yatsen",
+      "faction": "china",
+      "fileName": "yixian",
+      "rarity": "E",
+      "retrofit": {
+        "rarity": "SR"
+      },
+      "type": "CL",
+      "skins": [
+        {
+          "id": "Yatsen",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/yatsen/yatsen.json"
+        },
+        {
+          "id": "Yatsen1",
+          "label": "Paragon of Celestial Grace",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/yatsen1/yatsen1.json"
+        },
+        {
+          "id": "Yatsen2",
+          "label": "Pristine Leaves, Rich Warmth",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/yatsen2/yatsen2.json"
+        },
+        {
+          "id": "YatsenH",
+          "label": "Coronal Afterglow",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/yatsenh/yatsenh.json"
+        },
+        {
+          "id": "YatsenG",
+          "label": "Retrofit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/yatseng/yatseng.json"
+        }
+      ]
+    },
+    {
+      "name": "Ning Hai",
+      "class": "Ninghai",
+      "faction": "china",
+      "rarity": "E",
+      "type": "CL",
+      "skins": [
+        {
+          "id": "Ninghai",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/ninghai/ninghai.json"
+        },
+        {
+          "id": "Ninghai1",
+          "label": "Summer Hunger",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/ninghai1/ninghai1.json"
+        },
+        {
+          "id": "Ninghai2",
+          "label": "Moon Palace Rabbit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/ninghai2/ninghai2.json"
+        },
+        {
+          "id": "Ninghai3",
+          "label": "Dragon Sistrs! -N",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/ninghai3/ninghai3.json"
+        },
+        {
+          "id": "Ninghai4",
+          "label": "Springtime Sojourn",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/ninghai4/ninghai4.json"
+        },
+        {
+          "id": "Ninghai5",
+          "label": "Gorgeous Violet",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/ninghai5/ninghai5.json"
+        },
+        {
+          "id": "Ninghai6",
+          "label": "Da Bao's Friend",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/ninghai6/ninghai6.json"
+        },
+        {
+          "id": "Ninghai7",
+          "label": "Hectic Kitchen",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/ninghai7/ninghai7.json"
+        },
+        {
+          "id": "NinghaiG",
+          "label": "Retrofit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/ninghaig/ninghaig.json"
+        }
+      ]
+    },
+    {
+      "name": "Ping Hai",
+      "class": "Ninghai",
+      "faction": "china",
+      "type": "CL",
+      "rarity": "E",
+      "retrofit": {
+        "rarity": "SR"
+      },
+      "skins": [
+        {
+          "id": "Pinghai",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/pinghai/pinghai.json"
+        },
+        {
+          "id": "Pinghai1",
+          "label": "Summer Vacation",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/pinghai1/pinghai1.json"
+        },
+        {
+          "id": "Pinghai2",
+          "label": "Osmanthus Moon Rabbit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/pinghai2/pinghai2.json"
+        },
+        {
+          "id": "Pinghai3",
+          "label": "Dragon Sisters! -P",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/pinghai3/pinghai3.json"
+        },
+        {
+          "id": "Pinghai4",
+          "label": "Great Gourmet Expedition",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/pinghai4/pinghai4.json"
+        },
+        {
+          "id": "Pinghai5",
+          "label": "Delicious Crimson",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/pinghai5/pinghai5.json"
+        },
+        {
+          "id": "Pinghai6",
+          "label": "Baobao's Buddy!",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/pinghai6/pinghai6.json"
+        },
+        {
+          "id": "Pinghai7",
+          "label": "Lively Banquet Preparations",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/pinghai7/pinghai7.json"
+        },
+        {
+          "id": "PinghaiG",
+          "label": "Retrofit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/pinghaig/pinghaig.json"
+        }
+      ]
+    },
+    {
+      "name": "Avrora",
+      "class": "Pallada",
+      "faction": "northParliamenta",
+      "rarity": "SR",
+      "skins": [
+        {
+          "id": "Avrora",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/avrora/avrora.json"
+        },
+        {
+          "id": "Avrora1",
+          "label": "Shackled Saule",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/avrora1/avrora1.json"
+        },
+        {
+          "id": "Avrora2",
+          "label": "Not Cut Out For This?",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/avrora2/avrora2.json"
+        },
+        {
+          "id": "Avrora3",
+          "label": "Mellow Seaspray",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/avrora3/avrora3.json"
+        }
+      ]
+    },
+    {
+      "name": "Z19 (Hermann Künne)",
+      "fileName": "z19",
+      "class": "Type1936",
+      "faction": "IronBlood",
+      "rarity": "R",
+      "type": "DD",
+      "skins": [
+        {
+          "id": "Z19",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/z19/z19.json"
+        }
+      ]
+    },
+    {
+      "name": "Z20 (Karl Galster)",
+      "fileName": "z20",
+      "class": "Type1936",
+      "faction": "IronBlood",
+      "rarity": "R",
+      "type": "DD",
+      "skins": [
+        {
+          "id": "z20",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/z20/z20.json"
+        }
+      ]
+    },
+    {
+      "name": "Z21 (Wilhelm Heidkamp)",
+      "fileName": "z21",
+      "class": "Type1936",
+      "faction": "IronBlood",
+      "rarity": "R",
+      "type": "DD",
+      "skins": [
+        {
+          "id": "Z20",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/z21/z21.json"
+        }
+      ]
+    },
+    {
+      "name": "Z46",
+      "fileName": "z46",
+      "class": "Type1936C",
+      "faction": "IronBlood",
+      "rarity": "R",
+      "type": "DD",
+      "skins": [
+        {
+          "id": "Z46",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/z46/z46.json"
+        },
+        {
+          "id": "Z46a",
+          "label": "Her First Summer",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/z46a/z46a.json"
+        },
+        {
+          "id": "Z46b",
+          "label": "Girl's Relay",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/z46b/z46b.json"
+        },
+        {
+          "id": "Z46c",
+          "label": "Star-Lit★Chocolate",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/z46c/z46c.json"
+        },
+        {
+          "id": "Z46d",
+          "label": "Jianzhi Fantasia",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/z46d/z46d.json"
+        },
+        {
+          "id": "Z46e",
+          "label": "Chronicles of the Dust Wars",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/z46e/z46e.json"
+        },
+        {
+          "id": "Z46f",
+          "label": "The Bard of Hamelin",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/z46f/z46f.json"
+        }
+      ]
     }
   ]   
 }
