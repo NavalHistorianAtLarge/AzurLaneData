@@ -8741,7 +8741,7 @@
       "type": "DD",
       "skins": [
         {
-          "id": "Z20",
+          "id": "Z21",
           "label": "Default",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/z21/z21.json"
         }
