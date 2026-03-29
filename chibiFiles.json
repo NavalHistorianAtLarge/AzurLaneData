@@ -8565,6 +8565,9 @@
       "faction": "china",
       "rarity": "E",
       "type": "CL",
+      "retrofit": {
+          "rarity": "SR"
+      },
       "skins": [
         {
           "id": "Ninghai",
@@ -8675,6 +8678,7 @@
       "class": "Pallada",
       "faction": "northParliamenta",
       "rarity": "SR",
+      "fileName": "afuleer",
       "skins": [
         {
           "id": "Avrora",
@@ -8718,11 +8722,11 @@
       "fileName": "z20",
       "class": "Type1936",
       "faction": "IronBlood",
-      "rarity": "R",
+      "rarity": "N",
       "type": "DD",
       "skins": [
         {
-          "id": "z20",
+          "id": "Z20",
           "label": "Default",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/z20/z20.json"
         }
@@ -8733,7 +8737,7 @@
       "fileName": "z21",
       "class": "Type1936",
       "faction": "IronBlood",
-      "rarity": "R",
+      "rarity": "N",
       "type": "DD",
       "skins": [
         {
@@ -8748,7 +8752,7 @@
       "fileName": "z46",
       "class": "Type1936C",
       "faction": "IronBlood",
-      "rarity": "R",
+      "rarity": "SR",
       "type": "DD",
       "skins": [
         {
