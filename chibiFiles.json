@@ -8791,6 +8791,408 @@
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/z46f/z46f.json"
         }
       ]
+    },
+    {
+      "name": "Shimakaze",
+      "faction": "sakura",
+      "class": "Shimakaze",
+      "fileName": "daofeng",
+      "group": "Shinano",
+      "rarity": "UR",
+      "type": "DD",
+      "hanzi": "芒",
+      "kanji": "岛风",
+      "skins": [
+        {
+          "id": "Shimakaze",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/shimakaze/shimakaze.json"
+        },
+        {
+          "id": "Shimakaze1",
+          "label": "World's Speediest Bunny Waitress",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/shimakaze1/shimakaze1.json"
+        },
+        {
+          "id": "Shimakaze2",
+          "label": "The White Rabbit of Wonderland",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/shimakaze2/shimakaze2.json"
+        },
+        {
+          "id": "Shimakaze3",
+          "label": "The Island Wind Rests",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/shimakaze3/shimakaze3.json"
+        },
+        {
+          "id": "Shimakze4",
+          "label": "Clumsy Moon Rabbit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/shimakaze4/shimakaze4.json"
+        },
+        {
+          "id": "Shimakaze5",
+          "label": "The Unmoving Rabbit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/shimakaze5/shimakaze5.json"
+        }
+      ]
+    },
+    {
+      "name": "Kamikaze",
+      "class": "Kamikaze",
+      "faction": "sakura",
+      "fileName": "",
+      "rarity": "R",
+      "type": "DD",
+      "retrofit": {
+        "rarity": "E"
+      },
+      "skins": [
+        {
+          "id": "Kamikaze",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kamikaze/kamikaze.json"
+        },
+        {
+          "id": "KamikazeG",
+          "label": "Retrofit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kamikazeg/kamikazeg.json"
+        }
+      ]
+    },
+    {
+      "name": "Matsukaze",
+      "class": "Kamikaze",
+      "faction": "sakura",
+      "fileName": "",
+      "rarity": "R",
+      "type": "DD",
+      "retrofit": {
+        "rarity": "E"
+      },
+      "skins": [
+        {
+          "id": "Matsukaze",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/matsukaze/matsukaze.json"
+        },
+        {
+          "id": "MatsukazeG",
+          "label": "Retrofit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/matsukazeg/matsukazeg.json"
+        }
+      ]
+    },
+    {
+      "name": "Mutsuki",
+      "class": "Mutsuki",
+      "faction": "sakura",
+      "rarity": "normal",
+      "retrofit": {
+        "rarity": "R"
+      },
+      "type": "DD",
+      "skins": [
+        {
+          "id": "Mutsuki",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/mutsuki/mutsuki.json"
+        },
+        {
+          "id": "Mutsuki1",
+          "label": "Mr. Reindeer, Depart!",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/mutsuki1/mutsuki1.json"
+        }, 
+        {
+          "id": "Mutsuki2",
+          "label": "Candy Festival",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/mutsuki2/mutsuki2.json"
+        },
+        {
+          "id": "Mutsuki3",
+          "label": "Spring Festival Sweets",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/mutsuki3/mutsuki3.json"
+        },
+        {
+          "id": "Mutsuki4",
+          "label": "Cotton Candy Dreams",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/mutsuki4/mutsuki4.json"
+        },
+        {
+          "id": "MutsukiG",
+          "label": "Retrofit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/mutsukig/mutsukig.json"
+        }
+      ]
+    },
+    {
+      "name": "Kisaragi",
+      "class": "Mutsuki",
+      "faction": "sakura",
+      "fileName": "",
+      "rarity": "N",
+      "type": "DD",
+      "retrofit": {
+        "rarity": "R"
+      },
+      "skins": [
+        {
+          "id": "Kisaragi",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kisaragi/kisaragi.json"
+        },
+        {
+          "id": "Kisaragi1",
+          "label": "New Year's Wish",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kisaragi1/kisaragi1.json"
+        },
+        {
+          "id": "KisaragiG",
+          "label": "Retrofit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kisaragig/kisaragig.json"
+        }
+      ]
+    },
+    {
+      "name": "Uzuki",
+      "class": "Mutsuki",
+      "faction": "sakura",
+      "rarity": "N",
+      "type": "DD",
+      "skins": [
+        {
+          "id": "Uzuki",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/uzuki/uzuki.json"
+        },
+        {
+          "id": "Uzuki1",
+          "label": "Sleepy Uzuki",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/uzuki1/uzuki1.json"
+        }
+      ]
+    },
+    {
+      "name": "Minazuki",
+      "class": "Mutsuki",
+      "faction": "sakura",
+      "rarity": "N",
+      "type": "DD",
+      "fileName": "",
+      "skins": [
+        {
+          "id": "Minazuki",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/minazuki/minazuki.json"
+        }
+      ]
+    },
+    {
+      "name": "Fumizuki",
+      "class": "Mutsuki",
+      "faction": "sakura",
+      "rarity": "R",
+      "type": "DD",
+      "fileName": "",
+      "skins": [
+        {
+          "id": "Fumizuki",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/fumizuki/fumizuki.json"
+        },
+        {
+          "id": "Fumizuki1",
+          "label": "Sleepy Fairy",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/fumizuki1/fumizuki1.json"
+        }
+      ]
+    },
+    {
+      "name": "Nagatsuki",
+      "class": "Mutsuki",
+      "faction": "sakura",
+      "rarity": "R",
+      "type": "DD",
+      "fileName": "",
+      "skins": [
+        {
+          "id": "Nagatsuki",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/nagatsuki/nagatsuki.json"
+        },
+        {
+          "id": "Nagatsuki1",
+          "label": "Dangerous Kitty Maid?",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/nagatsuki1/nagatsuki1.json"
+        }
+      ]
+    },
+    {
+      "name": "Mikazuki",
+      "class": "Mutsuki",
+      "type": "DD",
+      "faction": "sakura",
+      "rarity": "N",
+      "skins": [
+        {
+          "id": "Mikazuki",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/mikazuki/mikazuki.json"
+        },
+        {
+          "id": "Mikazuki1",
+          "label": "Sweet Zombie",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/mikazuki1/mikazuki1.json"
+        }
+      ]
+    },
+    {
+      "name": "Umikaze",
+      "class": "Shiratsuyu",
+      "rarity": "E",
+      "type": "DD",
+      "faction": "sakura",
+      "skins": [
+        {
+          "id": "Umikaze",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/umikaze/umikaze.json"
+        },
+        {
+          "id": "Umikaze1",
+          "label": "Soft and Fluffy Therapy",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/umikaze1/umikaze1.json"
+        },
+        {
+          "id": "Umikaze2",
+          "label": "Baby Steps",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/umikaze2/umikaze2.json"
+        }
+      ]
+    },
+    {
+      "name": "Yamakaze",
+      "class": "Shiratsuyu",
+      "faction": "sakura",
+      "fileName": "",
+      "rarity": "E",
+      "type": "DD",
+      "skins": [
+        {
+          "id": "Yamakaze",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/yamakaze/yamakaze.json"
+        },
+        {
+          "id": "Yamakaze1",
+          "label": "Now for a Magic Trick!",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/yamakaze1/yamakaze1.json"
+        }
+      ]
+    },
+    {
+      "name": "Kawakaze",
+      "class": "Shiratsuyu",
+      "faction": "sakura",
+      "type": "DD",
+      "group": "Nagato",
+      "rarity": "SR",
+      "skins": [
+        {
+          "id": "Kawakaze",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kawakaze/kawakaze.json"
+        },
+        {
+          "id": "Kawakaze1",
+          "label": "Monochromatic Interlude",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kawakaze1/kawakaze1.json"
+        },
+        {
+          "id": "Kawakaze2",
+          "label": "Gaurdian Fox, Forever Loyal",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kawakaze2/kawakaze2.json"
+        },
+        {
+          "id": "KawakazeH",
+          "label": "Unsullied White Fox",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kawakazeh/kawakazeh.json"
+        }
+      ]
+    },
+    {
+      "name": "Kiyonami",
+      "class": "Yūgumo",
+      "faction": "sakura",
+      "type": "DD",
+      "rarity": "R",
+      "skins": [
+        {
+          "id": "Kiyonami",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kiyonami/kiyonami.json"
+        },
+        {
+          "id": "Kiyonami1",
+          "label": "Festive Riding Hood?",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kiyonami1/kiyonami1.json"
+        }
+      ]
+    },
+    {
+      "name": "Niizuki",
+      "class": "Akizuki",
+      "faction": "sakura",
+      "type": "DD",
+      "rarity": "E",
+      "skins": [
+        {
+          "id": "Niizuki",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/niizuki/niizuki.json"
+        }
+      ]
+    },
+    {
+      "name": "Harutsuki",
+      "class": "Akizuki",
+      "faction": "sakura",
+      "type": "DD",
+      "rarity": "E",
+      "skins": [
+        {
+          "id": "Harutsuki",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/harutsuki/harutsuki.json"
+        },
+        {
+          "id": "Harutsuki1",
+          "label": "A Dance for the Coming Spring",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/harutsuki1/harutsuki1.json"
+        }
+      ]
+    },
+    {
+      "name": "Yoizuki",
+      "class": "Akizuki",
+      "faction": "sakura",
+      "type": "DD",
+      "rarity": "E",
+      "skins": [
+        {
+          "id": "Yoizuki",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/yoizuki/youizuki.json"
+        },
+        {
+          "id": "Yoizuki1",
+          "label": "Sports Festival Preparations",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/yoizuki1/yoizuki1.json"
+        },
+        {
+          "id": "Yoizuki2",
+          "label": "Firecrackers and Steamed Buns",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/yoizuki2/yoizuki2.json"
+        }
+      ]
     }
   ]   
 }
