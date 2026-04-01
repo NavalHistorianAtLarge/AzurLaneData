@@ -8839,7 +8839,7 @@
       "name": "Kamikaze",
       "class": "Kamikaze",
       "faction": "sakura",
-      "fileName": "",
+      "fileName": "shenfeng",
       "rarity": "R",
       "type": "DD",
       "retrofit": {
@@ -8862,7 +8862,7 @@
       "name": "Matsukaze",
       "class": "Kamikaze",
       "faction": "sakura",
-      "fileName": "",
+      "fileName": "songfeng",
       "rarity": "R",
       "type": "DD",
       "retrofit": {
@@ -8885,7 +8885,7 @@
       "name": "Mutsuki",
       "class": "Mutsuki",
       "faction": "sakura",
-      "rarity": "normal",
+      "rarity": "N",
       "retrofit": {
         "rarity": "R"
       },
@@ -8927,7 +8927,7 @@
       "name": "Kisaragi",
       "class": "Mutsuki",
       "faction": "sakura",
-      "fileName": "",
+      "fileName": "ruyue",
       "rarity": "N",
       "type": "DD",
       "retrofit": {
@@ -8957,6 +8957,7 @@
       "faction": "sakura",
       "rarity": "N",
       "type": "DD",
+      "fileName": "maoyue",
       "skins": [
         {
           "id": "Uzuki",
@@ -8976,7 +8977,7 @@
       "faction": "sakura",
       "rarity": "N",
       "type": "DD",
-      "fileName": "",
+      "fileName": "shuiwuyue",
       "skins": [
         {
           "id": "Minazuki",
@@ -8991,7 +8992,7 @@
       "faction": "sakura",
       "rarity": "R",
       "type": "DD",
-      "fileName": "",
+      "fileName": "wenyue",
       "skins": [
         {
           "id": "Fumizuki",
@@ -9011,7 +9012,7 @@
       "faction": "sakura",
       "rarity": "R",
       "type": "DD",
-      "fileName": "",
+      "fileName": "changyue",
       "skins": [
         {
           "id": "Nagatsuki",
@@ -9031,6 +9032,7 @@
       "type": "DD",
       "faction": "sakura",
       "rarity": "N",
+      "fileName": "sanriyue",
       "skins": [
         {
           "id": "Mikazuki",
@@ -9050,6 +9052,7 @@
       "rarity": "E",
       "type": "DD",
       "faction": "sakura",
+      "fileName": "haifeng",
       "skins": [
         {
           "id": "Umikaze",
@@ -9072,7 +9075,7 @@
       "name": "Yamakaze",
       "class": "Shiratsuyu",
       "faction": "sakura",
-      "fileName": "",
+      "fileName": "shanfeng",
       "rarity": "E",
       "type": "DD",
       "skins": [
@@ -9095,6 +9098,7 @@
       "type": "DD",
       "group": "Nagato",
       "rarity": "SR",
+      "fileName": "jiangfeng",
       "skins": [
         {
           "id": "Kawakaze",
@@ -9119,11 +9123,32 @@
       ]
     },
     {
+      "name": "Kawakaze META",
+      "faction": "meta",
+      "metaOrigin": "sakura",
+      "rarity": "SR",
+      "metaClass": "smoldering",
+      "type": "DD",
+      "skins": [
+        {
+          "id": "KawakazeM",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kawakazem/kawakazem.json"
+        },
+        {
+          "id": "KawakazeX",
+          "label": "Bloody Shadow",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kawakazex/kawakazex.json"
+        }
+      ]
+    },
+    {
       "name": "Kiyonami",
       "class": "Yūgumo",
       "faction": "sakura",
       "type": "DD",
       "rarity": "R",
+      "fileName": "qingbo",
       "skins": [
         {
           "id": "Kiyonami",
@@ -9143,6 +9168,7 @@
       "faction": "sakura",
       "type": "DD",
       "rarity": "E",
+      "fileName": "xinyueJP",
       "skins": [
         {
           "id": "Niizuki",
@@ -9157,6 +9183,7 @@
       "faction": "sakura",
       "type": "DD",
       "rarity": "E",
+      "fileName": "chunyue",
       "skins": [
         {
           "id": "Harutsuki",
@@ -9176,6 +9203,7 @@
       "faction": "sakura",
       "type": "DD",
       "rarity": "E",
+      "fileName": "xiaoyue",
       "skins": [
         {
           "id": "Yoizuki",
