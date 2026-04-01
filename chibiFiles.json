@@ -1363,48 +1363,6 @@
       ]
     },
     {
-      "name": "Jenkins",
-      "class": "Fletcher",
-      "faction": "Eagle",
-      "fileName": "jiejinsi",
-      "hanzi": "杰金斯",
-      "rarity": "R",
-      "type": "DD",
-      "skins": [
-        {
-          "id": "Jenkins",
-          "label": "Default",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/jenkins/jenkins.json"
-        },
-        {
-          "id": "Jenkins1",
-          "label": "Light of the Holiest Star",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/jenkins1/jenkins1.json"
-        }
-      ]
-    },
-    {
-      "name": "Radford",
-      "class": "Fletcher",
-      "faction": "Eagle",
-      "hanzi": "拉德福特",
-      "fileName": "ladefute",
-      "rarity": "R",
-      "type": "DD",
-      "skins": [
-        {
-          "id": "Radford",
-          "label": "Default",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/radford/radford.json"
-        },
-        {
-          "id": "Radford1",
-          "label": "Sweet Magic",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/radford1/radford1.json"
-        }
-      ]
-    },
-    {
       "name": "Bailey",
       "class": "Benson",
       "faction": "Eagle",
@@ -9219,6 +9177,201 @@
           "id": "Yoizuki2",
           "label": "Firecrackers and Steamed Buns",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/yoizuki2/yoizuki2.json"
+        }
+      ]
+    },
+     {
+      "name": "Radford",
+      "class": "Fletcher",
+      "faction": "Eagle",
+      "hanzi": "拉德福特",
+      "fileName": "ladefute",
+      "rarity": "R",
+      "type": "DD",
+      "skins": [
+        {
+          "id": "Radford",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/radford/radford.json"
+        },
+        {
+          "id": "Radford1",
+          "label": "Sweet Magic",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/radford1/radford1.json"
+        }
+      ]
+    },
+    {
+      "name": "Jenkins",
+      "class": "Fletcher",
+      "faction": "Eagle",
+      "fileName": "jiejinsi",
+      "hanzi": "杰金斯",
+      "rarity": "R",
+      "type": "DD",
+      "skins": [
+        {
+          "id": "Jenkins",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/jenkins/jenkins.json"
+        },
+        {
+          "id": "Jenkins1",
+          "label": "Light of the Holiest Star",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/jenkins1/jenkins1.json"
+        }
+      ]
+    },
+    {
+      "name": "Nicholas",
+      "class": "Fletcher",
+      "faction": "Eagle",
+      "rarity": "E",
+      "type": "DD",
+      "fileName": "nigulasi",
+      "skins": [
+        {
+          "id": "Nicholas",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/nicholas/nicholas.json"
+        },
+        {
+          "id": "Nicholas1",
+          "label": "Nurse Nicholas",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/nicholas1/nicholas1.json"
+        },
+        {
+          "id": "Nicholas2",
+          "label": "Surprise!?",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/nicholas2/nicholas2.json"
+        },
+        {
+          "id": "Nicholas3",
+          "label": "Summer Cleaning \"Volunteer\"",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/nicholas3/nicholas3.json"
+        },
+        {
+          "id": "Nicholas4",
+          "label": "After-School Promise",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/nicholas4/nicholasl4.json"
+        },
+        {
+          "id": "NicholasG",
+          "label": "Retrofit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/nicholasg/nicholasg.json"
+        }
+      ]
+    },
+    {
+      "name": "Richmond",
+      "class": "Omaha",
+      "faction": "Eagle",
+      "fileName": "lishiman",
+      "rarity": "N",
+      "type": "CL",
+      "skins": [
+        {
+          "id": "Richmond",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/richmond/richmond.json"
+        }
+      ]
+    },
+    {
+      "name": "Honolulu",
+      "class": "Brooklyn",
+      "faction": "Eagle",
+      "fileName": "Huonululu",
+      "rarity": "R",
+      "type": "CL",
+      "skins": [
+        {
+          "id": "Honolulu",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/honolulu/honolulu.json"
+        },
+        {
+          "id": "Honolulu1",
+          "label": "Umbrella Girl",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/honolulu1/honolulu1.json"
+        },
+        {
+          "id": "Honolulu2",
+          "label": "Summer Accident?!",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/honolulu2/honolulu2.json"
+        },
+        {
+          "id": "Honolulu3",
+          "label": "Manjuu Mischeif",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/honolulu3/honolulu3.json"
+        },
+        {
+          "id": "Honolulu4",
+          "label": "Among the Stalls",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/honolulu4/honolulu4.json"
+        }
+      ]
+    },
+    {
+      "name": "St. Louis",
+      "class": "Brooklyn",
+      "faction": "Eagle",
+      "type": "CL",
+      "rarity": "E",
+      "fileName": "shengluyisi",
+      "skins": [
+        {
+          "id": "StLouis",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/stlouis/stlouis.json"
+        },
+        {
+          "id": "StLouis1",
+          "label": "Blue and White Pottery",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/stlouis1/stlouis1.json"
+        },
+        {
+          "id": "StLouis2",
+          "label": "Spirits in the Snow",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/stlouis2/stlouis2.json"
+        },
+        {
+          "id": "StLouis3",
+          "label": "Luxurious Wheels",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/stlouis3/stlouis3.json"
+        }
+      ]
+    },
+    {
+      "name": "Jupiter",
+      "class": "J",
+      "faction": "royalNavy",
+      "rarity": "R",
+      "type": "DD",
+      "skins": [
+        {
+          "id": "Jupiter",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/jupiter/jupiter.json"
+        },
+        {
+          "id": "Jupiter1",
+          "label": "Fanclub Sleepover",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/jupiter1/jupiter1.json"
+        }
+      ]
+    },
+    {
+      "name": "Jersey",
+       "class": "J",
+      "faction": "royalNavy",
+      "rarity": "R",
+      "type": "DD",
+      "skins": [
+        {
+          "id": "Jersey",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/jersey/jersey.json"
         }
       ]
     }
