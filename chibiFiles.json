@@ -9274,6 +9274,11 @@
           "id": "Richmond",
           "label": "Default",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/richmond/richmond.json"
+        },
+        {
+          "id": "RichmondG",
+          "label": "Retrofit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/richmondg/richmondg.json"
         }
       ]
     },
@@ -9374,6 +9379,384 @@
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/jersey/jersey.json"
         }
       ]
+    },
+    {
+      "name": "Sendai",
+      "class": "Sendai",
+      "faction": "sakura",
+      "fileName": "chuannei",
+      "rarity": "R",
+      "retrofit": {
+        "rarity": "E"
+      },
+      "type": "CL",
+      "skins": [
+        {
+          "id": "Sendai",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/sendai/sendai.json"
+        },
+        {
+          "id": "SendaiG",
+          "label": "Retrofit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/sendaig/sendaig.json"
+        }
+      ]
+    },
+    {
+      "name": "Jintsū",
+      "class": "Sendai",
+      "faction": "sakura",
+      "rarity": "E",
+      "type": "CL",
+      "fileName": "shentong",
+      "skins": [
+        {
+          "id": "Jintsuu",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/jintsuu/jintsuu.json"
+        },
+        {
+          "id": "Jintsuu1",
+          "label": "The Tactician's Vacation",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/jintsuu1/jintsuu1.json"
+        },
+        {
+          "id": "Jintsuu2",
+          "label": "The Gray Wolf's Ploy",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/jintsuu2/jintsuu2.json"
+        },
+        {
+          "id": "JintsuuG",
+          "label": "Retrofit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/jintsuug/jintsuug.json"
+        }
+      ] 
+    },
+    {
+      "name": "Jintsū META",
+      "class": "Sendai",
+      "faction": "sakura",
+      "rarity": "SR",
+      "fileName": "shentong_alter",
+      "type": "CL",
+      "skins": [
+        {
+          "id": "JintsuuM",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/jintsuum/jintsuum.json"
+        }
+      ]
+    },
+    {
+      "name": "Naka",
+      "class": "Sendai",
+      "faction": "sakura",
+      "rarity": "R",
+      "type": "CL",
+      "fileName": "nake",
+      "skins": [
+        {
+          "id": "Naka",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/naka/naka.json"
+        },
+        {
+          "id": "Naka1",
+          "label": "Foxy Summer Surfer",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/naka1/naka1.json"
+        }
+      ]
+    }, 
+    {
+      "name": "Urakaze",
+      "class": "Kagerō",
+      "faction": "sakura",
+      "fileName": "pufeng",
+      "rarity": "R",
+      "type": "DD",
+      "skins": [
+        {
+          "id": "Urakaze",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/urakaze/urakaze.json"
+        },
+        {
+          "id": "Urakaze1",
+          "label": "Seasonal Shogun",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/urakaze1/urakaze1.json"
+        },
+        {
+          "id": "Urakaze2",
+          "label": "Sengoku☆Shredder!",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/urakaze2/urakaze2.json"
+        }
+      ]
+    },
+    {
+      "name": "Isokaze",
+      "class": "Kagerō",
+      "faction": "sakura",
+      "fileName": "jifeng",
+      "rarity": "R",
+      "type": "DD",
+      "skins": [
+        {
+          "id": "Isokaze",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/isokaze/isokaze.json"
+        },
+        {
+          "id": "Isokaze1",
+          "label": "New Year's Campaign",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/isokaze1/isokaze1.json"
+        },
+        {
+          "id": "Isokaze2",
+          "label": "Sengoku☆Smasher!",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/isokaze2/isokaze2.json"
+        }
+      ]
+    },
+    {
+      "name": "Hamakaze",
+      "class": "Kagerō",
+      "faction": "sakura",
+       "fileName": "bangfeng",
+      "rarity": "R",
+      "type": "DD",
+      "skins": [
+        {
+          "id": "Hamakaze",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hamakaze/hamakaze.json"
+        },
+        {
+          "id": "Hamakaze1",
+          "label": "The Honors Student",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hamakaze1/hamakaze1.json"
+        },
+        {
+          "id": "Hamakaze2",
+          "label": "The Secret Ingredient is Love?!",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hamakaze2/hamakaze2.json"
+        },
+        {
+          "id": "HamakazeG",
+          "label": "Retrofit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hamakazeg/hamakazeg.json"
+        }
+      ]
+    },
+    {
+      "name": "Tanikaze",
+      "class": "Kagerō",
+      "faction": "sakura",
+       "fileName": "gufeng",
+      "rarity": "R",
+      "type": "DD",
+      "skins": [
+        {
+          "id": "Tanikaze",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/tanikaze/tanikaze.json"
+        },
+        {
+          "id": "Tanikaze1",
+          "label": "Lost Girl and Labyrinth Butterfly",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/tanikaze1/tanikaze1.json"
+        },
+        {
+          "id": "Tanikaze2",
+          "label": "Sparkly-Clean",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/tanikaze2/tanikaze2.json"
+        },
+        {
+          "id": "TanikazeG",
+          "label": "Retrofit",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/tanikazeg/tanikazeg.json"
+        }
+      ]
+    },
+    {
+      "name": "Mikasa",
+      "class": "Shikishima",
+      "faction": "sakura",
+      "fileName": "sanli",
+      "rarity": "SR",
+      "type": "BB",
+      "skins": [
+        {
+          "id": "Mikasa",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/mikasa/mikasa.json"
+        },
+        {
+          "id": "Mikasa1",
+          "label": "Style of the Sakura Capital",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/mikasa1/mikasa1.json"
+        },
+        {
+          "id": "Mikasa2",
+          "label": "Blossom-Viewing Season",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/mikasa2/mikasa2.json"
+        },
+        {
+          "id": "Mikasa3",
+          "label": "Reverence for Rest and Relaxation",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/mikasa3/mikasa3.json"
+        },
+        {
+          "id": "Mikasa4",
+          "label": "A Romantic Respite",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/mikasa4/mikasa4.json"
+        },
+        {
+          "id": "Mikasa5",
+          "label": "Beauty in Indigo",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/mikasa5/mikasa5.json"
+        },
+        {
+          "id": "MikasaH",
+          "label": "Untarnished Splendor",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/mikasah/mikasah.json"
+        }
+      ]
+    },
+    {
+      "name": "Agano",
+      "class": "Agano",
+      "faction": "sakura",
+      "fileName": "aheye",
+      "rarity": "E",
+      "type": "CL",
+      "skins": [
+        {
+          "id": "Agano",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/agano/agano.json"
+        },
+        {
+          "id": "Agano1",
+          "label": "Christmas Eve Tease",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/agano1/agano1.json"
+        },
+        {
+          "id": "Agano2",
+          "label": "Dating Game?",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/agano2/agano2.json"
+        },
+        {
+          "id": "Agano3",
+          "label": "Blue Butterfly's Confession",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/agano3/agano3.json"
+        }
+      ]
+    },
+    {
+      "name": "Noshiro",
+      "class": "Agano",
+      "faction": "sakura",
+      "fileName": "nengdai",
+      "rarity": "SR",
+      "type": "CL",
+      "skins": [
+        {
+          "id": "Noshiro",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/noshiro/noshiro.json"
+        },
+        {
+          "id": "Noshiro1",
+          "label": "Uncharted Festival Grounds?",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/noshiro1/noshiro1.json"
+        },
+        {
+          "id": "Noshiro2",
+          "label": "Xanadu's Eventide",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/noshiro2/noshiro2.json"
+        },
+        {
+          "id": "Noshiro3",
+          "label": "Fragrance of the Eastern Snow",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/noshiro3/noshiro3.json"
+        },
+        {
+          "id": "Noshiro4",
+          "label": "Cozy Enclave",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/noshiro4/noshiro4.json"
+        },
+        {
+          "id": "Noshiro5",
+          "label": "Hold the Ice",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/noshiro5/noshiro5.json"
+        },
+        {
+          "id": "Noshiro6",
+          "label": "Unwinding in the Sunshine",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/noshiro6/noshiro6.json"
+        },
+        {
+          "id": "Noshiro7",
+          "label": "Dressed-Up Date",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/noshiro7/noshiro7.json"
+        },
+        {
+          "id": "NoshiroH",
+          "label": "A Tale of Two Lovers",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/noshiroh/noshiroh.json"
+        }
+      ]
+    },
+    {
+      "name": "Noshiro Muse",
+      "class": "Agano",
+      "type": "CL",
+      "group": "muse",
+      "fileName": "nengdai_idol",
+      "faction": "sakura",
+      "rarity": "SR",
+      "skins": [
+        {
+          "id": "NoshiroI",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/noshiroi/noshiroi.json"
+        }
+      ]
+    },
+    {
+      "name": "Sakawa",
+      "class": "Agano",
+      "faction": "sakura",
+      "fileName": "jiuyun",
+      "rarity": "SR",
+      "type": "CL",
+      "group": "musashi",
+      "skins": [
+        {
+          "id": "Sakawa",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/sakawa/sakawa.json"
+        },
+        {
+          "id": "Sakawa1",
+          "label": "The Colors of Love",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/sakawa1/sakawa1.json"
+        },
+        {
+          "id": "Sakawa2",
+          "label": "Icy Indulgence",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/sakawa2/sakawa2.json"
+        },
+        {
+          "id": "Sakawa3",
+          "label": "The Keys of Love",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/sakawa3/sakawa3.json"
+        }
+      ]
+    },
+    {
+      "name": "Matchless"
     }
   ]   
 }
