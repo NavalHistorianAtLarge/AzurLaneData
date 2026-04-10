@@ -7026,7 +7026,7 @@
       "class": "Hōshō",
       "faction": "meta",
       "fileName": "fengxiang_alter",
-      "rarity": "E",
+      "rarity": "MELITE",
       "type": "CVL",
       "metaClass": "smoldering",
       "metaOrigin": "sakura",
@@ -9005,7 +9005,7 @@
       "name": "Kawakaze META",
       "faction": "meta",
       "metaOrigin": "sakura",
-      "rarity": "SR",
+      "rarity": "MSR",
       "metaClass": "smoldering",
       "type": "DD",
       "skins": [
@@ -9360,7 +9360,7 @@
       "faction": "meta",
       "metaClass": "framework",
       "metaOrigin": "sakura",
-      "rarity": "SR",
+      "rarity": "MSR",
       "fileName": "shentong_alter",
       "type": "CL",
       "skins": [
@@ -10364,7 +10364,7 @@
         "faction": "meta",
         "class": "Dunkerque",
         "fileName": "",
-        "rarity": "SR",
+        "rarity": "MSR",
         "type": "BC",
         "metaClass": "cinders",
         "metaOrigin": "Vichya",
@@ -10617,6 +10617,23 @@
             "id": "Memphis3",
             "label": "A Breath of Fresh Air",
             "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/memphis3/memphis3.json"
+          }
+        ]
+      },
+      {
+        "name": "Memphis META",
+        "class": "Omaha",
+        "faction": "meta",
+        "metaClass": "torch",
+        "metaOrigin": "Eagle",
+        "rarity": "MSR",
+        "type": "CL",
+        "group": "WorldAlphaSurvivors",
+        "skins": [
+          {
+            "id": "MemphisM",
+            "label": "Default",
+            "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/memphism/memphism.json"
           }
         ]
       },
