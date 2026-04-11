@@ -7212,7 +7212,7 @@
     },
     {
       "name": "Spawn of Corruption - Crimson",
-      "faction": "X",
+      "faction": "x",
       "type": "CV",
       "group": "amagiX",
       "skins": [
@@ -10023,7 +10023,7 @@
       ]
     },
     {
-      "name": "I58",
+      "name": "I-58",
       "class": "BMod2",
       "faction": "sakura",
       "rarity": "SR",
@@ -10164,7 +10164,7 @@
       "name": "Z18",
       "class": "Type1936",
       "faction": "IronBlood",
-      "fileName": "",
+      "fileName": "z18",
       "rarity": "E",
       "type": "DD",
       "skins": [
@@ -10180,7 +10180,7 @@
       "class": "Le Fantasque",
       "faction": "IrisLibre",
       "rarity": "SR",
-      "fileName": "",
+      "fileName": "kaixuan",
       "type": "DD",
       "skins": [
         {
@@ -10194,7 +10194,7 @@
       "name": "Forbin",
       "class": "L'Adroit",
       "faction": "",
-      "fileName": "",
+      "fileName": "fuerban",
       "rarity": "R",
       "retrofit": {
         "rarity": "E"
@@ -10238,6 +10238,7 @@
       "class": "Émile Bertin",
       "faction": "IrisLibre",
       "rarity": "E",
+      "filename": "aimierbeierding",
       "retrofit": {
         "rarity": "SR"
       },
@@ -10275,7 +10276,7 @@
       "name": "Surcouf",
       "class": "Surcouf",
       "faction": "IrisLibre",
-      "fileName": "",
+      "fileName": "xukufu",
       "rarity": "E",
       "type": "SS",
       "skins": [
@@ -10285,12 +10286,12 @@
             "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/surcouf/surcouf.json"
           },
           {
-            "id": "Sorcouf1",
+            "id": "Surcouf1",
             "label": "Shopping Time!",
             "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/surcouf1/surcouf1.json"
           },
           {
-            "id": "Surcouf1",
+            "id": "Surcouf2",
             "label": "Loisirs Balnéaires",
             "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/surcouf2/surcouf2.json"
           }
@@ -10300,7 +10301,7 @@
         "name": "Le Mars",
         "class": "L'Adroit",
         "faction": "Vichya",
-        "fileName": "",
+        "fileName": "lemaer",
         "rarity": "R",
         "type": "DD",
         "retrofit": {
@@ -10335,10 +10336,22 @@
         ]
       },
       {
+        "name": "Le Mars Ghost",
+        "faction": "siren",
+        "type": "DD",
+        "skins": [
+          {
+            "id": "LeMarsGhost",
+            "label": "Default",
+            "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/lemarsghost/lemarsghost.json"
+          }
+        ]
+      },
+      {
         "name": "Dunkerque",
         "class": "Dunkerque",
         "faction": "Vichya",
-        "fileName": "",
+        "fileName": "dunkeerke",
         "rarity": "E",
         "type": "BC",
         "skins": [
@@ -10360,10 +10373,10 @@
         ]
       },
       {
-        "name": "Dunkerque  META",
+        "name": "Dunkerque META",
         "faction": "meta",
         "class": "Dunkerque",
-        "fileName": "",
+        "fileName": "dunkeerke_alter",
         "rarity": "MSR",
         "type": "BC",
         "metaClass": "cinders",
@@ -10380,7 +10393,7 @@
         "name": "Jean Bart",
         "class": "Richelieu",
         "faction": "Vichya",
-        "fileName": "",
+        "fileName": "rangbaer",
         "rarity": "SR",
         "type": "BB",
         "skins": [
@@ -10456,7 +10469,7 @@
         "name": "Centaur",
         "class": "Centaur",
         "faction": "royalNavy",
-        "fileName": "",
+        "fileName": "barenma",
         "rarity": "SR",
         "type": "CVL",
         "skins": [
@@ -10482,7 +10495,7 @@
         "class": "Essex",
         "faction": "Eagle",
         "rarity": "SR",
-        "fileName": "",
+        "fileName": "aisaikesi",
         "type": "CV",
         "retrofit": {
           "rarity": "UR"
@@ -10541,6 +10554,7 @@
         "faction": "Eagle",
         "rarity": "SR",
         "type": "SS",
+        "fileName": "daqinghuaya",
         "skins": [
           {
             "id": "Albacore",
@@ -10560,10 +10574,25 @@
         ]
       },
       {
+        "name": "Albacore Muse",
+        "class": "Gato",
+        "faction": "Eagle",
+        "rarity": "SR",
+        "type": "SS",
+        "fileName": "daqinghuaya_idol",
+        "skins": [
+          {
+            "id": "AlbacoreI",
+            "label": "Default",
+            "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/albacorei/albacorei.json"
+          }
+        ]
+      },
+      {
         "name": "Le Téméraire",
         "class": "Le Hardi",
         "faction": "IrisLibre",
-        "fileName": "",
+        "fileName": "lumang",
         "rarity": "E",
         "type": "DD",
         "skins": [
@@ -10585,7 +10614,24 @@
           {
             "id": "Temmy3",
             "label": "Cheering Star",
+            "oversize": "true",
             "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/temmy3/temmy3.json"
+          }
+        ]
+      },
+      {
+        "name": "Le Téméraire Muse",
+        "class": "Le Hardi",
+        "faction": "IrisLibre",
+        "fileName": "lumang_idol",
+        "group": "muse",
+        "rarity": "E",
+        "type": "DD",
+        "skins": [
+          {
+            "id": "TemmyI",
+            "label": "Default",
+            "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/temmyi/temmyi.json"
           }
         ]
       },
