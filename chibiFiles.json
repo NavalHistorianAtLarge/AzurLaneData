@@ -10193,7 +10193,7 @@
     {
       "name": "Forbin",
       "class": "L'Adroit",
-      "faction": "",
+      "faction": "IrisLibre",
       "fileName": "fuerban",
       "rarity": "R",
       "retrofit": {
@@ -10545,6 +10545,16 @@
             "id": "EssexG",
             "label": "Retrofit",
             "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/essexg/essexg.json"
+          },
+          {
+            "id": "Essex8",
+            "label": "Unreleased Biker Skin",
+            "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/essex8/essex8.json"
+          },
+          {
+            "id": "EssexBox",
+            "label": "Essex Game",
+            "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/essexbox/essexbox.json"
           }
         ]
       },
@@ -10627,9 +10637,11 @@
         "group": "muse",
         "rarity": "E",
         "type": "DD",
+        "oversize": "true",
         "skins": [
           {
             "id": "TemmyI",
+            "oversize": "true",
             "label": "Default",
             "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/temmyi/temmyi.json"
           }
@@ -10639,7 +10651,7 @@
         "name": "Memphis",
         "class": "Omaha",
         "faction": "Eagle",
-        "fileName": "",
+        "fileName": "mengfeisi",
         "group": "innerCircle",
         "type": "CL",
         "rarity": "E",
@@ -10761,6 +10773,7 @@
       "rarity": "SR",
       "group": "NativeAmerican",
       "type": "CA",
+      "fileName": "mingniabolisi",
       "skins": [
         {
           "id": "Minneapolis",
