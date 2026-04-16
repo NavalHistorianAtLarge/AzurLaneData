@@ -10885,7 +10885,7 @@
       ]
     },
     {
-      "name": "Amagi-X (Humanoids)",
+      "name": "Crimson Shades",
       "faction": "X",
       "group": "amagiX",
       "skins": [
@@ -10911,12 +10911,11 @@
         },
         {
           "id": "Kanryuu",
-          "label": "Crimson Shade - Kanryū (CL)",
+          "label": "Crimson Shade - Kanryū (CA)",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kanryuu/kanryuu.json"
         }
       ]
-
-    }
+    },
     {
       "name": "Hatakaze",
       "class": "Kamikaze",
