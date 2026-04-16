@@ -10807,7 +10807,7 @@
       "name": "Amagi",
       "class": "Amagi",
       "faction": "sakura",
-      "fileName": "",
+      "fileName": "tiancheng",
       "group": "cubeCollateralDamage",
       "rarity": "SR",
       "type": "BC",
@@ -10833,7 +10833,7 @@
       "name": "Amagi(CV)",
       "class": "Amagi",
       "faction": "sakura",
-      "fileName": "",
+      "fileName": "tiancheng_cv",
       "group": "fox",
       "rarity": "UR",
       "type": "CV",
@@ -10859,7 +10859,7 @@
       "name": "Amagi-chan",
       "class": "Amagi",
       "faction": "sakura",
-      "fileName": "",
+      "fileName": "tiancheng_younv",
       "rarity": "E",
       "type": "BC",
       "group": "littles",
@@ -10892,7 +10892,7 @@
         {
           "id": "Soukyuu",
           "label": "Crimson Shade - Sōkyū (CV)",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/soukyuu.json"
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/soukyuu/soukyuu.json"
         },
         {
           "id": "Shinen",
@@ -10917,10 +10917,26 @@
       ]
     },
     {
+      "name": "Orochi - Concept Given Form",
+      "faction": "X",
+      "skins": [
+        {
+          "id": "Orochi",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/orochi/orochi.json"
+        },
+        {
+          "id": "OrochiSheild",
+          "label": "Sheilded",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/orochisheild/orochisheild.json"
+        }
+      ]
+    },
+    {
       "name": "Hatakaze",
       "class": "Kamikaze",
       "faction": "sakura",
-      "fileName": "",
+      "fileName": "qifeng",
       "group": "Akagi",
       "rarity": "R",
       "type": "DD",
@@ -10937,6 +10953,8 @@
       "class": "Kamikaze",
       "faction": "meta",
       "rarity": "MELITE",
+      "fileName": "qifeng_alter",
+      "group": "devil",
       "metaClass": "smoldering",
       "metaOrigin": "sakura",
       "type": "DD",
@@ -10952,7 +10970,7 @@
       "name": "Makinami",
       "faction": "sakura",
       "class": "Yūgumo",
-      "fileName": "",
+      "fileName": "juanbo",
       "rarity": "E",
       "type": "DD",
       "skins": [
