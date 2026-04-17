@@ -10834,6 +10834,7 @@
       "class": "Amagi",
       "faction": "sakura",
       "fileName": "tiancheng_cv",
+      "oversize": "true",
       "group": "fox",
       "rarity": "UR",
       "type": "CV",
@@ -10841,15 +10842,18 @@
         {
           "id": "AmagiCV",
           "label": "Default",
+          "oversize": "true",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/amagicv/amagicv.json"
         },
         {
           "id": "AmagiCV1",
+          "oversize": "true",
           "label": "Throne of Fallen Flower Petals",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/amagicv1/amagicv1.json"
         },
         {
           "id": "AmagiCVH",
+          "oversize": "true",
           "label": "Moonlit Blossom on Placid Seas",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/amagicvh/amagicvh.json"
         }
@@ -10892,6 +10896,7 @@
         {
           "id": "Soukyuu",
           "label": "Crimson Shade - Sōkyū (CV)",
+          "oversize": "true",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/soukyuu/soukyuu.json"
         },
         {
@@ -10901,12 +10906,14 @@
         },
         {
           "id": "Shinpuu",
+          "oversize": "true",
           "label": "Crimson Shade - Shinpū (CL)",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/shinpuu/shinpuu.json"
         },
         {
           "id": "Chikai",
           "label": "Crimson Shade - Chikai (BB)",
+          "oversize": "true",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/chikai/chikai.json" 
         },
         {
@@ -10990,7 +10997,7 @@
       "name": "Sirius",
       "class": "Dido",
       "faction": "royalNavy",
-      "fileName": "",
+      "fileName": "tianlangxing",
       "rarity": "SR",
       "type": "CL",
       "skins": [
@@ -11017,10 +11024,10 @@
       ]
     },
     {
-      "name": "Curacoa",
+      "name": "Curacao",
       "class": "Ceres",
       "faction": "royalNavy",
-      "fileName": "",
+      "fileName": "kulasuo",
       "rarity": "E",
       "type": "CL",
       "retrofit": {
@@ -11028,19 +11035,19 @@
       },
       "skins": [
         {
-          "id": "Curacoa",
+          "id": "Curacao",
           "label": "Default",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/curacoa/curacoa.json"
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/curacao/curacao.json"
         },
         {
-          "id": "Curacoa1",
+          "id": "Curacao1",
           "label": "Eastern Grace",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/curacoa1/curacoa1.json"
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/curacao1/curacao1.json"
         },
         {
-          "id": "CuracoaG",
+          "id": "CuracaoG",
           "label": "Retrofit",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/curacoa2/curacoa2.json"
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/curacao2/curacao2.json"
         }
       ] 
     },
@@ -11048,7 +11055,7 @@
       "name": "Curlew",
       "class": "Ceres",
       "faction": "royalNavy",
-      "fileName": "",
+      "fileName": "biaoyu",
       "rarity": "R",
       "retrofit": {
         "rarity": "E"
@@ -11068,7 +11075,7 @@
         {
           "id": "CurlewG",
           "label": "Retrofit",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/curlewg/cerlewg.json"
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/curlewg/curlewg.json"
         }
       ]
     },
@@ -11115,7 +11122,7 @@
       "name": "Mullany",
       "class": "Fletcher",
       "faction": "Eagle",
-      "fileName": "",
+      "fileName": "malani",
       "rarity": "E",
       "type": "DD",
       "skins": [
@@ -11137,6 +11144,7 @@
       "faction": "royalNavy",
       "rarity": "E",
       "type": "CVL",
+      "fileName": "zhuiganzhe",
       "skins": [
         {
           "id": "Chaser",
@@ -11158,6 +11166,7 @@
     {
       "name": "Independence",
       "class": "Independence",
+      "fileName": "duli",
       "faction": "Eagle",
       "rarity": "E",
       "type": "CVL",
@@ -11199,6 +11208,7 @@
       "class": "Essex",
       "faction": "Eagle",
       "rarity": "SR",
+      "fileName": "xianggelila",
       "type": "CV",
       "skins": [
         {
@@ -11249,7 +11259,7 @@
       "faction": "Eagle",
       "type": "CV",
       "rarity": "SR",
-      "fileName": "",
+      "fileName": "benkashan",
       "skins": [
         {
           "id": "BunkerHill",
@@ -11287,7 +11297,7 @@
       "name": "Suzuya",
       "class": "Mogami",
       "faction": "sakura",
-      "fileName": "",
+      "fileName": "linggu",
       "rarity": "E",
       "type": "CA",
       "skins": [
