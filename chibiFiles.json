@@ -11556,19 +11556,19 @@
       "type": "SS",
       "skins": [
         {
-          "name": "U101",
+          "id": "U101",
           "label": "Default",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/u101/u101.json"
         },
         {
-          "name": "U101a",
+          "id": "U101a",
           "label": "Ironbrass Trombonist",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/u101a/u101a.json"
         }
       ]
     },
     {
-      "name": "U-552",
+      "name": "U-522",
       "faction": "IronBlood",
       "fileName": "",
       "class": "Type IXC",
@@ -11576,9 +11576,34 @@
       "type": "SS",
       "skins": [
         {
-          "id": "U552",
+          "id": "U522",
           "label": "Default",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/u552/u552.json"
+        }
+      ]
+    },
+    {
+      "name": "U-37",
+      "faction": "IronBlood",
+      "class": "Type IXA",
+      "fileName": "u37",
+      "rarity": "SR",
+      "type": "SS",
+      "skins": [
+        {
+          "id": "U37",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/u37/u37.json"
+        },
+        {
+          "id": "U37a",
+          "label": "New Year's Nightingale",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/u37a/u37a.json"
+        },
+        {
+          "id": "U37b",
+          "label": "Keeping Peace in the Streets",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/u37b/u37b.json"
         }
       ]
     }
