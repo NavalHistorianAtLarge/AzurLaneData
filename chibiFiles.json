@@ -11334,6 +11334,21 @@
       ]
     },
     {
+      "name": "U-556 META",
+      "class": "Type VIIC",
+      "faction": "IronBlood",
+      "fileName": "u556_alter",
+      "rarity": "MSR",
+      "type": "SS",
+      "skins": [
+        {
+          "id": "U556M",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/u556m/u556m.json"
+        }
+      ]
+    },
+    {
       "name": "U-73",
       "class": "Type VIIB",
       "faction": "IronBlood",
