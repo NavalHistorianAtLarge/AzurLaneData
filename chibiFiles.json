@@ -11953,7 +11953,7 @@
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/carabinierem/carabinierem.json"
         }
       ]
-    }
+    },
     {
       "name": "U-110",
       "faction":"IronBlood",
@@ -13375,7 +13375,7 @@
       "faction": "meta",
       "type": "CVL",
       "fileName": "",
-      "rarity": "SR",
+      "rarity": "MSR",
       "skins": [
         {
           "id": "PrincetonM",
