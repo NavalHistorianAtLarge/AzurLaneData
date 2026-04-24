@@ -11561,7 +11561,7 @@
       "class": "South Dakota",
       "faction": "Eagle",
       "rarity": "SR",
-      "fileName": "",
+      "fileName": "alabama",
       "type": "BB",
       "skins": [
         {
@@ -11573,11 +11573,6 @@
           "id": "Alabama1",
           "label": "Untarnished Silver, Silken Gold",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/alabama1/alabama1.json"
-        },
-        {
-          "id": "Alabama2",
-          "label": "Through Your Lens, My Everything",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/alabama2/alabama2.json"
         }
       ]
     },
@@ -11585,7 +11580,7 @@
       "name": "Cavalla",
       "class": "Gato",
       "faction": "Eagle",
-      "fileName": "",
+      "fileName": "jiqi",
       "rarity": "SR",
       "type": "SS",
       "skins": [
@@ -11611,7 +11606,7 @@
       "class": "Independence",
       "faction": "Eagle",
       "rarity": "E",
-      "fileName": "",
+      "fileName": "badan",
       "type": "CVL",
       "skins": [
         {
@@ -11630,7 +11625,7 @@
       "name": "San Juan",
       "class": "Atlanta",
       "faction": "Eagle",
-      "fileName": "",
+      "fileName": "shenghuang",
       "rarity": "R",
       "type": "CL",
       "skins": [
@@ -11650,7 +11645,7 @@
       "name": "Birmingham",
       "class": "Cleveland",
       "faction": "Eagle",
-      "fileName": "",
+      "fileName": "bominghan",
       "rarity": "E",
       "type": "CL",
       "skins": [
@@ -11734,7 +11729,7 @@
       "faction":"royalNavy",
       "rarity": "E",
       "type": "CL",
-      "fileName": "",
+      "fileName": "heitaizi",
       "skins": [
         {
           "id": "BlackPrince",
@@ -11771,8 +11766,8 @@
     {
       "name": "Littorio",
       "class": "Vittorio Veneto",
-      "faction": "sardegna",
-      "fileName": "",
+      "faction": "Sardegna",
+      "fileName": "lituoliao",
       "rarity": "SR",
       "type": "BB",
       "skins": [
@@ -11807,7 +11802,7 @@
       "name": "Conte di Cavour",
       "class": "Conte di Cavour",
       "faction": "Sardegna",
-      "fileName": "",
+      "fileName": "jiafuerbojue",
       "rarity": "R",
       "type": "BB",
       "skins": [
@@ -11827,7 +11822,7 @@
       "name": "Giulio Cesare",
       "class": "Conte di Cavour",
       "faction": "Sardegna",
-      "fileName": "",
+      "fileName": "kaisa",
       "rarity": "E",
       "type": "BB",
       "skins": [
@@ -11854,7 +11849,7 @@
       "metaClass": "",
       "metaOrigin": "Sardegna",
       "faction": "meta",
-      "fileName": "",
+      "fileName": "kaisa",
       "rarity": "MSR",
       "type": "BB",
       "skins": [
@@ -11870,7 +11865,7 @@
       "class": "Zara",
       "faction": "Sardegna",
       "type": "CA",
-      "fileName": "",
+      "fileName": "zhala",
       "rarity": "SR",
       "skins": [
         {
@@ -11891,6 +11886,7 @@
       "faction": "Sardegna",
       "rarity": "R",
       "type": "CA",
+      "fileName": "teluntuo",
       "skins": [
         {
           "id": "Trento",
@@ -11911,7 +11907,7 @@
       "metaOrigin": "Sardegna",
       "class": "Zara",
       "rarity": "MELITE",
-      "fileName": "",
+      "fileName": "teluntuo_alter",
       "type":"CA",
       "skins": [
         {
@@ -11925,7 +11921,7 @@
       "name": "Carabiniere",
       "class": "Soldati",
       "faction": "Sardegna",
-      "fileName": "",
+      "fileName": "longqibing",
       "rarity": "E",
       "type": "DD",
       "skins": [
@@ -11941,6 +11937,23 @@
         }
       ]
     },
+    {
+      "name": "Carabiniere META",
+      "class": "Soldati",
+      "faction": "meta",
+      "metaClass": "",
+      "metaOrigin": "Sardegna",
+      "fileName": "longqibing_alter",
+      "rarity": "SR",
+      "type": "DD",
+      "skins": [
+        {
+          "id": "CarabiniereM",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/carabinierem/carabinierem.json"
+        }
+      ]
+    }
     {
       "name": "U-110",
       "faction":"IronBlood",
@@ -12660,7 +12673,7 @@
       "name": "Bluegill",
       "class": "Gato",
       "faction": "Eagle",
-      "fileName": "",
+      "fileName": "lansaiyu",
       "rarity": "E",
       "type": "SS",
       "skins": [
@@ -13046,7 +13059,7 @@
       "class": "Dido",
       "faction": "royalNavy",
       "rarity": "SR",
-      "fileName": "",
+      "fileName": "hemin",
       "type": "CL",
       "skins": [
         {
