@@ -11944,7 +11944,7 @@
       "metaClass": "",
       "metaOrigin": "Sardegna",
       "fileName": "longqibing_alter",
-      "rarity": "SR",
+      "rarity": "MSR",
       "type": "DD",
       "skins": [
         {
@@ -12020,7 +12020,7 @@
       "faction": "royalNavy",
       "class": "Southampton",
       "type": "CL",
-      "fileName": "",
+      "fileName": "gelasige",
       "rarity": "R",
       "skins": [
         {
@@ -12039,7 +12039,7 @@
       "name": "Kasumi",
       "class": "Asashio",
       "faction": "sakura",
-      "fileName": "",
+      "fileName": "xia",
       "type": "DD",
       "rarity": "E",
       "retrofit": {
@@ -12072,7 +12072,7 @@
       "name": "Kasumi META",
       "faction": "meta",
       "class": "Asashio",
-      "fileName": "",
+      "fileName": "xia_alter",
       "metaClass": "framework",
       "metaOrigin": "sakura",
       "type": "DD",
@@ -12089,7 +12089,7 @@
       "name": "Suruga",
       "class": "Kii",
       "faction": "sakura",
-      "fileName": "",
+      "fileName": "junhe",
       "rarity": "SR",
       "type": "BB",
       "skins": [
@@ -12119,7 +12119,7 @@
       "name": "Ryūhō",
       "class": "Ryuuhou",
       "faction": "sakura",
-      "fileName": "",
+      "fileName": "longfeng",
       "rarity": "SR",
       "type": "CVL",
       "skins": [
@@ -12139,7 +12139,7 @@
       "name": "Biloxi",
       "faction": "Eagle",
       "class": "Cleveland",
-      "fileName": "",
+      "fileName": "biluokesi",
       "rarity": "E",
       "type": "CL",
       "skins": [
@@ -12174,7 +12174,7 @@
       "name": "Uranami",
       "class": "I",
       "faction": "sakura",
-      "fileName": "",
+      "fileName": "pubo",
       "rarity": "E",
       "type": "DD",
       "skins": [
@@ -12194,7 +12194,7 @@
       "name": "Grozny",
       "class": "Gnevny",
       "faction": "northParliament",
-      "fileName": "",
+      "fileName": "weiyan",
       "rarity": "E",
       "type": "DD",
       "skins": [
@@ -12234,7 +12234,7 @@
       "name": "Minsk",
       "class": "Leningrad",
       "faction": "northParliament",
-      "fileName": "",
+      "fileName": "mingsike",
       "rarity": "E",
       "type": "DD",
       "skins": [
@@ -12254,7 +12254,7 @@
       "name": "Tashkent",
       "class": "Tashkent",
       "faction": "northParliament",
-      "fileName": "",
+      "fileName": "tashigan",
       "type": "DD",
       "rarity": "SR",
       "skins": [
@@ -12284,7 +12284,7 @@
       "name": "Tashkent Muse",
       "class": "Tashkent",
       "faction": "northParliament",
-      "fileName": "",
+      "fileName": "tashigan_idol",
       "type": "DD",
       "rarity": "SR",
       "skins": [
@@ -12299,7 +12299,7 @@
       "name": "Pamiat' Merkuria",
       "class": "Bogatyr",
       "faction": "northParliament",
-      "fileName": "",
+      "fileName": "shuixingjinian",
       "rarity": "E",
       "type": "CL",
       "retrofit": {
@@ -12351,7 +12351,7 @@
       "metaOrigin": "northParliament",
       "type": "CL",
       "rarity": "MSR",
-      "fileName": "",
+      "fileName": "shuixingjinian_alter",
       "skins": [
         {
           "id": "PamiatM",
@@ -12364,7 +12364,7 @@
       "name": "Kirov",
       "class": "Kirov",
       "faction": "northParliament",
-      "fileName": "",
+      "fileName": "jiluofu",
       "rarity": "SR",
       "type": "CL",
       "skins": [
@@ -12394,7 +12394,7 @@
       "name": "Kirov META",
       "class": "Kirov",
       "faction": "meta",
-      "fileName": "",
+      "fileName": "jiluofu",
       "metaClass": "cinders",
       "metaOrigin": "northParliament",
       "rarity": "MSR",
@@ -12411,8 +12411,8 @@
       "name": "Chapayev",
       "class": "Chapayev",
       "faction": "northParliament",
-      "fileName": "",
       "rarity": "SR",
+      "fileName": "qiabayefu",
       "type": "CL",
       "skins": [
         {
@@ -12446,7 +12446,7 @@
       "name": "Gangut",
       "class": "Gangut",
       "faction": "northParliament",
-      "fileName": "",
+      "fileName": "gangute",
       "type": "BB",
       "rarity": "E",
       "skins": [
@@ -12470,7 +12470,7 @@
     {
       "name": "Gangut META",
       "class": "Gangut",
-      "fileName": "",
+      "fileName": "gangute_alter",
       "type": "BB",
       "rarity": "MSR",
       "metaClass": "cinders",
@@ -12488,7 +12488,7 @@
       "name": "Sovetsky Soyuz",
       "class": "Sovetsky Soyuz",
       "faction": "northParliament",
-      "fileName": "",
+      "fileName": "suweisuweiaitongmeng",
       "rarity": "UR",
       "type": "BB",
       "skins": [
@@ -12508,7 +12508,7 @@
       "name": "Sovestskaya Belorussiya",
       "class": "Sovetsky Soyuz",
       "faction": "northParliament",
-      "fileName": "",
+      "fileName": "suweiaibeilaluosi",
       "rarity": "SR",
       "type": "BB",
       "skins": [
@@ -12533,7 +12533,7 @@
       "name": "Sovetskaya Rossiya",
       "faction": "northParliament",
       "class": "Sovetsky Soyuz",
-      "fileName": "",
+      "fileName": "suweiailuoxiya",
       "rarity": "SR",
       "type": "BB",
       "skins": [
