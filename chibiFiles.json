@@ -12339,7 +12339,7 @@
         {
           "id": "PamiatG",
           "label": "Retrofit",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/pamiat6/pamiat6.json"
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/pamiatg/pamiatg.json"
         }
       ]
     },
@@ -12396,12 +12396,14 @@
       "faction": "meta",
       "fileName": "jiluofu",
       "metaClass": "cinders",
+      "oversize": "true",
       "metaOrigin": "northParliament",
       "rarity": "MSR",
       "type": "CL",
       "skins": [
         {
           "id": "KirovM",
+          "oversize": "true",
           "label": "Default",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kirovm/kirovm.json"
         }
@@ -12500,6 +12502,7 @@
         {
           "id": "Soyuz1",
           "label": "Skyfall Agent",
+          "oversize": "true",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/soyuz1/soyuz1.json"
         }
       ]
@@ -12543,7 +12546,7 @@
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/rossiya/rossiya.json"
         },
         {
-          "id": "Rossiya",
+          "id": "Rossiya1",
           "label": "The Lackadaisical Lookout",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/rossiya1/rossiya1.json"
         }
@@ -12553,7 +12556,7 @@
       "name": "Intrepid",
       "class": "Essex",
       "faction": "Eagle",
-      "fileName": "",
+      "fileName": "wuwei",
       "rarity": "SR",
       "type": "CV",
       "skins": [
@@ -12573,7 +12576,7 @@
       "name": "Bremerton",
       "class": "Baltimore",
       "faction": "Eagle",
-      "fileName": "",
+      "fileName": "bulaimodun",
       "type": "CA",
       "rarity": "SR",
       "skins": [
@@ -12605,7 +12608,7 @@
         {
           "id": "BremertonH",
           "label": "Joyride of Love",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/bremerton5/bremerton5.json"
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/bremertonh/bremertonh.json"
         }
       ]
     },
@@ -12613,7 +12616,7 @@
       "name": "Cooper",
       "class": "Allen Sumner",
       "faction": "Eagle",
-      "fileName": "",
+      "fileName": "kubo",
       "rarity": "E",
       "type": "DD",
       "skins": [
@@ -12640,7 +12643,7 @@
       "faction": "Eagle",
       "rarity": "SR",
       "type": "CL",
-      "fileName": "",
+      "fileName": "linuo",
       "skins": [
         {
           "id": "Reno",
@@ -12694,7 +12697,7 @@
       "class": "Casablanca",
       "faction": "Eagle",
       "type": "CVL",
-      "fileName": "",
+      "fileName": "kasabulanka",
       "rarity": "R",
       "skins": [
         {
@@ -12713,7 +12716,7 @@
       "name": "Marblehead", 
       "faction": "Eagle",
       "class": "Omaha",
-      "fileName": "",
+      "fileName": "mabuerheide",
       "rarity": "R",
       "type": "CL",
       "skins": [
@@ -12748,7 +12751,7 @@
       "name": "Hanazuki",
       "class": "Akizuki",
       "faction": "sakura",
-      "fileName": "",
+      "fileName": "huayue",
       "rarity": "E",
       "type": "DD",
       "skins": [
@@ -12773,7 +12776,7 @@
       "name": "Naganami",
       "faction": "sakura",
       "class": "Yūgumo",
-      "fileName": "",
+      "fileName": "changbo",
       "rarity": "E",
       "type": "DD",
       "skins": [
@@ -12808,7 +12811,7 @@
       "name": "Tartu",
       "class": "Vauquelin",
       "faction": "Vichya",
-      "fileName": "",
+      "fileName": "taertu",
       "rarity": "E",
       "type": "DD",
       "skins": [
@@ -12828,7 +12831,7 @@
       "name": "Richelieu",
       "class": "Richelieu",
       "faction": "IrisLibre",
-      "fileName": "",
+      "fileName": "lisailiu",
       "rarity": "SR",
       "type": "BB",
       "skins": [
@@ -12853,7 +12856,7 @@
       "name": "Jeanne d'Arc",
       "class": "Jeanne d'Arc",
       "faction": "IrisLibre",
-      "fileName": "",
+      "fileName": "shengnvzhende",
       "rarity": "SR",
       "type": "CL",
       "skins": [
@@ -12878,7 +12881,7 @@
       "name": "Algérie",
       "class": "Algerie",
       "faction": "Vichya",
-      "fileName": "",
+      "fileName": "aerjiliya",
       "rarity": "SR",
       "type": "CA",
       "skins": [
@@ -12903,7 +12906,7 @@
       "name": "La Galissonnière",
       "faction": "Vichya",
       "class": "La Galissonière",
-      "fileName": "",
+      "fileName": "jialisuoniye",
       "rarity": "E",
       "type": "CL",
       "skins": [
@@ -12933,7 +12936,7 @@
       "name": "Vauquelin",
       "class": "Vauquelin",
       "faction": "Vichya",
-      "fileName": "",
+      "fileName": "wokelan",
       "rarity": "E",
       "type": "DD",
       "skins": [
@@ -12963,7 +12966,7 @@
       "name": "Béarn",
       "class": "Béarn",
       "faction": "IrisLibre",
-      "fileName": "",
+      "fileName": "beiyaen",
       "rarity": "E",
       "type": "CV",
       "skins": [
