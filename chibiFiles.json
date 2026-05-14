@@ -12903,6 +12903,22 @@
       ]
     },
     {
+      "name": "Algérie META",
+      "class": "Algerie",
+      "faction": "meta",
+      "fileName": "aerjiliya_alter",
+      "rarity": "SR",
+      "metaClass": "cinders",
+      "type": "CA",
+      "skins": [
+        {
+          "id": "AlgerieM",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/algeriem/algeriem.json"
+        }
+      ]
+    },
+    {
       "name": "La Galissonnière",
       "faction": "Vichya",
       "class": "La Galissonière",
@@ -12929,6 +12945,22 @@
           "id": "LaGal3",
           "label": "Black Cat of All Hallow's Eve",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/lagal3/lagal3.json"
+        }
+      ]
+    },
+    {
+      "name": "La Galissonnière META",
+      "faction": "meta",
+      "metaClass": "cinders",
+      "class": "La Galissonière",
+      "fileName": "jialisuoniye_alter",
+      "type": "CL",
+      "rarity": "MSR",
+      "skins": [
+        {
+          "id": "LaGalM",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/lagalm/lagalm.json"
         }
       ]
     },
@@ -12979,6 +13011,23 @@
           "id": "Bearn1",
           "label": "Summer Lifeguard",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/bearn1/bearn1.json"
+        }
+      ]
+    },
+    {
+      "name": "Béarn META",
+      "faction": "meta",
+      "class": "Bearn",
+      "fileName": "beiyaen_alter",
+      "metaClass": "flickering",
+      "rarity": "MSR",
+      "type": "CV",
+      "metaOrigin": "Iris",
+      "skins": [
+        {
+          "id": "BearnM",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/bearnm/bearnm.json"
         }
       ]
     },
