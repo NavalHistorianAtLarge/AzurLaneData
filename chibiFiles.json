@@ -7729,7 +7729,7 @@
       "rarity": "E",
       "skins": [
         {
-          "id": "HipperI",
+          "id": "HipperI",    
           "label": "Default",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hipperi/hipperi.json"
         }
@@ -7739,6 +7739,7 @@
       "name": "Admiral Hipper META",
       "class": "Hipper",
       "faction": "meta",
+      "oversize": "true",
       "metaClass": "cinders",
       "metaOrigin": "IronBlood",
       "fileName": "xipeierhaijunshangjiang_alter",
@@ -12907,12 +12908,14 @@
       "class": "Algerie",
       "faction": "meta",
       "fileName": "aerjiliya_alter",
-      "rarity": "SR",
+      "rarity": "MSR",
       "metaClass": "cinders",
+      "oversize": "true",
       "type": "CA",
       "skins": [
         {
           "id": "AlgerieM",
+          "oversize": "true",
           "label": "Default",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/algeriem/algeriem.json"
         }
@@ -13035,7 +13038,7 @@
       "name": "Eskimo",
       "class": "Tribal",
       "faction": "royalNavy",
-      "fileName": "",
+      "fileName": "aisijimo",
       "rarity": "E",
       "type": "DD",
       "skins": [
@@ -13055,7 +13058,7 @@
       "name": "Howe",
       "faction": "royalNavy",
       "class": "King George V",
-      "fileName": "",
+      "fileName": "hao",
       "rarity": "SR",
       "type": "BB",
       "skins": [
@@ -13085,7 +13088,7 @@
       "name": "Perseus",
       "class": "Colossus",
       "faction": "Eagle",
-      "fileName": "",
+      "fileName": "yingxianzuo",
       "type": "CVL",
       "rarity": "SR",
       "skins": [
@@ -13155,7 +13158,7 @@
       "name": "Valiant",
       "class": "Queen Elizabeth",
       "faction": "royalNavy",
-      "fileName": "",
+      "fileName": "yingyong",
       "rarity": "E",
       "type": "BB",
       "skins": [
@@ -13180,7 +13183,7 @@
       "name": "Icarus",
       "class": "I",
       "faction": "royalNavy",
-      "fileName": "",
+      "fileName": "yikaluosi",
       "rarity": "E",
       "type": "DD",
       "skins": [
@@ -13191,12 +13194,12 @@
         },
         {
           "id": "Icarus1",
-          "label": "One-Week Medical Experience?",
+          "label": "Nereid's Discovery",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/icarus1/icarus1.json"
         },
         {
           "id": "Icarus2",
-          "label": "Nereid's Discovery",
+          "label": "One-Week Medical Experience?",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/icarus2/icarus2.json"
         },
         {
@@ -13260,7 +13263,7 @@
       "name": "Suzutsuki",
       "class": "Akizuki",
       "faction": "sakura",
-      "fileName": "",
+      "fileName": "liangyue",
       "rarity": "SR",
       "type": "DD",
       "skins": [
@@ -13285,7 +13288,7 @@
       "name": "Kumano",
       "class": "Mogami",
       "faction": "sakura",
-      "fileName": "",
+      "fileName": "xiongye",
       "rarity": "E",
       "type": "CA",
       "skins": [
@@ -13315,7 +13318,7 @@
       "name": "Chitose",
       "class": "Zuihou",
       "faction": "sakura",
-      "fileName": "",
+      "fileName": "qiansui",
       "rarity": "E",
       "type": "CVL",
       "skins": [
@@ -13340,7 +13343,7 @@
       "name": "Chiyoda",
       "class": "Zuihou",
       "faction": "sakura",
-      "fileName": "",
+      "fileName": "qiandaitian",
       "rarity": "E",
       "type": "CVL",
       "skins": [
@@ -13360,7 +13363,7 @@
       "name": "Kashino",
       "class": "Kashino",
       "faction": "sakura",
-      "fileName": "",
+      "fileName": "jianye",
       "rarity": "SR",
       "type": "AE",
       "skins": [
@@ -13395,7 +13398,7 @@
       "name": "Princeton",
       "class": "Independence",
       "faction": "Eagle",
-      "fileName": "",
+      "fileName": "pulinsidun",
       "type": "CVL",
       "rarity": "E",
       "skins": [
@@ -13426,11 +13429,13 @@
       "class": "Independence",
       "faction": "meta",
       "type": "CVL",
-      "fileName": "",
+      "fileName": "pulinsidun_alter",
+      "oversize": "true",
       "rarity": "MSR",
       "skins": [
         {
           "id": "PrincetonM",
+          "oversize": "true",
           "label": "Default",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/princetonm/princetonm.json"
         }
