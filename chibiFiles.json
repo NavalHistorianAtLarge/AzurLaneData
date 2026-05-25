@@ -10030,7 +10030,7 @@
       ]
     },
     {
-      "name": "Z18",
+      "name": "Z18 (Hans Lüdemann)",
       "class": "Type1936",
       "faction": "IronBlood",
       "fileName": "z18",
@@ -12453,10 +12453,12 @@
       "rarity": "MSR",
       "metaClass": "cinders",
       "metaOrigin": "northParliament",
+      "oversize": "true",
       "faction": "meta",
       "skins": [
         {
           "id": "GangutM",
+          "oversize": "true",
           "label": "Default",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/gangutm/gangutm.json"
         }
@@ -13420,7 +13422,7 @@
       "name": "Peter Strasser",
       "class": "Zeppelin",
       "faction": "IronBlood",
-      "fileName": "",
+      "fileName": "shitelasai",
       "rarity": "SR",
       "type": "CV",
       "skins": [
@@ -13452,7 +13454,7 @@
       "faction": "IronBlood",
       "type": "CA",
       "riggingName": "Eisen",
-      "fileName": "",
+      "fileName": "haiyinlixi",
       "rarity": "SR",
       "skins": [
         {
@@ -13486,7 +13488,7 @@
       "name": "Weser",
       "class": "Weser",
       "faction": "IronBlood",
-      "fileName": "",
+      "fileName": "weixi",
       "rarity": "E",
       "type": "CVL",
       "skins": [
@@ -13521,7 +13523,7 @@
       "name": "Nürnberg",
       "class": "Leipzig",
       "faction": "IronBlood",
-      "fileName": "",
+      "fileName": "niulunbao",
       "rarity": "E",
       "type": "CL",
       "skins": [
@@ -13596,7 +13598,7 @@
       "name": "Pola",
       "class": "Zara",
       "faction": "Sardegna",
-      "fileName": "",
+      "fileName": "bola",
       "rarity": "SR",
       "type": "CA",
       "skins": [
@@ -13616,7 +13618,7 @@
       "name": "Vincenzo Gioberti",
       "class": "Oriani",
       "faction": "Sardegna",
-      "fileName": "",
+      "fileName": "wenqizuojiaobeidi",
       "rarity": "E",
       "type": "DD",
       "skins": [
@@ -13633,27 +13635,27 @@
       ]
     },
     {
-      "name": "Stremitelny",
+      "name": "Stremyitelny",
       "class": "Gnevny",
       "faction": "northParliament",
       "type": "DD",
-      "fileName": "",
+      "fileName": "shensu",
       "rarity": "E",
       "skins": [
         {
-          "id": "Stremitelny",
+          "id": "Stremy",
           "label": "Default",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/strem/strem.json"
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/stremy/stremy.json"
         },
         {
-          "id": "Stremitelny1",
+          "id": "Stremy1",
           "label": "No Snow No Life",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/strem1/strem1.json"
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/stremy1/stremy1.json"
         },
         {
-          "id": "Stremitelny2",
+          "id": "Stremy2",
           "label": "Nurse on the Night Shift",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/strem2/strem2.json"
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/stremy2/stremy2.json"
         }
       ]
     },
@@ -13685,7 +13687,7 @@
       "name": "Ying Swei",
       "class": "ChaoHo",
       "faction": "china",
-      "fileName": "",
+      "fileName": "yingrui",
       "rarity": "E",
       "type": "CL",
       "retrofit": {
@@ -13723,7 +13725,7 @@
       "name": "Chao Ho",
       "class": "ChaoHo",
       "faction": "china",
-      "fileName": "",
+      "fileName": "zhaohe",
       "rarity": "E",
       "type": "CL",
       "retrofit": {
@@ -13761,7 +13763,7 @@
       "name": "Penelope",
       "class": "Arethusa",
       "faction": "royalNavy",
-      "fileName": "",
+      "fileName": "peineiluopo",
       "rarity": "E",
       "type": "CL",
       "skins": [
@@ -13786,7 +13788,7 @@
       "name": "Tallinn",
       "class": "Deutchland",
       "faction": "northParliament",
-      "fileName": "",
+      "fileName": "talin",
       "type": "CA",
       "rarity": "SR",
       "skins": [
@@ -13816,7 +13818,7 @@
       "name": "Gremyashchy",
       "class": "Gnevny",
       "faction": "northParliament",
-      "fileName": "",
+      "fileName": "leiming",
       "rarity": "E",
       "type": "DD",
       "skins": [
@@ -13836,7 +13838,7 @@
       "name": "Murmansk",
       "class": "Omaha",
       "faction": "northParliament",
-      "fileName": "",
+      "fileName": "moermansike",
       "rarity": "E",
       "type": "CL",
       "skins": [
@@ -13862,7 +13864,7 @@
       "class": "Gnevny",
       "faction": "northParliament",
       "rarity": "E",
-      "fileName": "",
+      "fileName": "hongliang",
       "type": "DD",
       "skins": [
         {
@@ -13873,7 +13875,7 @@
         {
           "id": "Gromky1",
           "label": "Morning's Beckoning",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/gromky/gromky.json"
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/gromky1/gromky1.json"
         }
       ]
     },
@@ -15538,7 +15540,7 @@
       "class": "Royal Fortune",
       "faction": "tempesta",
       "type": "SF",
-      "fileName": "",
+      "fileName": "huangjiacaifu",
       "rarity": "SR",
       "skins": [
         {
@@ -15828,6 +15830,7 @@
       "type": "DD",
       "rarity": "SR",
       "faction": "IronBlood",
+      "fileName": "autuo",
       "skins": [
         {
           "id": "Alvensleben",
@@ -16211,7 +16214,7 @@
     {
       "name": "Golden Hind",
       "faction": "tempesta",
-      "fileName": "",
+      "fileName": "jinluhao",
       "type": "SF",
       "rarity": "SR",
       "skins": [
@@ -16226,7 +16229,7 @@
       "name": "Mary Celeste",
       "faction": "tempesta",
       "rarity": "SR",
-      "fileName": "",
+      "fileName": "mali",
       "type": "SF",
       "skins": [
         {
@@ -16246,7 +16249,7 @@
       "rarity": "E",
       "faction": "tempesta",
       "type": "SF",
-      "fileName": "",
+      "fileName": "jialimaoxian",
       "skins": [
         {
           "id": "AdventureF",
@@ -16265,6 +16268,7 @@
       "rarity": "E",
       "type": "SF",
       "faction": "tempesta",
+      "fileName": "shengmading",
       "skins": [
         {
           "id": "Martinho",
@@ -16739,21 +16743,25 @@
       "class": "Type1936C",
       "faction": "IronBlood",
       "fileName": "",
+      "oversize": "true",
       "rarity": "SR",
       "type": "DD",
       "skins": [
         {
           "id": "Z47",
           "label": "Default",
+          "oversize": "true",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/z47/z47.json"
         },
         {
           "id": "Z47a",
+          "oversize": "true",
           "label": "Young-Again Filter",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/z47a/z47a.json"
         },
         {
           "id": "Z47b",
+          "oversize": "true",
           "label": "Batter ★ Home Run",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/z47b/z47b.json"
         }
@@ -16765,7 +16773,7 @@
       "faction": "IronBlood",
       "fileName": "",
       "rarity": "E",
-      "type": "DD",
+      "type": "SS",
       "skins": [
         {
           "id": "U31",
@@ -16967,7 +16975,7 @@
       "name": "Ganj-i-Sawai",
       "faction": "tempesta",
       "type": "SF",
-      "fileName": "",
+      "fileName": "gangyishawa",
       "rarity": "SR",
       "skins": [
         {
@@ -16987,6 +16995,7 @@
       "type": "SF",
       "faction": "tempesta",
       "rarity": "SR",
+      "fileName": "huanxianghao",
       "skins": [
         {
           "id": "Fancy",
@@ -17005,7 +17014,7 @@
       "type": "SF",
       "faction": "tempesta",
       "rarity": "SR",
-      "fileName": "",
+      "fileName": "hemuhao",
       "skins": [
         {
           "id": "Amity",
@@ -17019,7 +17028,7 @@
       "type": "SF",
       "faction": "tempesta",
       "rarity": "E",
-      "fileName": "",
+      "fileName": "pucimaosi",
       "skins": [
         {
           "id": "PA",
@@ -17032,7 +17041,7 @@
       "name": "Dolphin",
       "type": "SF",
       "faction": "tempesta",
-      "fileName": "",
+      "fileName": "haitunhao",
       "rarity": "E",
       "skins": [
         {
@@ -17120,7 +17129,7 @@
       ]
     },
     {
-      "name": "Z11",
+      "name": "Z11 (Bernd von Arnim)",
       "class": "Type1934A",
       "faction": "IronBlood",
       "fileName": "",
@@ -17533,7 +17542,7 @@
       ]
     },
     {
-      "name": "Z13",
+      "name": "Z13 (Erich Koellner)",
       "class": "Type1934A",
       "faction": "IronBlood",
       "fileName": "",
@@ -17719,7 +17728,7 @@
     {
       "name": "Queen Anne's Revenge",
       "faction": "tempesta",
-      "fileName": "",
+      "fileName": "anninvwang",
       "rarity": "SR",
       "type": "SF",
       "skins": [
@@ -17738,7 +17747,7 @@
     {
       "name": "Lyme",
       "faction": "tempesta",
-      "fileName": "",
+      "fileName": "laimuhao",
       "type": "SF",
       "rarity": "SR",
       "skins": [
@@ -17754,7 +17763,7 @@
       "type": "SF",
       "rarity": "E",
       "faction": "tempesta",
-      "fileName": "",
+      "fileName": "zhenzhuhao",
       "skins": [
         {
           "id": "Pearl",
@@ -17768,6 +17777,7 @@
       "type": "SF",
       "faction": "tempesta",
       "rarity": "E",
+      "fileName": "huangjiazhanmusi",
       "skins": [
         {
           "id": "RoyalJames",
@@ -17779,7 +17789,7 @@
     {
       "name": "Adventure",
       "faction": "tempesta",
-      "fileName": "",
+      "fileName": "maoxianhao",
       "type": "SF",
       "rarity": "E",
       "skins": [
