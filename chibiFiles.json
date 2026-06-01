@@ -13444,6 +13444,7 @@
         {
           "id": "Strasser3",
           "label": "Lustrous Jade of the Golden House",
+          "oversize": "true",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/strasser3/strasser3.json"
         }
       ]
@@ -13883,7 +13884,7 @@
       "name": "Vittorio Veneto",
       "class": "Vittorio Veneto",
       "faction": "Sardegna",
-      "fileName": "",
+      "fileName": "weineituoa",
       "rarity": "SR",
       "type": "BB",
       "skins": [
@@ -13903,7 +13904,7 @@
       "name": "Duca delgi Abruzzi",
       "class": "Abruzzi",
       "faction": "Sardegna",
-      "fileName": "",
+      "fileName": "abuluqi",
       "rarity": "SR",
       "type": "CL",
       "skins": [
@@ -13923,7 +13924,7 @@
       "name": "Aquila",
       "class": "Aquila",
       "faction":"Sardegna",
-      "fileName": "",
+      "fileName": "tianying",
       "rarity": "SR",
       "type": "CV",
       "skins": [
@@ -13948,7 +13949,7 @@
       "name": "Torricelli",
       "class": "Brin",
       "faction": "Sardegna",
-      "fileName": "",
+      "fileName": "tuolichaili",
       "rarity": "E",
       "type": "SS",
       "skins": [
@@ -13968,7 +13969,7 @@
       "name": "Maestrale",
       "class": "Maestrale",
       "faction": "Sardegna",
-      "fileName": "",
+      "fileName": "xibeifeng",
       "rarity": "E",
       "type": "DD",
       "skins": [
@@ -13988,12 +13989,12 @@
       "name": "Libeccio",
       "class": "Maestrale",
       "faction": "Sardegna",
-      "fileName": "",
+      "fileName": "xinanfeng",
       "rarity": "E",
       "type": "DD",
       "skins": [
         {
-          "id": "Libeccio1",
+          "id": "Libeccio",
           "label": "Default",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/libeccio/libeccio.json"
         },
@@ -14008,7 +14009,7 @@
       "name": "Nicoloso da Recco",
       "class": "Navigatori",
       "faction": "Sardegna",
-      "fileName": "",
+      "fileName": "daleike",
       "type": "DD",
       "rarity": "E",
       "skins": [
@@ -14028,7 +14029,7 @@
       "name": "Oite",
       "class": "Kamikaze",
       "faction": "sakura",
-      "fileName": "",
+      "fileName": "zhuifeng",
       "type": "DD",
       "rarity": "R",
       "skins": [
@@ -14043,7 +14044,7 @@
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/oite1/oite1.json"
         },
         {
-          "id": "Oite",
+          "id": "Oite2",
           "label": "Jet Ink, Silver Quills",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/oite2/oite2.json"
         }
@@ -14053,7 +14054,7 @@
       "name": "Allen M. Sumner",
       "class": "Allen M. Sumnner",
       "faction": "Eagle",
-      "fileName": "",
+      "fileName": "ailunsamuna",
       "rarity": "SR",
       "type": "DD",
       "skins": [
@@ -14078,7 +14079,7 @@
       "name": "Stephen Potter",
       "class": "Fletcher",
       "faction": "Eagle",
-      "fileName": "",
+      "fileName": "shidifenbote",
       "rarity": "E",
       "type": "DD",
       "skins": [
@@ -14098,7 +14099,7 @@
       "name": "Ticonderoga",
       "class": "Essex",
       "faction": "Eagle",
-      "fileName": "",
+      "fileName": "tikangdeluojia",
       "rarity": "SR",
       "type": "CV",
       "skins": [
@@ -14124,7 +14125,7 @@
       "class": "New Orleans",
       "faction": "Eagle",
       "rarity": "SR",
-      "fileName": "",
+      "fileName": "jiujinshan",
       "type": "CA",
       "skins": [
         {
@@ -14148,7 +14149,7 @@
       "name": "Archerfish",
       "class": "Balao",
       "faction": "Eagle",
-      "fileName": "",
+      "fileName": "sheshuiyu",
       "rarity": "SR",
       "type": "SS",
       "skins": [
@@ -14239,7 +14240,7 @@
       "name": "Morrison",
       "class": "Fletcher",
       "faction": "Eagle",
-      "fileName": "",
+      "fileName": "molisen",
       "rarity": "E",
       "type": "DD",
       "skins": [
@@ -14264,7 +14265,7 @@
       "name": "Kazagumo",
       "class": "Yūgumo",
       "faction": "sakura",
-      "fileName": "",
+      "fileName": "fengyun",
       "rarity": "SR",
       "type": "DD",
       "skins": [
@@ -14294,7 +14295,7 @@
       "name": "Ingraham",
       "class": "Allen M. Sumnner",
       "faction": "Eagle",
-      "fileName": "",
+      "fileName": "yinggelahan",
       "rarity": "SR",
       "type": "DD",
       "skins": [
@@ -14314,7 +14315,7 @@
       "name": "Nautilus",
       "class": "Narwhal",
       "faction": "Eagle",
-      "fileName": "",
+      "fileName": "yingwuluo",
       "rarity": "SR",
       "type": "SS",
       "skins": [
