@@ -14341,7 +14341,7 @@
       "class": "Unryuu",
       "faction": "sakura",
       "rarity": "SR",
-      "fileName": "",
+      "fileName": "gecheng",
       "type": "CV",
       "skins": [
         {
@@ -14365,7 +14365,7 @@
       "name": "New Orleans",
       "class": "New Orleans",
       "faction": "Eagle",
-      "fileName": "",
+      "fileName": "xinaoerliang",
       "skins": [
         {
           "id": "Orleans",
@@ -14384,7 +14384,7 @@
       "class": "Le Fantasque",
       "faction": "IrisLibre",
       "rarity": "SR",
-      "fileName": "",
+      "fileName": "kebu",
       "type": "DD",
       "skins": [
         {
@@ -14408,7 +14408,7 @@
       "name": "Maillé Brézé",
       "class": "Vauquelin",
       "faction": "IrisLibre",
-      "fileName": "",
+      "fileName": "mayebuleize",
       "rarity": "E",
       "type": "DD",
       "skins": [
@@ -14433,7 +14433,7 @@
       "name": "Foch",
       "class": "Suffren",
       "faction": "Vichya",
-      "fileName": "",
+      "fileName": "fuxu",
       "rarity": "E",
       "type": "CA",
       "skins": [
@@ -14458,7 +14458,7 @@
       "name": "Foch META",
       "class": "Suffren",
       "faction": "meta",
-      "metaClass": "",
+      "metaClass": "fuxu_alter",
       "metaOrigin": "Vichya",
       "fileName": "",
       "rarity": "MSR",
@@ -14476,7 +14476,7 @@
       "class": "M",
       "faction": "IronBlood",
       "type": "CL",
-      "fileName": "",
+      "fileName": "magedebao",
       "rarity": "SR",
       "skins": [
         {
@@ -14500,7 +14500,7 @@
       "name": "Elbe",
       "class": "Jade",
       "faction": "IronBlood",
-      "fileName": "",
+      "fileName": "yibei",
       "rarity": "E",
       "type": "CVL",
       "skins": [
@@ -14522,10 +14522,27 @@
       ]
     },
     {
+      "name": "Elbe META",
+      "class": "Jade",
+      "faction": "meta",
+      "fileName": "yibei_alter",
+      "metaClass": "cinders",
+      "metaOrigin": "IronBlood",
+      "rarity": "SR",
+      "type": "CVL",
+      "skins": [
+        {
+          "id": "ElbeM",
+          "label": "Default",
+          "path":"https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/elbem/elbem.json"
+        }
+      ]
+    },
+    {
       "name": "Prinz Adalbert",
       "class": "P",
       "faction": "IronBlood",
-      "fileName": "",
+      "fileName": "adaerbote",
       "rarity": "SR",
       "type": "CA",
       "skins": [
@@ -14547,6 +14564,7 @@
       "faction": "IronBlood",
       "type": "SS",
       "rarity": "E",
+      "fileName": "U1206",
       "skins": [
         {
           "id": "U1206",
@@ -14561,37 +14579,37 @@
       ]
     }, 
     {
-      "name": "Ulrich von Hutten",
+      "name": "Ulrich von uvh",
       "faction": "IronBlood",
       "class": "H",
       "type": "BB",
       "rarity": "UR",
-      "fileName": "",
+      "fileName": "wuerlixi",
       "skins": [
         {
-          "id": "Hutten",
+          "id": "UvH",
           "label": "Default",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hutten/hutten.json"
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/uvh/uvh.json"
         },
         {
-          "id": "Hutten1",
+          "id": "UvH1",
           "label": "Mayhem Maid",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hutten1/hutten1.json"
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/uvh1/uvh1.json"
         },
         {
-          "id": "Hutten2",
+          "id": "UvH2",
           "label": "Ignition Matrician",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hutten2/hutten2.json"
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/uvh2/uvh2.json"
         },
         {
-          "id": "Hutten3",
+          "id": "UvH3",
           "label": "What Comes After the Bell",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hutten3/hutten3.json"
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/uvh3/uvh3.json"
         },
         {
-          "id": "HuttenH",
+          "id": "UvHH",
           "label": "Liebestrank",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/huttenh/huttenh.json"
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/uvhh/uvhh.json"
         }
       ]
     },
@@ -14599,7 +14617,7 @@
       "name": "Charybdis",
       "class": "Dido",
       "faction": "royalNavy",
-      "fileName": "",
+      "fileName": "kalvbudisi",
       "rarity": "SR",
       "type": "CL",
       "skins": [
@@ -14629,7 +14647,7 @@
       "name": "Hai Tien",
       "class": "Hai Tien",
       "faction": "china",
-      "fileName": "",
+      "fileName": "haitian",
       "rarity": "E",
       "type": "CL",
       "skins": [
@@ -14669,7 +14687,7 @@
       "name": "Hai Chi",
       "class": "Hai Tien",
       "faction": "china",
-      "fileName": "",
+      "fileName": "haiqi",
       "type": "CL",
       "rarity": "E",
       "skins": [
@@ -14689,7 +14707,7 @@
       "name": "Bristol",
       "class": "Allen M. Sumnner",
       "faction": "Eagle",
-      "fileName": "",
+      "fileName": "bulisituoer",
       "rarity": "SR",
       "type": "DD",
       "skins": [
@@ -14714,7 +14732,7 @@
       "name": "Chen Hai",
       "class": "Chen Hai",
       "faction": "china",
-      "fileName": "",
+      "fileName": "zhenhai",
       "rarity": "E",
       "retrofit": {
         "rarity": "SR"
@@ -14752,7 +14770,7 @@
       "name": "Kiev",
       "class": "Kiev",
       "faction": "northParliament",
-      "fileName": "",
+      "fileName": "jifu",
       "rarity": "SR",
       "type": "DD",
       "skins": [
@@ -14777,7 +14795,7 @@
       "name": "Arkhangelsk",
       "faction": "northParliament",
       "class": "R",
-      "fileName": "",
+      "fileName": "aerhangeersike",
       "rarity": "E",
       "type": "BB",
       "skins": [
@@ -14802,7 +14820,7 @@
       "name": "Soobrazitelny",
       "class": "Storozhevoy",
       "faction": "northParliament",
-      "fileName": "",
+      "fileName": "lingmin",
       "rarity": "E",
       "type": "DD",
       "skins": [
@@ -14822,7 +14840,7 @@
       "name": "Volga",
       "class": "Volga",
       "faction": "northParliament",
-      "fileName": "",
+      "fileName": "fuerjia",
       "rarity": "SR",
       "type": "CV",
       "skins": [
@@ -14844,7 +14862,7 @@
       "faction": "northParliament",
       "rarity": "UR",
       "type": "CB",
-      "fileName": "",
+      "fileName": "kalangshitade",
       "skins": [
         {
           "id": "Kronk",
@@ -14862,7 +14880,7 @@
       "name": "Impero",
       "class": "Impero",
       "faction": "Sardegna",
-      "fileName": "",
+      "fileName": "diguo",
       "rarity": "SR",
       "type": "CV",
       "skins": [
@@ -14889,7 +14907,7 @@
       "faction": "Sardegna",
       "type": "DD",
       "rarity": "SR",
-      "fileName": "",
+      "fileName": "pangpeimagenuo",
       "skins": [
         {
           "id": "Pompeo",
@@ -14907,7 +14925,7 @@
       "name": "Trieste",
       "class": "Trento",
       "faction": "Sardegna",
-      "fileName": "",
+      "fileName": "diliyasite",
       "rarity": "E",
       "type": "CA",
       "skins": [
@@ -14938,7 +14956,7 @@
       "class": "Seydlitz",
       "faction": "IronBlood",
       "type": "BC",
-      "fileName": "",
+      "fileName": "saidelici",
       "rarity": "SR",
       "skins": [
         {
@@ -14974,6 +14992,7 @@
       "type": "BC",
       "faction": "IronBlood",
       "rarity": "SR",
+      "fileName": "lvzuofu",
       "skins": [
         {
           "id": "Lutzow",
@@ -15002,7 +15021,7 @@
       "class": "Helgoland",
       "type": "BB",
       "faction": "IronBlood",
-      "fileName": "",
+      "fileName": "tulingen",
       "rarity": "E",
       "skins": [
         {
@@ -15023,7 +15042,7 @@
       "faction": "IronBlood",
       "rarity": "E",
       "type": "CA",
-      "fileName": "",
+      "fileName": "yueke_ger",
       "skins": [
         {
           "id": "Yorck",
@@ -15048,6 +15067,7 @@
       "type": "CL",
       "faction": "IronBlood",
       "rarity": "SR",
+      "fileName": "aimudeng",
       "skins": [
         {
           "id": "Emden",
@@ -15077,6 +15097,7 @@
       "type": "CL",
       "faction": "IronBlood",
       "rarity": "E",
+      "fileName": "aierbin",
       "skins": [
         {
           "id": "Elbing",
