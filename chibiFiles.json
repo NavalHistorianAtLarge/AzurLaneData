@@ -14399,6 +14399,7 @@
       "name": "New Orleans",
       "class": "New Orleans",
       "faction": "Eagle",
+      "rarity": "SR",
       "fileName": "xinaoerliang",
       "skins": [
         {
@@ -14616,7 +14617,7 @@
       ]
     }, 
     {
-      "name": "Ulrich von uvh",
+      "name": "Ulrich von Hutten",
       "faction": "IronBlood",
       "class": "H",
       "type": "BB",
@@ -14636,6 +14637,7 @@
         {
           "id": "UvH2",
           "label": "Ignition Matrician",
+          "oversize": "true",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/uvh2/uvh2.json"
         },
         {
@@ -14646,6 +14648,7 @@
         {
           "id": "UvHH",
           "label": "Liebestrank",
+          "oversize": "true",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/uvhh/uvhh.json"
         }
       ]
@@ -14762,6 +14765,11 @@
           "id": "Bristol2",
           "label": "\"Head\" Investigator",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/bristol2/bristol2.json"
+        },
+        {
+          "id": "Data857",
+          "label": "Data 857",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/data857/data857.json"
         }
       ]
     },
@@ -14985,7 +14993,7 @@
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/trieste2/trieste2.json"
         },
         {
-          "id": "Treiste3",
+          "id": "Trieste3",
           "label": "A Brush of Springtime Ink",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/trieste3/trieste3.json"
         }
