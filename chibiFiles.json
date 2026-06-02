@@ -14420,6 +14420,7 @@
         {
           "id": "MailleBreze1",
           "label": "The Noble Knight's Last Stand",
+          "oversize": "true",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/maillebreze1/maillebreze1.json"
         },
         {
@@ -14652,34 +14653,34 @@
       "type": "CL",
       "skins": [
         {
-          "id": "Haitien",
+          "id": "Haitian",
           "label": "Default",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/haitien/haitien.json"
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/haitian/haitian.json"
         },
         {
-          "id": "Haitien1",
+          "id": "Haitian1",
           "label": "Verse-Weaver at the Water's Edge",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/haitien1/haitien1.json"
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/haitian1/haitian1.json"
         },
         {
-          "id": "Haitien2",
+          "id": "Haitian2",
           "label": "Soaring Apsaras",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/haitien2/haitien2.json"
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/haitian2/haitian2.json"
         },
         {
-          "id": "Haitien3",
+          "id": "Haitian3",
           "label": "Autumn Night of Wandering Spirits",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/haitien3/haitien3.json"
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/haitian3/haitian3.json"
         },
         {
-          "id": "Haitien4",
+          "id": "Haitian4",
           "label": "Baker of Heart into Sweets",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/haitien4/haitien4.json"
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/haitian4/haitian4.json"
         },
         {
-          "id": "HaitienH",
+          "id": "HaitianH",
           "label": "Luan-Feng's Everlasting Duet",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/haitienh/haitienh.json"
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/haitianh/haitianh.json"
         }
       ]
     },
