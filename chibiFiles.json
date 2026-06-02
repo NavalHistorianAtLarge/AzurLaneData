@@ -7602,6 +7602,23 @@
       ]
     },
     {
+      "name": "Königsberg META",
+      "class": "Königsberg",
+      "faction": "meta",
+      "fileName": "kenisibao_alter",
+      "rarity": "MELITE",
+      "metaClass": "cinders",
+      "metaOrigin": "IronBlood",
+      "type": "CL",
+      "skins": [
+        {
+          "id": "KonigsbergM",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/konigsbergm/konigsbergm.json"
+        }
+      ]
+    },
+    {
       "name": "Karlsruhe",
       "class": "Königsberg",
       "faction": "IronBlood",
@@ -7644,6 +7661,23 @@
           "id": "KolnG",
           "label": "Retrofit",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kolng/kolng.json"
+        }
+      ]
+    },
+    {
+      "name": "Köln META",
+      "class": "Königsberg",
+      "faction": "meta",
+      "metaClass": "cinders",
+      "metaOrigin": "IronBlood",
+      "type": "CL",
+      "rarity": "MELITE",
+      "fileName": "kelong_alter",
+      "skins": [
+        {
+          "id": "KolnM",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kolnm/kolnm.json"
         }
       ]
     },
@@ -14761,9 +14795,9 @@
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/chenhai3/chenhai3.json"
         },
         {
-          "id": "ChenHaiH",
+          "id": "ChenHaiG",
           "label": "Retrofit",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/chenhaih/chenhaih.json"
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/chenhaig/chenhaig.json"
         }
       ]
     },
@@ -14862,16 +14896,19 @@
       "class": "Kronshtadt",
       "faction": "northParliament",
       "rarity": "UR",
+      "oversize": "true",
       "type": "CB",
       "fileName": "kalangshitade",
       "skins": [
         {
           "id": "Kronk",
+          "oversize": "true",
           "label": "Default",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kronk/kronk.json"
         },
         {
           "id": "Kronk1",
+          "oversize": "true",
           "label": "Begin the Rush!",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kronk1/kronk1.json"
         }
