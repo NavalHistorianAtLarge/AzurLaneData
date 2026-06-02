@@ -14565,10 +14565,12 @@
       "metaOrigin": "IronBlood",
       "rarity": "SR",
       "type": "CVL",
+      "oversize":"true",
       "skins": [
         {
           "id": "ElbeM",
           "label": "Default",
+          "oversize":"true",
           "path":"https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/elbem/elbem.json"
         }
       ]
@@ -15050,7 +15052,7 @@
         {
           "id": "LutzowH",
           "label": "Sleeping White Beauty",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/lutzowg/lutzowg.json"
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/lutzowh/lutzowh.json"
         }
       ]
     },
