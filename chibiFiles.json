@@ -15173,7 +15173,7 @@
       "name": "Jervis",
       "class": "J",
       "faction": "royalNavy",
-      "fileName": "",
+      "fileName": "jiaweisi",
       "type": "DD",
       "rarity": "SR",
       "skins": [
@@ -15193,7 +15193,7 @@
       "name": "Bellona",
       "class": "Bellona",
       "faction": "royalNavy",
-      "fileName": "",
+      "fileName": "sizhannvshen",
       "type": "CL",
       "rarity": "E",
       "skins": [
@@ -15215,7 +15215,7 @@
       "faction": "royalNavy",
       "rarity": "SR",
       "type": "CV",
-      "fileName": "",
+      "fileName": "bunao",
       "skins": [
         {
           "id": "Indomitable",
@@ -15233,7 +15233,7 @@
       "name": "Revenge",
       "class": "R",
       "faction": "royalNavy",
-      "fileName": "",
+      "fileName": "fuchao",
       "rarity": "E",
       "type": "BB",
       "skins": [
@@ -15278,7 +15278,7 @@
       "name": "L'Indomptable",
       "class": "Le Fantasque",
       "faction": "Vichya",
-      "fileName": "",
+      "fileName": "buqu",
       "rarity": "SR",
       "type": "DD",
       "skins": [
@@ -15308,7 +15308,7 @@
       "name": "Enterprise",
       "class": "Emerald",
       "faction": "royalNavy",
-      "fileName": "",
+      "fileName": "jinqu",
       "rarity": "E",
       "type": "CL",
       "skins": [
@@ -15324,7 +15324,7 @@
       "class": "Marconi",
       "faction": "Sardegna",
       "type": "SS",
-      "fileName": "",
+      "fileName": "dafenqi",
       "rarity": "SR",
       "skins": [
         {
@@ -15345,6 +15345,7 @@
       "faction": "Sardegna",
       "rarity": "SR",
       "type": "CL",
+      "fileName": "zhusaipei",
       "skins": [
         {
           "id": "Garibaldi",
@@ -15362,7 +15363,7 @@
       "name": "Bolzano",
       "class": "Bolzano",
       "faction": "Sardegna",
-      "fileName": "",
+      "fileName": "boerzhanuo",
       "rarity": "SR",
       "type": "CA",
       "skins": [
@@ -15411,7 +15412,7 @@
       "class": "Vittorio Veneto",
       "rarity": "SR",
       "faction": "Sardegna",
-      "fileName": "",
+      "fileName": "luoma",
       "skins": [
         {
           "id": "Roma",
@@ -15431,12 +15432,24 @@
       ]
     },
     {
+      "name": "Roma Ghost",
+      "faction": "siren",
+      "group": "ghost",
+      "skins": [
+        {
+          "id": "RomaGhost",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/romaghost/romaghost.json"
+        }
+      ]
+    },
+    {
       "name": "Alfredo Oriani",
       "class": "Oriani",
       "faction": "Sardegna",
       "rarity": "E",
       "type": "DD",
-      "fileName": "",
+      "fileName": "aerfuleiduo",
       "skins": [
         {
           "id": "Oriani",
@@ -15454,7 +15467,7 @@
       "name": "Emanuele Pessagno",
       "class": "Navigatori",
       "faction": "Sardegna",
-      "fileName": "",
+      "fileName": "aimannuaier",
       "rarity": "E",
       "type": "DD",
       "skins": [
@@ -15474,7 +15487,7 @@
       "name": "Z16 (Friedrich Eckoldt)",
       "class": "1934A",
       "faction": "IronBlood",
-      "fileName": "",
+      "fileName": "z16",
       "rarity": "E",
       "type": "DD",
       "skins": [
@@ -15494,7 +15507,7 @@
       "name": "Brünhilde",
       "class": "O",
       "faction": "IronBlood",
-      "fileName": "",
+      "fileName": "bulunxierde",
       "rarity": "SR",
       "type": "BC",
       "skins": [
@@ -15514,7 +15527,7 @@
       "name": "Wakatsuki",
       "class": "Akizuki",
       "faction": "sakura",
-      "fileName": "",
+      "fileName": "ruoyue",
       "rarity": "SR",
       "type": "DD",
       "skins": [
@@ -15530,6 +15543,7 @@
         },
         {
           "id": "Wakatsuki2",
+          "oversize": "true",
           "label": "Blue Sparrow Heralding Spring",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/wakatsuki2/wakatsuki2.json"
         }
@@ -15541,7 +15555,7 @@
       "faction": "royalNavy",
       "type": "DD",
       "rarity": "SR",
-      "fileName": "",
+      "fileName": "yanusi",
       "skins": [
         {
           "id": "Janus",
@@ -15579,7 +15593,7 @@
       "name": "Albion",
       "class": "Centaur",
       "faction": "royalNavy",
-      "fileName": "",
+      "fileName": "aerbien",
       "rarity": "SR",
       "type": "CVL",
       "skins": [
@@ -15634,7 +15648,7 @@
       "name": "Kuybyshev",
       "class": "Chapayev",
       "faction": "northParliament",
-      "fileName": "",
+      "fileName": "gubixuefu",
       "type": "CL",
       "rarity": "SR",
       "skins": [
@@ -15660,7 +15674,7 @@
       "class": "Colossus",
       "faction": "royalNavy",
       "rarity": "SR",
-      "fileName": "",
+      "fileName": "texiusi",
       "type": "CVL",
       "skins": [
         {
@@ -15680,7 +15694,7 @@
       "class": "Hwah Jah",
       "faction": "china",
       "type": "CVL",
-      "fileName": "",
+      "fileName": "huajia",
       "retrofit": {
         "rarity": "SR"
       },
@@ -15697,9 +15711,9 @@
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hwahjah1/hwahjah1.json"
         },
         {
-          "id": "HwahJah2",
+          "id": "HwahJahG",
           "label": "Retrofit",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hwahjah2/hwahjah2.json"
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hwahjahg/hwahjahg.json"
         }
       ]
     },
@@ -15707,8 +15721,8 @@
       "name": "Ting An",
       "class": "Ting An",
       "faction": "china",
-      "fileName": "",
-      "type": "CVL",
+      "fileName": "dingan",
+      "type": "AE",
       "rarity": "E",
       "retrofit": {
         "rarity": "SR"
@@ -15730,7 +15744,7 @@
       "name": "Implacable",
       "class": "Implacable",
       "faction": "royalNavy",
-      "fileName": "",
+      "fileName": "yuanchou",
       "rarity": "UR",
       "type": "CV",
       "skins": [
@@ -15752,6 +15766,7 @@
       "faction": "royalNavy",
       "type": "BB",
       "rarity": "SR",
+      "fileName": "huangjiaxiangshu",
       "skins": [
         {
           "id": "RoyalOak",
@@ -15771,7 +15786,7 @@
       "type": "CVL",
       "faction": "royalNavy",
       "rarity": "SR",
-      "fileName": "",
+      "fileName": "baiyanjuren",
       "skins": [
         {
           "id": "Argus",
@@ -15795,7 +15810,7 @@
       "class": "Dido",
       "type": "CL",
       "faction": "royalNavy",
-      "fileName": "",
+      "fileName": "sikula",
       "rarity": "SR",
       "skins": [
         {
@@ -15821,6 +15836,7 @@
       "faction": "royalNavy",
       "type": "DD",
       "rarity": "E",
+      "fileName": "yingxiong",
       "skins": [
         {
           "id": "Hero",
@@ -15838,7 +15854,7 @@
       "name": "Kursk",
       "class": "Kursk",
       "faction": "northParliament",
-      "fileName": "",
+      "fileName": "kuersike",
       "rarity": "SR",
       "type": "CA",
       "skins": [
@@ -15863,7 +15879,7 @@
       "name": "Sevastopol",
       "class": "Gangut",
       "faction": "northParliament",
-      "fileName": "",
+      "fileName": "saiwasituoboer",
       "rarity": "E",
       "type": "BB",
       "skins": [
@@ -15884,7 +15900,7 @@
       "class": "Kirov",
       "faction": "northParliament",
       "rarity": "SR",
-      "fileName": "",
+      "fileName": "fuluoxiluofu",
       "type": "CL",
       "skins": [
         {
@@ -15900,7 +15916,7 @@
       "type": "DD",
       "rarity": "SR",
       "faction": "IronBlood",
-      "fileName": "autuo",
+      "fileName": "aotuo",
       "skins": [
         {
           "id": "Alvensleben",
@@ -15915,6 +15931,7 @@
       "faction": "IronBlood",
       "rarity": "E",
       "type": "CVL",
+      "fileName": "yade",
       "skins": [
         {
           "id": "Jade",
@@ -15934,12 +15951,14 @@
       "faction": "meta",
       "metaClass": "cinders",
       "metaOrigin": "IronBlood",
-      "fileName": "",
+      "fileName": "leigensibao_alter",
+      "oversize": "true",
       "rarity": "MSR",
       "type": "CL",
       "skins": [
         {
           "id": "RegensburgM",
+          "oversize": "true",
           "label": "Default",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/regensburgm/regensburgm.json"
         }
@@ -15959,7 +15978,7 @@
       "riggingName": "Regina",
       "skins": [
         {
-          "id": "default",
+          "id": "Regensburg",
           "label": "Default",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/regensburg/regensburg.json"
         },
