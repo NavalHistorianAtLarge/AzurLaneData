@@ -15665,7 +15665,7 @@
         {
           "id": "Kuybyshev2",
           "label": "Rainy Day Blues",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kuybeshev2/kuybeshev2.json"
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kuybyshev2/kuybyshev2.json"
         }
       ]
     },
@@ -15710,6 +15710,11 @@
           "label": "The Festive Undead",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hwahjah1/hwahjah1.json"
         },
+        {
+          "id": "HwahJah2",
+          "label": "As Lustrous as Lacquer",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hwahjah2/hwahjah2.json"
+        }
         {
           "id": "HwahJahG",
           "label": "Retrofit",
@@ -15767,14 +15772,17 @@
       "type": "BB",
       "rarity": "SR",
       "fileName": "huangjiaxiangshu",
+      "oversize": "true",
       "skins": [
         {
           "id": "RoyalOak",
           "label": "Default",
+          "oversize": "true",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/royaloak/royaloak.json"
         },
         {
           "id": "RoyalOak1",
+          "oversize": "true",
           "label": "Bashful Oak",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/royaloak1/royaloak1.json"
         }
@@ -15855,21 +15863,25 @@
       "class": "Kursk",
       "faction": "northParliament",
       "fileName": "kuersike",
+      "oversize": "true",
       "rarity": "SR",
       "type": "CA",
       "skins": [
         {
           "id": "Kursk",
+          "oversize": "true",
           "label": "Default",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kursk/kursk.json"
         },
         {
           "id": "Kursk1",
+          "oversize": "true",
           "label": "Lone Wolf Amid the Steam",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kursk1/kursk1.json"
         },
         {
           "id": "Kursk2",
+          "oversize": "true",
           "label": "Beauty and the Hunter",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kursk2/kursk2.json"
         }
@@ -15902,9 +15914,11 @@
       "rarity": "SR",
       "fileName": "fuluoxiluofu",
       "type": "CL",
+      "oversize": "true",
       "skins": [
         {
           "id":"Voroshilov",
+          "oversize": "true",
           "label": "Default",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/voroshilov/voroshilov.json"
         }
@@ -15917,10 +15931,12 @@
       "rarity": "SR",
       "faction": "IronBlood",
       "fileName": "aotuo",
+      "oversize": "true",
       "skins": [
         {
           "id": "Alvensleben",
           "label": "Default",
+          "oversize": "true",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/alvensleben/alvensleben.json"
         }
       ]
@@ -15939,7 +15955,7 @@
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/jade/jade.json"
         },
         {
-          "id": "Jade",
+          "id": "Jade1",
           "label": "A Good Girl's Magic",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/jade1/jade1.json"
         }
