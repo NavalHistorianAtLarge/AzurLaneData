@@ -15946,25 +15946,6 @@
       ]
     },
     {
-      "name": "Regensburg META",
-      "class": "M",
-      "faction": "meta",
-      "metaClass": "cinders",
-      "metaOrigin": "IronBlood",
-      "fileName": "leigensibao_alter",
-      "oversize": "true",
-      "rarity": "MSR",
-      "type": "CL",
-      "skins": [
-        {
-          "id": "RegensburgM",
-          "oversize": "true",
-          "label": "Default",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/regensburgm/regensburgm.json"
-        }
-      ]
-    },
-    {
       "name": "Regensburg",
       "faction": "IronBlood",
       "hanzi": "雷根斯堡",
@@ -15986,6 +15967,25 @@
           "id": "Regensburg1",
           "label": "The Dark Dragon's Dungeon",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/regensburg1/regensburg1.json"
+        }
+      ]
+    },
+    {
+      "name": "Regensburg META",
+      "class": "M",
+      "faction": "meta",
+      "metaClass": "cinders",
+      "metaOrigin": "IronBlood",
+      "fileName": "leigensibao_alter",
+      "oversize": "true",
+      "rarity": "MSR",
+      "type": "CL",
+      "skins": [
+        {
+          "id": "RegensburgM",
+          "oversize": "true",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/regensburgm/regelnsburgm.json"
         }
       ]
     },
