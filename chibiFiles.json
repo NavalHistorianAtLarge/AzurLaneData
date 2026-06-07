@@ -13752,7 +13752,7 @@
         {
           "id": "YingSweiG",
           "label": "Retrofit",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/yingswei4/yingswei4.json"
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/yingsweig/yingsweig.json"
         }
       ]
     },
@@ -17272,11 +17272,13 @@
         {
           "id": "ChienWu1",
           "label": "Dressed for Just Tonight",
+          "oversize": "true",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/chienwu1/chienwu1.json"
         },
         {
           "id": "ChienWu2",
           "label": "All-Nighter Masterpiece",
+          "oversize": "true",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/chienwu2/chienwu2.json"
         }
       ]
@@ -18070,11 +18072,13 @@
       "faction": "china",
       "type": "CL",
       "fileName": "haichou",
+    "oversize": "true",
       "rarity": "E",
       "skins": [
         {
           "id": "HaiChou",
           "label": "Default",
+          "oversize": "true",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/haichou/haichou.json"
         }
       ]
