@@ -13824,27 +13824,32 @@
       "class": "Deutchland",
       "faction": "northParliament",
       "fileName": "talin",
+      "oversize": "true",
       "type": "CA",
       "rarity": "SR",
       "skins": [
         {
           "id": "Tallinn",
           "label": "Default",
+          "oversize": "true",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/tallinn/tallinn.json"
         },
         {
           "id": "Tallinn1",
           "label": "Nostalgic Pilsner",
+          "oversize": "true",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/tallinn1/tallinn1.json"
         },
         {
           "id": "Tallinn2",
           "label": "As You Say, Ma'am!",
+          "oversize": "true",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/tallinn2/tallinn2.json"
         },
         {
           "id": "Tallinn3",
           "label": "Night of Full Moon and Overflowing Love",
+          "oversize": "true",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/tallinn3/tallinn3.json"
         }
       ]
@@ -16011,7 +16016,7 @@
       "faction": "Sardegna",
       "rarity": "E",
       "type": "BB",
-      "fileName": "",
+      "fileName": "andelieyaduoliya",
       "skins": [
         {
           "id": "Doria",
@@ -16032,7 +16037,7 @@
       "metaClass": "cinders",
       "rarity": "MSR",
       "type": "BB",
-      "fileName": "",
+      "fileName": "andelieyaduoliya_alter",
       "skins": [
         {
           "id": "DoriaM",
@@ -16045,7 +16050,7 @@
       "name": "Attilio Regolo",
       "class": "Capitani Romani",
       "faction": "Sardegna",
-      "fileName": "",
+      "fileName": "adiliao",
       "type": "DD",
       "rarity": "SR",
       "skins": [
@@ -16071,7 +16076,7 @@
       "class": "Zara",
       "faction": "Sardegna",
       "type": "CA",
-      "fileName": "",
+      "fileName": "geliqiya",
       "rarity": "SR",
       "skins": [
         {
@@ -16092,7 +16097,7 @@
       "faction": "Vichya",
       "type": "CL",
       "rarity": "SR",
-      "fileName": "",
+      "fileName": "masaiqu",
       "skins": [
         {
           "id": "Marseillaise",
@@ -16111,7 +16116,7 @@
       "class": "Joffre",
       "faction": "IrisLibre",
       "type": "CVL",
-      "fileName": "",
+      "fileName": "banerwei",
       "rarity": "SR",
       "skins": [
         {
@@ -16135,7 +16140,7 @@
       "name": "Suffren",
       "class": "Suffren",
       "faction": "IrisLibre",
-      "fileName": "",
+      "fileName": "xufulun",
       "type": "CA",
       "rarity": "E",
       "skins": [
@@ -16160,7 +16165,7 @@
       "name": "Kersaint",
       "faction": "Vichya",
       "class": "Vauquelin",
-      "fileName": "",
+      "fileName": "kaiersheng",
       "rarity": "SR",
       "type": "DD",
       "skins": [
@@ -16181,7 +16186,7 @@
       "class": "Lyon",
       "type": "BB",
       "faction": "IrisLibre",
-      "fileName": "",
+      "fileName": "liang",
       "rarity": "E",
       "skins": [
         {
@@ -16202,7 +16207,7 @@
       "faction": "IrisLibre",
       "type": "CL",
       "rarity": "SR",
-      "fileName": "",
+      "fileName": "jishang",
       "skins": [
         {
           "id": "Guichen",
@@ -16225,7 +16230,7 @@
       "name": "Clemenceau",
       "class": "Richelieu",
       "faction": "Vichya",
-      "fileName": "",
+      "fileName": "kelaimengsuo",
       "rarity": "SR",
       "type": "BB",
       "skins": [
@@ -16275,7 +16280,7 @@
       "name": "Hatsuzuki",
       "class": "Akizuki",
       "faction": "sakura",
-      "fileName": "",
+      "fileName": "chuyue",
       "rarity": "SR",
       "type": "DD",
       "skins": [
@@ -16300,7 +16305,7 @@
       "name": "Asanagi",
       "class": "Kamikaze",
       "faction": "sakura",
-      "fileName": "",
+      "fileName": "zhaozhi",
       "rarity": "E",
       "type": "DD",
       "skins": [
@@ -16411,7 +16416,7 @@
       "class": "Alaska",
       "type": "CB",
       "faction": "Eagle",
-      "fileName": "",
+      "fileName": "guandao",
       "rarity": "UR",
       "skins": [
         {
@@ -16431,7 +16436,7 @@
       "class": "Lexington",
       "type": "BC",
       "faction": "Eagle",
-      "fileName": "",
+      "fileName": "xingzuo",
       "rarity": "SR",
       "skins": [
         {
@@ -16447,6 +16452,7 @@
       "type": "CVL",
       "faction": "Eagle",
       "rarity": "E",
+      "fileName": "shenghaxintuo",
       "skins": [
         {
           "id": "Jacinto",
@@ -16459,7 +16465,7 @@
       "name": "Louisville",
       "class": "Northampton",
       "faction": "Eagle",
-      "fileName":"",
+      "fileName":"luyisiweier",
       "rarity": "E",
       "type": "CA",
       "skins": [
@@ -16476,6 +16482,7 @@
       "type": "SS",
       "rarity": "SR",
       "faction": "Eagle",
+      "fileName": "songdiao",
       "skins": [
         {
           "id": "Flasher",
@@ -16494,7 +16501,7 @@
       "faction": "china",
       "rarity": "SR",
       "type": "BC",
-      "fileName": "",
+      "fileName": "huanchang",
       "skins": [
         {
           "id": "HuanChang",
@@ -16502,7 +16509,7 @@
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/huanchang/huanchang.json"
         },
         {
-          "id": "HuangChang1",
+          "id": "HuanChang1",
           "label": "Dancing Beneath the Moonlight",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/huanchang1/huanchang1.json"
         }
@@ -16511,8 +16518,8 @@
     {
       "name": "Chi An",
       "type": "CL",
-      "faction": "China",
-      "fileName": "",
+      "faction": "china",
+      "fileName": "jian",
       "rarity": "E",
       "skins": [
         {
@@ -16531,7 +16538,7 @@
       "name": "Lung Wu",
       "faction": "china",
       "type": "DD",
-      "fileName": "",
+      "fileName": "longwu",
       "rarity": "E",
       "skins": [
         {
@@ -16554,13 +16561,15 @@
     {
       "name": "Hu Pen",
       "faction": "china",
-      "fileName": "",
+      "fileName": "huben",
       "rarity": "E",
+      "oversize": "true",
       "type": "DD",
       "skins": [
         {
           "id": "HuPen",
           "label": "Default",
+          "oversize": "true",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hupen/hupen.json"
         },
         {
@@ -16571,11 +16580,11 @@
       ]
     },
     {
-      "name": "Fei Yuan",
+      "name": "Fei Yuen",
       "faction": "china",
       "type": "DD",
       "rarity": "E",
-      "fileName": "",
+      "fileName": "feiyun",
       "skins": [
         {
           "id": "FeiYuan",
@@ -17251,7 +17260,7 @@
     {
       "name": "Chien Wu",
       "faction": "china",
-      "fileName": "",
+      "fileName": "jianwu",
       "rarity": "SR",
       "type": "CA",
       "skins": [
@@ -17278,7 +17287,7 @@
       "faction": "china",
       "rarity": "E",
       "type": "CL",
-      "fileName": "",
+      "fileName": "hairong",
       "skins": [
         {
           "id": "HaiYung",
@@ -17296,7 +17305,7 @@
       "name": "Chang Feng",
       "class": "Chang Feng",
       "faction": "china",
-      "fileName": "",
+      "fileName": "changfeng",
       "rarity": "E",
       "type": "DD",
       "skins": [
@@ -17311,7 +17320,7 @@
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/changfeng1/changfeng1.json"
         },
         {
-          "id": "Changfeng2",
+          "id": "ChangFeng2",
           "label": "A Sky Blue Eclipsing Jade",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/changfeng2/changfeng2.json"
         }
@@ -17321,7 +17330,7 @@
       "name": "Fu Po",
       "class": "Chang Feng",
       "faction": "china",
-      "fileName": "",
+      "fileName": "fubo",
       "type": "DD",
       "rarity": "E",
       "skins": [
@@ -18046,7 +18055,7 @@
       "faction": "china",
       "type": "CA",
       "rarity": "SR",
-      "fileName": "",
+      "fileName": "zhangwu",
       "skins": [
         {
           "id": "ChangWu",
@@ -18060,7 +18069,7 @@
       "class": "Hai Yung",
       "faction": "china",
       "type": "CL",
-      "fileName": "",
+      "fileName": "haichou",
       "rarity": "E",
       "skins": [
         {
