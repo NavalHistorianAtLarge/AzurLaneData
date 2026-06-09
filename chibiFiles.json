@@ -16077,16 +16077,19 @@
       "faction": "Sardegna",
       "type": "CA",
       "fileName": "geliqiya",
+      "oversize": "true",
       "rarity": "SR",
       "skins": [
         {
           "id": "Gorizia",
           "label": "Default",
+          "oversize": "true",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/gorizia/gorizia.json"
         },
         {
           "id": "Gorizia1",
           "label": "Unrequited Office Love?",
+          "oversize": "true",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/gorizia1/gorizia1.json"
         }
       ]
@@ -16102,7 +16105,7 @@
         {
           "id": "Marseillaise",
           "label": "Default",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/marseillaise/marseillaisee.json"
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/marseillaise/marseillaise.json"
         },
         {
           "id": "Marseillaise1",
@@ -16252,7 +16255,7 @@
       "type": "CA",
       "rarity": "UR",
       "faction": "sakura",
-      "fileName": "",
+      "fileName": "yunxian",
       "skins": [
         {
           "id": "Unzen",
@@ -16262,12 +16265,28 @@
       ]
     },
     {
+      "name": "Unzen-chan",
+      "class": "Unzen",
+      "faction": "sakura",
+      "fileName": "yunxian_yunv",
+      "rarity": "E",
+      "type": "CA",
+      "group": "littles",
+      "skins": [
+        {
+          "id": "UnzenS",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/unzens/unzens.json"
+        }
+      ]
+    },
+    {
       "name": "Owari",
       "class": "Kii",
       "type": "BB",
       "rarity": "SR",
       "faction": "sakura",
-      "fileName": "",
+      "fileName": "weizhang",
       "skins": [
         {
           "id": "Owari",
@@ -16418,15 +16437,18 @@
       "faction": "Eagle",
       "fileName": "guandao",
       "rarity": "UR",
+      "oversize": "true",
       "skins": [
         {
           "id": "Guam",
           "label": "Default",
+          "oversize": "true",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/guam/guam.json"
         },
         {
           "id": "Guam1",
           "label":"Stage-Setting Charmer",
+          "oversize": "true",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/guam1/guam1.json"
         }
       ]
@@ -16466,12 +16488,14 @@
       "class": "Northampton",
       "faction": "Eagle",
       "fileName":"luyisiweier",
+      "oversize": "true",
       "rarity": "E",
       "type": "CA",
       "skins": [
         {
           "id": "Louisville",
           "label": "Default",
+          "oversize": "true",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/louisville/louisville.json"
         }
       ]
