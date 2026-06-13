@@ -16665,7 +16665,7 @@
         {
           "id": "Ognevoy1",
           "label": "Blue Nova",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/ognevoy1/ognevoy1json"
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/ognevoy1/ognevoy1.json"
         }
       ]
     },
@@ -16826,15 +16826,18 @@
       "faction": "IrisLibre",
       "rarity": "SR",
       "fileName": "bulunusi",
+      "oversize": "true",
       "skins": [
         {
           "id": "Brennus",
           "label": "Default",
+          "oversize": "true",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/brennus/brennus.json"
         },
         {
           "id": "Brennus1",
           "label": "Timeless Nocturne",
+          "oversize": "true",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/brennus1/brennus1.json"
         }
       ]
@@ -17004,11 +17007,13 @@
       "faction": "Vichya",
       "rarity": "E",
       "fileName": "dipulaikesi",
+      "oversize": "true",
       "type": "CA",
       "skins": [
         {
           "id": "Dupleix",
           "label": "Default",
+          "oversize": "true",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/dupleix/dupleix.json"
         }
       ]
@@ -17271,14 +17276,14 @@
       "rarity": "SR",
       "skins": [
         {
-          "id": "Duisberg",
+          "id": "Duisburg",
           "label": "Default",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/duisburg.json"
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/duisburg/duisburg.json"
         },
         {
-          "id": "DuisbergDrone",
+          "id": "DuisburgDrone",
           "label": "Drone",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/duisbergdrone/duisbergdrone.json"
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/duisburgdrone/duisburgdrone.json"
         }
       ]
     },
