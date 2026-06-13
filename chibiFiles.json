@@ -6804,6 +6804,22 @@
       ]
     },
     {
+      "name": "Musashi-chan",
+      "class": "Yamato",
+      "faction": "sakura",
+      "fileName": "wuzang_younv",
+      "rarity": "E",
+      "type": "BB",
+      "group": "littles",
+      "skins": [
+        {
+          "id": "MusashiS",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/musashis/musashis.json"
+        }
+      ]
+    },
+    {
       "name": "Hiyō",
       "class": "Hiyō",
       "faction": "sakura",
@@ -16637,7 +16653,7 @@
       "name": "Ognevoy",
       "class": "Ognevoy",
       "faction": "northParliament",
-      "fileName": "",
+      "fileName": "huoli",
       "rarity": "SR",
       "type": "DD",
       "skins": [
@@ -16657,7 +16673,7 @@
       "name": "Svirepy",
       "class": "Storozhevoy",
       "faction": "northParliament",
-      "fileName": "",
+      "fileName": "xiongmeng",
       "type": "DD",
       "rarity": "E",
       "skins": [
@@ -16677,7 +16693,7 @@
       "name": "Poltava",
       "class": "Gangut",
       "faction": "northParliament",
-      "fileName": "",
+      "fileName": "boertawa",
       "rarity": "SR",
       "type": "BB",
       "skins": [
@@ -16697,7 +16713,7 @@
       "name": "Nubian",
       "class": "Tribal",
       "faction": "royalNavy",
-      "fileName": "",
+      "fileName": "nubiyaren",
       "rarity": "SR",
       "type": "DD",
       "skins": [
@@ -16723,7 +16739,7 @@
       "class": "Gloucester",
       "type": "CL",
       "faction": "royalNavy",
-      "fileName": "",
+      "fileName": "liwupu",
       "rarity": "E",
       "skins": [
         {
@@ -16743,7 +16759,7 @@
       "type": "CA",
       "class": "London",
       "faction": "royalNavy",
-      "fileName": "",
+      "fileName": "dewenjun",
       "rarity": "E",
       "skins": [
         {
@@ -16759,7 +16775,7 @@
       "type": "CA",
       "faction": "IronBlood",
       "rarity": "SR",
-      "fileName": "",
+      "fileName": "feiteilikaer",
       "skins": [
         {
           "id": "Carl",
@@ -16778,13 +16794,13 @@
       "class": "Alsace",
       "rarity": "UR",
       "faction": "IrisLibre",
-      "fileName": "",
+      "fileName": "aersasi",
       "type": "BB",
       "skins": [
         {
-          "id": "Default",
-          "label": "Alsace",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/alsace.json"
+          "id": "Alsace",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/alsace/alsace.json"
         }
       ]
     },
@@ -16794,6 +16810,7 @@
       "rarity": "UR",
       "faction": "Vichya",
       "type": "DD",
+      "fileName": "mojiaduoer",
       "skins": [
         {
           "id": "Mogador",
@@ -16808,7 +16825,7 @@
       "type": "CA",
       "faction": "IrisLibre",
       "rarity": "SR",
-      "fileName": "",
+      "fileName": "bulunusi",
       "skins": [
         {
           "id": "Brennus",
@@ -16826,7 +16843,7 @@
       "name": "Fleuret",
       "class": "Le Hardi",
       "faction": "Vichya",
-      "fileName": "",
+      "fileName": "huajian",
       "rarity": "E",
       "type": "DD",
       "skins": [
@@ -16846,7 +16863,7 @@
       "name": "Épée",
       "class": "Le Hardi",
       "faction": "Vichya",
-      "fileName": "",
+      "fileName": "zhongjian",
       "type": "DD",
       "rarity": "E",
       "skins": [
@@ -16866,7 +16883,7 @@
       "name": "Alvitr",
       "class": "O",
       "faction": "IronBlood",
-      "fileName": "",
+      "fileName": "yaerweite",
       "rarity": "SR",
       "type": "BC",
       "skins": [
@@ -16886,7 +16903,7 @@
       "name": "Z47",
       "class": "Type1936C",
       "faction": "IronBlood",
-      "fileName": "",
+      "fileName": "z47",
       "oversize": "true",
       "rarity": "SR",
       "type": "DD",
@@ -16915,7 +16932,7 @@
       "name": "U-31",
       "class": "Type VIIA",
       "faction": "IronBlood",
-      "fileName": "",
+      "fileName": "u31",
       "rarity": "E",
       "type": "SS",
       "skins": [
@@ -16937,7 +16954,7 @@
       "class": "Type1936B",
       "rarity": "E",
       "faction": "IronBlood",
-      "fileName": "",
+      "fileName": "z43",
       "skins": [
         {
           "id": "Z43",
@@ -16957,7 +16974,7 @@
       "faction": "Vichya",
       "rarity": "SR",
       "type": "BC",
-      "fileName": "",
+      "fileName": "sitelasibao",
       "skins": [
         {
           "id": "Strasbourg",
@@ -16972,7 +16989,7 @@
       "faction": "Vichya",
       "type": "DD",
       "rarity": "SR",
-      "fileName": "",
+      "fileName": "guogan",
       "skins": [
         {
           "id": "LAud",
@@ -16986,7 +17003,7 @@
       "class": "Suffren",
       "faction": "Vichya",
       "rarity": "E",
-      "fileName": "",
+      "fileName": "dipulaikesi",
       "type": "CA",
       "skins": [
         {
@@ -17001,7 +17018,7 @@
       "class": "Baltimore",
       "type": "CA",
       "faction": "Eagle",
-      "fileName": "",
+      "fileName": "pizibao",
       "rarity": "SR",
       "skins": [
         {
@@ -17017,12 +17034,17 @@
       "type": "CL",
       "faction": "Eagle",
       "rarity": "SR",
-      "fileName": "",
+      "fileName": "fage",
       "skins": [
         {
           "id": "Fargo",
           "label": "Default",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/fargo/fargo.json"
+        },
+        {
+          "id": "FargoDrone",
+          "label": "Drone",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/fargodrone/fargodrone.json"
         }
       ]
     },
@@ -17032,6 +17054,7 @@
       "type": "SS",
       "faction": "Eagle",
       "rarity": "E",
+      "fileName": "feiyu",
       "skins": [
         {
           "id": "Herring",
@@ -17046,7 +17069,7 @@
       "faction": "Eagle",
       "rarity": "E",
       "type": "DD",
-      "fileName": "",
+      "fileName": "beier",
       "skins": [
         {
           "id": "Bell",
@@ -17065,7 +17088,7 @@
       "class": "C44",
       "faction": "sakura",
       "type": "CL",
-      "fileName": "",
+      "fileName": "dulianglai",
       "rarity": "SR",
       "skins": [
         {
@@ -17084,9 +17107,9 @@
       "name": "Ayase",
       "class": "Sendai",
       "faction": "sakura",
-      "fileName": "",
+      "fileName": "linglai",
       "rarity": "E",
-      "type": "DD",
+      "type": "CL",
       "skins": [
         {
           "id": "Ayase",
@@ -17099,7 +17122,7 @@
       "name": "Suzunami",
       "class": "Yūgumo",
       "faction": "sakura",
-      "fileName": "",
+      "fileName": "liangbo",
       "rarity": "E",
       "type": "DD",
       "skins": [
@@ -17206,6 +17229,7 @@
       "type": "CV",
       "faction": "IronBlood",
       "rarity": "UR",
+      "fileName": "fulici",
       "skins": [
         {
           "id": "Rumey",
@@ -17242,7 +17266,7 @@
       "name": "Duisburg",
       "class": "M",
       "faction": "IronBlood",
-      "fileName": "",
+      "fileName": "duyisibao",
       "type": "CL",
       "rarity": "SR",
       "skins": [
@@ -17250,6 +17274,11 @@
           "id": "Duisberg",
           "label": "Default",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/duisburg.json"
+        },
+        {
+          "id": "DuisbergDrone",
+          "label": "Drone",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/duisbergdrone/duisbergdrone.json"
         }
       ]
     },
