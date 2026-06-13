@@ -17641,7 +17641,7 @@
       "type": "CL",
       "rarity": "SR",
       "faction": "royalNavy",
-      "fileName": "",
+      "fileName": "keliaopeitela",
       "skins": [
         {
           "id": "Cleopatra",
@@ -17655,7 +17655,7 @@
       "class": "G",
       "faction": "royalNavy",
       "rarity": "E",
-      "fileName": "",
+      "fileName": "yongqi",
       "type": "DD",
       "skins": [
         {
@@ -17690,7 +17690,7 @@
       "class": "Zenker",
       "faction": "IronBlood",
       "rarity": "SR",
-      "fileName": "",
+      "fileName": "zengkehaijunshangjiang",
       "type": "BC",
       "skins": [
         {
@@ -17750,7 +17750,8 @@
       "type": "BC",
       "faction": "IrisLibre",
       "rarity": "SR",
-      "fileName": "",
+      "fileName": "masaina",
+      "group": "hide",
       "skins": [
         {
           "id": "Massena",
@@ -17763,7 +17764,8 @@
       "name": "Bois Belleau",
       "class": "Independence",
       "faction": "IrisLibre",
-      "fileName": "",
+      "fileName": "beilaosenlin",
+      "group": "hide",
       "rarity": "SR",
       "type": "CVL",
       "skins": [
@@ -17775,12 +17777,13 @@
       ]
     },
     {
-      "name": "Duquense",
+      "name": "Duquesne",
       "faction": "IrisLibre",
       "class": "Duquesne",
       "rarity": "E",
       "type": "CA",
-      "fileName": "",
+      "fileName": "dikaina",
+      "group": "hide",
       "skins": [
         {
           "id": "Duquesne",
@@ -17793,7 +17796,7 @@
       "name": "Le Hardi",
       "class": "Le Hardi",
       "faction": "IrisLibre",
-      "fileName": "",
+      "fileName": "dadan",
       "rarity": "SR",
       "type": "DD",
       "skins": [
@@ -17810,7 +17813,8 @@
       "faction": "IrisLibre",
       "rarity": "E",
       "type": "CL",
-      "fileName":"",
+      "fileName":"digaiteluyin",
+      "group": "hide",
       "skins": [
         {
           "id": "Duguay",
