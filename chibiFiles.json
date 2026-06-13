@@ -3008,7 +3008,7 @@
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/crescent/crescent.json"
         },
         {
-          "id": "CresentG",
+          "id": "CrescentG",
           "label": "Retrofit",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/crescentg/crescentg.json"
         }
@@ -3955,6 +3955,9 @@
       "type": "CA",
       "fileName": "yueke",
       "rarity": "E",
+      "retrofit": {
+        "rarity": "SR"
+      },
       "skins": [
         {
           "id": "York",
@@ -5874,7 +5877,7 @@
       "fileName": "awuwei",
       "rarity": "N",
       "retrofit": {
-        "rarity": "N"
+        "rarity": "R"
       },
       "type": "CL",
       "skins": [
@@ -17416,7 +17419,7 @@
       "name": "Raffaello",
       "class": "Raffaello",
       "faction": "Sardegna",
-      "fileName": "",
+      "fileName": "lafeier",
       "rarity": "UR",
       "type": "BB",
       "skins": [
@@ -17431,7 +17434,7 @@
       "name": "Maggiore Baracca",
       "class": "Marconi",
       "faction": "Sardegna",
-      "fileName": "",
+      "fileName": "balaka",
       "rarity": "SR",
       "type": "SS",
       "skins": [
@@ -17446,7 +17449,7 @@
       "name": "Giosuè Carducci",
       "class": "Oriani",
       "faction": "Sardegna",
-      "fileName": "",
+      "fileName": "jiaosuai",
       "rarity": "E",
       "type": "DD",
       "skins": [
@@ -17468,7 +17471,7 @@
       "type": "CL",
       "faction": "Sardegna",
       "rarity": "E",
-      "fileName": "",
+      "fileName": "batuoluomeiao",
       "skins": [
         {
           "id": "Colleoni",
@@ -17483,7 +17486,7 @@
       "class": "Essex",
       "rarity": "SR",
       "faction": "Eagle",
-      "fileName": "",
+      "fileName": "fulankelin",
       "skins": [
         {
           "id": "Franklin",
@@ -17502,7 +17505,7 @@
       "class": "Cleveland",
       "faction": "Eagle",
       "rarity": "SR",
-      "fileName": "",
+      "fileName": "shengtafei",
       "type": "CL",
       "skins": [
         {
@@ -17521,7 +17524,7 @@
       "name": "Miller",
       "class": "Fletcher",
       "faction": "Eagle",
-      "fileName": "",
+      "fileName": "mile",
       "rarity": "E",
       "type": "DD",
       "skins": [
@@ -17542,7 +17545,7 @@
       "type": "BB",
       "class": "Kazan",
       "faction": "northParliament",
-      "fileName": "",
+      "fileName": "kashan",
       "rarity": "SR",
       "skins": [
         {
@@ -17561,7 +17564,7 @@
       "name": "De Zeven Provinciën",
       "class": "De Zeven Provinciën",
       "faction": "tulipa",
-      "fileName": "",
+      "fileName": "qisheng",
       "rarity": "SR",
       "type": "CL",
       "skins": [
@@ -17583,6 +17586,7 @@
       "type": "DD",
       "faction": "tulipa",
       "rarity": "E",
+      "fileName": "aifosen",
       "skins": [
         {
           "id": "Evertsen",
@@ -17600,7 +17604,7 @@
       "name": "Oleg",
       "class": "Bogatyr",
       "faction": "northParliament",
-      "fileName": "",
+      "fileName": "aoliege",
       "type": "CL",
       "rarity": "E",
       "skins": [
@@ -17622,7 +17626,7 @@
       "class": "Battle",
       "type": "DD",
       "faction": "royalNavy",
-      "fileName": "",
+      "fileName": "telafaerjia",
       "skins": [
         {
           "id": "Trafalgar",
@@ -17670,7 +17674,7 @@
       "name": "Trinidad",
       "class": "Fiji",
       "faction": "royalNavy",
-      "fileName": "",
+      "fileName": "telinida",
       "rarity": "E",
       "type": "CL",
       "skins": [
