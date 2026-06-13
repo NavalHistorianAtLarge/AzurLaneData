@@ -16179,6 +16179,7 @@
         },
         {
           "id": "Kersaint1",
+          "oversize": "true",
           "label": "Reverent Runner",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kersaint1/kersaint1.json"
         }
@@ -16199,6 +16200,7 @@
         },
         {
           "id": "Lyon1",
+          "oversize": "true",
           "label": "Paired Exercise",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/lyon1/lyon1.json"
         }
@@ -16287,10 +16289,12 @@
       "rarity": "SR",
       "faction": "sakura",
       "fileName": "weizhang",
+      "oversize": "true",
       "skins": [
         {
           "id": "Owari",
           "label": "Default",
+          "oversize": "true",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/owari/owari.json"
         }
       ]
@@ -16474,10 +16478,12 @@
       "type": "CVL",
       "faction": "Eagle",
       "rarity": "E",
+      "oversize": "true",
       "fileName": "shenghaxintuo",
       "skins": [
         {
           "id": "Jacinto",
+          "oversize": "true",
           "label": "Default",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/jacinto/jacinto.json"
         }
