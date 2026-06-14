@@ -17422,10 +17422,12 @@
       "fileName": "lafeier",
       "rarity": "UR",
       "type": "BB",
+      "oversize": "true",
       "skins": [
         {
           "id": "Raffaello",
           "label": "Default",
+          "oversize": "true",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/raffaello/raffaello.json"
         }
       ]
@@ -17487,14 +17489,17 @@
       "rarity": "SR",
       "faction": "Eagle",
       "fileName": "fulankelin",
+      "oversize": "true",
       "skins": [
         {
           "id": "Franklin",
+          "oversize": "true",
           "label": "Default",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/franklin/franklin.json"
         },
         {
           "id": "Franklin1",
+          "oversize": "true",
           "label": "Heart-Throbbing Records",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/franklin1/franklin1.json"
         }
@@ -17576,6 +17581,7 @@
         {
           "id": "Zeven1",
           "label": "Snuggling for Warmth",
+          "oversize": "true",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/zeven1/zeven1.json"
         }
       ]
@@ -17692,14 +17698,17 @@
       "rarity": "SR",
       "fileName": "zengkehaijunshangjiang",
       "type": "BC",
+      "oversize": "true",
       "skins": [
         {
           "id": "Zenker",
           "label": "Default",
+          "oversize": "true",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/zenker/zenker.json"
         },
         {
           "id": "Zenker1",
+          "oversize": "true",
           "label": "Fun with... Interrogations?",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/zenker1/zenker1.json"
         }
