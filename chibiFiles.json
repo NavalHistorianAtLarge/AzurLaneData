@@ -17838,11 +17838,13 @@
       "faction": "sakura",
       "rarity": "UR",
       "type": "CV",
+      "oversize": "true",
       "fileName": "baifeng",
       "skins": [
         {
           "id": "Hakuhou",
           "label": "Default",
+          "oversize": "true",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hakuhou/hakuhou.json"
         }
       ]
@@ -17874,6 +17876,11 @@
           "id": "I404",
           "label": "Default",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/i404/i404.json"
+        },
+        {
+          "id": "I404Rig",
+          "label": "Rigging",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/i404rig/rig.json"
         }
       ]
     },
@@ -17899,9 +17906,11 @@
       "faction": "sakura",
       "rarity": "SR",
       "fileName": "qianjian",
+      "oversize": "true",
       "skins": [
         {
           "id": "Asama",
+          "oversize": "true",
           "label": "Default",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/asama/asama.json"
         }
@@ -18021,6 +18030,7 @@
       "name": "Clarence K. Bronson",
       "class": "Fletcher",
       "faction": "Eagle",
+      "oversize": "true",
       "rarity": "E",
       "fileName": "kelalunsi",
       "type": "DD",
@@ -18028,11 +18038,13 @@
         {
           "id": "Bronson",
           "label": "Default",
+          "oversize": "true",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/bronson/bronson.json"
         },
         {
           "id": "Bronson1",
           "label": "Special Functional Testing",
+          "oversize": "true",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/bronson1/bronson1.json"
         }
       ]
@@ -18058,15 +18070,18 @@
       "faction": "Sardegna",
       "fileName": "fulangxisike",
       "rarity": "SR",
+      "oversize": "true",
       "type": "BB",
       "skins": [
         {
           "id": "Caracciolo",
+          "oversize": "true",
           "label": "Default",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/caracciolo/caracciolo.json"
         },
         {
           "id": "Caracciolo1",
+          "oversize": "true",
           "label": "Confession Under the Spotlight",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/caracciolo1/caracciolo1.json"
         }
@@ -18078,15 +18093,18 @@
       "faction": "Sardegna",
       "rarity": "E",
       "fileName": "aerbeituo",
+      "oversize": "true",
       "type": "CL",
       "skins": [
         {
           "id": "Guissano",
           "label": "Default",
+          "oversize": "true",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/guissano/guissano.json"
         },
         {
           "id": "Guissano1",
+          "oversize": "true",
           "label": "A Magnificent Mistake",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/guissano1/guisanno1.json"
         }
@@ -18119,15 +18137,18 @@
       "rarity": "SR",
       "fileName": "tengbo",
       "type": "DD",
+      "oversize": "true",
       "skins": [
         {
           "id": "Fujinami",
+          "oversize": "true",
           "label": "Default",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/fujinami/fujinami.json"
         },
         {
           "id": "Fujinami1",
           "label": "Secret Fashion Show For You",
+          "oversize": "true",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/fujinami1/fujinami1.json"
         }
       ]
@@ -18241,6 +18262,11 @@
           "id": "Bogatyr1",
           "label": "Emotional Data Maintenance",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/bogatyr1/bogatyr1.json"
+        },
+        {
+          "id": "Bogbot",
+          "label": "Bot",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/bogbot/bogbot.json"
         }
       ]
     },
@@ -18250,10 +18276,12 @@
       "faction": "sakura",
       "fileName": "yunlong",
       "rarity": "SR",
+      "oversize": "true",
       "type": "CV",
       "skins": [
         {
           "id": "Unryuu",
+          "oversize": "true",
           "label": "Default",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/unryuu/unryuu.json"
         }
@@ -18265,10 +18293,12 @@
       "rarity": "E",
       "faction": "sakura",
       "fileName": "mujin",
+      "oversize": "true",
       "type": "CL",
       "skins": [
         {
           "id": "Kizu",
+          "oversize": "true",
           "label": "Default",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kizu/kizu.json"
         }
@@ -18301,6 +18331,11 @@
           "id": "Gotz",
           "label": "Default",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/gotz/gotz.json"
+        },
+        {
+          "id": "GotzDrone",
+          "label": "Drone",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/gotzdrone/gotzdrone.json"
         }
       ]
     },
@@ -18325,16 +18360,19 @@
       "faction": "IronBlood",
       "fileName": "molici",
       "rarity": "SR",
+      "oversize": "true",
       "type": "CA",
       "skins": [
         {
           "id": "Moritz",
           "label": "Default",
+          "oversize": "true",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/moritz/moritz.json"
         },
         {
           "id": "Moritz1",
           "label": "The Genie's Game",
+          "oversize": "true",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/moritz1/moritz1.json"
         }
       ]
