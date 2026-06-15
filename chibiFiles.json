@@ -1265,6 +1265,7 @@
     {
       "name": "ObserverA",
       "faction": "siren",
+      "group": "hide",
       "skins": [
         {
           "id": "ObserverA",
@@ -14366,6 +14367,11 @@
           "id": "Ingraham1",
           "label": "Fixin' for a Mixin'",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/ingraham1/ingraham1.json"
+        },
+        {
+          "id": "IngrahamBot",
+          "label": "Support Robot Mk IV",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/ingrahambot/ingrahambot.json"
         }
       ]
     },
@@ -16762,12 +16768,14 @@
       "type": "CA",
       "class": "London",
       "faction": "royalNavy",
+      "oversize": "true",
       "fileName": "dewenjun",
       "rarity": "E",
       "skins": [
         {
           "id": "Devonshire",
           "label": "Default",
+          "oversize": "true",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/devonshire/devonshire.json"
         }
       ]
@@ -18405,6 +18413,32 @@
           "id": "Z15",
           "label": "Default",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/z15/z15.json"
+        }
+      ]
+    },
+    {
+      "name": "Neptune",
+      "class": "Neptune",
+      "faction": "royalNavy",
+      "rarity": "PR",
+      "type": "CL",
+      "fileName": "",
+      "group": "blueprint",
+      "skins": [
+        {
+          "id": "Neptune",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/neptune/neptune.json"
+        },
+        {
+          "id": "Neptune1",
+          "label": "Princess of the Reindeers",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/neptune1/neptune1.json"
+        },
+        {
+          "id": "Neptune2",
+          "label": "Officer Bunneptune Is on the Case!",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/neptune2/neptune2.json"
         }
       ]
     }
