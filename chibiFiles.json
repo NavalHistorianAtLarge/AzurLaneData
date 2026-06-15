@@ -17838,7 +17838,7 @@
       "faction": "sakura",
       "rarity": "UR",
       "type": "CV",
-      "fileName": "",
+      "fileName": "baifeng",
       "skins": [
         {
           "id": "Hakuhou",
@@ -17851,7 +17851,7 @@
       "name": "Taekaze",
       "class": "Yūgumo",
       "faction": "sakura",
-      "fileName": "",
+      "fileName": "miaofeng",
       "rarity": "E",
       "type": "DD",
       "skins": [
@@ -17883,7 +17883,7 @@
       "faction": "sakura",
       "rarity": "SR",
       "type": "BB",
-      "fileName": "",
+      "fileName": "jinjiang",
       "skins": [
         {
           "id": "Oumi",
@@ -17898,7 +17898,7 @@
       "type": "CA",
       "faction": "sakura",
       "rarity": "SR",
-      "fileName": "",
+      "fileName": "qianjian",
       "skins": [
         {
           "id": "Asama",
@@ -17911,7 +17911,7 @@
       "name": "Minase",
       "class": "Sendai",
       "faction": "sakura",
-      "fileName": "",
+      "fileName": "shuiwulai",
       "type": "CL",
       "rarity": "E",
       "skins": [
@@ -18007,7 +18007,7 @@
       "class": "Independence",
       "faction": "Eagle",
       "type": "CVL",
-      "fileName": "",
+      "fileName": "kebensi",
       "rarity": "SR",
       "skins": [
         {
@@ -18022,7 +18022,7 @@
       "class": "Fletcher",
       "faction": "Eagle",
       "rarity": "E",
-      "fileName": "",
+      "fileName": "kelalunsi",
       "type": "DD",
       "skins": [
         {
@@ -18042,7 +18042,7 @@
       "class": "Cleveland",
       "faction": "Eagle",
       "rarity": "E",
-      "fileName": "",
+      "fileName": "pasadina",
       "type": "CL",
       "skins": [
         {
@@ -18056,7 +18056,7 @@
       "name": "Francesco Caracciolo",
       "class": "Francesco Caracciolo",
       "faction": "Sardegna",
-      "fileName": "",
+      "fileName": "fulangxisike",
       "rarity": "SR",
       "type": "BB",
       "skins": [
@@ -18077,7 +18077,7 @@
       "class": "Guissano",
       "faction": "Sardegna",
       "rarity": "E",
-      "fileName": "",
+      "fileName": "aerbeituo",
       "type": "CL",
       "skins": [
         {
@@ -18097,7 +18097,7 @@
       "class": "Navigatori",
       "faction": "Sardegna",
       "rarity": "E",
-      "fileName": "",
+      "fileName": "wugelini",
       "type": "DD",
       "skins": [
         {
@@ -18117,7 +18117,7 @@
       "class": "Yūgumo",
       "faction": "sakura",
       "rarity": "SR",
-      "fileName": "",
+      "fileName": "tengbo",
       "type": "DD",
       "skins": [
         {
@@ -18168,7 +18168,7 @@
       "name": "Moskva",
       "class": "Moskva",
       "faction": "northParliament",
-      "fileName": "",
+      "fileName": "mosike",
       "type": "CA",
       "rarity": "UR",
       "skins": [
@@ -18187,7 +18187,7 @@
     {
       "name": "Ozornoy",
       "class": "Ognevoy",
-      "fileName": "",
+      "fileName": "wanpi",
       "faction": "northParliament",
       "type": "DD",
       "rarity": "SR",
@@ -18208,7 +18208,7 @@
       "name": "Krasny Kavkaz",
       "class": "Admiral Nakhimov",
       "faction": "northParliament",
-      "fileName": "",
+      "fileName": "hongseshanmai",
       "rarity": "E",
       "type": "CL",
       "skins": [
@@ -18228,7 +18228,7 @@
       "name": "Bogatyr",
       "class": "Bogatyr",
       "faction": "northParliament",
-      "fileName": "",
+      "fileName": "bojiateli",
       "rarity": "E",
       "type": "CL",
       "skins": [
@@ -18248,7 +18248,7 @@
       "name": "Unryū",
       "class": "Unryuu",
       "faction": "sakura",
-      "fileName": "",
+      "fileName": "yunlong",
       "rarity": "SR",
       "type": "CV",
       "skins": [
@@ -18264,7 +18264,7 @@
       "class": "Sendai",
       "rarity": "E",
       "faction": "sakura",
-      "fileName": "",
+      "fileName": "mujin",
       "type": "CL",
       "skins": [
         {
@@ -18279,13 +18279,99 @@
       "class": "Sendai",
       "faction": "sakura",
       "rarity": "E",
-      "fileName": "",
+      "fileName": "mingji",
       "type": "CL",
       "skins": [
         {
           "id": "Nayoro",
           "label": "Default",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/nayoro/nayoro.json"
+        }
+      ]
+    },
+    {
+      "name": "Götz von Berlichingen",
+      "class": "H",
+      "faction": "IronBlood",
+      "fileName": "gezi",
+      "rarity": "UR",
+      "type": "BB",
+      "skins": [
+        {
+          "id": "Gotz",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/gotz/gotz.json"
+        }
+      ]
+    },
+    {
+      "name": "U-2501",
+      "class": "XXI",
+      "faction": "IronBlood",
+      "fileName": "u2501",
+      "rarity": "UR",
+      "type": "SS",
+      "skins": [
+        {
+          "id": "U2501",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/u2501/u2501.json"
+        }
+      ]
+    },
+    {
+      "name": "Prinz Moritz",
+      "class": "P",
+      "faction": "IronBlood",
+      "fileName": "molici",
+      "rarity": "SR",
+      "type": "CA",
+      "skins": [
+        {
+          "id": "Moritz",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/moritz/moritz.json"
+        },
+        {
+          "id": "Moritz1",
+          "label": "The Genie's Game",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/moritz1/moritz1.json"
+        }
+      ]
+    },
+    {
+      "name": "Z14 (Friedrich Ihn)",
+      "class": "1934A",
+      "faction": "IronBlood",
+      "fileName": "",
+      "riggingName": "Little Ihn",
+      "rarity": "E",
+      "type": "DD",
+      "skins": [
+        {
+          "id": "Z14",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/z14/z14.json"
+        },
+        {
+          "id": "Z14a",
+          "label": "Lost in the Summer Sun",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/z14a/z14a.json"
+        }
+      ]
+    },
+    {
+      "name": "Z15 (Erich Steinbrinck)",
+      "class": "1934A",
+      "faction": "IronBlood",
+      "fileName": "z15",
+      "rarity": "E",
+      "type": "DD",
+      "skins": [
+        {
+          "id": "Z15",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/z15/z15.json"
         }
       ]
     }
