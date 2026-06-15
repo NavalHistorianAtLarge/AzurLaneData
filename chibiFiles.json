@@ -17885,7 +17885,7 @@
       ]
     },
     {
-      "name": "Oumi",
+      "name": "Ōmi",
       "class" :"Kii",
       "faction": "sakura",
       "rarity": "SR",
@@ -18022,7 +18022,7 @@
         {
           "id": "Cowpens",
           "label": "Default",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/cowpens1/cowpens1.json"
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/cowpens/cowpens.json"
         }
       ]
     },
@@ -18106,7 +18106,7 @@
           "id": "Guissano1",
           "oversize": "true",
           "label": "A Magnificent Mistake",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/guissano1/guisanno1.json"
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/guissano1/guissano1.json"
         }
       ]
     },
@@ -18220,6 +18220,7 @@
         },
         {
           "id": "Ozornoy1",
+          "oversize": "true",
           "label": "The White-Robed Wind Rider Ascends",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/ozornoy1/ozornoy1.json"
         }
@@ -18368,12 +18369,6 @@
           "label": "Default",
           "oversize": "true",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/moritz/moritz.json"
-        },
-        {
-          "id": "Moritz1",
-          "label": "The Genie's Game",
-          "oversize": "true",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/moritz1/moritz1.json"
         }
       ]
     },
