@@ -18695,7 +18695,7 @@
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kitakaze/kitakaze.json"
         },
         {
-          "id": "Kitakaze1",,
+          "id": "Kitakaze1",
           "label": "Celebration Conquest",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kitakaze1/kitakaze1.json"
         },
@@ -18875,7 +18875,7 @@
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/cheshires/cheshires.json"
         }
       ]
-    }
+    },
     {
       "name": "Drake",
       "type": "CL",
