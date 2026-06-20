@@ -2175,14 +2175,19 @@
       "rarity": "SR",
       "skins": [
         {
-          "id": "NorthCarolina",
+          "id": "NoCal",
           "label": "Default",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/nocal/nocal.json"
         },
         {
-          "id": "NorthCarolina1",
+          "id": "NoCal1",
           "label": "Desires of the Heart",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/nocal1/nocal1.json"
+        },
+        {
+          "id": "NoCal2",
+          "label": "Unique Sunshine",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/nocal2/nocal2.json"
         }
       ]
     },
@@ -4132,6 +4137,11 @@
           "id": "Hood4",
           "label": "Gentlewoman and Stallion",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hood4/hood4.json"
+        },
+        {
+          "id": "Hood6",
+          "label": "Elegance Meant for One",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hood6/hood6.json"
         },
         {
           "id": "HoodH",
@@ -18418,12 +18428,10 @@
     },
     {
       "name": "Neptune",
-      "class": "Neptune",
       "faction": "royalNavy",
       "rarity": "PR",
       "type": "CL",
       "fileName": "",
-      "group": "blueprint",
       "skins": [
         {
           "id": "Neptune",
@@ -18437,10 +18445,1091 @@
         },
         {
           "id": "Neptune2",
-          "label": "Officer Bunneptune Is on the Case!",
+          "label": "Nereid's Invitation",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/neptune2/neptune2.json"
+        },
+        {
+          "id": "Neptune3",
+          "label": "Officer Bunneptune Is on the Case!",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/neptune3/neptune3.json"
+        }
+      ]
+    },
+    {
+      "name": "Monarch",
+      "type": "BB",
+      "faction": "royalNavy",
+      "fileName": "",
+      "rarity": "PR",
+      "skins": [
+        {
+          "id": "Monarch",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/monarch/monarch.json"
+        },
+        {
+          "id": "Monarch1",
+          "label": "White Warrick",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/monarch1/monarch1.json"
+        },
+        {
+          "id": "Monarch2",
+          "label": "Black Garard",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/monarch2/monarch2.json"
+        },
+        {
+          "id": "Monarch3",
+          "label": "Detective Arriving on the Scene",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/monarch3/monarch3.json"
+        },
+        {
+          "id": "Monarch4",
+          "label": "Sovereign of the Beach",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/monarch4/monarch4.json"
+        }
+      ]
+    },
+    {
+      "name": "Ibuki",
+      "faction": "sakura",
+      "fileName": "",
+      "type": "CA",
+      "rarity": "PR",
+      "skins": [
+        {
+          "id": "Ibuki",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/ibuki/ibuki.json"
+        },
+        {
+          "id": "Ibuki1",
+          "label": "Winter Sylph's Reverie",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/ibuki1/ibuki1.json"
+        },
+        {
+          "id": "Ibuki2",
+          "label": "Snow on the Wind",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/ibuki2/ibuki2.json"
+        },
+        {
+          "id": "Ibuki3",
+          "label": "Arrival of Spring",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/ibuki3/ibuki3.json"
+        },
+        {
+          "id": "Ibuki4",
+          "label": "Tranquil Sunya",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/ibuki4/ibuki4.json"
+        },
+        {
+          "id": "Ibuki5",
+          "label": "Traces of Summery Love",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/ibuki5/ibuki5.json"
+        }
+      ]
+    },
+    {
+      "name": "Izumo",
+      "type": "BB",
+      "rarity": "PR",
+      "faction": "sakura",
+      "fileName": "",
+      "skins": [
+        {
+          "id": "Izumo",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/izumo/izumo.json"
+        },
+        {
+          "id": "Izumo1",
+          "label": "Izumo's Thousand Cherry Trees",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/izumo1/izumo1.json"
+        },
+        {
+          "id": "Izumo2",
+          "label": "Tail-Stirred Cocktail",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/izumo2/izumo2.json"
+        }
+      ]
+    },
+    {
+      "name": "Roon",
+      "faction": "IronBlood",
+      "fileName": "",
+      "rarity": "PR",
+      "type": "CA",
+      "skins": [
+        {
+          "id": "Roon",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/roon/roon.json"
+        },
+        {
+          "id": "Roon1",
+          "label": "Dark Red Grin",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/roon1/roon1.json"
+        },
+        {
+          "id": "Roon2",
+          "label": "Viridescent Lullaby",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/roon2/roon2.json"
+        },
+        {
+          "id": "Roon3",
+          "label": "Enticement in the Indigo Darkness",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/roon3/roon3.json"
+        },
+        {
+          "id": "RoonH",
+          "label": "The Abyssal Embrace",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/roonh/roonh.json"
+        }
+      ]
+    },
+    {
+      "name": "Roon Muse",
+      "faction": "IronBlood",
+      "rarity": "SR",
+      "fileName": "",
+      "type": "CL",
+      "skins": [
+        {
+          "id": "RoonI",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/rooni/rooni.json"
+        }
+      ]
+    },
+    {
+      "name": "Saint Louis",
+      "faction": "IrisLibre",
+      "rarity": "PR",
+      "fileName": "",
+      "type": "CA",
+      "skins": [
+        {
+          "id": "SaintLouis",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/saintlouis/saintlouis.json"
+        },
+        {
+          "id": "SaintLouis1",
+          "label": "Holy Knight's Resplendence",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/saintlouis1/saintlouis1.json"
+        },
+        {
+          "id": "SaintLouis2",
+          "label": "Alluring Administrator",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/saintlouis2/saintlouis2.json"
+        }
+      ]
+    },
+    {
+      "name": "Seattle",
+      "type": "CL",
+      "faction": "Eagle",
+      "fileName": "",
+      "rarity": "PR",
+      "skins": [
+        {
+          "id": "Seattle",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/seattle/seattle.json"
+        },
+        {
+          "id": "Seattle1",
+          "label": "Gorgeous Party",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/seattle1/seattle1.json"
+        },
+        {
+          "id": "Seattle2",
+          "label": "Christmas Party Prep!",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/seattle2/seattle2.json"
+        },
+        {
+          "id": "Seattle3",
+          "label": "Sunfish Spell!",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/seattle3/seattle3.json"
+        }
+      ]
+    },
+    {
+      "name": "Georgia",
+      "faction": "Eagle",
+      "fileName": "",
+      "rarity": "PR",
+      "type": "BB",
+      "skins": [
+        {
+          "id": "Georgia",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/georgia/georgia.json"
+        },
+        {
+          "id": "Georgia1",
+          "label": "South Town Pearl",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/georgia1/georgia1.json"
+        },
+        {
+          "id": "Georgia2",
+          "label":"Lanier Swan",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/georgia2/georgia2.json"
+        },
+        {
+          "id": "Georgia3",
+          "label": "Exalted Vibrance",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/georgia3/georgia3.json"
+        }
+      ]
+    },
+    {
+      "name": "Kitakaze",
+      "faction": "sakura",
+      "fileName": "",
+      "rarity": "PR",
+      "type": "DD",
+      "skins": [
+        {
+          "id": "Kitakaze",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kitakaze/kitakaze.json"
+        },
+        {
+          "id": "Kitakaze1",,
+          "label": "Celebration Conquest",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kitakaze1/kitakaze1.json"
+        },
+        {
+          "id": "Kitakaze2",
+          "label": "Night of Doves and Magic",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kitakaze2/kitakaze2.json"
+        }
+      ]
+    },
+    {
+      "name": "Azuma",
+      "faction": "sakura",
+      "rarity": "DR",
+      "fileName": "",
+      "type": "CB",
+      "skins": [
+        {
+          "id": "Azuma",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/azuma/azuma.json"
+        },
+        {
+          "id": "Azuma1",
+          "label": "Soft Voice of Spring",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/azuma1/azuma1.json"
+        },
+        {
+          "id": "Azuma2",
+          "label": "Career Counseling for the Groom",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/azuma2/azuma2.json"
+        },
+        {
+          "id": "AzumaH",
+          "label": "Lily-White Longing",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/azumah/azumah.json"
+        }
+      ]
+    },
+    {
+      "name": "Friedrich der Große",
+      "faction": "IronBlood",
+      "rarity": "DR",
+      "fileName": "",
+      "type": "BB",
+      "skins": [
+        {
+          "id": "FdG",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/fdg/fdg.json"
+        },
+        {
+          "id": "FdG1",
+          "label": "Dark Raiments of Gagaku",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/fdg1/fdg1.json"
+        },
+        {
+          "id": "FdG2",
+          "label": "One Summer Night's Intimacy",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/fdg2/fdg2.json"
+        },
+        {
+          "id": "FdG3",
+          "label": "Boudoir's Lingering Flame",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/fdg3/fdg3.json"
+        },
+        {
+          "id": "FdGH",
+          "label": "Zeremonie of the Cradle",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/fdgh/fdgh.json"
+        }
+      ]
+    },
+    {
+      "name": "Little Friedrich",
+      "faction": "IronBlood",
+      "fileName": "feiteleidadi_younv",
+      "rarity": "E",
+      "type": "BB",
+      "skins": [
+        {
+          "id": "FdGS",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/fdgs/fdgs.json"
+        }
+      ]
+    },
+    {
+      "name": "Gascogne",
+      "class": "Richelieu",
+      "faction": "Vichya",
+      "fileName": "",
+      "rarity": "DR",
+      "type": "BB",
+      "skins": [
+        {
+          "id": "Gascogne",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/gascogne/gascogne.json"
+        },
+        {
+          "id": "Gascogne1",
+          "label": "Tropical Environs Acclimatioin Service Equipment",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/gascogne1/gascogne1.json"
+        },
+        {
+          "id": "Gascogne2",
+          "label": "Traveling Mood Mechanism",
+          "path":"https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/gascogne2/gascogne2.json"
+        }
+      ]
+    },
+    {
+      "name": "Gascogne Muse",
+      "class": "Richelieu",
+      "faction": "Vichya",
+      "fileName": "",
+      "rarity": "SR",
+      "type": "BB",
+      "skins": [
+        {
+          "id": "GascogneI",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/gascognei/gascognei.json"
+        }
+      ]
+    },
+    {
+      "name": "Cheshire",
+      "faction": "royalNavy",
+      "fileName": "",
+      "rarity": "PR",
+      "type": "CA",
+      "skins": [
+        {
+          "id": "Cheshire",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/cheshire/cheshire.json"
+        },
+        {
+          "id": "Cheshire1",
+          "label": "Summery Date!",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/cheshire1/cheshire1.json"
+        },
+        {
+          "id": "Cheshire2",
+          "label": "Cait Sith Crooner",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/cheshire2/cheshire2.json"
+        },
+        {
+          "id": "Cheshire3",
+          "label": "The Cat and the White Steed",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/cheshire3/cheshire3.json"
+        },
+        {
+          "id": "Cheshire4",
+          "label": "The Cat in the Magic Hat",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/cheshire4/cheshire4.json"
+        },
+        {
+          "id": "CheshireH",
+          "label": "White Seaside Melody",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/cheshireh/cheshireh.json"
+        }
+      ]
+    },
+    {
+      "name": "Little Cheshire",
+      "type": "CA",
+      "faction": "royalNavy",
+      "fileName": "",
+      "rarity": "E",
+      "skins": [
+        {
+          "id": "CheshireS",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/cheshires/cheshires.json"
         }
       ]
     }
+    {
+      "name": "Drake",
+      "type": "CL",
+      "faction": "royalNavy",
+      "rarity": "DR",
+      "fileName": "",
+      "skins": [
+        {
+          "id": "Drake",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/drake/drake.json"
+        },
+        {
+          "id": "Drake1",
+          "label": "The Golden Hind's Respite",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/drake1/drake1.json"
+        }
+      ]
+    },
+    {
+      "name": "Mainz",
+      "faction": "IronBlood",
+      "type": "CL",
+      "fileName": "",
+      "rarity": "PR",
+      "skins": [
+        {
+          "id": "Mainz",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/mainz/mainz.json"
+        },
+        {
+          "id": "Mainz1",
+          "label": "The Silkiest Brew",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/mainz1/mainz1.json"
+        },
+        {
+          "id": "Mainz2",
+          "label": "A Blend of Serenity",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/mainz2/mainz2.json"
+        }
+      ]
+    },
+    {
+      "name": "Odin",
+      "rarity": "PR",
+      "type": "BC",
+      "faction": "IronBlood",
+      "fileName": "",
+      "skins": [
+        {
+          "id": "Odin",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/odin/odin.json"
+        },
+        {
+          "id": "Odin1",
+          "label": "Black Strokes upon Blankk Snow",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/odin1/odin1.json"
+        }
+      ]
+    },
+    {
+      "name": "Champagne",
+      "faction": "IrisLibre",
+      "fileName": "",
+      "type": "BB",
+      "rarity": "PR",
+      "skins": [
+        {
+          "id": "Champagne",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/champagne/champagne.json"
+        },
+        {
+          "id": "Champagne1",
+          "label": "Lapis Lazuli's First Dream",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/champagne1/champagne1.json"
+        },
+        {
+          "id": "ChampagneH",
+          "label": "Adulation Eternal",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/champagneh/champagneh.json"
+        }
+      ]
+    },
+    {
+      "name": "Anchorage",
+      "faction": "Eagle",
+      "type": "CA",
+      "fileName": "",
+      "rarity": "PR",
+      "skins": [
+        {
+          "id": "Anchorage",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/anchorage/anchorage.json"
+        },
+        {
+          "id": "Anchorage1",
+          "label": "Dolphins and Swim Lessons",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/anchorage1/anchorage1.json"
+        },
+        {
+          "id": "Anchorage2",
+          "label": "Moonlit Boat Ride",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/anchorage2/anchorage2.json"
+        },
+        {
+          "id": "AnchorageH",
+          "label": "Oath of Sunsets and Fireworks",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/anchorageh/anchorageh.json"
+        }
+      ]
+    },
+    {
+      "name": "Little Anchorage",
+      "faction": "Eagle",
+      "rarity": "E",
+      "type": "CA",
+      "fileName": "",
+      "skins": [
+        {
+          "id": "AnchorageS",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/anchorages/anchorages.json"
+        }
+      ]
+    },
+    {
+      "name": "Hakuryū",
+      "rarity": "DR",
+      "type": "CV",
+      "faction": "sakura",
+      "fileName": "",
+      "skins": [
+        {
+          "id": "Hakuryuu",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hakuryuu/hakuryuu.json"
+        },
+        {
+          "id": "Hakuryuu1",
+          "label": "Slice, Dice, and Serve",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hakuryuu1/hakuryuu1.json"
+        },
+        {
+          "id": "Hakuryuu2",
+          "label": "Flash of Silk and Strings",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hakuryuu2/hakuryuu2.json"
+        },
+        {
+          "id": "Hakuryuu3",
+          "label": "Folded Over a Thousand Times",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hakuryuu3/hakuryuu3.json"
+        },
+        {
+          "id": "Hakuryuu4",
+          "label": "Four Fine Layers",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hakuryuu4/hakuryuu4.json"
+        }
+      ]
+    },
+    {
+      "name": "Ägir",
+      "type": "CB",
+      "faction": "IronBlood",
+      "rarity": "DR",
+      "fileName": "",
+      "skins": [
+        {
+          "id": "Agir",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/agir/agir.json"
+        },
+        {
+          "id": "Agir1",
+          "label": "Iron Blood's Dragon Maid",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/agir1/agir1.json"
+        },
+        {
+          "id": "Agir2",
+          "label": "Golden Dragon Among Auspicious Clouds",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/agir2/agir2.json"
+        },
+        {
+          "id": "Agir3",
+          "label": "One-on-One Leisure Time",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/agir3/agir3.json"
+        }
+      ]
+    },
+    {
+      "name": "Little Ägir",
+      "type": "CB",
+      "faction": "IronBlood",
+      "rarity": "E",
+      "group": "littles",
+      "fileName": "",
+      "skins": [
+        {
+          "id": "AgirS",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/agirs/agirs.json"
+        }
+      ]
+    },
+    {
+      "name": "August von Parseval",
+      "faction": "IronBlood",
+      "fileName": "",
+      "rarity": "PR",
+      "type":"CV",
+      "skins": [
+        {
+          "id": "Parseval",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/parseval/parseval.json"
+        },
+        {
+          "id": "Parseval1",
+          "label": "The Conquered Unhulde",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/parseval1/parseval1.json"
+        },
+        {
+          "id": "Parseval2",
+          "label": "The Unhulde's Midday Respite",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/parseval2/parseval2.json"
+        },
+        {
+          "id": "Parseval3",
+          "label": "Night Rendezvous with the Unhulde",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/parseval3/parseval3.json"
+        }
+      ]
+    },
+    {
+      "name": "Marco Polo",
+      "faction": "Sardegna",
+      "fileName": "",
+      "rarity": "PR",
+      "type": "BB",
+      "skins": [
+        {
+          "id": "Polo",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/polo/polo.json"  
+        },
+        {
+          "id": "Polo1",
+          "label": "The Queen of Hearts",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/polo1/polo1.json"
+        }
+      ]
+    },
+    {
+      "name": "Plymouth",
+      "faction": "royalNavy",
+      "fileName": "",
+      "rarity": "DR",
+      "type": "CL",
+      "skins": [
+        {
+          "id": "Plymouth",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/plymouth/plymouth.json"
+        },
+        {
+          "id": "Plymouth1",
+          "label": "Heart-Throbbing Refreshment",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/plymouth1/plymouth1.json"
+        }
+      ]
+    },
+    {
+      "name": "Prinz Rupprecht",
+      "faction": "IronBlood",
+      "fileName": "",
+      "rarity": "PR",
+      "type": "CA",
+      "skins": [
+        {
+          "id": "Rupprecht",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/rupprecht/rupprecht.json"
+        },
+        {
+          "id": "Rupprecht1",
+          "label": "The Gate Dragon's Advent",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/rupprecht1/rupprecht1.json"
+        },
+        {
+          "id": "Rupprecht2",
+          "label": "Midnight Pearl",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/rupprecht2/rupprecht2.json"
+        }
+      ]
+    },
+    {
+      "name": "Harbin",
+      "faction": "china",
+      "fileName": "",
+      "type": "CL",
+      "rarity": "PR",
+      "skins": [
+        {
+          "id": "Harbin",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/harbin/harbin.json"
+        },
+        {
+          "id": "Harbin1",
+          "label": "Union Between Sea and Sky",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/harbin1/harbin1.json"
+        },
+        {
+          "id": "Harbin2",
+          "label": "Set Sail for Summer Treasure",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/harbin2/harbin2.json"
+        },
+        {
+          "id": "HarbinH",
+          "label": "Red Paeonia",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/harbinh/harbinh.json"
+        }
+      ]
+    },
+    {
+      "name": "Chkalov",
+      "faction": "northParliament",
+      "rarity": "PR",
+      "fileName": "",
+      "type": "CV",
+      "skins": [
+        {
+          "id": "Chkalov",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/chkalov/chkalov.json"
+        },
+        {
+          "id": "Chkalov1",
+          "label": "Seaside Sunset",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/chkalov1/chkalov1.json"
+        }
+      ]
+    },
+    {
+      "name": "Brest",
+      "faction": "IrisLibre",
+      "type": "CB",
+      "rarity": "DR",
+      "fileName": "",
+      "skins": [
+        {
+          "id": "Brest",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/brest/brest.json"
+        },
+        {
+          "id": "Brest",
+          "label": "Marine Muse",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/brest1/brest1.json"
+        },
+        {
+          "id": "Brest2",
+          "label": "Moonlit Night's Spring Vista",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/brest2/brest2.json"
+        }
+      ]
+    },
+    {
+      "name": "Kearsarge",
+      "faction": "Eagle",
+      "fileName": "",
+      "rarity": "DR",
+      "type": "BBV",
+      "skins": [
+        {
+          "id": "Kearsarge",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kearsarge/kearsarge.json"
+        },
+        {
+          "id": "Kearsarge1",
+          "label": "All-Night Charge",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kearsarge1/kearsarge1.json"
+        },
+        {
+          "id": "Kearsarge2",
+          "label": "Springtime Monitering",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kearsarge2/kearsarge2.json"
+        }
+      ]
+    },
+    {
+      "name": "Shimanto",
+      "faction": "sakura",
+      "type": "CL",
+      "rarity": "PR",
+      "skins": [
+        {
+          "id": "Shimanto",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/shimanto/shimanto.json"
+        },
+        {
+          "id": "Shimanto1",
+          "label": "The Comfy Dragon God",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/shimanto1/shimanto1.json"
+        },
+        {
+          "id": "Shimanto2",
+          "label": "The Relaxing Dragon God",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/shimanto2/shimanto2.json"
+        }
+      ]
+    },
+    {
+      "name": "Felix Schultz",
+      "faction": "IronBlood",
+      "fileName": "",
+      "rarity": "PR",
+      "type": "DD",
+      "skins": [
+        {
+          "id": "Schultz",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/schultz/schultz.json"
+        },
+        {
+          "id": "Schultz1",
+          "label": "Sweet, Sleepy \"Revenge\"",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/schultz1/schultz1.json"
+        }
+      ]
+    },
+    {
+      "name": "Hindenburg",
+      "faction": "IronBlood",
+      "rarity": "DR",
+      "type": "CA",
+      "fileName": "",
+      "skins": [
+        {
+          "id": "Hindenburg",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hindenburg/hindenburg.json"
+        },
+        {
+          "id": "Hindenburg1",
+          "label": "Delirious Duel",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/hindenburg1/hindenburg1.json"
+        }
+      ]
+    },
+    {
+      "name": "Flandre",
+      "faction": "Vichya",
+      "type": "BB",
+      "class": "Alsace",
+      "fileName": "",
+      "rarity": "PR",
+      "skins": [
+        {
+          "id": "Flandre",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/flandre/flandre.json"
+        },
+        {
+          "id": "Flandre1",
+          "label": "If Love is a Sin, Thou Art Forgiven",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/flandre1/flandre1.json"
+        }
+      ]
+    },
+    {
+      "name": "Halford",
+      "class": "Fletcher",
+      "faction": "Eagle",
+      "rarity": "PR",
+      "fileName": "",
+      "type": "DD",
+      "skins": [
+        {
+          "id": "Halford",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/halford/halford.json"
+        },
+        {
+          "id": "Halford1",
+          "label": "A Special Day with the Bunny Lord",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/halford1/halford1.json"
+        }
+      ]
+    },
+    {
+      "name": "Daisen",
+      "faction": "sakura",
+      "rarity": "PR",
+      "fileName": "",
+      "type": "BB",
+      "skins": [
+        {
+          "id": "Daisen",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/daisen/daisen.json"
+        },
+        {
+          "id": "Daisen1",
+          "label": "Bunny Priestess in Prayer",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/daisen1/daisen1.json"
+        }
+      ]
+    },
+    {
+      "name": "Napoli",
+      "faction": "Sardegna",
+      "fileName": "",
+      "rarity": "DR",
+      "skins": [
+        {
+          "id": "Napoli",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/napoli/napoli.json"
+        }
+      ]
+    },
+    {
+      "name": "Admiral Nakhimov",
+      "type": "CV",
+      "rarity": "DR",
+      "faction": "northParliament",
+      "fileName": "",
+      "skins": [
+        {
+          "id": "Nakhimov",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/nakhimov/nakhimov.json"
+        },
+        {
+          "id": "Nakhimov1",
+          "label": "First Time in the Limelight",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/nakhimov1/nakhimov1.json"
+        },
+        {
+          "id": "Nakhimov2",
+          "label": "A Fresh, Green Day",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/nakhimov2/nakhimov2.json"
+        },
+        {
+          "id": "Nakhimov3",
+          "label": "Cheerleading Mechanic?",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/nakhimov3/nakhimov3.json"
+        }
+      ]
+    },
+    {
+      "name": "Bayard",
+      "type": "CL",
+      "faction": "IrisLibre",
+      "fileName": "",
+      "rarity": "PR",
+      "skins": [
+        {
+          "id": "Bayard",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/bayard/bayard.json"
+        },
+        {
+          "id": "Bayard1",
+          "label": "The Most Treacherous Trial",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/bayard1/bayard1.json"
+        }
+      ]
+    },
+    {
+      "name": "Kansas",
+      "faction": "Eagle",
+      "type": "BB",
+      "rarity": "PR",
+      "fileName": "kansasi",
+      "skins": [
+        {
+          "id": "Kansas",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kansas/kansas.json"
+        }
+      ]
+    },
+    {
+      "name": "Mecklenburg",
+      "faction": "IronBlood",
+      "fileName": "",
+      "type": "BB",
+      "rarity": "DR",
+      "skins": [
+        {
+          "id": "Mecklenburg",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/mecklenburg/mecklenberg.json"
+        }
+      ]
+    },
+    {
+      "name": "Vittorio Cuniberti",
+      "type": "DD",
+      "rarity": "PR",
+      "faction": "Sardegna",
+      "fileName": "",
+      "skins": [
+        {
+          "id": "Cuniberti",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/cuniberti/cuniberti.json"
+        },
+        {
+          "id": "Cuniberti1",
+          "label": "On the Habits of Cats",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/cuniberti1/cuniberti1.json"
+        }
+      ]
+    },
+    {
+      "name": "Dmitry Donskoi",
+      "faction": "northParliament",
+      "rarity": "PR",
+      "fileName": "",
+      "type": "CL",
+      "skins": [
+        {
+          "id": "Donskoi",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/donskoi/donskoi.json"
+        },
+        {
+          "id": "Donskoi1",
+          "label": "Bedside Bunny",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/donskoi1/donskoi1.json"
+        }
+      ]
+    },
+    {
+      "name": "Golden Leeuw",
+      "faction": "tulipa",
+      "rarity": "DR",
+      "fileName": "",
+      "type": "CA",
+      "skins": [
+        {
+          "id": "Leeuw",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/leeuw/leeuw.json"
+        }
+      ]
+    }   
   ]   
 }
