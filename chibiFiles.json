@@ -19417,15 +19417,18 @@
       "faction": "sakura",
       "rarity": "PR",
       "fileName": "dashan",
+      "oversize": "true",
       "type": "BB",
       "skins": [
         {
           "id": "Daisen",
+          "oversize": "true",
           "label": "Default",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/daisen/daisen.json"
         },
         {
           "id": "Daisen1",
+          "oversize": "true",
           "label": "Bunny Priestess in Prayer",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/daisen1/daisen1.json"
         }
@@ -19435,11 +19438,13 @@
       "name": "Napoli",
       "faction": "Sardegna",
       "fileName": "nabulesi",
+      "oversize": "true",
       "rarity": "DR",
       "skins": [
         {
           "id": "Napoli",
           "label": "Default",
+          "oversize": "true",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/napoli/napoli.json"
         }
       ]
@@ -19516,7 +19521,7 @@
         {
           "id": "Mecklenburg",
           "label": "Default",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/mecklenburg/mecklenberg.json"
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/mecklenburg/mecklenburg.json"
         },
         {
           "id": "MechWing",
