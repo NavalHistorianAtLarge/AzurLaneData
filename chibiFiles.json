@@ -18431,7 +18431,7 @@
       "faction": "royalNavy",
       "rarity": "PR",
       "type": "CL",
-      "fileName": "",
+      "fileName": "haiwangxing",
       "skins": [
         {
           "id": "Neptune",
@@ -18459,7 +18459,7 @@
       "name": "Monarch",
       "type": "BB",
       "faction": "royalNavy",
-      "fileName": "",
+      "fileName": "junzhu",
       "rarity": "PR",
       "skins": [
         {
@@ -18492,7 +18492,7 @@
     {
       "name": "Ibuki",
       "faction": "sakura",
-      "fileName": "",
+      "fileName": "yichui",
       "type": "CA",
       "rarity": "PR",
       "skins": [
@@ -18533,7 +18533,7 @@
       "type": "BB",
       "rarity": "PR",
       "faction": "sakura",
-      "fileName": "",
+      "fileName": "chuyun",
       "skins": [
         {
           "id": "Izumo",
@@ -18555,28 +18555,33 @@
     {
       "name": "Roon",
       "faction": "IronBlood",
-      "fileName": "",
+      "fileName": "luoen",
       "rarity": "PR",
+      "oversize": "true",
       "type": "CA",
       "skins": [
         {
           "id": "Roon",
+          "oversize": "true",
           "label": "Default",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/roon/roon.json"
         },
         {
           "id": "Roon1",
           "label": "Dark Red Grin",
+          "oversize": "true",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/roon1/roon1.json"
         },
         {
           "id": "Roon2",
           "label": "Viridescent Lullaby",
+          "oversize": "true",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/roon2/roon2.json"
         },
         {
           "id": "Roon3",
           "label": "Enticement in the Indigo Darkness",
+          "oversize": "true",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/roon3/roon3.json"
         },
         {
@@ -18590,7 +18595,7 @@
       "name": "Roon Muse",
       "faction": "IronBlood",
       "rarity": "SR",
-      "fileName": "",
+      "fileName": "luoen_idol",
       "type": "CL",
       "skins": [
         {
@@ -18604,7 +18609,7 @@
       "name": "Saint Louis",
       "faction": "IrisLibre",
       "rarity": "PR",
-      "fileName": "",
+      "fileName": "luyijiushi",
       "type": "CA",
       "skins": [
         {
@@ -18628,7 +18633,7 @@
       "name": "Seattle",
       "type": "CL",
       "faction": "Eagle",
-      "fileName": "",
+      "fileName": "xiyatu",
       "rarity": "PR",
       "skins": [
         {
@@ -18656,7 +18661,7 @@
     {
       "name": "Georgia",
       "faction": "Eagle",
-      "fileName": "",
+      "fileName": "zuozhiya",
       "rarity": "PR",
       "type": "BB",
       "skins": [
@@ -18685,7 +18690,7 @@
     {
       "name": "Kitakaze",
       "faction": "sakura",
-      "fileName": "",
+      "fileName": "beifeng",
       "rarity": "PR",
       "type": "DD",
       "skins": [
@@ -18710,7 +18715,7 @@
       "name": "Azuma",
       "faction": "sakura",
       "rarity": "DR",
-      "fileName": "",
+      "fileName": "wuqi",
       "type": "CB",
       "skins": [
         {
@@ -18739,7 +18744,7 @@
       "name": "Friedrich der Große",
       "faction": "IronBlood",
       "rarity": "DR",
-      "fileName": "",
+      "fileName": "feiteliedadi",
       "type": "BB",
       "skins": [
         {
@@ -18787,7 +18792,7 @@
       "name": "Gascogne",
       "class": "Richelieu",
       "faction": "Vichya",
-      "fileName": "",
+      "fileName": "jiasikenie",
       "rarity": "DR",
       "type": "BB",
       "skins": [
@@ -18812,7 +18817,7 @@
       "name": "Gascogne Muse",
       "class": "Richelieu",
       "faction": "Vichya",
-      "fileName": "",
+      "fileName": "jiasikenie_idol",
       "rarity": "SR",
       "type": "BB",
       "skins": [
@@ -18826,7 +18831,7 @@
     {
       "name": "Cheshire",
       "faction": "royalNavy",
-      "fileName": "",
+      "fileName": "chaijun",
       "rarity": "PR",
       "type": "CA",
       "skins": [
@@ -18866,7 +18871,7 @@
       "name": "Little Cheshire",
       "type": "CA",
       "faction": "royalNavy",
-      "fileName": "",
+      "fileName": "chaijun_younv",
       "rarity": "E",
       "skins": [
         {
@@ -18881,7 +18886,7 @@
       "type": "CL",
       "faction": "royalNavy",
       "rarity": "DR",
-      "fileName": "",
+      "fileName": "deleike",
       "skins": [
         {
           "id": "Drake",
@@ -18899,7 +18904,7 @@
       "name": "Mainz",
       "faction": "IronBlood",
       "type": "CL",
-      "fileName": "",
+      "fileName": "meiyinci",
       "rarity": "PR",
       "skins": [
         {
@@ -18924,7 +18929,7 @@
       "rarity": "PR",
       "type": "BC",
       "faction": "IronBlood",
-      "fileName": "",
+      "fileName": "aoding",
       "skins": [
         {
           "id": "Odin",
@@ -18941,7 +18946,7 @@
     {
       "name": "Champagne",
       "faction": "IrisLibre",
-      "fileName": "",
+      "fileName": "xiangbin",
       "type": "BB",
       "rarity": "PR",
       "skins": [
@@ -18966,7 +18971,7 @@
       "name": "Anchorage",
       "faction": "Eagle",
       "type": "CA",
-      "fileName": "",
+      "fileName": "ankeleiqi",
       "rarity": "PR",
       "skins": [
         {
@@ -18996,7 +19001,7 @@
       "faction": "Eagle",
       "rarity": "E",
       "type": "CA",
-      "fileName": "",
+      "fileName": "ankeleiqi_younv",
       "skins": [
         {
           "id": "AnchorageS",
@@ -19010,7 +19015,7 @@
       "rarity": "DR",
       "type": "CV",
       "faction": "sakura",
-      "fileName": "",
+      "fileName": "bailong",
       "skins": [
         {
           "id": "Hakuryuu",
@@ -19044,25 +19049,30 @@
       "type": "CB",
       "faction": "IronBlood",
       "rarity": "DR",
-      "fileName": "",
+      "oversize": "true",
+      "fileName": "aijier",
       "skins": [
         {
           "id": "Agir",
+          "oversize": "true",
           "label": "Default",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/agir/agir.json"
         },
         {
           "id": "Agir1",
+          "oversize": "true",
           "label": "Iron Blood's Dragon Maid",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/agir1/agir1.json"
         },
         {
           "id": "Agir2",
+          "oversize": "true",
           "label": "Golden Dragon Among Auspicious Clouds",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/agir2/agir2.json"
         },
         {
           "id": "Agir3",
+          "oversize": "true",
           "label": "One-on-One Leisure Time",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/agir3/agir3.json"
         }
@@ -19074,7 +19084,7 @@
       "faction": "IronBlood",
       "rarity": "E",
       "group": "littles",
-      "fileName": "",
+      "fileName": "aijier_younv",
       "skins": [
         {
           "id": "AgirS",
@@ -19086,28 +19096,33 @@
     {
       "name": "August von Parseval",
       "faction": "IronBlood",
-      "fileName": "",
+      "fileName": "aogusite",
+      "oversize": "true",
       "rarity": "PR",
       "type":"CV",
       "skins": [
         {
           "id": "Parseval",
           "label": "Default",
+          "oversize": "true",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/parseval/parseval.json"
         },
         {
           "id": "Parseval1",
           "label": "The Conquered Unhulde",
+          "oversize": "true",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/parseval1/parseval1.json"
         },
         {
           "id": "Parseval2",
           "label": "The Unhulde's Midday Respite",
+          "oversize": "true",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/parseval2/parseval2.json"
         },
         {
           "id": "Parseval3",
           "label": "Night Rendezvous with the Unhulde",
+          "oversize": "true",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/parseval3/parseval3.json"
         }
       ]
@@ -19115,7 +19130,7 @@
     {
       "name": "Marco Polo",
       "faction": "Sardegna",
-      "fileName": "",
+      "fileName": "makeboluo",
       "rarity": "PR",
       "type": "BB",
       "skins": [
@@ -19132,14 +19147,33 @@
       ]
     },
     {
+      "name": "Marco Polo Enthroned",
+      "faction": "X",
+      "fileName": "",
+      "skins": [
+        {
+          "id": "poloGazer",
+          "label": "Gazer",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/poloGazer/poloGazer.json"
+        },
+        {
+          "id": "poloEye",
+          "label": "Winged Throne",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/poloEye/poloEye.json"
+        }
+      ]
+    },
+    {
       "name": "Plymouth",
       "faction": "royalNavy",
-      "fileName": "",
+      "fileName": "pulimaosi",
       "rarity": "DR",
+      "oversize": "true",
       "type": "CL",
       "skins": [
         {
           "id": "Plymouth",
+          "oversize": "true",
           "label": "Default",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/plymouth/plymouth.json"
         },
@@ -19153,7 +19187,7 @@
     {
       "name": "Prinz Rupprecht",
       "faction": "IronBlood",
-      "fileName": "",
+      "fileName": "lupuleixite",
       "rarity": "PR",
       "type": "CA",
       "skins": [
@@ -19177,7 +19211,7 @@
     {
       "name": "Harbin",
       "faction": "china",
-      "fileName": "",
+      "fileName": "haerbin",
       "type": "CL",
       "rarity": "PR",
       "skins": [
@@ -19207,7 +19241,7 @@
       "name": "Chkalov",
       "faction": "northParliament",
       "rarity": "PR",
-      "fileName": "",
+      "fileName": "qikaluofu",
       "type": "CV",
       "skins": [
         {
@@ -19227,20 +19261,24 @@
       "faction": "IrisLibre",
       "type": "CB",
       "rarity": "DR",
-      "fileName": "",
+      "oversize": "true",
+      "fileName": "buleisite",
       "skins": [
         {
           "id": "Brest",
           "label": "Default",
+          "oversize": "true",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/brest/brest.json"
         },
         {
           "id": "Brest",
+          "oversize": "true",
           "label": "Marine Muse",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/brest1/brest1.json"
         },
         {
           "id": "Brest2",
+          "oversize": "true",
           "label": "Moonlit Night's Spring Vista",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/brest2/brest2.json"
         }
@@ -19249,7 +19287,7 @@
     {
       "name": "Kearsarge",
       "faction": "Eagle",
-      "fileName": "",
+      "fileName": "qiershazhe",
       "rarity": "DR",
       "type": "BBV",
       "skins": [
@@ -19260,12 +19298,14 @@
         },
         {
           "id": "Kearsarge1",
+          "oversize": "true",
           "label": "All-Night Charge",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kearsarge1/kearsarge1.json"
         },
         {
           "id": "Kearsarge2",
           "label": "Springtime Monitering",
+          "oversize": "true",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/kearsarge2/kearsarge2.json"
         }
       ]
@@ -19275,6 +19315,7 @@
       "faction": "sakura",
       "type": "CL",
       "rarity": "PR",
+      "fileName": "siwanshi",
       "skins": [
         {
           "id": "Shimanto",
@@ -19296,7 +19337,7 @@
     {
       "name": "Felix Schultz",
       "faction": "IronBlood",
-      "fileName": "",
+      "fileName": "feilikesishuerci",
       "rarity": "PR",
       "type": "DD",
       "skins": [
@@ -19317,7 +19358,7 @@
       "faction": "IronBlood",
       "rarity": "DR",
       "type": "CA",
-      "fileName": "",
+      "fileName": "xingdengbao",
       "skins": [
         {
           "id": "Hindenburg",
@@ -19336,7 +19377,7 @@
       "faction": "Vichya",
       "type": "BB",
       "class": "Alsace",
-      "fileName": "",
+      "fileName": "fulandeer",
       "rarity": "PR",
       "skins": [
         {
@@ -19356,7 +19397,7 @@
       "class": "Fletcher",
       "faction": "Eagle",
       "rarity": "PR",
-      "fileName": "",
+      "fileName": "haerfude",
       "type": "DD",
       "skins": [
         {
@@ -19375,7 +19416,7 @@
       "name": "Daisen",
       "faction": "sakura",
       "rarity": "PR",
-      "fileName": "",
+      "fileName": "dashan",
       "type": "BB",
       "skins": [
         {
@@ -19393,7 +19434,7 @@
     {
       "name": "Napoli",
       "faction": "Sardegna",
-      "fileName": "",
+      "fileName": "nabulesi",
       "rarity": "DR",
       "skins": [
         {
@@ -19408,7 +19449,7 @@
       "type": "CV",
       "rarity": "DR",
       "faction": "northParliament",
-      "fileName": "",
+      "fileName": "naximofu",
       "skins": [
         {
           "id": "Nakhimov",
@@ -19436,7 +19477,7 @@
       "name": "Bayard",
       "type": "CL",
       "faction": "IrisLibre",
-      "fileName": "",
+      "fileName": "beiyade",
       "rarity": "PR",
       "skins": [
         {
@@ -19468,7 +19509,7 @@
     {
       "name": "Mecklenburg",
       "faction": "IronBlood",
-      "fileName": "",
+      "fileName": "meikelunbao",
       "type": "BB",
       "rarity": "DR",
       "skins": [
@@ -19476,6 +19517,11 @@
           "id": "Mecklenburg",
           "label": "Default",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/mecklenburg/mecklenberg.json"
+        },
+        {
+          "id": "MechWing",
+          "label": "Wing",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/meckwing/mechwing.json"
         }
       ]
     },
@@ -19484,7 +19530,7 @@
       "type": "DD",
       "rarity": "PR",
       "faction": "Sardegna",
-      "fileName": "",
+      "fileName": "kunibeierdi",
       "skins": [
         {
           "id": "Cuniberti",
@@ -19502,7 +19548,7 @@
       "name": "Dmitry Donskoi",
       "faction": "northParliament",
       "rarity": "PR",
-      "fileName": "",
+      "fileName": "dimiteli",
       "type": "CL",
       "skins": [
         {
@@ -19518,10 +19564,10 @@
       ]
     },
     {
-      "name": "Golden Leeuw",
+      "name": "Gouden Leeuw",
       "faction": "tulipa",
       "rarity": "DR",
-      "fileName": "",
+      "fileName": "jinshi",
       "type": "CA",
       "skins": [
         {
