@@ -19152,15 +19152,15 @@
       "fileName": "",
       "skins": [
         {
-          "id": "poloGazer",
-          "label": "Gazer",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/poloGazer/poloGazer.json"
-        },
-        {
           "id": "poloEye",
           "label": "Winged Throne",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/poloEye/poloEye.json"
-        }
+        },
+        {
+          "id": "poloGazer",
+          "label": "Gazer",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/poloGazer/poloGazer.json"
+        }      
       ]
     },
     {
@@ -19524,9 +19524,9 @@
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/mecklenburg/mecklenburg.json"
         },
         {
-          "id": "MechWing",
+          "id": "MeckWing",
           "label": "Wing",
-          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/meckwing/mechwing.json"
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/meckwing/meckwing.json"
         }
       ]
     },
@@ -19579,6 +19579,17 @@
           "id": "Leeuw",
           "label": "Default",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/leeuw/leeuw.json"
+        }
+      ]
+    },
+    {
+      "name": "Commander",
+      "group": "hide",
+      "skins": [
+        {
+          "id": "Commander",
+          "label": "Commander",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/commander/commander.json"
         }
       ]
     }   
