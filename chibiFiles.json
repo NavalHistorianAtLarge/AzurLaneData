@@ -19592,6 +19592,28 @@
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/commander/commander.json"
         }
       ]
+    },
+    {
+      "name": "Aoste",
+      "group": "hide",
+      "skins": [
+        {
+          "id": "Aoste",
+          "label": "Default",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/aoste/aoste.json"
+        }
+      ]
+    },
+    {
+      "name": "Anzeel",
+      "group": "hide",
+      "skins": [
+        {
+          "id": "Anzeel",
+          "label": "Anzeel",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/anzeel/anzeel.json"
+        }
+      ]
     }   
   ]   
 }
