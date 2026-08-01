@@ -1275,6 +1275,18 @@
       ]
     },
     {
+      "name": "Zero",
+      "group": "hide",
+      "faction": "siren",
+      "skins": [
+        {
+          "id": "Zero",
+          "label": "Zero",
+          "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/zero/zero.json"
+        }
+      ]
+    },
+    {
       "name": "Omaha",
       "faction": "Eagle",
       "class": "Omaha",
