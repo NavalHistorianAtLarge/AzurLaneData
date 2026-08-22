@@ -19626,6 +19626,15 @@
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/anzeel/anzeel.json"
         }
       ]
+    },
+    {
+      "name": "Unknown",
+      "group": "hide",
+      "skins": {
+        "id": "Unknown",
+        "label": "Default",
+        "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/unknown/unknown.json"
+      }
     }   
   ]   
 }
