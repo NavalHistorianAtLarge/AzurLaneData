@@ -1263,7 +1263,7 @@
       ]
     },
     {
-      "name": "Observer Alpha",
+      "name": "Observer α",
       "faction": "siren",
       "group": "hide",
       "skins": [
@@ -2700,7 +2700,7 @@
       "group": "WorldAlphaSurvivors",
       "skins": [
         {
-          "id": "EnterpriseMETA",
+          "id": "EnterpriseM",
           "label": "Default",
           "path": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/assets/spine/enterpriseMETA/enterpriseMETA.json"
         }
