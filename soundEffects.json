@@ -1,0 +1,8 @@
+{
+    "soundEffects": [
+        {
+            "id": "battleBoom",
+            "url": "https://github.com/NavalHistorianAtLarge/AzurLaneData/raw/refs/heads/main/soundEffects/battle-boom2.ogg"
+        }
+    ]
+}
