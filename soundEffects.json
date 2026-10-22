@@ -1,8 +1,16 @@
 {
     "soundEffects": [
         {
-            "id": "battleBoom",
-            "url": "https://github.com/NavalHistorianAtLarge/AzurLaneData/raw/refs/heads/main/soundEffects/battle-boom2.ogg"
+            "id": "battleBoom1",
+            "url": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/soundEffects/battle-boom1.ogg"
+        },
+        {
+            "id": "battleBoom2",
+            "url": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/soundEffects/battle-boom2.ogg"
+        },
+        {
+            "id": "alarm",
+            "url": "https://raw.githubusercontent.com/NavalHistorianAtLarge/AzurLaneData/main/soundEffects/alarm.ogg"
         }
     ]
 }
